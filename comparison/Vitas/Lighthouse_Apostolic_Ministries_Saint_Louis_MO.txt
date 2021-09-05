@@ -1,0 +1,44 @@
+round 1:
+Alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Help
+Need help, say, Service Times, Location, Phone Number, the word Repeat at anytime to hear the last thing I said or Goodbye.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+Yes
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+YES
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Location
+The Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. is located at 1 2 1 0 0  Larimore Road, Saint Louis, MO. Would you like more information. Say YES for more options or no thanks.
+No
+Come back anytime by saying Alexa, open Lighthouse Apostolic Ministries of God Church. Thanks for stopping by, We hope to see you soon and have a blessed day.
+have
+
+What's the time
+<--skill exit-->The time is 1129 PM.
+
+round 2:
+Alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Yes
+You can say, Service Times, Location, phone number Help for more options or stop.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+No
+Come back anytime by saying Alexa, open Lighthouse Apostolic Ministries of God Church. Thanks for stopping by, We hope to see you soon and have a blessed day.
+Help to hear more options
+<--skill exit-->Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Hearing by Audio optics. You can say, try it. Or hear 
+
+round 3:
+Alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Yes
+You can say, Service Times, Location, phone number Help for more options or stop.
+phone number Help for more options
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information? Say YES for more options or no thanks.
+no thanks
+Come back anytime by saying Alexa, open Lighthouse Apostolic Ministries of God Church. Thanks for stopping by, We hope to see you soon and have a blessed day.
+

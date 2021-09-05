@@ -1,0 +1,58 @@
+round 1:
+Alexa open stock info
+Welcome to the Stock Info. Please tell me stock price you would like to look up by saying the stock ticker symbol or name.
+Help
+You can say hello to me. How can I help.
+hello
+HelloFresh SE, Ticker Symbol HELFYnat 23.59 dollars unchanged. n Days low is 23.59 dollars  n Days high is 23.59 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Cancel
+Thank you for trying the Stock Info.
+What's the time
+<--skill exit-->It's 1055 AM.
+
+round 2:
+Alexa open stock info
+Welcome to the Stock Info. Please tell me stock price you would like to look up by saying the stock ticker symbol or name.
+Microsoft
+Microsoft Corporation, Ticker Symbol MSFTnat 277.65 dollars is up by 5.5 dollars.  n Days low is 272.5 dollars  n Days high is 278 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+is
+ironSource Ltd  Class A, Ticker Symbol ISnat 10.79 dollars is up by 0.28 dollars.  n Days low is 10.53 dollars  n Days high is 10.81 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Stop
+Thank you for trying the Stock Info.
+What's the time
+<--skill exit-->It's 1057 AM.
+
+round 3:
+Alexa open stock info
+Welcome to the Stock Info. Please tell me stock price you would like to look up by saying the stock ticker symbol or name.
+Facebook
+Facebook Inc  Class A, Ticker Symbol FBnat 354.70 dollars is up by 3.82 dollars.  n Days low is 352.62 dollars  n Days high is 356.44 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Microsoft
+Microsoft Corporation, Ticker Symbol MSFTnat 277.65 dollars is up by 5.5 dollars.  n Days low is 272.5 dollars  n Days high is 278 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Facebook
+Facebook Inc  Class A, Ticker Symbol FBnat 354.70 dollars is up by 3.82 dollars.  n Days low is 352.62 dollars  n Days high is 356.44 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Wal-Mart
+Walmart Inc, Ticker Symbol WMTnat 140.11 dollars is up by 1.73 dollars.  n Days low is 139.35 dollars  n Days high is 141.08 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+high
+High 50 Dividend Strategy Portfolio USD Ser 20204Q MNT CASH, Ticker Symbol HIFAWXnat 11.38 dollars unchanged. n Days low is 11.38 dollars  n Days high is 11.38 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Days
+Ticker Lookup failed for ticker DAYS. Please say a valid stock ticker symbol or name . Or you can say Cancel or Stop to exit.
+Ford
+Forward Industries Inc, Ticker Symbol FORDnat 3.13 dollars is up by 0.33 dollars.  n Days low is 3.01 dollars  n Days high is 3.34 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+is
+ironSource Ltd  Class A, Ticker Symbol ISnat 10.79 dollars is up by 0.28 dollars.  n Days low is 10.53 dollars  n Days high is 10.81 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+is
+ironSource Ltd  Class A, Ticker Symbol ISnat 10.79 dollars is up by 0.28 dollars.  n Days low is 10.53 dollars  n Days high is 10.81 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Mitsubishi
+Could not retrieve the stock price for ticker symbol or name at this time for MITSUBISHI.Please say another stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Sony
+Sony Group Corporation, Ticker Symbol SONYnat 101.65 dollars is up by 1.14 dollars.  n Days low is 100.6 dollars  n Days high is 101.74 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Tencent
+Tencent Holdings Ltd, Ticker Symbol TCEHYnat 74.19 dollars is up by 0.8 dollars.  n Days low is 73.9 dollars  n Days high is 74.7 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+is
+ironSource Ltd  Class A, Ticker Symbol ISnat 10.79 dollars is up by 0.28 dollars.  n Days low is 10.53 dollars  n Days high is 10.81 dollars .What is you next Stock ticker symbol or name. Or you can say Cancel or Stop to exit.
+Stop
+Thank you for trying the Stock Info.
+What's the time
+<--skill exit-->It's 1105 AM.
+

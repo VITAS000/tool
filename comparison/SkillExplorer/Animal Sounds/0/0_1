@@ -1,0 +1,12 @@
+I:
+open animal sounds
+E:
+Welcome to Animal Sounds. A world full of your favorite animals. Just say the name of an animal or say  \" Random \"  to get some inspiration. What do you want me to do?.
+I:
+the name of an animal
+E:
+This is the sound of the dolphin: .&lt;Short audio&gt;. Ok, which other animal sound do you want to listen to?.
+I:
+cat
+E:
+<---same content as before--->the cat sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.

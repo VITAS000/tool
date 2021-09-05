@@ -1,0 +1,78 @@
+round 1:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+Help
+You can ask questions such as, what's the cooking temperature for steak or other meats, or, you can say stop...Now, what can I help you with.
+other meats
+I'm sorry, I currently do not know that temperature. What else can I help with.
+you can
+I'm sorry, I currently do not know that temperature. What else can I help with.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 410 PM.
+
+round 2:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+a question like
+I'm sorry, I currently do not know that temperature. What else can I help with.
+chicken
+The minimum internal temperature for whole chicken is at 165 degree fahrenheit.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 3:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+Pause
+I'm sorry, I currently do not know the temperature for pause. What else can I help with.
+What's the time
+I'm sorry, I currently do not know the temperature for time. What else can I help with.
+meats
+I'm sorry, I currently do not know the temperature for meats. What else can I help with.
+Reboot
+I'm sorry, I currently do not know the temperature for reboot. What else can I help with.
+What's the time
+I'm sorry, I currently do not know the temperature for time. What else can I help with.
+meats
+I'm sorry, I currently do not know the temperature for meats. What else can I help with.
+what 's the cooking temperature for steak
+The minimum internal temperature for steak is at 145 degree fahrenheit.  Three minutes rest time is needed.
+what 's the cooking temperature for steak
+<--skill exit-->Here's something I found on the web. According to modernmom.com  The United States Department of Agriculture suggests cooking steak to 145 to 160degrees Fahrenheit for foodsafety reasons.
+
+round 4:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+what 's the cooking temperature for steak
+The minimum internal temperature for steak is at 145 degree fahrenheit.  Three minutes rest time is needed.
+you can
+<--skill exit-->Sorry, I'm not sure.
+
+round 5:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+you can
+I'm sorry, I currently do not know that temperature. What else can I help with.
+meats
+I'm sorry, I currently do not know the temperature for meats. What else can I help with.
+chicken
+The minimum internal temperature for whole chicken is at 165 degree fahrenheit.
+chicken
+<--skill exit-->Ok, for chicken , here's a few recipes.and lots more.
+
+round 6:
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
+Pause
+I'm sorry, I currently do not know the temperature for pause. What else can I help with.
+you can
+I'm sorry, I currently do not know that temperature. What else can I help with.
+questions such as
+I'm sorry, I currently do not know that temperature. What else can I help with.
+what 's the cooking temperature for steak
+The minimum internal temperature for steak is at 145 degree fahrenheit.  Three minutes rest time is needed.
+Restart
+<--skill exit-->starting over.
+

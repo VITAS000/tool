@@ -1,0 +1,34 @@
+round 1:
+Alexa open treasure words
+<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game. Think of a nice threeletter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions.You can always say, help, if you need a reminder of how it works.It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>. Ready to play.
+Help
+The game starts with you coming up with a threeletter word, in which letters do not repeat. I'll be asking you test words, and you will be telling me how many gold and silver letters I guessed. Gold letters are those that match between the words, and are in the same positions, and silver letters are those that match, but the positions are different.For example, if your word is, CAR, and I am asking the word, CRY, then the answer is one gold, because both words start with the letter C. There is also one silver, because the letter R is in both words, but in different places.<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game. Think of a nice threeletter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions.You can always say, help, if you need a reminder of how it works.It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>.Ready to play.
+Score my words
+Sorry, I'm not sure what do you mean. Please rephrase.
+Score my words
+Sorry, I'm not sure what do you mean. Please rephrase.
+how many gold
+how many silver letters.
+1
+Sorry, I'm not sure what do you mean. Please rephrase.
+silver n letters I got
+Sorry, I'm not sure what do you mean. Please rephrase.
+silver
+
+What's the time
+<--skill exit-->Sorry, I'm not sure what do you mean. Please rephrase.
+
+round 2:
+Alexa open treasure words
+<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game. Think of a nice threeletter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions.You can always say, help, if you need a reminder of how it works.It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>.Ready.
+help
+The game starts with you coming up with a threeletter word, in which letters do not repeat. I'll be asking you test words, and you will be telling me how many gold and silver letters I guessed. Gold letters are those that match between the words, and are in the same positions, and silver letters are those that match, but the positions are different.For example, if your word is, CAR, and I am asking the word, CRY, then the answer is one gold, because both words start with the letter C. There is also one silver, because the letter R is in both words, but in different places.<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game. Think of a nice threeletter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions.You can always say, help, if you need a reminder of how it works.It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>.Ready to go.
+if you need a reminder of how it works. It 'll be much easier
+Sorry, I'm not sure what do you mean. Please rephrase.
+letters
+Sorry, I'm not sure what do you mean. Please rephrase.
+guess
+
+What's the time
+<--skill exit-->Sorry, I don't understand.
+

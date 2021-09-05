@@ -1,0 +1,70 @@
+round 1:
+alexa open travel dates
+Ok, Here's Travel Dates.Welcome to travel dates. Please tell me the date you are traveling.
+Help
+Welcome to travel dates. Please tell me the date you are traveling.
+Stop
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->It's 1034 PM.
+
+round 2:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+today
+For 20210703, your ADR is 20210104, fast passes are 20210504, and final payment is due 20210603.
+Stop
+
+What's the time
+<--skill exit-->It's 1036 PM.
+
+round 3:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+twenty-nineth of March
+For 20220329, your ADR is 20210930, fast passes are 20220128, and final payment is due 20220227.
+today
+
+What's the time
+<--skill exit-->It's 1038 PM.
+
+round 4:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+Cancel
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->It's 1039 PM.
+
+round 5:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+twenty-nineth of March
+For 20220329, your ADR is 20210930, fast passes are 20220128, and final payment is due 20220227.
+May the first
+<--skill exit-->May 1 is the 121st day of the year in the Gregorian calendar 244 days remain until the end of the year.
+
+round 6:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+Exit
+
+What's the time
+<--skill exit-->It's 1041 PM.
+
+round 7:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+twenty-nineth of March
+For 20220329, your ADR is 20210930, fast passes are 20220128, and final payment is due 20220227.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 8:
+alexa open travel dates
+Welcome to travel dates. Please tell me the date you are traveling.
+twenty-nineth of March
+For 20220329, your ADR is 20210930, fast passes are 20220128, and final payment is due 20220227.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+

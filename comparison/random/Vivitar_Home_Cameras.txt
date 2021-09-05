@@ -1,0 +1,70 @@
+round 1:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Cancel
+
+What's the time
+<--skill exit-->The time is 1024 PM.
+
+round 2:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 3:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 4:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Cancel
+
+What's the time
+<--skill exit-->The time is 1028 PM.
+
+round 6:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Restart
+<--skill exit-->Starting over.
+
+round 7:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 8:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Exit
+
+What's the time
+<--skill exit-->It's 1030 PM.
+
+round 9:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Stop
+
+What's the time
+<--skill exit-->It's 1031 PM.
+
+round 10:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Stop
+
+What's the time
+<--skill exit-->It's 1033 PM.
+

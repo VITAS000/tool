@@ -1,0 +1,94 @@
+round 1:
+alexa open birthstone finder
+Please tell me your birth month.
+Reboot
+I didn't get that. Please try again.
+What's the time
+I didn't get that. Please try again.
+September
+The birthstone for September is Sapphire.
+September
+<--skill exit-->.
+
+round 2:
+alexa open birthstone finder
+Please tell me your birth month.
+October
+The birthstone for October is Opal, Tourmaline.
+September
+<--skill exit-->.
+
+round 3:
+alexa open birthstone finder
+Please tell me your birth month.
+November
+The birthstone for November is Topaz, Citrine.
+September
+<--skill exit-->.
+
+round 4:
+alexa open birthstone finder
+Please tell me your birth month.
+Restart
+I didn't get that. Please try again.
+October
+The birthstone for October is Opal, Tourmaline.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 5:
+alexa open birthstone finder
+Please tell me your birth month.
+Resume
+I didn't get that. Please try again.
+June
+The birthstone for June is Pearl, Moonstone, Alexandrite.
+tell me the stone
+<--skill exit-->A rock is any naturally occurring solid mass or aggregate of minerals or mineraloid matter.
+
+round 6:
+alexa open birthstone finder
+Please tell me your birth month.
+June
+The birthstone for June is Pearl, Moonstone, Alexandrite.
+May
+<--skill exit-->.
+
+round 7:
+alexa open birthstone finder
+Please tell me your birth month.
+What's the time
+I didn't get that. Please try again.
+August
+The birthstone for august is Peridot, Spinel.
+September
+<--skill exit-->.
+
+round 8:
+alexa open birthstone finder
+Please tell me your birth month.
+November
+The birthstone for November is Topaz, Citrine.
+May
+<--skill exit-->.
+
+round 9:
+alexa open birthstone finder
+Please tell me your birth month.
+What's the time
+I didn't get that. Please try again.
+tell me the stone
+I didn't get that. Please try again.
+Stop
+Thank you for trying Birthstone finder.
+What's the time
+<--skill exit-->It's 523 PM.
+
+round 10:
+alexa open birthstone finder
+Please tell me your birth month.
+Cancel
+Thank you for trying Birthstone finder.
+What's the time
+<--skill exit-->The time is 524 PM.
+

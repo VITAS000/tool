@@ -1,0 +1,12 @@
+I:
+open doctor speech
+E:
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready?.
+I:
+help
+E:
+In order to use Doctor Speech, first select a category and then I will ask you to pronounce a word. If you say it wrong, I will correct you. If you say it right, you can choose to end or continue..
+I:
+continue
+E:
+<---same content as before--->Please choose a category first. Do you want to practice on nouns, verbs or adjectives?.

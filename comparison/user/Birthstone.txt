@@ -1,0 +1,52 @@
+alexa open birthstone finder
+Ok, Here's Birthstone.Please tell me your birth month.
+march
+The birthstone for march is Aquamarine, 
+alexa open birthstone finder
+Please tell me your birth month.
+january
+The birthstone for January is Garnet
+alexa open birthstone finder
+Please tell me your birth month.
+february
+The birthstone for February is Amethyst
+alexa open birthstone finder
+Please tell me your birth month.
+april
+The birthstone for April is Diamond
+alexa open birthstone finder
+Please tell me your birth month.
+may
+The birthstone for may is Emerald
+alexa open birthstone finder
+Please tell me your birth month.
+june
+The birthstone for June is Pearl, Moonstone, Alexandrite
+alexa open birthstone finder
+Please tell me your birth month.
+july
+The birthstone for July is Ruby
+alexa open birthstone finder
+Please tell me your birth month.
+august
+The birthstone for august is Peridot, Spinel
+alexa open birthstone finder
+Please tell me your birth month.
+september
+The birthstone for September is Sapphire
+alexa open birthstone finder
+Please tell me your birth month.
+october
+The birthstone for October is Opal, Tourmaline
+alexa open birthstone finder
+Please tell me your birth month.
+november
+The birthstone for November is Topaz, Citrine
+alexa open birthstone finder
+Please tell me your birth month.
+december
+The birthstone for December is Turquoise, Zircon, Tanzanite
+alexa open birthstone finder
+Please tell me your birth month.
+Stop
+Thank you for trying Birthstone finder.

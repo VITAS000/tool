@@ -1,0 +1,8 @@
+I:
+ask actor wiki what do you know about penelope cruz
+E:
+Sorry, I couldn't find anything about Penelope Cruz. Is this an actor or actress? .
+I:
+actress
+E:
+<---same content as before--->It looks like you haven't asked me about anyone. .

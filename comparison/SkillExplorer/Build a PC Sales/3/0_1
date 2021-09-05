@@ -1,0 +1,12 @@
+I:
+open computer sales
+E:
+Welcome to the build a pc sales skill! Say  \" today's deals \"  to get started!.
+I:
+help
+E:
+Say  \" today's deals \"  to get started. You can choose a part type like  \" ssd \" ,  \" hdd \" ,  \" cpu \" , or pick one from the list in the skill's description.
+I:
+ssd
+E:
+<---same content as before--->Say  \" today's deals \"  to get started. You can choose a part type like  \" ssd \" ,  \" hdd \" ,  \" cpu \" , or pick one from the list in the skill's description.

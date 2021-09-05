@@ -1,0 +1,22 @@
+I:
+open ten pin bowling
+E:
+ Welcome to ten pin bowling. .&lt;Short audio&gt;.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy? .
+I:
+player one is james
+E:
+ Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players. .
+I:
+' begin game'
+E:
+ Okay, who is ready for a little pin action? .&lt;Short audio&gt;.Say Bowl to roll your first ball.  .
+I:
+bowl
+E:
+ James starting off the first frame. Here goes the roll. .&lt;Short audio&gt;.Right down the middle. .&lt;Short audio&gt;.&lt;Short audio&gt;.That knocks down 9 pins. Still standing is the 5 pin. .&lt;Short audio&gt;.Say bowl to roll the next ball.  .
+I:
+bowl
+E:
+ James trying to pick up the spare in frame 1. .&lt;Short audio&gt;.&lt;Short audio&gt;.James picks up the spare! .&lt;Short audio&gt;.&lt;Short audio&gt;.Say bowl to roll the next frame.  .
+I:
+<---no answer--->

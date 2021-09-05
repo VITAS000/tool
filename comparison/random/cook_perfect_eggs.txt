@@ -1,0 +1,50 @@
+round 1:
+alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+Help
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+scrambled
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+Resume
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+Reboot
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+Reboot
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+hard
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+Cancel
+Thanks for using How to cook perfect eggs. Next time you want to cook some perfect eggs just say, Alexa, open  cook perfect eggs . See you next time.
+What's the time
+<--skill exit-->It's 1125 AM.
+
+round 2:
+alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+boiled
+Fantastic.  Let's get started.   First things first. Place eggs straight from the fridge into an empty pot.  Then fill the pot with cold water so that the eggs are covered by one inch or two and a half centimeters of water.   Next, place the pot over a high heat to boil.  Once the pot is at a rolling boil with streams of bubbles coming from the bottom  remove from the heat and cover with a lid.  When you have removed the pot from the heat please tell me how you like your boiled eggs  and I can tell you how long to set your timer.   Do you like soft boiled with a runny yolk , medium boiled with a half set and half runny yolk , or hard boiled with a fully set yolk.
+poached
+sorry I didn't quite catch how you would like your boiled eggs.   Please say soft boiled eggs  or medium boiled eggs  or hard boiled eggs.
+hard
+fully cooked through and through.  Not a problem.  To achieve hard boiled eggs set a timer for eight minutes.  After eight minutes your eggs will be ready and hard boiled.  To make the peeling process easier  please transfer the eggs into some cold water. Gently peel the eggs  and serve up as you like. I recommend slicing the hard boiled eggs  and serving them on some buttered toast with avocado and a sprinkling of salt and pepper.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 3:
+alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+Pause
+Fantastic.  Let's get started.   First things first. Place eggs straight from the fridge into an empty pot.  Then fill the pot with cold water so that the eggs are covered by one inch or two and a half centimeters of water.   Next, place the pot over a high heat to boil.  Once the pot is at a rolling boil with streams of bubbles coming from the bottom  remove from the heat and cover with a lid.  When you have removed the pot from the heat please tell me how you like your boiled eggs  and I can tell you how long to set your timer.   Do you like soft boiled with a runny yolk , medium boiled with a half set and half runny yolk , or hard boiled with a fully set yolk.
+Stop
+Thanks for using How to cook perfect eggs. Next time you want to cook some perfect eggs just say, Alexa, open  cook perfect eggs . See you next time.
+What's the time
+<--skill exit-->It's 1130 AM.
+
+round 4:
+alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+Stop
+Thanks for using How to cook perfect eggs. Next time you want to cook some perfect eggs just say, Alexa, open  cook perfect eggs . See you next time.
+What's the time
+<--skill exit-->The time is 1130 AM.
+

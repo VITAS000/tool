@@ -1,0 +1,16 @@
+I:
+open stock info
+E:
+Welcome to the Stock Info. Please tell me stock price you would like to look up by saying the stock ticker symbol or name..
+I:
+the stock ticker symbol
+E:
+Ticker Lookup failed for ticker: THESTOCKTICKERSYMBOL. Please say a valid stock ticker symbol or name . Or you can say Cancel or Stop to exit..
+I:
+a valid stock ticker symbol
+E:
+Ticker Lookup failed for ticker: AVALIDSTOCKTICKERSYMBOL. Please say a valid stock ticker symbol or name . Or you can say Cancel or Stop to exit..
+I:
+stop
+E:
+<---same content as before--->Thank you for trying the Stock Info..

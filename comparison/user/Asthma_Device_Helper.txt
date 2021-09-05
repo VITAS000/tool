@@ -1,0 +1,8 @@
+alexa open asthma device helper
+Welcome to Asthma Device Helper. You can ask a question like, what are the instructions for using a pro-air inhaler? ... Now, what can I help you with?
+what are the instructions for using a pro air inhaler
+I'm sorry, I currently do not know the instructions for pro air inhaler. What else can I help with.
+help
+You can ask questions such as, what's the instructions, or, you can say exit...Now, what can I help you with.
+what's the instructions
+I'm sorry, I currently do not know those instructions. What else can I help with.

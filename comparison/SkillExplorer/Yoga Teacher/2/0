@@ -1,0 +1,10 @@
+I:
+open yoga teacher
+E:
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts..
+I:
+my level is beginner
+E:
+you selected beginner level you can start by saying , Okay?.
+I:
+<---no answer--->

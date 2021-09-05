@@ -1,0 +1,20 @@
+I:
+open toe tac tic
+E:
+Welcome to the game of toe tac tic, where 3 in a row means you lose!  Remember, this is not tic tac toe. There are no X's and O's, just 1 kind of mark. Grab a friend, your Alexa app, and let's see who will be victorious! Player 1, are you ready?.
+I:
+reset game
+E:
+The game has reset. Player 1 are you ready to play?.
+I:
+yes
+E:
+Alright, Player 1 where would  you like to place your mark?.
+I:
+three five seven bottom lane in buffalo
+E:
+Player 1 you can say things like top left,bottom middleor center right. Saying center will put the mark right inthe middle..
+I:
+bottom middleor center right
+E:
+<---same content as before--->I could not add a mark where you specified. Try somewhere else..

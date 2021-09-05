@@ -1,0 +1,72 @@
+round 1:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Help
+Say, for example, 'What was the Coventry City score.'.
+Restart
+I'm sorry, I couldn't find that team.
+Stop
+
+What's the time
+<--skill exit-->The time is 928 PM.
+
+round 2:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Pause
+I'm sorry, I couldn't find that team.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 3:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 4:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Stop
+
+What's the time
+<--skill exit-->I'm sorry, I couldn't find that team.
+
+round 5:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Exit
+
+What's the time
+<--skill exit-->The time is 933 PM.
+
+round 6:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What's the time
+I'm sorry, I couldn't find that team.
+Exit
+
+What's the time
+<--skill exit-->The time is 935 PM.
+
+round 7:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Pause
+I'm sorry, I couldn't find that team.
+Restart
+<--skill exit-->starting over.
+
+round 8:
+alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Pause
+I'm sorry, I couldn't find that team.
+Exit
+
+What's the time
+<--skill exit-->It's 937 PM.
+

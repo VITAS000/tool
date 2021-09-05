@@ -1,0 +1,54 @@
+round 1:
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Help
+With this skill , you can smile every day Say,  Alexa Play funny Noises  it will make you smile through funny tunes. Do you want to smile. Say Yes or no.
+Pause
+With this skill , you can smile every day Say,  Alexa Play funny Noises  it will make you smile through funny tunes. Do you want to smile. Say Yes or no.
+Alexa Play funny Noises it will make you smile through funny tunes
+<Short audio>.Do you want to smile more.  Say yes or no.
+No
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 2:
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Stop
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+What's the time
+<--skill exit-->It's 723 PM.
+
+round 3:
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Reboot
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+no
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+What's the time
+<--skill exit-->It's 725 PM.
+
+round 4:
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Alexa Play funny Noises it will make you smile through funny tunes
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Exit
+
+What's the time
+<--skill exit-->It's 728 PM.
+
+round 5:
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Reboot
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Alexa Play funny Noises it will make you smile through funny tunes
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Stop
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+What's the time
+<--skill exit-->It's 730 PM.
+

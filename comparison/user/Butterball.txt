@@ -1,0 +1,34 @@
+alexa open butterball
+<Short audio>
+help
+Sounds like you want help. There are a few ways to get great Butterball turkey info. You can ask a question at any time, or you can say a topic that you'd like to learn about. Here are some topics to choose from: food safety, stuffing a turkey, or preparing a turkey. What would you like to do?
+food safety
+<Short audio>.Now that you've heard some turkey tips, I can direct you to even more info. Would you like to hear a memorable story from one of the Butterball Talk line experts?
+yes
+I can find a great story for you from a Talk line expert. Here's Carol.<Short audio>.Alright, I hope you're becoming a turkey expert yourself. Next, I can offer you a great turkey recipe. Would you like me to send you one?
+yes
+Alright, I found a great Butterball recipe for you: . This is one of the many great recipes available on Butterball.com. Now that you've heard some turkey tips, I can direct you to even more info. Would you like to hear a memorable story from one of the Butterball Talk line experts?
+yes
+Story time! Let's hear about a memorable holiday moment from Carol.<Short audio>.I hope you're having fun talking turkey. Next up, Would you like to learn more about CHRISTOPHER in a brief bio?
+yes
+<Short audio>.Alright, I hope you're becoming a turkey expert yourself. Next, Here are more topics to choose from: ingredients, checking for doneness, or preparing a turkey. What would you like to learn about?
+ingredients
+<Short audio>.Well, this is interesting turkey talk! I can guide you to more interesting topics. For example, Here are more topics to choose from: marinating a turkey, using a meat thermometer, or oven temperature. What would you like to learn about?
+marinating a turkey
+<Short audio>
+yes
+<Short audio>.I hope you're having fun talking turkey. Next up, I can offer you a great turkey recipe. Would you like me to send you one?
+yes
+Alright, I found a great Butterball recipe for you: . This is one of the many great recipes available on Butterball.com. Now that you've heard some turkey tips, I can direct you to even more info. Here are more topics to choose from: recipes, planning, or basting a turkey. What would you like to learn about?
+recipes
+Alright, I found a great Butterball recipe for you: . This is one of the many great recipes available on Butterball.com. Well, this is interesting turkey talk! I can guide you to more interesting topics. For example, Here are more topics to choose from: oven roasting a turkey, recipes, or food safety. What would you like to learn about?
+oven roasting a turkey
+<Short audio>
+yes
+<Short audio>.You just learned about roasting. Would you like to learn about checking if a turkey is done next?
+yes
+<Short audio>.You just learned about checking if a turkey is done. Would you like to learn about carving next?
+yes
+<Short audio>.Now that you've heard some turkey tips, I can direct you to even more info. Here are more topics to choose from: recipes, smoking a turkey, or enjoying a turkey. What would you like to learn about?
+stop
+<Short audio>

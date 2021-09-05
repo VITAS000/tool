@@ -1,0 +1,14 @@
+alexa open i am affirmations
+Here's the skill I am Affirmations, by The raw blossom.Welcome to i am affirmations skill How was your day so far? Are you ready for your affirmations? Choose a number between one and three to start listening. And do not forget to repeat after me !
+one
+I am strong and balanced I am much stronger and powerful than any challenge. I am surprising myself everyday with how calm I am. I am brimming with energy. I am always protected by my higher self. I am unstoppable I am now Breathing deeply to elevate my mood and energize my body. I am open and allowing for positive things to unfold. I am at peace I am Complete. This is the end of the first sequence. Say repeat to go over it again; Say back to choose another sequence or "stop" to exit.
+back
+Choose a number between one and three to start listening. And do not forget to repeat after me !
+two
+I am deserving I am opening my heart to Universal Love. I am who I choose to be. I am a part of something much bigger than myself. I am charismatic. I am unique and I am proud of that. I am flexible to changes happening in my life. I am patient and tolerant. I am willing to forgive so that I free myself from the chains of the past. I am pure life-force in human body. I am life . This is the end of the second sequence. Say "repeat" to go over it again Say "back" to choose another sequence or "stop" to exit.
+back
+Choose a number between one and three to start listening. And do not forget to repeat after me !
+three
+I am enough and I have enough. I AM curious about all the solutions that I haven't thought of yet. I am courageous and I stand up for myself. I am motivated and inspired to make the choices that I now are for my highest good. I am unstoppable I am willing to create new habits that supports my personal growth. I am blessed with many things to be grateful for. I am allowing strength and courage into my life. I am willing to accept the things I cannot change. I am ever expanding, yet whole. This is the end of the third sequence. Say "repeat" to go over it again. Say "back" to choose another sequence or "stop" to exit.
+repeat
+I am enough and I have enough. I AM curious about all the solutions that I haven't thought of yet. I am courageous and I stand up for myself. I am motivated and inspired to make the choices that I now are for my highest good. I am unstoppable I am willing to create new habits that supports my personal growth. I am blessed with many things to be grateful for. I am allowing strength and courage into my life. I am willing to accept the things I cannot change. I am ever expanding, yet whole. This is the end of the third sequence. Say "repeat" to go over it again. Say "back" to choose another sequence or "stop" to exit.

@@ -1,0 +1,40 @@
+round 1:
+Alexa open seventh inning stretch
+Welcome back to Seventh Inning Stretch.We found an prior game in progress. Would you like to resume.
+Help
+You are playing a baseball game. Your voice gives instruction to control both batting and pitching. Rules are the same as a standard baseball game. When batting, you will hear a series of beeps indicating the pitch being thrown for you to hit. Pay close attention to the sound of the beeps as they change depending on what is being thrown. For example, this is what a fastball that is right down the middle sounds like.<Short audio>.This is a good pitch to get a hit, so you should say swing. Now listen to another pitch. This is what a low curveball sounds like.<Short audio>.With the sounds that were just played, the pitch of the beeps changed. That indicated that the position of the pitch is dropping. The last note played is a low sound, so the pitch is below the strike zone and should not be swung at. Let's listen to it again.<Short audio>.When you hear a pitch that is outside of the strike zone, say take. If you have an Alexa button, you can use it in place of verbal commands. For example, pressing the button when batting indicates a swing. When pitching, you can use the button to select a pitch for you. If you are interested in playing a full nine inning game, please say, List product details, and I will share with you an upgrade for this skill that allows playing a full game. Say yes to start the game, or if you want me to repeat these instructions, just say Help.
+yes
+.<Short audio>.Resuming game already in progress. The Blackbears are at bat with the score 3 to 3. Here comes the pitch.<Short audio>..
+pitching
+Please say swing or take based on the sounds played that simulate the ball coming to the plate. If you need detailed instructions, please say help.
+swing
+Paulson swings and was fooled by a good Fastball and misses. Strike 2. Here comes the next pitch.<Short audio>.Press the button to swing, or say take.
+misses
+Please say swing or take based on the pitch.
+swing
+.<Short audio>.That was the second out of the inning. When you are ready for the next batter, please say Yes.
+Yes
+.<Short audio>.Here comes the pitch.<Short audio>.Press the button to swing, or say take.
+take
+Rodriguez takes.<Short audio>.That was strike 1. Here comes the next pitch.<Short audio>.Press the button to swing, or say take.
+pitching
+Please say swing or take based on the pitch.
+take based on the pitch
+
+What's the time
+<--skill exit-->
+
+round 2:
+Alexa open seventh inning stretch
+Welcome back to Seventh Inning Stretch.We found an prior game in progress. Would you like to resume.
+Yes
+.<Short audio>.Resuming game already in progress. The Blackbears are at bat with the score 3 to 3. Here comes the pitch.<Short audio>..
+swing
+Rodriguez swings and was fooled by a good Fastball and misses. Strike 2. Here comes the next pitch.<Short audio>.Press the button to swing, or say take.
+fooled
+Please say swing or take based on the pitch.
+Stop
+Thanks for playing. This game will be saved and can be resumed at a later time.
+What's the time
+<--skill exit-->It's 739 AM.
+

@@ -1,0 +1,12 @@
+I:
+open choose your adventure game
+E:
+Welcome to Choose Your Adventure Game!Say Begin, to BeginSay Stop to Stop the Programor say Help.
+I:
+help
+E:
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience? Say Yes to being. Or No to quit the program.
+I:
+quit
+E:
+<---network error--->

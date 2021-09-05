@@ -1,0 +1,8 @@
+I:
+ask actor wiki to tell me about will smith
+E:
+Sorry, I couldn't find anything about will smith. Is this an actor or actress? .
+I:
+an actor
+E:
+<---same content as before--->It looks like you haven't asked me about anyone. .

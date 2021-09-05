@@ -1,0 +1,8 @@
+open soccer scores
+Hello. Which team would you like to know the score for?
+help
+Say, for example, 'What was the Coventry City score?'
+what was the coventry city score
+On Saturday 8 May, Coventry City won at home to Millwall, 6-1.
+what was the millwall score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 6-1.

@@ -1,0 +1,76 @@
+round 1:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+Help
+In order to use Doctor Speech, first select a category and then I will ask you to pronounce a word. If you say it wrong, I will correct you. If you say it right, you can choose to end or continue.
+it right
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives.
+Yes
+Please tell me what category of words you want to practice on. You can choose nouns, verbs or adjectives.
+adjectives
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives.
+Yes
+Please tell me what category of words you want to practice on. You can choose nouns, verbs or adjectives.
+verbs
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives.
+No
+I hope you enjoy Doctor Speech. Goodbye.
+pronounce a word
+<--skill exit-->I pronounce that 'word', but I'm always working on how I say things and I might not have it right.
+
+round 2:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+Yes
+Please tell me what category of words you want to practice on. You can choose nouns, verbs or adjectives.
+it wrong
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives.
+No
+I hope you enjoy Doctor Speech. Goodbye.
+I will correct you
+Sorry I couldn't understand, but I may have a few recommendations. There's a skill called Feelings, would you like to try it.
+Yes
+Ok, here's Feelings.I'm glad you asked about my feelings I feel amazed, awake, aware and alive. I may not have the softest touch. I may not say the words as such. And though I may not look like much.I'm yours.
+the words as such
+<--skill exit-->.
+
+round 3:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+No
+I hope you enjoy Doctor Speech. Goodbye.
+it right
+
+What's the time
+<--skill exit-->The time is 1229 PM.
+
+round 4:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+I do not know
+Sorry, I'm having trouble accessing your Dr Speech skill right now.
+you can choose
+<--skill exit-->Sorry, I don't have an answer for that.
+
+round 5:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+I do not know
+Sorry, I'm having trouble accessing your Dr Speech skill right now.
+continue
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 6:
+Alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready.
+continue
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives.
+I do not know
+Sorry, I'm having trouble accessing your Dr Speech skill right now.
+I will correct you
+Sorry I couldn't understand, but I may have a few recommendations. There's a skill called Feelings, would you like to try it.
+Stop
+
+What's the time
+<--skill exit-->The time is 1232 PM.
+

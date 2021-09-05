@@ -1,0 +1,8 @@
+I:
+ask actor wiki to find out about ryan gosling
+E:
+Sorry, I couldn't find anything about Ryan gosling. Is this an actor or actress? .
+I:
+actress
+E:
+<---same content as before--->It looks like you haven't asked me about anyone. .

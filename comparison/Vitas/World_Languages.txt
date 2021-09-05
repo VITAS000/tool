@@ -1,0 +1,58 @@
+round 1:
+Alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+Help
+I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+start a quiz
+OK.  I will ask you 10 questions about countries and their Languages. Here is your 1th question.  What is the officialLanguage of Jamaica.
+countries
+Boo The Language of Jamaica is English. Your current score is 0 out of 1. Here is your 2th question.  What is the officialLanguage of Yemen.
+English
+Wah wah The Language of Yemen is Arabic. Your current score is 0 out of 2. Here is your 3th question.  What is the officialLanguage of Bhutan.
+English
+Ouch The Language of Bhutan is Dzongkha. Your current score is 0 out of 3. Here is your 4th question.  What is the officialLanguage of Portugal.
+English
+Eek The Language of Portugal is Portugese. Your current score is 0 out of 4. Here is your 5th question.  What is the officialLanguage of Cameroon.
+English
+Aw man The Language of Cameroon is English and French. Your current score is 0 out of 5. Here is your 6th question.  What is the officialLanguage of Burkina Faso.
+French
+Wowza. The Language of Burkina Faso is French. Your current score is 1 out of 6. Here is your 7th question.  What is the officialLanguage of Serbia.
+English
+Oof The Language of Serbia is Serbian. Your current score is 1 out of 7. Here is your 8th question.  What is the officialLanguage of Cyprus.
+English
+Le sigh The Language of Cyprus is Greek and Turkish. Your current score is 1 out of 8. Here is your 9th question.  What is the officialLanguage of Venezuela.
+Turkish
+Yikes The Language of Venezuela is Spanish. Your current score is 1 out of 9. Here is your 10th question.  What is the officialLanguage of Albania.
+English
+Blarg The Language of Albania is Albanian. Your final score is 1 out of 10.  Thank you for playing the World Language Game.  Let's play again soon.
+any country
+<--skill exit-->I couldn't find any country songs.
+
+round 2:
+Alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+any country
+I'm sorry. any country is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+you can
+I'm sorry. you can is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+a country
+I'm sorry. undefined is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+start a quiz
+OK.  I will ask you 10 questions about countries and their Languages. Here is your 1th question.  What is the officialLanguage of Turkmenistan.
+their Languages
+Honk The Language of Turkmenistan is Turkmen. Your current score is 0 out of 1. Here is your 2th question.  What is the officialLanguage of South Sudan.
+English
+Oh dear.  Just kidding.  Hurray. The Language of South Sudan is English. Your current score is 1 out of 2. Here is your 3th question.  What is the officialLanguage of Chad.
+English
+Yikes The Language of Chad is Arabic and French. Your current score is 1 out of 3. Here is your 4th question.  What is the officialLanguage of Chile.
+French
+Darn The Language of Chile is Spanish. Your current score is 1 out of 4. Here is your 5th question.  What is the officialLanguage of New Zealand.
+English
+Ouch The Language of New Zealand is English and Maori. Your current score is 1 out of 5. Here is your 6th question.  What is the officialLanguage of Andorra.
+Maori
+D'oh The Language of Andorra is Catalan. Your current score is 1 out of 6. Here is your 7th question.  What is the officialLanguage of Yemen.
+Stop
+Thank you for playing the World Language Game.  Let's play again soon.
+What's the time
+<--skill exit-->It's 656 AM.
+

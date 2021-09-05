@@ -1,0 +1,12 @@
+I:
+open guest reception
+E:
+It’s nice, that guests are here! Who can I welcome today?.
+I:
+please be kind to our guests
+E:
+Of course, I will be niceWho else can I greet?.
+I:
+no
+E:
+<---different content as before--->Nothing is easier than thisIf there is anybody else here, please tell me his or her name!.

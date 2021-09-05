@@ -1,0 +1,62 @@
+round 1:
+alexa open lighthouse apostolic ministries
+Ok, Here's Lighthouse Apostolic Ministries, Saint Louis, MO.Welcome to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. We are a Pentecostal Assemblies of the World church and welcome everyone and anyone to attend services with us. What can we help you with. You can say, Service Times, Location, Phone Number  Help for more options or stop.
+Help
+What information can I help you with. You can say, Service Times, Location, Phone number repeat and I'll repeat what I just said or Goodbye to Stop, if you're finished getting the information you need.
+Location
+The Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. is located at 1 2 1 0 0  Larimore Road, Saint Louis, MO. Would you like more information. Say YES for more options or no thanks.
+if you 're finished getting the information you need
+Please say, Yes to hear more options or no thanks.
+anyone
+Please say, Yes to hear more options or no thanks.
+Pause
+
+What's the time
+<--skill exit-->The time is 1142 PM.
+
+round 2:
+alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+if you 're finished getting the information you need
+Please say, Yes to hear more options or no thanks.
+Location
+The Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. is located at 1 2 1 0 0  Larimore Road, Saint Louis, MO. Would you like more information. Say YES for more options or no thanks.
+YES
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Pause
+
+What's the time
+<--skill exit-->It's 1144 PM.
+
+round 3:
+alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Location
+The Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. is located at 1 2 1 0 0  Larimore Road, Saint Louis, MO. Would you like more information. Say YES for more options or no thanks.
+Resume
+
+What's the time
+<--skill exit-->It's 1147 PM.
+
+round 4:
+alexa open lighthouse apostolic ministries
+Handing off to Lighthouse Apostolic Ministries, Saint Louis, MO by InfoByVoice.Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+I 'll repeat what I just
+Welcome back to Lighthouse Apostolic Ministries of God Church, Saint Louis, MO.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+What's the time
+You can say, Service Times, Location, phone number Help for more options or stop.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+Phone Number Help
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information. Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+Location
+The Lighthouse Apostolic Ministries of God Church, Saint Louis, MO. is located at 1 2 1 0 0  Larimore Road, Saint Louis, MO. Would you like more information. Say YES for more options or no thanks.
+Reboot
+Please say, Yes to hear more options or no thanks.
+Stop
+Come back anytime by saying Alexa, open Lighthouse Apostolic Ministries of God Church. Thanks for stopping by, We hope to see you soon and have a blessed day.
+What's the time
+<--skill exit-->The time is 1150 PM.
+

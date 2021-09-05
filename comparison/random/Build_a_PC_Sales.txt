@@ -1,0 +1,96 @@
+round 1:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Help
+Say today's deals to get started. You can choose a part type like ssd, hdd, cpu, or pick one from the list in the skill's description.
+What's the time
+Sorry, I can't understand the command. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+Reboot
+So you want to see reboot deals, correct.
+Restart
+
+What's the time
+<--skill exit-->The time is 1103 AM.
+
+round 2:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+cpu
+Sorry, I can't understand the command. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+Restart
+So you want to see restart deals, correct.
+Restart
+There are no restart deals at the moment... Try again another day.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 3:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Reboot
+Welcome to the build a pc sales skill. Say today's deals to get started.
+What's the time
+Sorry, I can't understand the command. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+Resume
+So you want to see resume deals, correct.
+Restart
+There are no resume deals at the moment... Try again another day.
+today 's deals
+<--skill exit-->Here are the top Amazon deals,.The first one is LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly.It's 27.96, after a discount of 29.03.
+
+round 4:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+hdd
+So you want to see hdd deals, correct.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 1108 AM.
+
+round 5:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+Reboot
+So you want to see reboot deals, correct.
+Resume
+There are no reboot deals at the moment... Try again another day.
+today 's deals
+<--skill exit-->Here are the top Amazon deals,.The first one is LuxClub 6 PC Sheet Set Bamboo Sheets Deep Pockets 18 Eco Friendly.It's 27.96, after a discount of 29.03.
+
+round 6:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 1110 AM.
+
+round 7:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->It's 1111 AM.
+
+round 8:
+alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 1111 AM.
+

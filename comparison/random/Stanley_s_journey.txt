@@ -1,0 +1,42 @@
+round 1:
+alexa open stanley's journey
+We're about to embark on a magical journey. To get started, ask me to tell you about stanley. Or, if you already know about stanley, ask me to tell you about how stanley learned to navigate. If you get lost, just ask for help.
+Help
+Stanley's journey is confusing sometimes. A couple of examples of phrases that I can accept are... Tell me about stanley or, who is stanley. Lets get started now by trying one of these.
+tell you about stanley
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+tell you about stanley
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+What's the time
+Yay. You got it. He just needs to follow the stream full of those beautiful trout all the way home to his parents. Good thing Stanley paid so much attention to the natural world around him. Looking forward to seeing you soon.
+What's the time
+<--skill exit-->It's 545 PM.
+
+round 2:
+alexa open stanley's journey
+We're about to embark on a magical journey. To get started, ask me to tell you about stanley. Or, if you already know about stanley, ask me to tell you about how stanley learned to navigate. If you get lost, just ask for help.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 546 PM.
+
+round 3:
+alexa open stanley's journey
+We're about to embark on a magical journey. To get started, ask me to tell you about stanley. Or, if you already know about stanley, ask me to tell you about how stanley learned to navigate. If you get lost, just ask for help.
+tell you about stanley
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+tell you about stanley
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+tell you about stanley
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+Pause
+So, you want to know about Stanley, right. Well, he's quite the character. He was born in the high sierra to a strong donkey daddy, and a beautiful mother. They loved him very much, but unforntunately he wasn't very good at keeping up with the other pack mules. One day, while the family was out hauling water up to the mountain, Stanley fell behind and got lost. His family tried to look for him, but the mule driver said they had to keep pushing. His family was distraught. Isn't that sad. Do you want to know what happened next. If so, ask me what happened next.
+tell you about how stanley learned to navigate
+After such a terrifying episode, Stanley's parents decided he needed to learn about navigating the trail they used to resupply the people uphill. First they taught him that whenever they went out with the mule driver, he would take them along the stream until they reached the big wooden bridge. Stanley knew he could remember that, because of all the beautiful trout swimming in the stream. After crossing the bridge, they told Stanley to follow the trail until he got to the fork in the road where a big old pine tree shaded the trail. When he saw this pine tree, he needed to remember to stay on the side with the burn marks from the big fire. This was important to remember, because if he followed the trail on the other side, without the burn marks, he would end up going away from the stables. Stanley knew he would need to remember all of this, since he was going out with the Mule driver the next day. Want to hear more, asking me to tell you about the next day.
+tell you about how stanley learned to navigate
+After such a terrifying episode, Stanley's parents decided he needed to learn about navigating the trail they used to resupply the people uphill. First they taught him that whenever they went out with the mule driver, he would take them along the stream until they reached the big wooden bridge. Stanley knew he could remember that, because of all the beautiful trout swimming in the stream. After crossing the bridge, they told Stanley to follow the trail until he got to the fork in the road where a big old pine tree shaded the trail. When he saw this pine tree, he needed to remember to stay on the side with the burn marks from the big fire. This was important to remember, because if he followed the trail on the other side, without the burn marks, he would end up going away from the stables. Stanley knew he would need to remember all of this, since he was going out with the Mule driver the next day. Want to hear more, asking me to tell you about the next day.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 553 PM.
+

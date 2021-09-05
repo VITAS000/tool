@@ -1,0 +1,76 @@
+round 1:
+Alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+Help
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+numbers
+You haven't used a proper day or number, you can say Help.
+Help
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+numbers
+You haven't used a proper day or number, you can say Help.
+number
+You haven't used a proper day or number, you can say Help.
+numbers
+You haven't used a proper day or number, you can say Help.
+Help
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+numbers
+You haven't used a proper day or number, you can say Help.
+number
+You haven't used a proper day or number, you can say Help.
+numbers
+You haven't used a proper day or number, you can say Help.
+Pause
+You haven't used a proper day or number, you can say Help.
+Resume
+You haven't used a proper day or number, you can say Help.
+Restart
+You haven't used a proper day or number, you can say Help.
+Reboot
+You haven't used a proper day or number, you can say Help.
+Stop
+Thank you. Bye Bye.
+What's the time
+<--skill exit-->The time is 1024 PM.
+
+round 2:
+Alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+numbers
+You haven't used a proper day or number, you can say Help.
+Exit
+
+What's the time
+<--skill exit-->The time is 1025 PM.
+
+round 3:
+Alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+numbers
+You haven't used a proper day or number, you can say Help.
+Cancel
+Thank you. Bye Bye.
+What's the time
+<--skill exit-->It's 1027 PM.
+
+round 4:
+Alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+numbers
+You haven't used a proper day or number, you can say Help.
+Stop
+Thank you. Bye Bye.
+What's the time
+<--skill exit-->The time is 1028 PM.
+
+round 5:
+Alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+Pause
+You haven't used a proper day or number, you can say Help.
+Exit
+
+What's the time
+<--skill exit-->It's 1029 PM.
+

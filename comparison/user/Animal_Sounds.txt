@@ -1,0 +1,76 @@
+alexa open animal sound
+hey there, what animal sound would you like to hear?
+dog
+Here comes a dog sound.<Short audio>.What animal would you like to hear now?
+random
+Get ready for a coyote sound.<Short audio>.Try saying another animal. or just say random.
+another animal
+Here comes an elephant sound.<Short audio>.What animal sound would you like to hear now?
+random
+Here comes a prairie dog sound.<Short audio>.How about another random animal sound?
+ok
+Get ready for a frog sound.<Short audio>.What animal would you like to hear now?
+random
+Get ready for a lizard sound.<Short audio>.How about another random animal sound?
+ok
+Get ready for a bird sound.<Short audio>.Shall I play another random animal sound?
+yes
+Here comes a walrus sound.<Short audio>.What animal sound would you like to hear now?
+random
+here's a lemur sound.<Short audio>.What animal would you like to hear now?
+random
+Get ready for a koala sound.<Short audio>.Would you like a random animal sound?
+yes
+Get ready for a flamingo sound.<Short audio>.Would you like another random animal sound?
+yes
+Get ready for a camel sound.<Short audio>.Try saying another animal or just say random?
+another animal
+here's a lemur sound.<Short audio>.Try saying another animal or just say random?
+random
+Get ready for a koala sound.<Short audio>.Do you want another random animal sound?
+yes
+Here comes a kookaburra sound.<Short audio>.Do you want another random animal sound?
+yes
+here's a lynx sound.<Short audio>.Do you want another random animal sound?
+yes
+here's a panther sound.<Short audio>.What animal would you like to hear now?
+random
+Get ready for a warthog sound.<Short audio>.What animal would you like to hear now?
+random
+Get ready for a hippo sound.<Short audio>.Try saying another animal or just say random?
+random
+Here comes a moose sound.<Short audio>.Try saying another animal. or just say random.
+random
+Here comes a cougar sound.<Short audio>.What animal sound would you like to hear now?
+random
+here's a buffalo sound.<Short audio>.What animal would you like to hear now?
+random
+here's a gorilla sound.<Short audio>.How about another random animal sound?
+ok
+Here comes a puffin sound.<Short audio>.Shall I play another random animal sound?
+yes
+Get ready for a lynx sound.<Short audio>.Try saying another animal. or just say random.
+random
+here's a fox sound.<Short audio>.Would you like another random animal sound?
+yes
+Here comes a magpie sound.<Short audio>.How about another random animal sound?
+ok
+Here comes a magpie sound.<Short audio>.How about another random animal sound?
+ok
+here's a snake sound.<Short audio>.How about another random animal sound?
+ok
+Get ready for a lion sound.<Short audio>.Try saying another animal. or just say random.
+random
+Here comes an alpaca sound.<Short audio>.Try saying another animal or just say random?
+random
+Get ready for a panda sound.<Short audio>.Try saying another animal or just say random?
+random
+here's a walrus sound.<Short audio>.Try saying another animal. or just say random.
+random
+here's a dog sound.<Short audio>.Shall I play another random animal sound?
+yes
+here's a panda sound.<Short audio>.Would you like a random animal sound?
+no
+ok. How about asking, What sound does a sheep make?
+stop
+okey dokey

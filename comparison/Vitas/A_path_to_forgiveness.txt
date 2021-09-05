@@ -1,0 +1,53 @@
+round 1:
+Alexa open forgiveness guide
+Hi there. I can teach you about the 9 steps of forgiveness, loosely based on research by the Stanford University Forgiveness Project. Just say continue to begin. If you've been here before, I'll try to pick up where we left off. If you want to start from a particular step, just say the word step, followed by the step number. You can say stop at any time to exit.
+Help
+Say next to proceed to the next step, or specify a step by saying step followed by a step number between 1 and 9. Follow the instructions and further prompts or say stop to exit at any time. And remember, baking is fun.
+next
+Ready to get over a grievance. Just say next to go the first step.
+next
+Step 1. First, be aware of your feelings. Know exactly how you feel about what happened be able to articulate what, in particular, was not OK about the situation in which you feel you were wronged. Tell a few trusted people about your experience. When you're ready for the next step, say next.
+next
+Step 2. Know that forgiveness is for your own sake. Make a commitment to yourself to do what you have to do to feel better. Forgiveness is for you, not for anyone else. When you're ready for the next step, say next.
+continue
+Step 3. Do not expect reconciliation. Forgiveness does not necessarily mean reconciliation with the person who hurt you, or condoning their actions. What you're looking for is a sense of peace and closure. When you're ready for the next step, say next.
+the word step
+Step 4. Recognize how the event is affecting you in the present. Recognize that your primary distress is coming from hurt feelings, thoughts and physical upset you are suffering now, not what offended or deeply hurt you two minutes or 10 years ago. Forgiveness helps to heal those hurt feelings. When you're ready for the next step, say next.
+followed by the step number
+I'm sorry, I did not understand what you were trying to say there. Please say the word step and choose a step number between 1 and 9, or say continue and I'll start from where I think we left off.
+the word step
+Step 5. Learn to activate the relaxation response. At the moment you feel upset, practice a simple stress management technique of deep breathing to soothe your body's flight or fight response. Focus on your breathing and try to bring your mind back to a peaceful state. When you're ready for the next step, say next.
+try
+Step 6. Concentrate on what you can control. Remember that you can only control your own thoughts and actions, not anyone else's. Give up expecting things from other people, or your life, that they do not choose to give you. When you're ready for the next step, say next.
+life
+Step 7. Move on. Instead of mentally replaying your hurt over and over, stop ruminating and seek out new friends and new situations that can lead to further positive influences. When you're ready for the next step, say next.
+over
+Step 8. Be the agent of change in your life. Remember that a life well lived is the best revenge. Instead of focusing on your wounded feelings, and thereby giving power to the person who hurt you, learn to look for the love, beauty and kindness around you.  When you're ready for the next step, say next.
+beauty
+Okay, last step, step 9. Change the story. Amend your grievance story with a new ending. Your heroic choice to forgive. Thanks. Goodbye.
+stop at any time
+.
+What's the time
+<--skill exit-->The time is 1154 PM.
+
+round 2:
+Alexa open forgiveness guide
+Hi there. I can teach you about the 9 steps of forgiveness, loosely based on research by the Stanford University Forgiveness Project. Just say continue to begin. If you've been here before, I'll try to pick up where we left off. If you want to start from a particular step, just say the word step, followed by the step number. You can say stop at any time to exit.
+stop at any time
+Ready to get over a grievance. Just say next to go the first step.
+next
+Step 1. First, be aware of your feelings. Know exactly how you feel about what happened be able to articulate what, in particular, was not OK about the situation in which you feel you were wronged. Tell a few trusted people about your experience. When you're ready for the next step, say next.
+specify a step by
+I'm sorry, I did not understand what you were trying to say there. Please say the word step and choose a step number between 1 and 9, or say continue and I'll start from where I think we left off.
+choose a step number between 1
+Step 2. Know that forgiveness is for your own sake. Make a commitment to yourself to do what you have to do to feel better. Forgiveness is for you, not for anyone else. When you're ready for the next step, say next.
+step followed by a step number between 1
+Step 3. Do not expect reconciliation. Forgiveness does not necessarily mean reconciliation with the person who hurt you, or condoning their actions. What you're looking for is a sense of peace and closure. When you're ready for the next step, say next.
+condoning
+Step 4. Recognize how the event is affecting you in the present. Recognize that your primary distress is coming from hurt feelings, thoughts and physical upset you are suffering now, not what offended or deeply hurt you two minutes or 10 years ago. Forgiveness helps to heal those hurt feelings. When you're ready for the next step, say next.
+deeply
+Step 5. Learn to activate the relaxation response. At the moment you feel upset, practice a simple stress management technique of deep breathing to soothe your body's flight or fight response. Focus on your breathing and try to bring your mind back to a peaceful state. When you're ready for the next step, say next.
+Stop
+Ok, Goodbye.
+What's the time
+<--skill exit-->The time is 1159 PM.

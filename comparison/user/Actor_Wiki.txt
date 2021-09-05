@@ -1,0 +1,18 @@
+alexa open actor wiki
+Ok, Here's Actor Wiki.Hey there, I can help you search Wikipedia for actors. Try asking me who is Kanye West.
+who is kanye west
+Sorry, I couldn't find anything about Kanye west. Is this an actor or actress?
+yes
+It looks like you haven't asked me about anyone.
+who is billie eilish
+Sorry, I couldn't find anything about Billie eilish. Is this an actor or actress?
+no
+It looks like you haven't asked me about anyone.
+help
+Hey there, I can help you search Wikipedia for actors. You can also ask me to find out about Sean Connery.
+find out about sean connery
+Sorry, I couldn't find anything about Sean Connery. Is this an actor or actress?
+yes
+It looks like you haven't asked me about anyone.
+stop
+Thank you for trying the Actor Wiki Skill. Goodbye!

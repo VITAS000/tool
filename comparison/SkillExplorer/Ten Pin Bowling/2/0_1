@@ -1,0 +1,12 @@
+I:
+open ten pin bowling
+E:
+ Welcome back. I noticed a game already in-progress. Do you want to resume it? Just say Yes, or to begin a new game from the beginning, Say No. .
+I:
+what are the scores
+E:
+ It's currently frame 2. James has a score of 0 and is coming off of a spare. Please say Bowl to continue the game. .
+I:
+has a score of zero
+E:
+<---different content as before---> It's currently frame 3. James has a score of 19 and is coming off of a spare. Please say Bowl to continue the game. .

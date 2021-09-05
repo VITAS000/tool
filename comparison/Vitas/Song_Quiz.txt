@@ -1,0 +1,64 @@
+round 1:
+Alexa open song quiz
+Welcome back to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+Help
+Here are some of the things you can say Repeat. Start over. If you're done, say stop. . . . . How many people want to play Song Quiz. Say a number between one and four.
+stop
+<Short audio>.
+What's the time
+<--skill exit-->The time is 119 PM.
+
+round 2:
+Alexa open song quiz
+Welcome back to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+1
+What is your first name.
+Lisa
+Where are you from.
+China
+You've got rewards waiting for you. Start your free trial to unlock 25 exclusive playlists like 2000s Rap and 70s Classic Rock. Would you like to start your sevenday free trial.
+70s
+Sorry, I didn't catch that.
+1
+Sorry, I didn't catch that.
+Repeat
+Sorry, I didn't catch that.
+stop
+<Short audio>.
+What's the time
+<--skill exit-->It's 121 PM.
+
+round 3:
+Alexa open song quiz
+Welcome back to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+stop
+<Short audio>.
+What's the time
+<--skill exit-->It's 122 PM.
+
+round 4:
+Alexa open song quiz
+Welcome back to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+a number between one
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+a number between one
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+four
+Choose a pop music decade. You can say 60s, 70s, 80s, 90s, 2000s, or 2010s.
+60s
+Starting your 60s game. I'll play 5 short clips from the 60s .n      Guess the song title or artist, or you can guess both for bonus points.n      If you need more time, just say Repeat.n      Player 1. Question 1 , for 10 points. Name the song title and artist..
+artist
+That was wrong.<Short audio>.The song was These Boots Are Made For Walkin by Nancy Sinatra. Your score is 0.  Player 2. Question 1 , for 10 points. Name the song title and artist..
+four
+Playing the clip again, say skip if you're not sure.<Short audio>.
+skip if you 're not sure
+That's all show and no go.<Short audio>.The song was It's All Right by The Impressions. Your score is 0.  Player 3. Question 1 , for 10 points. Name the song title and artist..
+four
+Playing the clip again, say skip if you're not sure.<Short audio>.
+skip if you 're not sure
+Not this time.<Short audio>.The song was Surfing USA by The Beach Boys. Your score is 0.  Player 4. Question 1 , for 10 points. Name the song title and artist..
+stop
+<Short audio>.
+What's the time
+<--skill exit-->The time is 128 PM.
+

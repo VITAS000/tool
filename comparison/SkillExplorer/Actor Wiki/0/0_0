@@ -1,0 +1,16 @@
+I:
+open actor wiki
+E:
+Hey there, I can help you search Wikipedia for actors. Try asking me who is Nicole Kidman. .
+I:
+who is nicole kidman
+E:
+Sorry, I couldn't find anything about Nicole Kidman. Is this an actor or actress? .
+I:
+an actor
+E:
+It looks like you haven't asked me about anyone. .
+I:
+what can you do
+E:
+<---skill closed--->It looks like you haven't asked me about anyone. .

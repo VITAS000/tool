@@ -1,0 +1,38 @@
+round 1:
+Alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+Help
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+hard
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+medium
+Cooking eggs is easy.  Cooking eggs perfectly everytime is not.  With the skill cook perfect eggs,  you can cook perfect eggs how you like it all the time.   When prompted, tell alexa if you would like poached, boiled, scrambled or fried eggs and she will provide you with detailed instructions on how to cook them perfectly each and everytime.  She will even alert you when your boiled eggs are soft, medium or hard boiled.   Would you like to start cooking some eggs.
+Yes
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+poached
+Alright then. In order to perfectly poach eggs you will need to prepare a few things.   Firstly fill a pot with water and combine a tablespoon of white vinegar. bring the mixture to a rolling boil.   While you are waiting for the water to boil, crack open one egg into a ramekin or small bowl.   Once the water is rolling,  slowly reduce the heat until the water is barely simmering.   This is to reduce the chances of the egg mixing with the water and creating a mess. Then submerge the ramekin into the hot water and gently slide the egg into the water vinegar combination. Leave the eggs to slowly poach in the hot water until they are cooked to your liking.   You can use a slotted spoon to bring the eggs up to test the firmness of the egg.  Simply gently prod the egg with your finger.   The white should be firm.  If you like runny poached eggs the egg should be soft and bouncy when prodded.   If you like hard boiled poached eggs, it should be firm to the touch.  When it is cooked to your liking,  simply place the eggs on a plate lined with a couple of layers of kitchen towelette to absorb any excess water.  Now your poached eggs are ready for serving.  My favourite way of eating poached eggs is with smashed avocado on toast.   Bon apetite.
+slide
+
+What's the time
+<--skill exit-->The time is 307 AM.
+
+round 2:
+Alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+poached
+Alright then. In order to perfectly poach eggs you will need to prepare a few things.   Firstly fill a pot with water and combine a tablespoon of white vinegar. bring the mixture to a rolling boil.   While you are waiting for the water to boil, crack open one egg into a ramekin or small bowl.   Once the water is rolling,  slowly reduce the heat until the water is barely simmering.   This is to reduce the chances of the egg mixing with the water and creating a mess. Then submerge the ramekin into the hot water and gently slide the egg into the water vinegar combination. Leave the eggs to slowly poach in the hot water until they are cooked to your liking.   You can use a slotted spoon to bring the eggs up to test the firmness of the egg.  Simply gently prod the egg with your finger.   The white should be firm.  If you like runny poached eggs the egg should be soft and bouncy when prodded.   If you like hard boiled poached eggs, it should be firm to the touch.  When it is cooked to your liking,  simply place the eggs on a plate lined with a couple of layers of kitchen towelette to absorb any excess water.  Now your poached eggs are ready for serving.  My favourite way of eating poached eggs is with smashed avocado on toast.   Bon apetite.
+bouncy
+
+What's the time
+<--skill exit-->It's 310 AM.
+
+round 3:
+Alexa open cook perfect eggs
+Welcome to How to cook perfect eggs.  The only skill that will get you cooking perfect eggs every time.  I can help you cook eggs in many different ways like fried, poached, scrambled and boiled eggs.  How would you like to cook your eggs today.
+boiled
+Fantastic.  Let's get started.   First things first. Place eggs straight from the fridge into an empty pot.  Then fill the pot with cold water so that the eggs are covered by one inch or two and a half centimeters of water.   Next, place the pot over a high heat to boil.  Once the pot is at a rolling boil with streams of bubbles coming from the bottom  remove from the heat and cover with a lid.  When you have removed the pot from the heat please tell me how you like your boiled eggs  and I can tell you how long to set your timer.   Do you like soft boiled with a runny yolk , medium boiled with a half set and half runny yolk , or hard boiled with a fully set yolk.
+Stop
+Thanks for using How to cook perfect eggs. Next time you want to cook some perfect eggs just say, Alexa, open  cook perfect eggs . See you next time.
+What's the time
+<--skill exit-->It's 312 AM.
+

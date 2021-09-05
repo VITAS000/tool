@@ -1,0 +1,12 @@
+I:
+open actor wiki
+E:
+Hey there, I can help you search Wikipedia for actors. Try asking me who is Nicole Kidman. .
+I:
+who is nicole kidman
+E:
+Sorry, I couldn't find anything about Nicole Kidman. Is this an actor or actress? .
+I:
+actress
+E:
+<---different content as before--->Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Denzel Washington. .

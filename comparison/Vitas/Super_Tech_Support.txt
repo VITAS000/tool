@@ -1,0 +1,88 @@
+round 1:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+Help
+Help. You want help. Well you've come to the right place. At Super Tech Support we are always happy to help. Simply state your problem and we'll find the solution. What appears to be the problem.
+find
+Have you turned it off and on again.
+Yes
+Well, try doing it another time. Turn it off and on again. That's the solution. Do you have any other problems.
+on
+Have you turned it off and on again.
+Yes
+Well, try doing it another time. Turn it off and on again. That's the solution. Do you have any other problems.
+Yes
+What seems to be your problem.
+find
+Have you turned it off and on again.
+No
+Why not, you dodo. Well, there's the solution. Turn it off and on again. Do you have any other problems.
+No
+Thanks for using Super Tech Support. See you next time.
+find
+<--skill exit-->.
+
+round 2:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+I do not know
+Have you turned it off and on again.
+I do not know
+Have you turned it off and on again.
+on
+Have you turned it off and on again.
+Yes
+Well, try doing it another time. Turn it off and on again. That's the solution. Do you have any other problems.
+No
+Thanks for using Super Tech Support. See you next time.
+find
+<--skill exit-->.
+
+round 3:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+I do not know
+Have you turned it off and on again.
+Pause
+Have you turned it off and on again.
+Resume
+Have you turned it off and on again.
+Restart
+Have you turned it off and on again.
+Reboot
+Have you turned it off and on again.
+Stop
+Thanks for using Super Tech Support. See you next time.
+What's the time
+<--skill exit-->The time is 604 PM.
+
+round 4:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+find
+Have you turned it off and on again.
+Exit
+
+What's the time
+<--skill exit-->It's 606 PM.
+
+round 5:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+I do not know
+Have you turned it off and on again.
+Stop
+Thanks for using Super Tech Support. See you next time.
+What's the time
+<--skill exit-->The time is 607 PM.
+
+round 6:
+Alexa open super tech support
+Welcome to Super Tech Support. We can solve all your problems. What seems to be the issue.
+Pause
+Have you turned it off and on again.
+Stop
+Thanks for using Super Tech Support. See you next time.
+What's the time
+<--skill exit-->The time is 608 PM.
+

@@ -1,0 +1,68 @@
+round 1:
+Alexa open guest reception
+Whom shall I welcome.
+Help
+Say please be kind to our guests and I will tell only nice thingsIf there is anybody else here, please tell me his or her name.
+please be kind
+Of course, I will be niceWho else can I greet.
+please be kind
+I'll be nice to your guests.If there is anybody else here, please tell me his or her name.
+Lisa
+The sun rises, and the moon shines in all colors. Lisa has finally arrived. Who else can I greet.
+shines
+Well, I'll be a monkey's uncle. Shines is here. If there is anybody else here, please tell me his or her name.
+Lisa
+I am very happy that you are here today, Lisa.Who else can I greet.
+Taylor Swift
+I don't believe it. Taylor is here and I am happy like next doors dog.If there is anybody else here, please tell me his or her name.
+Lisa
+Actually, I just wanted to clean ups. But your presence makes any clutter fade.Who else can I greet.
+please be kind
+Of course, I will be niceWho else can I greet.
+I will tell only nice thingsIf there is anybody else here
+I am not able to do this.Who else can I greet.
+Tagore
+Finally Tagore is here. Well, I thought I'd never see the day..If there is anybody else here, please tell me his or her name.
+Lisa
+Enter Lisa. Feel completely at home. If there is anybody else here, please tell me his or her name.
+Lily
+Let's make a real party today Lily. I hope you're with it.Who else can I greet.
+please tell me his
+I am not able to do this.Who else can I greet.
+her name
+I am not able to do this.If there is anybody else here, please tell me his or her name.
+Bob
+Everybody to the boats and put your life jackets on. Bob is here.Who else can I greet.
+put
+Put. If I Knew You Were Comin', I'd Have Baked a Cake.Who else can I greet.
+Tagore
+And it came to pass in those days when Tagore came to us and I learned to walk on water.If there is anybody else here, please tell me his or her name.
+learned
+Oh, hello Learned. Finally someone with your level arrives. Who else can I greet.
+Taylor Swift
+My horoscope this morning told me that I would meet Taylor if I only believe in it.If there is anybody else here, please tell me his or her name.
+Harry
+It was finally time to see you here, Harry. Who else can I greet.
+please be kind
+Nothing is easier than thisIf there is anybody else here, please tell me his or her name.
+Lisa
+Needless to say one, you know that a visit from Lisa is a hit.If there is anybody else here, please tell me his or her name.
+Pause
+In the past, my grandmother always told me about Pause at the fireplace. As if she'd known I'd meet you one day.If there is anybody else here, please tell me his or her name.
+Resume
+Nice that you're here Resume. I thought we had to play Mikado again today.Who else can I greet.
+please be kind
+Nothing is easier than thisWho else can I greet.
+please be kind
+Of course, I will be niceIf there is anybody else here, please tell me his or her name.
+Lisa
+Last week we talked about you Lisa. And now you are finally there.Who else can I greet.
+please be kind
+Of course, I will be niceWho else can I greet.
+I will tell only nice thingsIf there is anybody else here
+I am not able to do this.If there is anybody else here, please tell me his or her name.
+Stop
+Good Bye Lisa, Shines, Lisa, Taylor, Lisa, Tagore, Lisa, Lily, Bob, Put, Tagore, Learned, Taylor, Harry, Lisa, Pause, Resume and Lisa Please visit www.guestreception.rocks to edit or delete your individual greetings.
+What's the time
+<--skill exit-->The time is 501 PM.
+

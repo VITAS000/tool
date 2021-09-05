@@ -1,0 +1,42 @@
+round 1:
+Alexa open butterball
+<Short audio>.
+Help
+Sounds like you want help. There are a few ways to get great Butterball turkey info. You can ask a question at any time, or you can say a topic that you'd like to learn about. Here are some topics to choose from recipes, basting a turkey, or marinating a turkey. What would you like to do.
+marinating
+<Short audio>.
+a question at any time
+I'm sorry, I didn't quite understand. I can help with turkeyrelated topics. Here are some topics to choose from preparing a turkey, enjoying a turkey, or storing leftovers. What would you like to learn about.
+storing
+
+What's the time
+<--skill exit-->I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from food safety, using a meat thermometer, or basting a turkey. What would you like to learn about.
+
+round 2:
+Alexa open butterball
+<Short audio>.
+a question at any time
+I'm sorry, I didn't quite understand. I can help with turkeyrelated topics. Here are some topics to choose from calculating cook time, thawing a turkey, or ingredients. What would you like to learn about.
+ingredients
+<Short audio>.I hope you're having fun talking turkey. Next up, Here are more topics to choose from deepfrying a turkey, recipes, or calculating cook time. What would you like to learn about.
+recipes
+Alright, I found a great Butterball recipe for you . This is one of the many great recipes available on Butterball.com.   Alright, I hope you're becoming a turkey expert yourself. Next, I can offer you a great turkey recipe. Would you like me to send you one.
+Yes
+Alright, I found a great Butterball recipe for you . This is one of the many great recipes available on Butterball.com.   Alright, I hope you're becoming a turkey expert yourself. Next, Here are more topics to choose from thawing a turkey, smoking a turkey, or oven roasting a turkey. What would you like to learn about.
+roasting
+<Short audio>.
+a question at any time
+I'm sorry, I didn't quite understand. I can help with turkeyrelated topics. Here are some topics to choose from brining a turkey, preparing a turkey, or oven temperature. What would you like to learn about.
+preparing
+<Short audio>.
+a question at any time
+<Short audio>.
+you can
+Choose a topic you'd like to know about marinating, basting, food safety, or something else. Which would you like.
+basting
+<Short audio>..<Short audio>.
+Stop
+<Short audio>.
+What's the time
+<--skill exit-->The time is 215 PM.
+

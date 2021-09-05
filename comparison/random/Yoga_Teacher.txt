@@ -1,0 +1,82 @@
+round 1:
+alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+Help
+With Yoga Teacher , you can get Based on your yoga knowledge  you can select your course like , beginner ,intermediate , or experts. For example, you can say Ask Yoga Teacher,After That You Can Set Your Level Then Say Okay To Start Learning yoga Based on Your Selected level .You Can Also Select Your Level By Saying My level is beginner. For example, My level is beginner. Which course Would You like to learn .
+My level is beginner
+you selected beginner level you can start by saying , Okay.
+intermediate
+you selected intermediate level you can start by saying , Okay.
+After That You Can Set Your Level Then
+you can start by saying , Okay.
+Reboot
+I'm not sure what your level is, please try again.
+Resume
+I'm not sure what your level is, please try again.
+After That You Can Set Your Level Then
+I'm not sure what your level is. You can say your levelby saying, my level is beginner.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 441 PM.
+
+round 2:
+alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->It's 442 PM.
+
+round 3:
+alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+my level is beginner
+you selected beginner level you can start by saying , Okay.
+Reboot
+I'm not sure what your level is, please try again.
+Pause
+I'm not sure what your level is, please try again.
+intermediate
+you selected intermediate level you can start by saying , Okay.
+Resume
+I'm not sure what your level is, please try again.
+What's the time
+I'm not sure what your level is, please try again.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 444 PM.
+
+round 4:
+alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+my level is beginner
+you selected beginner level you can start by saying , Okay.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 445 PM.
+
+round 5:
+alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+Pause
+I'm not sure what your level is, please try again.
+Restart
+I'm not sure what your level is, please try again.
+Resume
+I'm not sure what your level is, please try again.
+Pause
+I'm not sure what your level is, please try again.
+intermediate
+you selected intermediate level you can start by saying , Okay.
+What's the time
+I'm not sure what your level is, please try again.
+My level is beginner
+you selected beginner level you can start by saying , Okay.
+Exit
+
+What's the time
+<--skill exit-->The time is 448 PM.
+

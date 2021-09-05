@@ -1,0 +1,30 @@
+alexa open india trivia game
+Welcome to the India trivia Game! You can ask me about any of the Indian state or Union territory, or you can ask me to start a quiz. What would you like to do?
+any of the indian state
+I'm sorry. any is not something I know very much about in this skill. I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know. You can also test your knowledge by asking me to start a quiz. What would you like to do?
+indian state
+I'm sorry. Indian state is not something I know very much about in this skill. I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know. You can also test your knowledge by asking me to start a quiz. What would you like to do?
+union territory
+I'm sorry. union territory is not something I know very much about in this skill. I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know. You can also test your knowledge by asking me to start a quiz. What would you like to do?
+start a quiz
+OK. I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question. What is the Statehood Year of Jammu and Kashmir?
+no idea
+Oh boy The Statehood Year of Jammu and Kashmir is 1950. Your current score is 0 out of 1. Here is your 2th question. What is the Statehood Year of Andhra Pradesh?
+nineteen ninety nine
+Le sigh The Statehood Year of Andhra Pradesh is 1953. Your current score is 0 out of 2. Here is your 3th question. What is the Capital of Manipur?
+no idea
+Boo The Capital of Manipur is Imphal. Your current score is 0 out of 3. Here is your 4th question. What is the Vehicle Code of Puducherry?
+no idea
+Bummer The Vehicle Code of Puducherry is PY. Your current score is 0 out of 4. Here is your 5th question. What is the Official Language of Maharashtra?
+no idea
+Whoops a daisy The Official Language of Maharashtra is Marathi. Your current score is 0 out of 5. Here is your 6th question. What is the Statehood Year of Jammu and Kashmir?
+nineteen ninety nine
+Dun dun dun The Statehood Year of Jammu and Kashmir is 1950. Your current score is 0 out of 6. Here is your 7th question. What is the Official Language of Chandigarh?
+no idea
+Yikes The Official Language of Chandigarh is English. Your current score is 0 out of 7. Here is your 8th question. What is the Vehicle Code of Assam?
+no idea
+Blarg The Vehicle Code of Assam is AS. Your current score is 0 out of 8. Here is your 9th question. What is the Capital of Chhattisgarh?
+no idea
+Yikes The Capital of Chhattisgarh is Raipur. Your current score is 0 out of 9. Here is your 10th question. What is the Statehood Year of Uttarakhand?
+nineteen ninety nine
+Blast The Statehood Year of Uttarakhand is 2000. Your final score is 0 out of 10. Thank you for playing the Indian Trivia Game! Let's play again soon!

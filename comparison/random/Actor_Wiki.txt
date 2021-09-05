@@ -1,0 +1,86 @@
+round 1:
+alexa open actor wiki
+Ok, Here's Actor Wiki.Hey there, I can help you search Wikipedia for actors. How about asking what do you know about Chris Hemsworth.
+Help
+Hey there, I can help you search Wikipedia for actors. Try asking me who is Angelina Jolie.
+who is Angelina Jolie
+Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+who is Angelina Jolie
+Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+Reboot
+It looks like you haven't asked me about anyone.
+anyone
+It looks like you haven't asked me about anyone.
+what do you know about Chris Hemsworth
+Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
+who is Angelina Jolie
+Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->It's 733 PM.
+
+round 2:
+alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Mila Kunis.
+Reboot
+It looks like you haven't asked me about anyone.
+what do you know about Chris Hemsworth
+Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
+Restart
+It looks like you haven't asked me about anyone.
+Restart
+It looks like you haven't asked me about anyone.
+Restart
+It looks like you haven't asked me about anyone.
+Resume
+It looks like you haven't asked me about anyone.
+Reboot
+It looks like you haven't asked me about anyone.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->The time is 736 PM.
+
+round 3:
+alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Mila Kunis.
+Restart
+It looks like you haven't asked me about anyone.
+Pause
+It looks like you haven't asked me about anyone.
+Resume
+It looks like you haven't asked me about anyone.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->It's 737 PM.
+
+round 4:
+alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Mila Kunis.
+what do you know about Chris Hemsworth
+Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
+who is Angelina Jolie
+Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+who is Angelina Jolie
+Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+No
+It looks like you haven't asked me about anyone.
+what do you know about Chris Hemsworth
+Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->The time is 740 PM.
+
+round 5:
+alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. Try asking me who is Angelina Jolie.
+Resume
+It looks like you haven't asked me about anyone.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->It's 741 PM.
+

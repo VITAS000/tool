@@ -1,0 +1,8 @@
+alexa open super tech support
+Welcome to Super Tech Support! We can solve all your problems. What seems to be the issue?
+not charging
+Have you turned it off and on again?
+yes
+Well, try doing it another time! Turn it off and on again. That's the solution. Do you have any other problems?
+no
+Thanks for using Super Tech Support. See you next time!

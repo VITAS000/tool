@@ -1,0 +1,60 @@
+round 1:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+Help
+Please ask me to find your quote by starting your quote with the word find.  For example you can ask to find the purple monkey dishwasher episode by asking find purple monkey dishwasher. I hope that helps. What can I help you find.
+find your quote by starting your quote with the word find
+Sorry, I'm having trouble accessing your Unofficial Simpson's Quote Finder skill right now.
+belongs
+
+What's the time
+<--skill exit-->It's 611 PM.
+
+round 2:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+belongs
+Okalie dokalie.
+episode
+<--skill exit-->.
+
+round 3:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+find purple monkey dishwasher
+Sorry, I'm having trouble accessing your Unofficial Simpson's Quote Finder skill right now.
+reference
+
+What's the time
+<--skill exit-->The time is 614 PM.
+
+round 4:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+reference
+Okalie dokalie.
+attempt
+
+What's the time
+<--skill exit-->It's 616 PM.
+
+round 5:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+episode
+Okalie dokalie.
+find purple monkey dishwasher
+<--skill exit-->One moment.Showing results for purple monkey dishwasher.The first one is Harry Purple Monkey Dishwasher Harry's Second Adventure.
+
+round 6:
+Alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find.
+help
+Please ask me to find your quote by starting your quote with the word find.  For example you can ask to find the purple monkey dishwasher episode by asking find purple monkey dishwasher. I hope that helps. What can I help you find.
+find your quote by starting your quote with the word find
+Sorry, I'm having trouble accessing your Unofficial Simpson's Quote Finder skill right now.
+help
+
+What's the time
+<--skill exit-->It's 618 PM.
+

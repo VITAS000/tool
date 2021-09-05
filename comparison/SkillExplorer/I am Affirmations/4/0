@@ -1,0 +1,10 @@
+I:
+open i am affirmations
+E:
+Welcome to i am affirmations skill   Hope you are having a wonderful day !   Are you ready for your affirmations?    Choose a number between one and three to start listening.  And do not forget to repeat after me !.
+I:
+help
+E:
+ \" With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+I:
+<---no answer--->

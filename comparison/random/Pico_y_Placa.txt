@@ -1,0 +1,68 @@
+round 1:
+alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+Help
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+numbers
+You haven't used a proper day or number, you can say Help.
+Exit
+
+What's the time
+<--skill exit-->It's 1046 PM.
+
+round 2:
+alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+What's the time
+I can't help you with that, try rephrasing the question or ask for help by saying HELP.
+HELP
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+numbers
+You haven't used a proper day or number, you can say Help.
+What's the time
+I can't help you with that, try rephrasing the question or ask for help by saying HELP.
+HELP
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+Restart
+You haven't used a proper day or number, you can say Help.
+What's the time
+I can't help you with that, try rephrasing the question or ask for help by saying HELP.
+Restart
+You haven't used a proper day or number, you can say Help.
+Help
+You can choose among these days and numbers monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+Pause
+You haven't used a proper day or number, you can say Help.
+numbers
+You haven't used a proper day or number, you can say Help.
+What's the time
+I can't help you with that, try rephrasing the question or ask for help by saying HELP.
+Stop
+Thank you. Bye Bye.
+What's the time
+<--skill exit-->It's 1051 PM.
+
+round 3:
+alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+Restart
+You haven't used a proper day or number, you can say Help.
+What's the time
+I can't help you with that, try rephrasing the question or ask for help by saying HELP.
+Reboot
+You haven't used a proper day or number, you can say Help.
+numbers
+You haven't used a proper day or number, you can say Help.
+Exit
+
+What's the time
+<--skill exit-->It's 1054 PM.
+
+round 4:
+alexa open pico e. placa
+Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction  for which day or numbers would you like to know about.
+Stop
+Thank you. Bye Bye.
+What's the time
+<--skill exit-->The time is 1054 PM.
+

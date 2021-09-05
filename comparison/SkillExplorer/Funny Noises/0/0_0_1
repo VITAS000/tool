@@ -1,0 +1,14 @@
+I:
+open funny noises
+E:
+&lt;Short audio&gt;. Welcome to Funny Noises!  This skill will make you smile! Do you want to smile? Say  \" Yes \"  or  \" No \" !.
+I:
+yes
+E:
+&lt;Short audio&gt;. Do you want to smile more?  Say yes or no..
+I:
+no
+E:
+Come back tomorrow to play funny noises again. Just say,  \" Alexa, open Funny Noises \"   to open the skill again. .&lt;Short audio&gt;.
+I:
+<---no answer--->

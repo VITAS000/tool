@@ -1,0 +1,10 @@
+I:
+open doctor speech
+E:
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready?.
+I:
+no
+E:
+I hope you enjoy Doctor Speech. Goodbye!.
+I:
+<---no answer--->

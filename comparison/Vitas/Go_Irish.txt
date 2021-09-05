@@ -1,0 +1,40 @@
+round 1:
+Alexa open go irish
+Go Irish.<Short audio>.
+Help
+
+What's the time
+<--skill exit-->The time is 1258 PM.
+
+round 2:
+Alexa open go irish
+Go Irish.<Short audio>.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 3:
+Alexa open go irish
+Go Irish.<Short audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 4:
+Alexa open go irish
+Go Irish.<Short audio>.
+Restart
+<--skill exit-->Starting over.
+
+round 5:
+Alexa open go irish
+Go Irish.<Short audio>.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 6:
+Alexa open go irish
+Go Irish.<Short audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 106 PM.
+

@@ -1,0 +1,24 @@
+I:
+open butterball
+E:
+&lt;Short audio&gt;.
+I:
+how long will it take to thaw my turkey
+E:
+Okay, I can handle that. Let's calculate thaw time for your Butterball turkey. How many pounds is your turkey?.
+I:
+two hundred point two
+E:
+I didn't catch that. I'm listening for a number between one and thirty. How many pounds is your turkey?.
+I:
+one
+E:
+Ok, 1 pounds. Now, you can thaw your turkey in the fridge, or in cold water, which is faster. Where will you thaw your turkey: in the fridge, or in cold water?.
+I:
+in the fridge
+E:
+For a 1 pound turkey,  allow 6 hours to thaw. Thaw in your refrigerator, breast side up, in an unopened wrapper on a tray in the fridge.   Now that you've heard some turkey tips, I can direct you to even more info. Here are more topics to choose from: grilling a turkey, checking for doneness, or deep-frying a turkey. What would you like to learn about?.
+I:
+grilling a turkey
+E:
+<---same content as before--->&lt;Short audio&gt;.

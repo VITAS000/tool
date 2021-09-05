@@ -1,0 +1,13 @@
+alexa open cooking temperature buddy
+Ok, Here's Cooking Temperature Buddy.Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken? ... Now, what can I help you with.
+what's the cooking temperature for steak
+The minimum internal temperature for steak is at 145 degree fahrenheit. Three minutes rest time is needed.
+
+
+alexa open cooking temperature buddy
+Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken? ... Now, what can I help you with.
+what's the cooking temperature for chicken
+The minimum internal temperature for whole chicken is at 165 degree fahrenheit.
+Stop
+Goodbye.
+

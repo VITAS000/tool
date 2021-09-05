@@ -1,0 +1,16 @@
+I:
+open computer sales
+E:
+Welcome to the build a pc sales skill! Say  \" today's deals \"  to get started!.
+I:
+today's deals
+E:
+What part would you like to see sales for?.
+I:
+what can you do
+E:
+So you want to see what deals, correct?.
+I:
+what can you do
+E:
+<---same content as before--->So you want to see what deals, correct?.

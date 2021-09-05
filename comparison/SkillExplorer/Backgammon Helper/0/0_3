@@ -1,0 +1,10 @@
+I:
+open backgammon helper
+E:
+ Backgammon Helper. You can ask how to set up the game, about an individual piece, what the rules are, how to win, or for a backgammon tip. Which will it be? .
+I:
+how to win
+E:
+ Each player attempts to move all his pieces into the inner table nearest to him, his home table, and once that is achieved, to move or  \" bear \"  the pieces off the board. The first player to do this wins. However, that is only half the story because backgammon is not being played properly unless it is being played for stakes. So the ultimate objective of a Backgammon match is to win more stakes than the opponent.  Tell me the name of an individual piece to learn more about it. .
+I:
+<---no answer--->

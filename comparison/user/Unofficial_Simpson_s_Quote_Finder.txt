@@ -1,0 +1,6 @@
+alexa open simpson's quote finder
+The Simpson's Quote Finder will take a quote or reference from the Simpson's and attempt to find the season and episode it belongs to. You can ask things like: find purple monkey dishwasher. For more detailed instructions simply ask help. What can I help you find?
+help
+Please ask me to find your quote by starting your quote with the word find. For example you can ask to find the purple monkey dishwasher episode by asking: find purple monkey dishwasher. I hope that helps. What can I help you find?
+find purple monkey dishwasher
+Sorry, I'm having trouble accessing your Unofficial Simpson's Quote Finder skill right now

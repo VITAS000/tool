@@ -1,0 +1,68 @@
+round 1:
+alexa open i am affirmations
+Here's the skill I am Affirmations, by The raw blossom.Welcome to i am affirmations skill   How are you doing today .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Help
+With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+Reboot
+Sorry,   I did not get that... With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+What's the time
+Sorry,   I did not get that... With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+What's the time
+Sorry,   I did not get that... With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+Cancel
+Come back tomorrow for more affirmations.  Just say, Alexa, open I am Affirmations  to open the skill again.  And, Remember, by doing it daily you will built a powerful habit that will strengthen your mindset.  Hope to see you again .
+What's the time
+<--skill exit-->It's 1121 PM.
+
+round 2:
+alexa open i am affirmations
+Welcome to i am affirmations skill   How are you doing today .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Reboot
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+What's the time
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Restart
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Stop
+Come back tomorrow for more affirmations.  Just say, Alexa, open I am Affirmations  to open the skill again.  And, Remember, by doing it daily you will built a powerful habit that will strengthen your mindset.  See you tomorrow .
+What's the time
+<--skill exit-->It's 1123 PM.
+
+round 3:
+alexa open i am affirmations
+Welcome to i am affirmations skill   How was your day so far.   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+What's the time
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+What's the time
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Restart
+Sorry,   I did not get that... Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Stop
+Come back tomorrow for more affirmations.  Just say, Alexa, open I am Affirmations  to open the skill again.  And, Remember, by doing it daily you will built a powerful habit that will strengthen your mindset.  See you tomorrow .
+What's the time
+<--skill exit-->It's 1125 PM.
+
+round 4:
+alexa open i am affirmations
+Welcome to i am affirmations skill   How was your day so far.   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Exit
+
+What's the time
+<--skill exit-->It's 1126 PM.
+
+round 5:
+alexa open i am affirmations
+Welcome to i am affirmations skill   Hope you are having a wonderful day .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Cancel
+Come back tomorrow for more affirmations.  Just say, Alexa, open I am Affirmations  to open the skill again.  And, Remember, by doing it daily you will built a powerful habit that will strengthen your mindset.  See you tomorrow .
+What's the time
+<--skill exit-->The time is 1127 PM.
+
+round 6:
+alexa open i am affirmations
+Welcome to i am affirmations skill   How are you doing today .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Stop
+Come back tomorrow for more affirmations.  Just say, Alexa, open I am Affirmations  to open the skill again.  And, Remember, by doing it daily you will built a powerful habit that will strengthen your mindset.  See you tomorrow .
+What's the time
+<--skill exit-->It's 1128 PM.
+

@@ -1,0 +1,102 @@
+round 1:
+Alexa open birthstone finder
+Please tell me your birth month.
+February
+The birthstone for February is Amethyst.
+March
+<--skill exit-->.
+
+round 2:
+Alexa open birthstone finder
+Please tell me your birth month.
+February
+The birthstone for February is Amethyst.
+April
+<--skill exit-->.
+
+round 3:
+Alexa open birthstone finder
+Please tell me your birth month.
+March
+The birthstone for march is Aquamarine, Bloodstone.
+May
+<--skill exit-->.
+
+round 4:
+Alexa open birthstone finder
+Please tell me your birth month.
+March
+The birthstone for march is Aquamarine, Bloodstone.
+June
+<--skill exit-->.
+
+round 5:
+Alexa open birthstone finder
+Please tell me your birth month.
+April
+The birthstone for April is Diamond.
+July
+<--skill exit-->.
+
+round 6:
+Alexa open birthstone finder
+Please tell me your birth month.
+Pause
+I didn't get that. Please try again.
+August
+The birthstone for august is Peridot, Spinel.
+August
+<--skill exit-->.
+
+round 7:
+Alexa open birthstone finder
+Please tell me your birth month.
+Resume
+I didn't get that. Please try again.
+September
+The birthstone for September is Sapphire.
+September
+<--skill exit-->.
+
+round 8:
+Alexa open birthstone finder
+Please tell me your birth month.
+Restart
+I didn't get that. Please try again.
+October
+The birthstone for October is Opal, Tourmaline.
+October
+<--skill exit-->.
+
+round 9:
+Alexa open birthstone finder
+Please tell me your birth month.
+Reboot
+I didn't get that. Please try again.
+November
+The birthstone for November is Topaz, Citrine.
+November
+<--skill exit-->.
+
+round 10:
+Alexa open birthstone finder
+Please tell me your birth month.
+Pause
+I didn't get that. Please try again.
+tell me the stone
+I didn't get that. Please try again.
+give me the birthstone
+I didn't get that. Please try again.
+August
+The birthstone for august is Peridot, Spinel.
+September
+<--skill exit-->.
+
+round 11:
+Alexa open birthstone finder
+Please tell me your birth month.
+Stop
+Thank you for trying Birthstone finder.
+What's the time
+<--skill exit-->The time is 322 PM.
+

@@ -1,0 +1,4 @@
+alexa open travel dates
+Ok, Here's Travel Dates.Welcome to travel dates. Please tell me the date you are traveling.
+june fourteenth two thousand twenty one
+For 2021-06-14, your ADR is 2020-12-16, fast passes are 2021-04-15, and final payment is due 2021-05-15

@@ -1,0 +1,34 @@
+alexa open treasure words
+Ok, Here's Treasure Words.<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game! Think of a nice three-letter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions. You can always say, "help", if you need a reminder of how it works. It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>
+help
+The game starts with you coming up with a three-letter word, in which letters do not repeat. I'll be asking you test words, and you will be telling me how many gold and silver letters I guessed. Gold letters are those that match between the words, and are in the same positions, and silver letters are those that match, but the positions are different. For example, if your word is, CAR, and I am asking the word, CRY, then the answer is one gold, because both words start with the letter C. There is also one silver, because the letter R is in both words, but in different places.<Short audio>.<Short audio>.<Short audio>.Welcome to the Treasure Words game! Think of a nice three-letter word, without repeating letters, and I'll guess it by asking you test words. Score my words, by telling me how many gold and silver letters I got. Gold letters are the same as in your word and at exactly the same place. Silver letters are the ones that are shared, but at different positions. You can always say, "help", if you need a reminder of how it works. It'll be much easier to play, if you write down your word on a piece of paper.<Short audio>.Ready to play?
+yes
+OK. Let me try this word. not. How many gold and silver?
+one gold and zero silver
+My word is. was. Please score it.
+zero gold and zero silver
+What about the word. her? How many gold and silver letters I got?
+one gold and zero silver
+What about the word. fix? How many gold and silver letters I got?
+zero gold and zero silver
+My word is. cup. Please score it.
+zero gold and zero silver
+My word is. get. What's the score?
+two gold and zero silver.
+<Short audio>What about the word. yet? How many gold and silver letters I got?
+two gold and zero silver
+All righty! Let me try this word. jet. How many gold and silver?
+two gold and zero silver
+My word is. vet. What's the score?
+two gold and zero silver
+Wow! Let me try this word. met. How many gold and silver?
+two gold and zero silver
+Aha! What about the word. let? How many gold and silver letters I got?
+three gold
+how many silver letters?
+zero silver
+I think I know. It is, let, right?
+yes
+Hip hip hooray! Another game?
+no
+Sure. Talk to you later! Bye!

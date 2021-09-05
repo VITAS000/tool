@@ -1,0 +1,10 @@
+I:
+open hurricane center
+E:
+Welcome to the Hurricane Center. Tropical Depression Delta is currently active, approximately  miles . Please say something like, tell me about Tropical Depression Delta, to hear the forecast on a single storm. Or say yes to hear them all..
+I:
+tell me about tropical depression delta
+E:
+This forecast comes from the National Hurricane Center and is updated every three to six hours. Tropical Depression Delta is an active storm currently in the Atlantic Ocean. Delta is currently generating winds of 0 miles per hour. It is located  miles . , and headed PE HTML PUBLIC  \" -//W3C//D at null miles per hour. The forecast is for this motion to change with reduction in forward speed this afternoon.  A turn toward the north is forecast to occur by late tonight, followed by a north-northeastward motion by Friday afternoon or Friday night. On the forecast track, the center of Delta will move over the western Gulf of Mexico this afternoon, over the northwestern Gulf of Mexico on Friday, and then move inland within the hurricane warning area Friday afternoon or Friday night. A hurricane warning is in effect for High Island, Texas to Morgan City, Louisiana. Hurricane conditions are expected within the hurricane warning area by Friday afternoon or evening, with tropical storm conditions expected within this area by early Friday.  Tropical storm conditions are expected within the tropical storm warning areas on Friday, and are possible in the tropical storm watch area Friday night.  Would you like complete forecast details on all of the active tropical storms?.
+I:
+no

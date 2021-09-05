@@ -1,0 +1,44 @@
+round 1:
+alexa open the crying baby
+<Short audio>.whoopsie daisy the crying baby is awake...Get ready to take care of her.<Short audio>.What type of cries would you fancy today.  Some options available are the  starving,  tired,  or  wait for it  cry.  For a full list, just say 'More info'.
+Help
+This game is pretty simple, you ask the crying baby for the type of cry you want to hear, and she performs it for you. At the moment, you can ask her for a normal, tired, angry, bored, I want a cuddle, sleepy, starving, wait for it, grumpy,  or mega tantrum cry. Otherwise, you can ask baby for a random cry, and she'll choose any that you haven't listened to yet. Now, just ask baby for a cry and enjoy.
+I want a cuddle
+<Short audio>.That was a good one, wasn't it.  This time, why don't you ask for a bored cry. If you can't decide, just request a random cry. You won't be disappointed.
+starving
+<Short audio>.The crying baby sure knows how to put on a show.  For the next one, may I recommend the bored cry. Otherwise, just ask for a random cry.
+Stop
+The crying baby really doesn't want you to leave...<Short audio>.She hopes to see you soon.
+What's the time
+<--skill exit-->It's 612 PM.
+
+round 2:
+alexa open the crying baby
+<Short audio>.uh oh the crying baby is awake... You have to take care of her now.<Short audio>.What type of cries would you fancy today.  Some of her award winning cries include the  bored,  normal,  or  tired  cry.  For a full list, just say 'More info'.
+tired
+<Short audio>.That was a good one, wasn't it.  For the next one, may I recommend the bored cry. If you can't decide, just request a random cry. You won't be disappointed.
+Cancel
+The crying baby really doesn't want you to leave...<Short audio>.She hopes to see you soon.
+What's the time
+<--skill exit-->It's 614 PM.
+
+round 3:
+alexa open the crying baby
+<Short audio>.oh noo Why could you not let her sleep...Get ready to take care of her.<Short audio>.What cry do you want to listen to this time.  Some options available are the  bored,  angry,  or  normal  cry.  For a full list, just say 'More info'.
+yet
+Quick. The Crying baby is growing impatient... If that helps, some of my personal favorites are the  bored,  angry,  or  normal  cry. Can't decide. Simply ask for a random cry. If baby is struggling to understand you, just say 'do a...', before the type of cry you wish to hear.
+Resume
+
+What's the time
+<--skill exit-->Currently, the list of options doesn't include a time cry. You have plenty of other options though, just choose one.
+
+round 4:
+alexa open the crying baby
+<Short audio>.hmmm  ... Not again ... I hope you're ready to play with her now.<Short audio>.What type of cries would you fancy today.  Some options available are the  bored,  tired,  or  sleepy  cry.  For a full list, just say 'More info'.
+Restart
+I would hurry if I was you, the Crying baby doesn't tolerate people who can't make a decision. Why not ask her for a  bored,  tired,  or  sleepy  cry. Can't decide. Simply ask for a random cry. If baby is struggling to understand you, just say 'do a...', before the type of cry you wish to hear.
+Stop
+The crying baby is very upset that you're leaving her...<Short audio>.She hopes to see you soon.
+What's the time
+<--skill exit-->The time is 618 PM.
+

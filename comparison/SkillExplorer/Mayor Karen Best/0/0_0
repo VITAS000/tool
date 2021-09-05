@@ -1,0 +1,18 @@
+I:
+open mayor of branson
+E:
+Welcome back to Branson Mayor Karen Bests Voice Experience!  We hope you support the Mayor by re-electing her on April 2nd, 2019. Let’s get started. If you don't remember the commands, you can say help..
+I:
+help
+E:
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement?  Where does Mayor Best stand on the issues?  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for re-election?  What is on the mayors to do list?   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you?.
+I:
+the mayor
+E:
+Mayor Best wants to continue working on safety and security for residents and visitors of Branson. She has lobbied Kellyanne Conway, Counsel to the president and President Trump for assistance in combating the opioid crisis in our community. Lack of regulations on drug residential treatment facilities are creating challenges for our community. Kellyanne and Senator Blunt continue to discuss solutions regarding  opiod crisis.  As Co-Chair of the twenty twenty census for the state of Missouri, Mayor Best wants to make sure Branson continues to receive a fair share of state and federal funding. This requires extensive engagement with Governor Parson and his team.  I would love to tell you the mayors mission statement.  Just ask, Alexa, what is Mayor Bests mission statement?.
+I:
+what is mayor bests mission statement
+E:
+H. O. P. E.   Hope equals Helping Other People Excel.  Let me tell you why Mayor Best is running for re-election.  Just ask me, Why is the mayor running for re-election?.
+I:
+<---no answer--->

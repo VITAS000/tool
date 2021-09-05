@@ -1,0 +1,12 @@
+I:
+open choose your adventure game
+E:
+Welcome to Choose Your Adventure Game!Say Begin, to BeginSay Stop to Stop the Programor say Help.
+I:
+begin
+E:
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+I:
+what can you do
+E:
+<---same content as before--->Please Select a Class,You have the option ofWarrior,Mage,orHealer.

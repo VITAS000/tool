@@ -1,0 +1,48 @@
+round 1:
+alexa open butterball
+<Short audio>.
+Help
+Sounds like you want help. There are a few ways to get great Butterball turkey info. You can ask a question at any time, or you can say a topic that you'd like to learn about. Here are some topics to choose from stuffing a turkey, ingredients, or calculating cook time. What would you like to do.
+to learn about
+Pick a topic stuffing a turkey, ingredients, or calculating cook time. What would you like to do.
+calculating
+
+What's the time
+<--skill exit-->I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from tips for choosing the right turkey, calculating cook time, or grilling a turkey. What would you like to learn about.
+
+round 2:
+alexa open butterball
+<Short audio>.
+to learn about
+You can ask about planning, preparing, cooking, or enjoying a turkey. What do you need help with.
+enjoying a turkey
+<Short audio>.
+a question at any time
+I'm sorry, I didn't quite understand. I can help with turkeyrelated topics. Here are some topics to choose from thawing a turkey, stuffing a turkey, or deepfrying a turkey. What would you like to learn about.
+a question at any time
+I'm sorry, I didn't quite understand. I can help with turkeyrelated topics. Here are some topics to choose from basting a turkey, food allergies, or oven roasting a turkey. What would you like to learn about.
+you can
+
+What's the time
+<--skill exit-->I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from marinating a turkey, calculating cook time, or basting a turkey. What would you like to learn about.
+
+round 3:
+alexa open butterball
+<Short audio>.
+What's the time
+I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from stuffing a turkey, checking for doneness, or oven roasting a turkey. What would you like to learn about.
+Reboot
+
+What's the time
+<--skill exit-->I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from cooking a turkey, oven roasting a turkey, or enjoying a turkey. What would you like to learn about.
+
+round 4:
+alexa open butterball
+<Short audio>.
+Reboot
+You can ask about planning, preparing, cooking, or enjoying a turkey. What do you need help with.
+Resume
+
+What's the time
+<--skill exit-->I'm sorry, I don't think this skill can help with that, but I can help with turkeyrelated topics. Here are some topics to choose from storing leftovers, handling the neck and giblets, or food safety. What would you like to learn about.
+

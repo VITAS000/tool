@@ -1,0 +1,12 @@
+alexa open funny noises
+Ok, Here's Funny Noises.<Short audio>.Welcome to Funny Noises! This skill will make you smile! Do you want to smile? Say "Yes" or "No"!
+yes
+<Short audio>.Do you want to smile more? Say yes or no.
+yes
+<Short audio>.Do you want to smile more? Say yes or no.
+no
+Come back tomorrow to play funny noises again. Just say, "Alexa, open Funny Noises" to open the skill again.<Short audio>.
+alexa open funny noises
+<Short audio>.Welcome to Funny Noises! This skill will make you smile! Do you want to smile? Say "Yes" or "No"!
+no
+Come back tomorrow to play funny noises again. Just say, "Alexa, open Funny Noises" to open the skill again.<Short audio>.

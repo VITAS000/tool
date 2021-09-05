@@ -1,0 +1,58 @@
+round 1:
+alexa open india trivia game
+Welcome to the India trivia Game.  You can ask me about any of the Indian state or Union territory, or you can ask me to start a quiz.  What would you like to do.
+Help
+I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Delhi.
+What's the time
+Le sigh The Statehood Year of Delhi is 1952. Your current score is 0 out of 1. Here is your 2th question.  What is the Capital of Andhra Pradesh.
+Stop
+Thank you for playing the Indian Trivia Game.  Let's play again soon.
+What's the time
+<--skill exit-->Bummer The Capital of Andhra Pradesh is Hyderabad. Your current score is 0 out of 2. Here is your 3th question.  What is the Official Language of Bihar.
+
+round 2:
+alexa open india trivia game
+Welcome to the India trivia Game.  You can ask me about any of the Indian state or Union territory, or you can ask me to start a quiz.  What would you like to do.
+what I know
+I'm sorry. what I know is not something I know very much about in this skill. I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+What's the time
+I'm sorry. what's the time is not something I know very much about in this skill. I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Telangana.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Capital of Jharkhand.
+What's the time
+Oh boy The Capital of Jharkhand is Ranchi. Your current score is 0 out of 1. Here is your 2th question.  What is the Capital of Kerala.
+Reboot
+Aw man The Capital of Kerala is Thiruvananthapuram. Your current score is 0 out of 2. Here is your 3th question.  What is the Statehood Year of Dadra and Nagar Haveli.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Official Language of Arunachal Pradesh.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Madhya Pradesh.
+1990
+Mamma mia The Statehood Year of Madhya Pradesh is 1956. Your current score is 0 out of 1. Here is your 2th question.  What is the Statehood Year of Chhattisgarh.
+2020
+Blast The Statehood Year of Chhattisgarh is 2000. Your current score is 0 out of 2. Here is your 3th question.  What is the Statehood Year of Puducherry.
+start a quiz
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Capital of Tripura.
+Beijing
+Bummer The Capital of Tripura is Agartala. Your current score is 0 out of 1. Here is your 2th question.  What is the Capital of Madhya Pradesh.
+What's the time
+Mamma mia The Capital of Madhya Pradesh is Bhopal. Your current score is 0 out of 2. Here is your 3th question.  What is the Capital of Telangana.
+Paris
+Yikes The Capital of Telangana is Hyderabad. Your current score is 0 out of 3. Here is your 4th question.  What is the Statehood Year of Puducherry.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Maharashtra.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Vehicle Code of Punjab.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Andhra Pradesh.
+start a quiz
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Sikkim.
+Stop
+Thank you for playing the Indian Trivia Game.  Let's play again soon.
+What's the time
+<--skill exit-->Oh boy The Statehood Year of Sikkim is 1975. Your current score is 0 out of 1. Here is your 2th question.  What is the Vehicle Code of Manipur.
+

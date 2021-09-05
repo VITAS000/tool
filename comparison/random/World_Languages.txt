@@ -1,0 +1,64 @@
+round 1:
+alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+Help
+I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+I do not know
+I'm sorry. I do not know is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+any country
+I'm sorry. any country is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+start a quiz
+OK.  I will ask you 10 questions about countries and their Languages. Here is your 1th question.  What is the officialLanguage of Fiji.
+you can
+Uh oh The Language of Fiji is English. Your current score is 0 out of 1. Here is your 2th question.  What is the officialLanguage of Albania.
+Pause
+D'oh The Language of Albania is Albanian. Your current score is 0 out of 2. Here is your 3th question.  What is the officialLanguage of Iran.
+Pause
+Bummer The Language of Iran is Old Persian. Your current score is 0 out of 3. Here is your 4th question.  What is the officialLanguage of East Timor.
+a country
+Ruh roh The Language of East Timor is Portugese. Your current score is 0 out of 4. Here is your 5th question.  What is the officialLanguage of Vatican City.
+Restart
+OK.  I will ask you 10 questions about countries and their Languages. Here is your 1th question.  What is the officialLanguage of Uganda.
+Pause
+D'oh The Language of Uganda is English. Your current score is 0 out of 1. Here is your 2th question.  What is the officialLanguage of Cambodia.
+Spanish
+Mamma mia The Language of Cambodia is Khmer. Your current score is 0 out of 2. Here is your 3th question.  What is the officialLanguage of Netherlands.
+French
+D'oh The Language of Netherlands is Dutch and Frisian. Your current score is 0 out of 3. Here is your 4th question.  What is the officialLanguage of Singapore.
+you can
+Oof The Language of Singapore is Mandarin. Your current score is 0 out of 4. Here is your 5th question.  What is the officialLanguage of Estonia.
+any country
+Blast The Language of Estonia is Estonian. Your current score is 0 out of 5. Here is your 6th question.  What is the officialLanguage of Kazakhstan.
+start a quiz
+Uh oh The Language of Kazakhstan is Kazak. Your current score is 0 out of 6. Here is your 7th question.  What is the officialLanguage of Japan.
+Stop
+Thank you for playing the World Language Game.  Let's play again soon.
+What's the time
+<--skill exit-->The time is 426 PM.
+
+round 2:
+alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+Stop
+Thank you for playing the World Language Game.  Let's play again soon.
+What's the time
+<--skill exit-->It's 427 PM.
+
+round 3:
+alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+Resume
+I'm sorry. resume is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+Exit
+
+What's the time
+<--skill exit-->The time is 429 PM.
+
+round 4:
+alexa open world languages
+Welcome to the World Language Game.  You can ask me about any country or you can ask me to start a quiz.  What would you like to do.
+Stop
+Thank you for playing the World Language Game.  Let's play again soon.
+What's the time
+<--skill exit-->It's 429 PM.
+

@@ -1,0 +1,72 @@
+round 1:
+alexa open guest reception
+You have guests. Who shall I salute.
+Help
+I can now greet your guests. For example, say Please greet James or Say hello to Mary, and I'll greet your guest.If there is anybody else here, please tell me his or her name.
+Please greet James
+In the past, my grandmother always told me about James at the fireplace. As if she'd known I'd meet you one day.Who else can I greet.
+I 'll greet your guest
+I am not able to do this.If there is anybody else here, please tell me his or her name.
+Lisa
+Nice that you're here Lisa. I thought we had to play Mikado again today.If there is anybody else here, please tell me his or her name.
+Lisa
+Who would have thought that Lisa would come today. Not me.If there is anybody else here, please tell me his or her name.
+Exit
+
+What's the time
+<--skill exit-->The time is 515 PM.
+
+round 2:
+alexa open guest reception
+You have guests. Who shall I salute.
+Pause
+Nice that you're here Pause. I thought we had to play Mikado again today.If there is anybody else here, please tell me his or her name.
+Pause
+Let's make a real party today Pause. I hope you're with it.Who else can I greet.
+hello
+Who would have thought that Hello would come today. Not me.If there is anybody else here, please tell me his or her name.
+greet
+Finally Greet is here. Well, I thought I'd never see the day..Who else can I greet.
+Say
+Everybody to the boats and put your life jackets on. Say is here.Who else can I greet.
+I 'll greet your guest
+I am not able to do this.If there is anybody else here, please tell me his or her name.
+I 'll greet your guest
+I am not able to do this.Who else can I greet.
+Cancel
+I hope I see you again Pause, Pause, Hello, Greet and Say.
+What's the time
+<--skill exit-->It's 518 PM.
+
+round 3:
+alexa open guest reception
+It's nice, that guests are here. Who can I welcome today.
+Please greet James
+Just yesterday I thought about how nice it would be for James to visit us.If there is anybody else here, please tell me his or her name.
+Harry
+Everybody to the boats and put your life jackets on. Harry is here.If there is anybody else here, please tell me his or her name.
+Exit
+
+What's the time
+<--skill exit-->It's 520 PM.
+
+round 4:
+alexa open guest reception
+Whom shall I welcome.
+Bob
+I am very happy that you are here today, Bob.If there is anybody else here, please tell me his or her name.
+I 'll greet your guest
+I am not able to do this.If there is anybody else here, please tell me his or her name.
+Cancel
+Good Bye, Bob.
+What's the time
+<--skill exit-->The time is 522 PM.
+
+round 5:
+alexa open guest reception
+You have guests. Who shall I salute.
+Stop
+Good Bye Please visit www.guestreception.rocks to edit or delete your individual greetings.
+What's the time
+<--skill exit-->It's 522 PM.
+

@@ -1,0 +1,58 @@
+round 1:
+alexa open ten pin bowling
+Welcome back to ten pin bowling. Can you top the high score of 175 by Lisa.<Short audio>.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy.
+Help
+The object of the game is to play a game of ten pin bowling and try and knock down as many pins as you can in ten frames. Play with one player or up to four. If you have Echo Buttons, watch them light up and press them to roll the ball. The premium version of the skill allows you to compete in a bowling league. Say, What can I buy, for more details. Say Bowl to get started.
+try
+To get started, please provide your name. For example, say Player One is James.
+Player One is James
+Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
+Resume
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+knock
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Resume
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Resume
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Bowl
+James starting off the first frame. Here goes the roll.<Short audio>.Sweeping hook from the right.<Short audio>.<Short audio>.That knocks down 6 pins. Still standing are the 1, 2, 4 and 7,.<Short audio>.Say bowl to roll the next ball.
+Bowl
+James trying to pick up the spare in frame 1.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 6 after 1 frames.<Short audio>.Say bowl to roll the next frame.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 1112 PM.
+
+round 2:
+alexa open ten pin bowling
+Welcome back. I noticed a game already inprogress. Do you want to resume it. Just say Yes, or to begin a new game from the beginning, Say No.
+to begin a new game from the beginning
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+What can I buy
+If you would like some competition, please purchase the premium version of this skill. It allows you to join a bowling league where you can compete with a series of players that you bowl against, and then see who can score more. Just say, Purchase Bowling League, to add it to your account.
+Bowl
+James bowling frame 2 with a score of 6. Here goes the roll.<Short audio>.Right down the middle.<Short audio>.<Short audio>.That knocks down 9 pins. Still standing is the 5 pin.<Short audio>.Say bowl to roll the next ball.
+player one is James
+Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
+Stop
+Thanks for playing ten pin bowling. Your game will be saved for later.
+What's the time
+<--skill exit-->The time is 1114 PM.
+
+round 3:
+alexa open ten pin bowling
+Welcome back. I noticed a game already inprogress. Do you want to resume it. Just say Yes, or to begin a new game from the beginning, Say No.
+Yes
+Resuming game with James currently in frame 2.<Short audio>.Please say bowl to roll the next ball.
+player one is James
+Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
+Resume
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+What can I buy
+If you would like some competition, please purchase the premium version of this skill. It allows you to join a bowling league where you can compete with a series of players that you bowl against, and then see who can score more. Just say, Purchase Bowling League, to add it to your account.
+What can I buy
+
+What's the time
+<--skill exit-->Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+

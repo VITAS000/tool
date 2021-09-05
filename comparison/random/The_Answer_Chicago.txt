@@ -1,0 +1,74 @@
+round 1:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 2:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Restart
+<--skill exit-->Starting over.
+
+round 3:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->It's 953 PM.
+
+round 4:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Restart
+<--skill exit-->starting over.
+
+round 6:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Exit
+
+What's the time
+<--skill exit-->The time is 956 PM.
+
+round 7:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 9:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 958 PM.
+
+round 10:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+What's the time
+<--skill exit-->The time is 959 PM.
+
+round 11:
+alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 1000 PM.
+

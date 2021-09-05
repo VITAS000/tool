@@ -1,0 +1,8 @@
+I:
+ask stock info amzn
+E:
+Amazon.com Inc, Ticker Symbol: AMZN \n at 3349.63 dollars is up by 38.57 dollars.   \n  Days low is 3313.75 dollars   \n  Days high is 3352.32 dollars .What is you next Stock ticker symbol or name? Or you can say Cancel or Stop to exit..
+I:
+cancel
+E:
+<---same content as before--->Thank you for trying the Stock Info..

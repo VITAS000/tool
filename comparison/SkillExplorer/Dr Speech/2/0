@@ -1,0 +1,16 @@
+I:
+open doctor speech
+E:
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready?.
+I:
+i want to practice adjective
+E:
+Great  You want to practice on adjective  How do you say clever?.
+I:
+clever
+E:
+You said it correctly.  It is clever  Do you want to continue? What category do you want to practice?.
+I:
+what can you do
+E:
+<---skill closed--->Sorry, I'm having trouble accessing your Dr Speech skill right now.

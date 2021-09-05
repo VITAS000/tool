@@ -1,0 +1,48 @@
+round 1:
+Alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Help
+With this skill , you can smile every day Say,  Alexa Play funny Noises  it will make you smile through funny tunes. Do you want to smile. Say Yes or no.
+Yes
+<Short audio>.Do you want to smile more.  Say yes or no.
+Yes
+<Short audio>.Do you want to smile more.  Say yes or no.
+yes
+<Short audio>.Do you want to smile more.  Say yes or no.
+no
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+open Funny Noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Yes
+<Short audio>.Do you want to smile more.  Say yes or no.
+no
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+Yes
+<--skill exit-->.
+
+round 2:
+Alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+No
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+No
+<--skill exit-->.
+
+round 3:
+Alexa open funny noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Yes
+<Short audio>.Do you want to smile more.  Say yes or no.
+Alexa Play funny Noises it will make you smile through funny tunes
+<Short audio>.Do you want to smile more.  Say yes or no.
+no
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+open Funny Noises
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+I do not know
+<Short audio>.Welcome to Funny Noises.  This skill will make you smile. Do you want to smile. Say Yes or No.
+Stop
+Come back tomorrow to play funny noises again. Just say, Alexa, open Funny Noises  to open the skill again.<Short audio>.
+What's the time
+<--skill exit-->The time is 722 PM.
+

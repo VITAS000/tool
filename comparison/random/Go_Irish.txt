@@ -1,0 +1,36 @@
+round 1:
+alexa open go irish
+Go Irish.<Short audio>.
+I do not know
+
+What's the time
+<--skill exit-->It's 125 PM.
+
+round 2:
+alexa open go irish
+Go Irish.<Short audio>.
+Exit
+
+What's the time
+The time is 127 PM.
+
+round 3:
+alexa open go irish
+Go Irish.<Short audio>.
+
+round 4:
+alexa open go irish
+Go Irish.<Short audio>.
+
+round 5:
+alexa open go irish
+Go Irish.<Short audio>.
+
+round 6:
+alexa open go irish
+Go Irish.<Short audio>.
+Stop
+
+What's the time
+<--skill exit-->It's 134 PM.
+

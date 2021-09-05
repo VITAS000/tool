@@ -1,0 +1,10 @@
+I:
+open guest reception
+E:
+Whom shall I welcome?.
+I:
+greet james
+E:
+Later, I will tell my children about the day when James came to us.Who else can I greet?.
+I:
+<---no answer--->

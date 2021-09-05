@@ -1,0 +1,48 @@
+round 1:
+Alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+Help
+With Yoga Teacher , you can get Based on your yoga knowledge  you can select your course like , beginner ,intermediate , or experts. For example, you can say Ask Yoga Teacher,After That You Can Set Your Level Then Say Okay To Start Learning yoga Based on Your Selected level .You Can Also Select Your Level By Saying My level is beginner. For example, My level is beginner. Which course Would You like to learn .
+Yoga Teacher
+I'm not sure what your level is, please try again.
+my level is beginner
+you selected beginner level you can start by saying , Okay.
+Okay
+Yoga is a physical and mental practise that originated from Hinduism in ancient India. Get the benefits of yoga.In beginner level we learn some basic yoga exercises.Let's StartFirst  Lie down on your back and relax. Feel the air around you, and breathe it in and out. Try to relax your body, and clear your mind of thoughts.Second Raise the outstretched right leg and hold it in the air. Then raise the left leg in the air and hold it.third Raise both legs and the head in the air. Hold it as long as possible and breathe, relaxed, on your belly.
+breathe
+
+What's the time
+<--skill exit-->The time is 432 PM.
+
+round 2:
+Alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+intermediate
+you selected intermediate level you can start by saying , Okay.
+Okay
+Yoga is a physical and mental practise that originated from Hinduism in ancient India. Get the benefits of yoga.In intermediate level we learn some intermediate yoga exercises and the muscle relaxation.Let's StartFirst yoga is  Go into the candle, raise the butt and the legs to the sky. The hands will strengthen your back. Move your feet and relax a minute in the candle.Second yoga is Lie down again and rotate the spine some times. Turn the pelvis to the right and the head to the left. And the other way round. Twist the spine as far as possible..third yoga is  Turn in the prone position and raise the right outstretched leg. Hold it and breathe, relaxed, in your belly. Then raise the left leg and hold it in the air.
+head
+
+What's the time
+<--skill exit-->It's 435 PM.
+
+round 3:
+Alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+intermediate
+you selected intermediate level you can start by saying , Okay.
+Okay
+Yoga is a physical and mental practise that originated from Hinduism in ancient India. Get the benefits of yoga.In intermediate level we learn some intermediate yoga exercises and the muscle relaxation.Let's StartFirst yoga is  Go into the candle, raise the butt and the legs to the sky. The hands will strengthen your back. Move your feet and relax a minute in the candle.Second yoga is Lie down again and rotate the spine some times. Turn the pelvis to the right and the head to the left. And the other way round. Twist the spine as far as possible..third yoga is  Turn in the prone position and raise the right outstretched leg. Hold it and breathe, relaxed, in your belly. Then raise the left leg and hold it in the air.
+raise
+<--skill exit-->Sorry, I can't control the volume on your Device.
+
+round 4:
+Alexa open yoga teacher
+Welcome sir, to yoga world please select your level. by saying,  my level is beginner.Here Are Your level  beginner ,intermediate , experts.
+my level is beginner
+you selected beginner level you can start by saying , Okay.
+Okay
+Yoga is a physical and mental practise that originated from Hinduism in ancient India. Get the benefits of yoga.In beginner level we learn some basic yoga exercises.Let's StartFirst  Lie down on your back and relax. Feel the air around you, and breathe it in and out. Try to relax your body, and clear your mind of thoughts.Second Raise the outstretched right leg and hold it in the air. Then raise the left leg in the air and hold it.third Raise both legs and the head in the air. Hold it as long as possible and breathe, relaxed, on your belly.
+Raise
+<--skill exit-->Sorry, I can't control the volume on your Device.
+

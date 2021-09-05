@@ -1,0 +1,48 @@
+round 1:
+Alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Help
+Need help, say, Service Times, Location, Phone Number, the word Repeat at anytime to hear the last thing I said or Goodbye.
+Service Times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 9 30 and then at 11 and Wednesday night at 7.  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+at
+Please say, Yes to hear more options or no thanks.
+Yes
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Service Times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 9 30 and then at 11 and Wednesday night at 7.  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+Yes
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Location
+The The Rock of Northeast Arkansas, Jonesboro, AR. is located at 43 18 East Johnson Avenue, Jonesboro, AR. Would you like more information. Say YES for more options or no thanks.
+YES
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Phone Number
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information. Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+Yes
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Phone Number
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information. Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+No
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+open The Rock of Northeast Arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Yes
+You can say, Service Times, Location, phone number Help for more options or stop.
+Service Times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 9 30 and then at 11 and Wednesday night at 7.  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+no thanks
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+have
+
+What's the time
+<--skill exit-->It's 1122 PM.
+
+round 2:
+Alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+No
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+Jonesboro
+<--skill exit-->This might answer your question According to Wikipedia Jonesboro is a city located on Crowley's Ridge in the northeastern corner of the U.S. State of Arkansas. Jonesboro is one of two county seats of Craighead County. According to the 2010 Census, the city had a population of 67,263 and is the fifthlargest city in Arkansas. In 2010, the Jonesboro metropolitan area had a population of 121,026 and a population of 163,116 in the JonesboroParagould Combined Statistical Area.
+

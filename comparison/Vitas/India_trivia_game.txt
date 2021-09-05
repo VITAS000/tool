@@ -1,0 +1,56 @@
+round 1:
+Alexa open india trivia game
+Welcome to the India trivia Game.  You can ask me about any of the Indian state or Union territory, or you can ask me to start a quiz.  What would you like to do.
+Help
+I know lots of things about the Indian state. You can ask me about a Indian state, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do.
+start a quiz
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Official Language of Mizoram.
+the Indian state and Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Vehicle Code of Mizoram.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Vehicle Code of West Bengal.
+you can
+Dun dun dun The Vehicle Code of West Bengal is WB. Your current score is 0 out of 1. Here is your 2th question.  What is the Statehood Year of Assam.
+1990
+Shucks The Statehood Year of Assam is 1950. Your current score is 0 out of 2. Here is your 3th question.  What is the Vehicle Code of Karnataka.
+start a quiz
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Uttarakhand.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Vehicle Code of Jammu and Kashmir.
+what I know
+Bummer The Vehicle Code of Jammu and Kashmir is JK. Your current score is 0 out of 1. Here is your 2th question.  What is the Statehood Year of Meghalaya.
+Kashmir
+Shucks The Statehood Year of Meghalaya is 1972. Your current score is 0 out of 2. Here is your 3th question.  What is the Statehood Year of Telangana.
+1990
+Darn The Statehood Year of Telangana is 2014. Your current score is 0 out of 3. Here is your 4th question.  What is the Vehicle Code of Himachal Pradesh.
+you can
+Uh oh The Vehicle Code of Himachal Pradesh is HP. Your current score is 0 out of 4. Here is your 5th question.  What is the Capital of West Bengal.
+Beijing
+Oof The Capital of West Bengal is Kolkata. Your current score is 0 out of 5. Here is your 6th question.  What is the Official Language of Telangana.
+English
+Aw man The Official Language of Telangana is Telugu. Your current score is 0 out of 6. Here is your 7th question.  What is the Statehood Year of Himachal Pradesh.
+1990
+Ruh roh The Statehood Year of Himachal Pradesh is 1971. Your current score is 0 out of 7. Here is your 8th question.  What is the Official Language of Daman and Diu.
+English
+Oh snap. The Official Language of Daman and Diu is English. Your current score is 1 out of 8. Here is your 9th question.  What is the Official Language of Rajasthan.
+Diu
+Aw man The Official Language of Rajasthan is Hindi. Your current score is 1 out of 9. Here is your 10th question.  What is the Official Language of Mizoram.
+English
+Bazinga. The Official Language of Mizoram is English. Your final score is 2 out of 10. Thank you for playing the Indian Trivia Game.  Let's play again soon.
+what I know
+Oh dear The Official Language of Mizoram is English. Your final score is 2 out of 10. Thank you for playing the Indian Trivia Game.  Let's play again soon.
+you can
+Shucks The Official Language of Mizoram is English. Your final score is 2 out of 10. Thank you for playing the Indian Trivia Game.  Let's play again soon.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Statehood Year of Bihar.
+start a quiz
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Official Language of Jammu and Kashmir.
+a Indian state
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Vehicle Code of Gujarat.
+any of the Indian state or Union territory
+OK.  I will ask you 10 questions about the Indian state and Union territory. Here is your 1th question.  What is the Capital of Daman and Diu.
+Stop
+Thank you for playing the Indian Trivia Game.  Let's play again soon.
+What's the time
+<--skill exit-->Honk The Capital of Daman and Diu is Daman. Your current score is 0 out of 1. Here is your 2th question.  What is the Official Language of Telangana.
+

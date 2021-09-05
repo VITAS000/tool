@@ -1,0 +1,60 @@
+round 1:
+Alexa open animal sounds
+ahoy there, what animal sound would you like to hear.
+Help
+Ask me for an animal noise, try sheep, cow or lion to get started, or just say random.
+an animal noise
+Here comes  a cat sound.<Short audio>.How about another random animal sound.
+an animal noise
+Get ready for  a seagull sound.<Short audio>.Shall I play another random animal sound.
+Yes
+Get ready for  a crocodile sound.<Short audio>.How about another random animal sound.
+an animal noise
+Get ready for  a goose sound.<Short audio>.Try saying another animal or just say random.
+another animal
+Here comes  a dolphin sound.<Short audio>.How about another random animal sound.
+an animal noise
+here's  a frog sound.<Short audio>.Try saying another animal. or just say random.
+just
+uh oh, I'm not sure what sound that animal makes, How about saying another animal.
+another animal
+Here comes  a fly sound.<Short audio>.Try saying another animal or just say random.
+just
+uh oh, I don't know what sound that animal makes, How about saying another animal.
+another animal
+Here comes  an elephant sound.<Short audio>.What animal sound would you like to hear now.
+rat
+Here comes  a rat sound.<Short audio>.Would you like a random animal sound.
+Yes
+Here comes  a zebra sound.<Short audio>.What animal would you like to hear now.
+rat
+here's  a rat sound.<Short audio>.Try saying another animal.
+another animal
+here's  a seal sound.<Short audio>.Would you like another random animal sound.
+Yes
+Get ready for  a gorilla sound.<Short audio>.Shall I play another random animal sound.
+No
+ok. How about asking, What sound does a penguin make.
+What sound does a penguin make
+Here comes  a penguin sound.<Short audio>.Would you like a random animal sound.
+Yes
+Here comes  a kookaburra sound.<Short audio>.What animal would you like to hear now.
+rat
+Here comes  a rat sound.<Short audio>.Try saying another animal. or just say random.
+just
+uh oh, I'm not sure what sound that animal makes, How about saying another animal.
+try sheep
+here's  a sheep sound.<Short audio>.What animal would you like to hear now.
+cow
+Here comes  a cow sound.<Short audio>.Would you like a random animal sound.
+No
+ok. How about asking, What sound does an otter make.
+What sound does an otter make
+Here comes  an otter sound.<Short audio>.How about saying another animal.
+another animal
+Get ready for  a lemur sound.<Short audio>.Try saying another animal. or just say random.
+Stop
+okey dokey.
+What's the time
+<--skill exit-->The time is 1211 PM.
+

@@ -1,0 +1,32 @@
+alexa open computer sales
+Welcome to the build a pc sales skill! Say "today's deals" to get started!
+help
+Say "today's deals" to get started. You can choose a part type like "ssd", "hdd", "cpu", or pick one from the list in the skill's description
+today's deals
+What part would you like to see sales for?
+ssd
+So you want to see ssd deals, correct?
+yes
+There are 3 ssd deals today! You can check your alexa app for more details. [SSD] SK hynix Gold P31 1TB PCIe NVMe Gen3 M.2 2280 - $114.74 ($134.99-$20.25 with 15% off coupon), [SSD] Team Group MP33 M.2 2280 2TB PCIe 3.0 x4 - $183, [SSD] Intel 670p M.2 1 TB - $100 ($25 Off)
+alexa open computer sales
+Welcome to the build a pc sales skill! Say "today's deals" to get started!
+today's deals
+What part would you like to see sales for?
+hdd
+So you want to see hdd deals, correct?
+yes
+There are no hdd deals at the moment... Try again another day.
+alexa open computer sales
+Welcome to the build a pc sales skill! Say "today's deals" to get started!
+today's deals
+What part would you like to see sales for?
+c. p. u.
+So you want to see C deals, correct?
+no
+Sorry. Say "today's deals" to try again
+today's deals
+What part would you like to see sales for?
+c. p. u.
+So you want to see C deals, correct?
+yes
+There are no c deals at the moment... Try again another day.

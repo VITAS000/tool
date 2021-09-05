@@ -1,0 +1,72 @@
+round 1:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+Help
+Here are some of the things you can say Repeat. Start over. If you're done, say stop. . . . . How many people want to play Song Quiz. Say a number between one and four.
+Stop
+<Short audio>.
+What's the time
+<--skill exit-->It's 139 PM.
+
+round 2:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+What's the time
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+a number between one
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+4
+You've got rewards waiting for you. Start your free trial to unlock 25 exclusive playlists like 2000s Rap and 70s Classic Rock. Would you like to start your threeday free trial.
+Repeat
+Sorry, I didn't catch that.
+a number between one
+No worries.  Choose a pop music decade. You can say 60s, 70s, 80s, 90s, 2000s, or 2010s.
+Repeat
+Sorry, I didn't catch that. You can say 60s, 70s, 80s, 90s, 2000s, or 2010s.
+Exit
+
+What's the time
+<--skill exit-->It's 143 PM.
+
+round 3:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+a number between one
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+stop
+<Short audio>.
+What's the time
+<--skill exit-->The time is 144 PM.
+
+round 4:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+Exit
+
+What's the time
+<--skill exit-->It's 145 PM.
+
+round 5:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+Restart
+How many people want to play Song Quiz. You can say 1 to 4.
+Reboot
+Sorry, I didn't catch that. How many people want to play Song Quiz. Say a number between one and four.
+1
+What is your first name.
+Lisa
+Where are you from.
+stop
+<Short audio>.
+What's the time
+<--skill exit-->It's 147 PM.
+
+round 6:
+alexa open song quiz
+Welcome to Song Quiz.  How many people want to play Song Quiz. You can say 1 to 4.
+Stop
+<Short audio>.
+What's the time
+<--skill exit-->It's 148 PM.
+

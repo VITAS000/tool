@@ -1,0 +1,18 @@
+I:
+open butterball
+E:
+&lt;Short audio&gt;.
+I:
+how long will it take to thaw my turkey
+E:
+Okay, I can handle that. Let's calculate thaw time for your Butterball turkey. How many pounds is your turkey?.
+I:
+two hundred point two
+E:
+I didn't catch that. I'm listening for a number between one and thirty. How many pounds is your turkey?.
+I:
+thirty
+E:
+I'm sorry, I can't seem to understand the number you're saying. In general, Butterball recommends thawing a turkey in the refrigerator 24 hours for every 4 pounds of turkey. Try again soon!.
+I:
+<---no answer--->

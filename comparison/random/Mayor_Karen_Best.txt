@@ -1,0 +1,48 @@
+round 1:
+alexa open mayor of branson
+Welcome back to Branson Mayor Karen Bests Voice Experience.  We hope you support the Mayor by reelecting her on April 2nd, 2019. Let's get started. If you don't remember the commands, you can say help.
+Help
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement.  Where does Mayor Best stand on the issues.  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for reelection.  What is on the mayors to do list.   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you.
+me things like
+Blarg , I didn't quite catch that, say again .  You could try saying help if you don't recall the commands.
+again
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement.  Where does Mayor Best stand on the issues.  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for reelection.  What is on the mayors to do list.   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you.
+then interrupt me with what you want
+Darn , Totally missed that one. What did you ask me .  You could try saying help if you don't recall the commands.
+Restart
+Sorry, I can't understand the command. Please say again.
+help
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement.  Where does Mayor Best stand on the issues.  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for reelection.  What is on the mayors to do list.   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you.
+interrupt
+ruh roh , I didn't really understand that. Maybe we can try something else.   You could try saying help if you don't recall the commands.
+then interrupt me with what you want
+Aw man, I didn't understand that request. Perhaps try phrasing it a different way  You could try saying help if you don't recall the commands.
+interrupt
+Darn , Totally missed that one. What did you ask me .  You could try saying help if you don't recall the commands.
+Restart
+Sorry, I can't understand the command. Please say again.
+then interrupt me with what you want
+Good grief , I have no idea what you're asking. Let's try this again.  You could try saying help if you don't recall the commands.
+interrupt
+Blah , I'm afraid I didn't understand that. Can you try saying it differently .  You could try saying help if you don't recall the commands.
+Cancel
+bon voyage , This Voice Experience was paid for by Karen Best for Mayor, Timothy S. Davis, Treasurer, and created by VoiceXP dot com.
+What's the time
+<--skill exit-->Good grief , I have no idea what you're asking. Let's try this again.  You could try saying help if you don't recall the commands.
+
+round 2:
+alexa open mayor of branson
+Welcome back to Branson Mayor Karen Bests Voice Experience.  We hope you support the Mayor by reelecting her on April 2nd, 2019. Let's get started. If you don't remember the commands, you can say help.
+then interrupt me with what you want
+Blah , I'm afraid I didn't understand that. Can you try saying it differently .  You could try saying help if you don't recall the commands.
+help
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement.  Where does Mayor Best stand on the issues.  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for reelection.  What is on the mayors to do list.   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you.
+help
+Greetings from Mayor Karen Best.  I can do several things to help you.  You can ask me things like, Tell me about the mayor.  What is Mayor Bests mission statement.  Where does Mayor Best stand on the issues.  Tell me about Public Safety.  Tell me about Infrastructure. Tell me about Economic Development. Why is the mayor running for reelection.  What is on the mayors to do list.   Or I can help you volunteer for the mayor or request Mayor Best at an event.  I know that is a lot, so if you need me to repat it, just say repeat, and then interrupt me with what you want to do.  Now, what can I do for you.
+I do not know
+Good grief , I have no idea what you're asking. Let's try this again.  You could try saying help if you don't recall the commands.
+Stop
+goodbye.
+What's the time
+<--skill exit-->D'oh , Too busy dreaming about donuts, can you repeat that request .  You could try saying help if you don't recall the commands.
+

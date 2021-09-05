@@ -1,0 +1,12 @@
+I:
+open song quiz
+E:
+Welcome back to Song Quiz.  How many people want to play Song Quiz?.
+I:
+i am an albatraoz
+E:
+It looks like you haven't bought any products yet! How many people want to play Song Quiz? Say a number between one and four..
+I:
+four
+E:
+<---same content as before---> Choose a pop music decade. .

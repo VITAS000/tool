@@ -1,0 +1,36 @@
+round 1:
+alexa open barsa news
+Ok, Here's NewsChest Unofficial FC Barcelona news..<Short audio>.With the Barca news skill, you can get news on the Barcelona team. Say get news, or, get headlines.
+Help
+With the Barca news skill, you can get news on the Barcelona team. Say get news, or, get headlines.
+Restart
+.<Short audio>.Headline It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Read this article or get you the next one.
+Cancel
+.<Short audio>.Hope you liked this skill. Bye for now.
+What's the time
+<--skill exit-->The time is 526 PM.
+
+round 2:
+alexa open barsa news
+.<Short audio>.With the Barca news skill, you can get news on the Barcelona team. Say get news, or, get headlines.
+get
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+What's the time
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+get news
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+What's the time
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+What's the time
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+get news
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+get news
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+get news
+.<Short audio>.Josep Maria Argimon left good news in relation to the next season for the Barcelona, afterwards to having declared from his place of Conseller of Salut of the Government of Catalonia, going through the microphones of RAC1 to inform on the big possibility to have public in the stadiums.There will be public. If it will be 100 do not know it, and afterwards will have to look how goes the pandemia, began Argimon when being asked on the situation of pandemia in Barcelona, that follows  It goes back the public. The Camp Nou will be able to receive again to the culés the next season. Next article.
+Stop
+.<Short audio>.Hope you liked this skill. Bye for now.
+What's the time
+<--skill exit-->It's 535 PM.
+

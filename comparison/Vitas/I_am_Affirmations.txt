@@ -1,0 +1,28 @@
+round 1:
+Alexa open i am affirmations
+Welcome to i am affirmations skill   Hope you are having a wonderful day .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+Help
+With I am affirmations,  you can listen to sequence of affirmations that will help you jump start your day and strengthen your mindset. There is a little pause after each affirmation to give you a chance to repeat it. Choose a number between one and three when you are ready to start...
+three
+I am enough and I have enough.      I AM curious about all the solutions that I havent thought of yet.     I am courageous and I stand up for myself.     I am motivated and inspired to make the choices that I now are for my highest good.    I am unstoppable      I am willing to create new habits that supports my personal growth.    I am blessed with many things to be grateful for.    I am allowing strength and courage into my life.     I am willing to accept the things I cannot change.      I am ever expanding, yet whole.     This is the end of the third sequence. Say repeat  to go over it again. Say back  to choose another sequence  or stop  to exit.
+stand
+
+What's the time
+<--skill exit-->
+
+round 2:
+Alexa open i am affirmations
+Welcome to i am affirmations skill   How was your day so far.   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+three
+
+What's the time
+<--skill exit-->
+
+round 3:
+Alexa open i am affirmations
+Welcome to i am affirmations skill   Hope you are having a wonderful day .   Are you ready for your affirmations.    Choose a number between one and three to start listening.  And do not forget to repeat after me .
+three
+
+What's the time
+<--skill exit-->
+

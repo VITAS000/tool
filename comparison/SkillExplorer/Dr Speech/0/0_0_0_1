@@ -1,0 +1,16 @@
+I:
+open doctor speech
+E:
+Welcome to Doctor Speech. Let's Begin Your Lesson.  Are you ready?.
+I:
+yes
+E:
+Please tell me what category of words you want to practice on? You can choose nouns, verbs or adjectives..
+I:
+nouns
+E:
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives?.
+I:
+verbs
+E:
+<---same content as before--->Please choose a category first. Do you want to practice on nouns, verbs or adjectives?.

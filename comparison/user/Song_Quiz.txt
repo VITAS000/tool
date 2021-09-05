@@ -1,0 +1,26 @@
+alexa open song quiz
+Welcome back to Song Quiz. How many people want to play Song Quiz? You can say 1 to 4.
+one
+What is your first name?
+pigxu
+Where are you from?
+two eleven
+You've got rewards waiting for you! Start your free trial to unlock 25 exclusive playlists like 2000s Rap and 70s Classic Rock! Would you like to start your seven-day free trial?
+no
+No worries. Choose a pop music decade, or this month's featured playlist: Mom's Melodies. . You can say Mom's Melodies, 60s, 70s, 80s, 90s, 2000s, or 2010s.
+twenty ten second
+Starting your 2010s game. Searching for an opponent...<Short audio>.Your opponent is Ken from Idaho. I'll play 7 short clips from the 2010s . Guess the song title or artist, or you can guess both for bonus points. If you need more time, just say "Repeat." Question 1 of 7, for 10 points. After the music stops, name the song title and artist:<Audio only response>
+i do not know
+Sweet.<Short audio>.You got 10 points, plus an extra 10 bonus points. The song was Cheerleader by Omi. Ken answered incorrectly. Your score is 20 and Ken's score is 0. Question 2 , for 10 points. Name the song title and artist:<Audio only response>
+love yourself by justin bieber
+Oh snap.<Short audio>.You got 10 points, plus an extra 10 bonus points. The song was Love Yourself by Justin Bieber. Ken answered correctly. Your score is 40 and Ken's score is 10. Question 3 , for 10 points.<Audio only response>
+need you now
+That's correct.<Short audio>.You got the title for 10 points. The song was Need You Now by Lady Antebellum. Ken answered incorrectly. Your score is 50 and Ken's score is 10. Question 4 , for 20 points.<Audio only response>
+i do not know
+You got it.<Short audio>.You got the title for 20 points. The song was Lips Are Movin by Meghan Trainor. Ken answered incorrectly. Your score is 70 and Ken's score is 10. Question 5 , for 20 points.<Audio only response>
+no idea
+The song was My House by Flo Rida. Ken answered correctly. Your score is 70 and Ken's score is 30. Question 6 , for 20 points.<Audio only response>
+no idea
+The song was Am I Wrong by Nico and Vinz. Ken answered correctly. Your score is 70 and Ken's score is 50. It's time for the Song Quiz Bonus Round!<Short audio>.Question 7 , for 40 points.<Audio only response>
+no idea
+The song was Lights by Ellie Goulding. Ken answered correctly. Your score is 70 and Ken's score is 100. That was trash. Ken won!<Short audio>.You've piled up 70 points in Song Quiz. Level 2 is at 150 points. Keep hustlin'. By the way, did you know, you can score extreme points by playing our daily challenges? Do you want to be notified of your next daily challenge?

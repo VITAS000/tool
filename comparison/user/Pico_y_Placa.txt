@@ -1,0 +1,40 @@
+alexa open pico e. placa
+Ok, Here's Pico y Placa.Hi, welcome to Medejean's Pico e Placa Alexa Skill. The restriction for which day or numbers would you like to know about?
+help
+You can choose among these days and numbers: monday, tuesday, wednesday, thursday, friday, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Be sure to use the full name .
+oh
+You haven't used a proper day or number, you can say Help.
+zero
+Zero has pico e placa on Tuesday and Thursday. What other day or number would you like to know about??
+one
+one has pico e placa on Tuesday and Thursday. What other day or number would you like to know about??
+two
+two has pico e placa on Tuesday and Friday. What other day or number would you like to know about??
+three
+three has pico e placa on Tuesday and Friday. What other day or number would you like to know about??
+four
+four has pico e placa on Wednesday and Friday. What other day or number would you like to know about??
+five
+five has pico e placa on Wednesday and Friday. What other day or number would you like to know about??
+six
+six has pico e placa on Monday and Wednesday. What other day or number would you like to know about??
+seven
+seven has pico e placa on Monday and Wednesday. What other day or number would you like to know about??
+eight
+eight has pico e placa on Monday and Thursday. What other day or number would you like to know about??
+nine
+nine has pico e placa on Monday and Thursday. What other day or number would you like to know about??
+monday
+Monday's pico e placa is: 6 7 8 and 9. What other day or number would you like to know about??
+tuesday
+Tuesday's pico e placa is: 0 1 2 and 3. What other day or number would you like to know about?
+wednesday
+Wednesday's pico e placa is: 4 5 6 and 7. What other day or number would you like to know about?
+thursday
+Thursday's pico e placa is: 8 9 0 and 1. What other day or number would you like to know about?
+friday
+Friday's pico e placa is: 2 3 4 and 5. What other day or number would you like to know about?
+saturday
+You haven't used a proper day or number, you can say Help.
+stop
+Thank you. Bye Bye!

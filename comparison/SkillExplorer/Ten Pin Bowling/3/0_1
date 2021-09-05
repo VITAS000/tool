@@ -1,0 +1,10 @@
+I:
+open ten pin bowling
+E:
+ Welcome back. I noticed a game already in-progress. Do you want to resume it? Just say Yes, or to begin a new game from the beginning, Say No. .
+I:
+help
+E:
+ The object of the game is to play a game of ten pin bowling and try and knock down as many pins as you can in ten frames. Play with one player or up to four. If you have Echo Buttons, watch them light up and press them to roll the ball. The premium version of the skill allows you to compete in a bowling league. Say, What can I buy, for more details. Say Bowl to get started.  .
+I:
+bowl

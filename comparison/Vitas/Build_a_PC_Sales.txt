@@ -1,0 +1,76 @@
+round 1:
+Alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Help
+Say today's deals to get started. You can choose a part type like ssd, hdd, cpu, or pick one from the list in the skill's description.
+today 's deals
+What part would you like to see sales for.
+today 's deals
+What part would you like to see sales for.
+hdd
+So you want to see hdd deals, correct.
+hdd
+So you want to see hdd deals, correct.
+cpu
+
+What's the time
+<--skill exit-->The time is 1035 AM.
+
+round 2:
+Alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+cpu
+Sorry, I can't understand the command. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+I do not know
+So you want to see I deals, correct.
+hdd
+So you want to see hdd deals, correct.
+today 's deals
+There are no hdd deals at the moment... Try again another day.
+today 's deals
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.It's 249.99, after 50.00 savings.
+
+round 3:
+Alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+I do not know
+So you want to see I deals, correct.
+cpu
+Sorry, I can't understand the command. Say today's deals to get started.
+today 's deals
+What part would you like to see sales for.
+I do not know
+So you want to see I deals, correct.
+hdd
+So you want to see hdd deals, correct.
+today 's deals
+There are no hdd deals at the moment... Try again another day.
+cpu
+<--skill exit-->Reverend Canon Percy Umfreville Henn was a clergyman and teacher in England and later Western Australia.
+
+round 4:
+Alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Pause
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Resume
+
+What's the time
+<--skill exit-->Sorry, I can't understand the command. Say today's deals to get started.
+
+round 5:
+Alexa open computer sales
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Restart
+Welcome to the build a pc sales skill. Say today's deals to get started.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 1043 AM.
+

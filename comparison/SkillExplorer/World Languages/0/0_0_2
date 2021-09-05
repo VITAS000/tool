@@ -1,0 +1,14 @@
+I:
+open world languages
+E:
+ Welcome to the World Language Game!  You can ask me about any country or you can ask me to start a quiz.  What would you like to do? .
+I:
+any country
+E:
+ I'm sorry. any country is not something I know very much about in this skill. I know lots of things about countries and their Languages.  You can ask me about a country, and I'll tell you what I know.  You can also test your knowledge by asking me to start a quiz.  What would you like to do? .
+I:
+start a quiz
+E:
+ OK.  I will ask you 10 questions about countries and their Languages. Here is your 1th question.  What is the officialLanguage of Ecuador? .
+I:
+<---no answer--->

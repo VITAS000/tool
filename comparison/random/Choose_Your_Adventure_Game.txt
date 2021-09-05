@@ -1,0 +1,58 @@
+round 1:
+alexa open choose your adventure game
+Here's the skill Choose Your Adventure Game, by Jaden Drury.Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Help
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+to leave the program
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Pause
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Help
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+to BeginSay Stop
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+quit
+
+What's the time
+<--skill exit-->The time is 242 PM.
+
+round 2:
+alexa open choose your adventure game
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Stop
+Come back tomorrow to play the experience again. Just say, Alexa, open Choose Your Adventure Game  to open the skill again.
+What's the time
+<--skill exit-->The time is 243 PM.
+
+round 3:
+alexa open choose your adventure game
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+to leave the program
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+numbered
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Restart
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Resume
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Restart
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+to BeginSay Stop
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Mage
+You have selected Mage, known for your mysterious powers, Would you like to proceed.
+No
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+to BeginSay Stop
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Help
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Restart
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Restart
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Stop
+Come back tomorrow to play the experience again. Just say, Alexa, open Choose Your Adventure Game  to open the skill again.
+What's the time
+<--skill exit-->It's 249 PM.
+

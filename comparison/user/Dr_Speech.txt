@@ -1,0 +1,16 @@
+alexa open doctor speech
+Welcome to Doctor Speech. Let's Begin Your Lesson. Are you ready?
+yes
+Please tell me what category of words you want to practice on? You can choose nouns, verbs or adjectives.
+nouns
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives?
+yes
+Please tell me what category of words you want to practice on? You can choose nouns, verbs or adjectives.
+nouns
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives?
+verbs
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives?
+adjectives
+Please choose a category first. Do you want to practice on nouns, verbs or adjectives?
+no
+I hope you enjoy Doctor Speech. Goodbye!

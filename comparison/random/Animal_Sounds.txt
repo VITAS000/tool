@@ -1,0 +1,78 @@
+round 1:
+alexa open animal sounds
+hey there, what animal sound would you like to hear.
+Help
+Ask me for an animal noise, try sheep, cow or lion to get started, or just say random.
+What's the time
+oh boy, It doesnt sound like animal sounds can do that. Try saying exit or ask me for a random animal.
+cow
+Here comes  a cow sound.<Short audio>.What animal sound would you like to hear now.
+Cancel
+okey dokey.
+What's the time
+<--skill exit-->It's 1237 PM.
+
+round 2:
+alexa open animal sounds
+ahoy there, what animal sound would you like to hear.
+Reboot
+uh oh, I don't know what sound that animal makes, How about saying another animal.
+lion
+Here comes  a lion sound.<Short audio>.How about saying another animal.
+random
+here's  a chick sound.<Short audio>.Shall I play another random animal sound.
+random
+here's  an owl sound.<Short audio>.What animal would you like to hear now.
+try
+uh oh, I don't know what sound that animal makes, How about saying another animal.
+Restart
+uh oh, I'm not sure what sound that animal makes, Try saying another animal.
+cow
+Here comes  a cow sound.<Short audio>.What animal sound would you like to hear now.
+Stop
+okey dokey.
+What's the time
+<--skill exit-->It's 1241 PM.
+
+round 3:
+alexa open animal sounds
+hey, what animal sound would you like to hear.
+lion
+Get ready for  a lion sound.<Short audio>.Try saying another animal. or just say random.
+Cancel
+okey dokey.
+What's the time
+<--skill exit-->The time is 1242 PM.
+
+round 4:
+alexa open animal sounds
+aloha, what animal sound would you like to hear.
+random
+here's  a puffin sound.<Short audio>.Try saying another animal or just say random.
+cow
+Get ready for  a cow sound.<Short audio>.What animal sound would you like to hear now.
+chicken
+Here comes  a chicken sound.<Short audio>.How about saying another animal.
+Restart
+uh oh, I don't know what sound that animal makes, How about saying another animal.
+try sheep
+Here comes  a sheep sound.<Short audio>.How about saying another animal.
+lion
+here's  a lion sound.<Short audio>.How about saying another animal.
+Stop
+okey dokey.
+What's the time
+<--skill exit-->It's 1245 PM.
+
+round 5:
+alexa open animal sounds
+hey, what animal sound would you like to hear.
+an animal noise
+here's  a dolphin sound.<Short audio>.What animal sound would you like to hear now.
+Restart
+uh oh, I don't know what sound that animal makes, How about saying another animal.
+Stop
+okey dokey.
+What's the time
+<--skill exit-->It's 1246 PM.
+

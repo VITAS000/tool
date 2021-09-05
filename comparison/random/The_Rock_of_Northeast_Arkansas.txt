@@ -1,0 +1,66 @@
+round 1:
+alexa open the rock of northeast arkansas
+Ok, Here's The Rock of Northeast Arkansas.Welcome to The Rock of Northeast Arkansas, Jonesboro, AR. We are a Church of God church and welcome everyone and anyone to attend services with us. What can we help you with. You can say, Service Times, Location, Phone Number  Help for more options or stop.
+Help
+What information can I help you with. You can say, Service Times, Location, Phone number repeat and I'll repeat what I just said or Goodbye to Stop, if you're finished getting the information you need.
+stop
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+What's the time
+<--skill exit-->It's 1130 PM.
+
+round 2:
+alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+stop
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+What's the time
+<--skill exit-->It's 1131 PM.
+
+round 3:
+alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Service Times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 9 30 and then at 11 and Wednesday night at 7.  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+Location
+The The Rock of Northeast Arkansas, Jonesboro, AR. is located at 43 18 East Johnson Avenue, Jonesboro, AR. Would you like more information. Say YES for more options or no thanks.
+Goodbye
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+if you 're finished getting the information you need
+<--skill exit-->.
+
+round 4:
+alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Pause
+
+What's the time
+<--skill exit-->It's 1134 PM.
+
+round 5:
+alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Jonesboro
+You can say, Service Times, Location, phone number Help for more options or stop.
+Service Times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 9 30 and then at 11 and Wednesday night at 7.  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+welcome
+Please say, Yes to hear more options or no thanks.
+Stop
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+What's the time
+<--skill exit-->The time is 1136 PM.
+
+round 6:
+alexa open the rock of northeast arkansas
+Handing off to The Rock of Northeast Arkansas by InfoByVoice.Welcome back to The Rock of Northeast Arkansas, Jonesboro, AR.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Phone Number Help
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information. Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+if you 're finished getting the information you need
+Please say, Yes to hear more options or no thanks.
+Goodbye
+Come back anytime by saying Alexa, open The Rock of Northeast Arkansas. Thanks for stopping by, We hope to see you soon and have a blessed day.
+Exit
+
+What's the time
+<--skill exit-->The time is 1139 PM.
+

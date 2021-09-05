@@ -1,0 +1,80 @@
+round 1:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 2:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Restart
+<--skill exit-->starting over.
+
+round 3:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Reboot
+<--skill exit-->Starting over.
+
+round 4:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 937 PM.
+
+round 5:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Exit
+
+What's the time
+<--skill exit-->The time is 938 PM.
+
+round 6:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Cancel
+
+What's the time
+<--skill exit-->It's 940 PM.
+
+round 7:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+What's the time
+<--skill exit-->It's 940 PM.
+
+round 8:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 9:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 10:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Restart
+<--skill exit-->starting over.
+
+round 11:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 12:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 943 PM.
+

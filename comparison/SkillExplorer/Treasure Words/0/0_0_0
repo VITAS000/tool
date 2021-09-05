@@ -1,0 +1,14 @@
+I:
+open treasure words
+E:
+&lt;Short audio&gt;. .&lt;Short audio&gt;. .&lt;Short audio&gt;. Welcome back! Think of a three-letter word, with no repeating letters, and let me guess it. .&lt;Short audio&gt;. Ready to play?.
+I:
+yes
+E:
+OK, here is the first question. Let me try this word. the.  How many gold and silver?.
+I:
+yes
+E:
+Sorry, I don't understand..
+I:
+<---no answer--->

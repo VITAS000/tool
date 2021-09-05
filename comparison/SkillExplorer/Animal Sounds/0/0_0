@@ -1,0 +1,48 @@
+I:
+open animal sounds
+E:
+Welcome to Animal Sounds. A world full of your favorite animals. Just say the name of an animal or say  \" Random \"  to get some inspiration. What do you want me to do?.
+I:
+random
+E:
+This is the sound of the horse: .&lt;Short audio&gt;. Ok, which other animal sound do you want to listen to?.
+I:
+cat
+E:
+the cat sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.
+I:
+another animal
+E:
+the fish sounds like this: .&lt;Short audio&gt;. Come on, ask for another animal!.
+I:
+another animal
+E:
+the fish sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.
+I:
+another animal
+E:
+the monkey sounds like this: .&lt;Short audio&gt;. Come on, ask for another animal!.
+I:
+another animal
+E:
+This is the sound of the bear: .&lt;Short audio&gt;. Ok, which other animal sound do you want to listen to?.
+I:
+cat
+E:
+the cat sounds like this: .&lt;Short audio&gt;. Come on, ask for another animal!.
+I:
+another animal
+E:
+the duck sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.
+I:
+another animal
+E:
+the sheep sounds like this: .&lt;Short audio&gt;. Come on, ask for another animal!.
+I:
+another animal
+E:
+the mouse sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.
+I:
+another animal
+E:
+<---same content as before--->the duck sounds like this: .&lt;Short audio&gt;. Alright, now ask me for another animal!.

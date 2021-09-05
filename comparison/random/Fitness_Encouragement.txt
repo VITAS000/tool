@@ -1,0 +1,36 @@
+round 1:
+alexa open fitness encouragement
+Ok, Here's Fitness Encouragement.Welcome to no excuse fitness. Are you ready to get started.
+Help
+With these tips, you can get ideas on how to begin your fitness program. Do you want to get started now., There are a number of benefits that come with fitness, including protection from injury and illness, providing a feeling of strength and confidence and improvement in appearance. That said, most people don't have the slightest idea how to begin working out. When choosing an exercise routine, choose something that you enjoy doing. If you enjoy doing the routine, chances are you will stick to it. If you dread your routine, you will continually make excuses as to why you can't or don't want to get in your workout for the day. Walking is a great exercise. Walking is easy to do almost anywhere and most anyone can do it. Walking will help raise your metabolism. It also helps to lower blood pressure and pulse rate. Walking is also great to strengthen your muscles and help you to lose excess body fat. Would you like to hear more. There are a number of benefits that come with fitness, including protection from injury and illness, providing a feeling of strength and confidence and improvement in appearance. That said, most people don't have the slightest idea how to begin working out.  When choosing an exercise routine, choose something that you enjoy doing. If you enjoy doing the routine, chances are you will stick to it. If you dread your routine, you will continually make excuses as to why you can't or don't want to get in your workout for the day. Walking is a great exercise. Walking is easy to do almost anywhere and most anyone can do it. Walking will help raise your metabolism. It also helps to lower blood pressure and pulse rate. Walking is also great to strengthen your muscles and help you to lose excess body fat. Would you like to hear more.
+help
+With these tips, you can get ideas on how to begin your fitness program. Do you want to get started now., There are a number of benefits that come with fitness, including protection from injury and illness, providing a feeling of strength and confidence and improvement in appearance. That said, most people don't have the slightest idea how to begin working out. When choosing an exercise routine, choose something that you enjoy doing. If you enjoy doing the routine, chances are you will stick to it. If you dread your routine, you will continually make excuses as to why you can't or don't want to get in your workout for the day. Walking is a great exercise. Walking is easy to do almost anywhere and most anyone can do it. Walking will help raise your metabolism. It also helps to lower blood pressure and pulse rate. Walking is also great to strengthen your muscles and help you to lose excess body fat. Would you like to hear more. There are a number of benefits that come with fitness, including protection from injury and illness, providing a feeling of strength and confidence and improvement in appearance. That said, most people don't have the slightest idea how to begin working out.  When choosing an exercise routine, choose something that you enjoy doing. If you enjoy doing the routine, chances are you will stick to it. If you dread your routine, you will continually make excuses as to why you can't or don't want to get in your workout for the day. Walking is a great exercise. Walking is easy to do almost anywhere and most anyone can do it. Walking will help raise your metabolism. It also helps to lower blood pressure and pulse rate. Walking is also great to strengthen your muscles and help you to lose excess body fat. Would you like to hear more.
+most people do n't have the slightest idea how
+
+What's the time
+<--skill exit-->
+
+round 2:
+alexa open fitness encouragement
+Welcome to no excuse fitness. Are you ready to get started.
+Reboot
+Pardon me. I didn't quite understand that. Please say yes if you are ready to get started or no if you are not.
+most people do n't have the slightest idea how
+Pardon me. I didn't quite understand that. Please say yes if you are ready to get started or no if you are not.
+Exit
+
+What's the time
+<--skill exit-->The time is midnight.
+
+round 3:
+alexa open fitness encouragement
+Welcome to no excuse fitness. Are you ready to get started.
+most people do n't have the slightest idea how
+Pardon me. I didn't quite understand that. Please say yes if you are ready to get started or no if you are not.
+want
+Pardon me. I didn't quite understand that. Please say yes if you are ready to get started or no if you are not.
+Stop
+Come back later to hear a new tips. Just say, Alexa, open no excuse fitness  to open the skill again.
+What's the time
+<--skill exit-->The time is 1201 AM.
+
