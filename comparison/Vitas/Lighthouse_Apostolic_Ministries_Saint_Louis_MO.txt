@@ -30,7 +30,7 @@ Come visit us. Worship Services are Sunday Morning at 11  We hope you visit us s
 No
 Come back anytime by saying Alexa, open Lighthouse Apostolic Ministries of God Church. Thanks for stopping by, We hope to see you soon and have a blessed day.
 Help to hear more options
-<--skill exit-->Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Hearing by Audio optics. You can say, try it. Or hear 
+<--skill exit-->Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Hearing by Audio optics. You can say, try it.
 
 round 3:
 Alexa open lighthouse apostolic ministries
