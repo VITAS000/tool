@@ -1,8 +1,0 @@
-I:
-open super tech support
-E:
- Welcome to Super Tech Support! We can solve all your problems. What seems to be the issue? .
-I:
-help
-E:
-<---same content as before---> Help? You want help? Well you've come to the right place! At Super Tech Support we are always happy to help. Simply state your problem and we'll find the solution. What appears to be the problem? .

@@ -1,0 +1,52 @@
+round 1:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+Help
+With this skill,  you can get your new daily Gemini horoscope every day. Your daily Gemini horoscope updates every night at midnight.  Would you like to hear your today's horoscope.
+Yes
+You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+bribe
+<--skill exit-->.
+
+round 2:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+Yes
+You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+No
+Come back tomorrow to hear a new daily Gemini horoscope . Just say, Alexa, open daily Gemini horoscope  to open the skill again.
+bribe
+
+What's the time
+<--skill exit-->The time is 327 PM.
+
+round 3:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+No
+Come back tomorrow to hear a new daily Gemini horoscope . Just say, Alexa, open daily Gemini horoscope  to open the skill again.
+bribe
+
+What's the time
+<--skill exit-->The time is 330 PM.
+
+round 4:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+I do not know
+<--skill exit-->.
+
+round 5:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+I do not know
+<--skill exit-->.
+
+round 6:
+Alexa open daily gemini horoscope
+Welcome to your daily Gemini horoscope.  Here is your reading for today.   You're definitely going to feel torn  in at least two directions. First off, you'll want to keep the plans you've made  which may be tough to do. Second, you'll want to be totally spontaneous, which is what your sweetie will want. There's only one thing to do Lie. Tell them you just had the most scathingly brilliant idea, take them to the place you'd planned on taking them and bribe the waiter to keep their mouth shut. Would you like to hear it again.
+Stop
+Come back tomorrow to hear a new daily Gemini horoscope . Just say, Alexa, open daily Gemini horoscope  to open the skill again.
+What's the time
+<--skill exit-->It's 333 PM.
+

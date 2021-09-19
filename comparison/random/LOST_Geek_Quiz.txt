@@ -1,0 +1,52 @@
+round 1:
+alexa open lost geek
+Ok, Here's LOST Geek Quiz.Namaste  I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Jacob wishes you Good luck. Question 1. Where was Ajiraflight 316 flying to. 1. Los Angeles. 2. Guam. 3. Sydney. 4. London.
+Help
+I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing.
+Stop
+See you in another life Brother.
+What's the time
+<--skill exit-->It's 743 PM.
+
+round 2:
+alexa open lost geek
+Namaste  I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Jacob wishes you Good luck. Question 1. In which episode did Naomi first appear 1. Confirmed Dead. 2. Catch 22. 3. The Beginning of the End. 4. Meet Kevin Johnson.
+get as many right as you can
+The correct answer is 2 Catch 22. Your score is 0. Question 2. Who was the four toed statue a statue of. 1. Taweret. 2. Ra. 3. Hathor. 4. Set.
+get as many right as you can
+The correct answer is 1 Taweret. Your score is 0. Question 3. Where were Desmond and Penny docked when their son  Charlie Hume was born. 1. Guam. 2. Philippines. 3. Los Angeles. 4. Tenerife.
+get as many right as you can
+The correct answer is 2 Philippines. Your score is 0. Question 4. Where was Sayid born 1. Al Mahzam. 2. Aldor. 3. Mukeshefah. 4. Tikrit.
+Cancel
+See you in another life Brother.
+What's the time
+<--skill exit-->It's 745 PM.
+
+round 3:
+alexa open lost geek
+Namaste  I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Jacob wishes you Good luck. Question 1. Including his real name, how many aliases doe Dr. Pierre Chang go by. 1. 2. 2. 3. 3. 5. 4. 4.
+get as many right as you can
+The correct answer is 4 4. Your score is 0. Question 2. Where was Richard Alpert originally from. 1. England. 2. Tenerife. 3. The island. 4. Isla Clarion.
+you 5 multiple choice questions
+The correct answer is 2 Tenerife. Your score is 0. Question 3. Which Star Wars film was Hurley trying to write whilst they were stuck in Dharmaville. 1. Return of the Jedi. 2. Revenge of the Sith. 3. The Empire Strikes Back. 4. A New Hope.
+you 5 multiple choice questions
+The correct answer is 3 The Empire Strikes Back. Your score is 0. Question 4. Where was Charlotte when she found the Polar Bear skeleton. 1. Morocco. 2. Egypt. 3. Algeria. 4. Tunisia.
+you 5 multiple choice questions
+The correct answer is 4 Tunisia. Your score is 0. Question 5. What bearing did Frank have to follow to get the helicopter back to the freighter. 1. 335. 2. 325. 3. 315. 4. 305.
+get as many right as you can
+The correct answer is 4 305. You got 0 out of 5 questions correct. Thank you for playing Lost Geek Quiz, by VoxLR8. See you in another life Brother.
+try
+
+What's the time
+<--skill exit-->The time is 750 PM.
+
+round 4:
+alexa open lost geek
+Namaste  I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Jacob wishes you Good luck. Question 1. What was Juliet's maiden name. 1. Shepherd. 2. Edmund. 3. Leonard. 4. Carlson.
+get as many right as you can
+The correct answer is 4 Carlson. Your score is 0. Question 2. Including his real name, how many aliases doe Dr. Pierre Chang go by. 1. 4. 2. 3. 3. 2. 4. 5.
+Stop
+See you in another life Brother.
+What's the time
+<--skill exit-->The time is 752 PM.
+

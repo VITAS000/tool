@@ -1,0 +1,32 @@
+round 1:
+alexa open word teacher
+Your new word is visceral.  The definition is of the organs of the body.
+Exit
+
+What's the time
+<--skill exit-->It's 1223 PM.
+
+round 2:
+alexa open word teacher
+Your new word is bibliophobia.  The definition is fear of books.
+Stop
+
+What's the time
+<--skill exit-->The time is 1225 PM.
+
+round 3:
+alexa open word teacher
+Your new word is chiliomb.  The definition is sacrifice of one thousand animals.
+Stop
+
+What's the time
+<--skill exit-->The time is 1225 PM.
+
+round 4:
+alexa open word teacher
+Your new word is ramulus.  The definition is small branch.
+Stop
+
+What's the time
+<--skill exit-->The time is 1225 PM.
+

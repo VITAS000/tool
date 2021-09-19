@@ -1,8 +1,0 @@
-I:
-ask stock info price of msft
-E:
-Microsoft Corporation, Ticker Symbol: MSFT \n at 299.72 dollars is up by 4.04 dollars.   \n  Days low is 296.83 dollars   \n  Days high is 300.87 dollars .What is you next Stock ticker symbol or name? Or you can say Cancel or Stop to exit..
-I:
-cancel
-E:
-<---same content as before--->Thank you for trying the Stock Info..

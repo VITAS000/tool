@@ -1,0 +1,16 @@
+alexa open cooking temperatures
+Welcome to Cooking temperatures. Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instant-read thermometer. What food do you need the temperature for? You can say beef, chicken, pork or fish.
+beef
+For beef or lamb, if you want to cook it Rare, then cook to 125 degrees and give it a 3 minute rest. For Medium rare cook to 130-135 degrees. For Medium cook the meat to 135-140 degrees. For Medium well cook it to 140-150 degrees. For beef that is Well done cook it to at least 155+. If you are making ground beef, cook it to 160 degrees. Thank you for checking your cooking time with this skill To open the skill again Just say Alexa open Cooking temperatures.
+alexa open cooking temperatures
+Welcome to Cooking temperatures. Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instant-read thermometer. What food do you need the temperature for? You can say beef, chicken, pork or fish.
+chicken
+For chicken or turkey whether you are cooking the whole bird or parts, you want to cook it until it is 165 degrees. This is the same temperature if the bird is stuffed. For ground chicken or turkey, cook it until it is 170 to 175 degrees. Thank you for checking your cooking time with this skill To open the skill again Just say Alexa open Cooking temperatures.
+alexa open cooking temperatures
+Welcome to Cooking temperatures. Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instant-read thermometer. What food do you need the temperature for? You can say beef, chicken, pork or fish.
+pork
+When cooking pork, it is not recommended that you serve it rare. For Medium rare cook until it is at least 145 degrees then give it a 3 minute rest before serving. For Medium, cook until it is 150 degrees. For well done pork, cook it until it is 160 degrees. For Ground pork, 160 degrees is also the correct temperature. Thank you for checking your cooking time with this skill To open the skill again Just say Alexa open Cooking temperatures.
+alexa open cooking temperatures
+Welcome to Cooking temperatures. Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instant-read thermometer. What food do you need the temperature for? You can say beef, chicken, pork or fish.
+fish
+For fin fish such as tuna, salmon or flounder, you want to cook it until it is at least 145 degrees or until the flesh is opaque and separates easily with a fork. If you are cooking shrimp, lobsters or crabs, cook until the flesh is pearly and opaque. If you are cooking clams, mussels or oysters, cook until the shells open during cooking. For scallops you should cook them until the flesh is milky white or opaque and firm. Thank you for checking your cooking time with this skill To open the skill again Just say Alexa open Cooking temperatures.

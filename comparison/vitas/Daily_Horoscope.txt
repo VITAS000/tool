@@ -1,0 +1,66 @@
+round 1:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Help
+I can tell you daily horoscope about all the different Zodiac signs, including Aquaries, Aries, Taurus, Pisces, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, and Capricorn. You can ask for today's or tomorrow's horoscope. Which sign are you interested in.
+today 's
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Leo
+<--skill exit-->Hmm, I found a few skills that might help.Do you mean Leo FM.
+
+round 2:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Leo
+You can search for today's or tomorrow's horoscope. Wanna try again.
+Libra
+<--skill exit-->Did you mean Leo FM.
+
+round 3:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Libra
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Aries
+<--skill exit-->Sorry, I'm having trouble understanding.
+
+round 4:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Aries
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Taurus
+
+What's the time
+<--skill exit-->It's 322 PM.
+
+round 5:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Taurus
+You can search for today's or tomorrow's horoscope. Wanna try again.
+Virgo
+
+What's the time
+<--skill exit-->It's 323 PM.
+
+round 6:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Virgo
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Pisces
+
+What's the time
+<--skill exit-->It's 325 PM.
+
+round 7:
+alexa open daily horoscope
+Handing off to Daily Horoscope by ForKids.Daily Horoscope.  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Taurus
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Stop
+Good bye. Thank you for using Daily Horoscope.
+What's the time
+<--skill exit-->It's 327 PM.
+

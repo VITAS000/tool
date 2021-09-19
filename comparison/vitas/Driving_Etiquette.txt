@@ -1,0 +1,38 @@
+round 1:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Help
+With this skill,  you will learn how to share the road with others.Would  you like more information about driving etiquette.just say 'yes'orno.
+Yes
+Thank you for listening to driving etiquette, for more information here is a website you can visit.www.dmv.org.
+tips
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Devices
+<--skill exit-->.
+
+round 2:
+alexa open driving etiquette
+Sorry, I'm having trouble accessing your Driving Etiquette skill right now.
+tips
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Devices
+<--skill exit-->.
+
+round 3:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+tips
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Yes
+
+What's the time
+<--skill exit-->Great.To be truly safe while driving, you'll have to learn how to share the road with others. Follow these general driving etiquette rules, that will help to make highways a less stressful and much more safe place to travel.Here are the driving etiquettes plus safety tips.Maintain a Safe Following Distance.Tailgating is not just dangerous it is also disrespectful to all the other motorists. Remember, other drivers have just as much right to the road as you do and shouldn't have to feel bullied because they're occupying space where you'd like to be.To maintain a safe following distance, try to follow the three second rule as often as possible. To test, pick an object on the road up ahead, such as a sign. When the vehicle directly in front of you passes it, begin to count. If it takes three seconds or more for you to reach that same object, you're at a safe following distance.Don't Cruise in the Passing Lane.While a lot of drivers may think of it as the fast lane, the left lane generally should only be used for passing other vehicles. Cruising in the left lane, especially if cars begin to pass you on the right, creates a dangerous environment on the road.Proper etiquette states that you should always drive the speed limit and only use the left lane when overtaking a slower moving vehicle.Monitor the Use of Your High Beams.At night, high beams may be necessary to increase visibility and avoid potential hazards especially when you're traveling away from the city. However, using your high beams when other motorists are in sight can be dangerous. It can cause temporary road blindness, as oncoming drivers can see nothing except the glaring white lights coming their way.Similarly, if you have your high beams on or you've installed extremely bright HID headlights, you can blind drivers in front of you as you come up behind them and shine your lights into their rearview and sideview mirrors.If you see another pair of headlights or taillights on the road, make it a habit to switch off your high beams to avoid blinding other drivers.Always Use Your Turn Signals.Using your turn signals lets other motorists know your intentions. If you begin to turn suddenly without signaling, drivers around you may not be expecting itand it could cause an accident.The recommended distance from state to state can varyfor example, in California it's recommended to begin using turn signals at least 100 feet before you begin to make a right or left turn.Check with your state's traffic laws to see their required or recommended usage of turn signals... you can often find this information in your state Driver Handbook.to continue just say 'yes'orno.
+
+round 4:
+driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Stop
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->The time is 518 AM.
+

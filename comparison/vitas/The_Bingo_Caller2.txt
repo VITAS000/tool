@@ -1,0 +1,32 @@
+round 1:
+Alexa open bingo caller
+The next ball is 56.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 2:
+Alexa open bingo caller
+The next ball is 12.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 3:
+Alexa open bingo caller
+The next ball is 74.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 4:
+Alexa open bingo caller
+The next ball is 10.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 5:
+Alexa open bingo caller
+The next ball is 69.
+Stop
+
+What's the time
+<--skill exit-->The time is 416 PM.
+

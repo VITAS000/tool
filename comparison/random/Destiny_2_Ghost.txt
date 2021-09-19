@@ -1,0 +1,4 @@
+round 1:
+alexa open ghost
+<--skill exit-->Ok, Here's Ghost.Here's your fact The U.S. Air Force's SR71 Blackbird is acknowledged as the world's fastest manned jet airplane. It flew at about Mach 3.5.
+

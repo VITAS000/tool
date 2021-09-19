@@ -1,0 +1,40 @@
+round 1:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you can't handle me at my worst, unfortunately, that's also my best. Would you like another quote.
+Stop
+Ok. Goodbye.
+What's the time
+<--skill exit-->The time is 836 AM.
+
+round 2:
+Alexa open uninspiring quotes
+Here's an uninspiring quote Don't be afraid to fail. Be afraid that someone will try to talk to you. Would you like another quote.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 3:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you can't handle me at my worst, unfortunately, that's also my best. Would you like another quote.
+Resume
+<--skill exit-->.
+
+round 4:
+Alexa open uninspiring quotes
+Here's an uninspiring quote Be yourself. No one else wants to be you. Would you like another quote.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 5:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you hate yourself, remember that you're not alone. Other people hate you too. Would you like another quote.
+Resume
+<--skill exit-->.
+
+round 6:
+Alexa open uninspiring quotes
+Here's an uninspiring quote Don't hate someone for how they look on the outside. Hate them for who they are on the inside. Would you like another quote.
+Stop
+Ok. Goodbye.
+What's the time
+<--skill exit-->The time is 839 AM.
+

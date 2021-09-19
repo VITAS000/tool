@@ -1,0 +1,4 @@
+round 1:
+Alexa open westworld quotes
+<--skill exit-->Hmm, I have a few skills that can help.Do you mean Walt Quotes.
+

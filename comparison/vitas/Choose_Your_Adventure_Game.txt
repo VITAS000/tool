@@ -1,0 +1,66 @@
+round 1:
+Alexa open choose your adventure game
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Help
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Yes
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Mage
+You have selected Mage, known for your mysterious powers, Would you like to proceed.
+Yes
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Yes
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+No
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+I do not know
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+go
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+try
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+B
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Pause
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Resume
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Restart
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Reboot
+As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
+Stop
+Come back tomorrow to play the experience again.
+What's the time
+<--skill exit-->The time is 303 PM.
+
+round 2:
+Alexa open choose your adventure game
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+Begin
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Begin
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+to BeginSay Stop
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Help
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+numbered
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+Yes
+Thanks for opening Choose Your Adventure Game. In this game you will be told of the situation your adventurer falls into, and then be expected to make a decision using either a yes, no, or numbered answer.At any time during the quest you may say quit, to leave the program.Do you want to start the experience. Say Yes to being. Or No to quit the program.
+quit
+
+What's the time
+<--skill exit-->The time is 307 PM.
+
+round 3:
+Alexa open choose your adventure game
+Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+to BeginSay Stop
+Please Select a Class,You have the option ofWarrior,Mage,orHealer.
+Stop
+Come back tomorrow to play the experience again.
+What's the time
+<--skill exit-->It's 308 PM.
+

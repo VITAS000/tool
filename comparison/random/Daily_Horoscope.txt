@@ -1,0 +1,62 @@
+round 1:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Help
+
+What's the time
+<--skill exit-->The time is 228 PM.
+
+round 2:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Pause
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Resume
+<--skill exit-->Did you mean Leo FM.
+
+round 3:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Restart
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Restart
+<--skill exit-->Sorry, I'm having trouble understanding.
+
+round 4:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Resume
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Exit
+
+What's the time
+<--skill exit-->The time is 232 PM.
+
+round 5:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Pause
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Resume
+
+What's the time
+<--skill exit-->It's 234 PM.
+
+round 6:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Cancel
+
+What's the time
+<--skill exit-->The time is 236 PM.
+
+round 7:
+Alexa open daily horoscope
+Daily Horoscope  Welcome to Daily Horoscope. I can tell you daily horoscope for the various zodiac signs. Which sign are you interested in.
+Resume
+You can search for today's or tomorrow's horoscope only. Want to try again.
+Restart
+
+What's the time
+<--skill exit-->The time is 238 PM.
+

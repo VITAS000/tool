@@ -1,0 +1,64 @@
+round 1:
+alexa open space adventure
+Ok, Here's Space Adventure.Hi captain. I am your ship AI. You approach Rava, an unterraformed world with a negligible atmosphere. The ship lands at the Shoreley pioneer settlement. An old man approaches you with a large barrel of moonshine. He offers it to you for 40 credits. We have 169 credits, should we buy the moonshine and give it to the crew.
+Help
+To avoid disaster, you must carefully manage your fuel, money, crew morale, and ship integrity. You can check the levels of these at any time. For example by saying How much fuel do we have. or How are the crew.. But more importantly, I will ask you a series of questions, to which you can respond by saying yes or no. So... Shall we buy the moonshine.
+which you can respond by
+I did not understand your answer. Was that a yes or a no.
+no
+The pilot overheard you refusing to buy the moonshine. He is annoyed, because he likes a strong drink. You take off from  Rava. You travel through space for a while. You approach Falst, a partially terraformed world with an ammonia cloud atmosphere. The ship lands at the Newcamp refinery. There is a Darpan Refuelling Bay at the refinery. For 150 credits they will clean our fuel tanks and fill them up with premium fuel. We have 169 credits  should we buy the fuel.
+How are the crew
+The gang are pretty happy. Do you want to buy the fuel.
+yes
+An articulated hose stretches out of the bay and attaches itself to the ship. While the fuel is transfered, a pair of Darpan Drones conduct some minor repairs to the ship's hull. You take off from  Falst. You travel through space for a while. We do not have much money. We should try to find some work. You approach Yarter, an unterraformed world with a methane atmosphere. The ship lands at the Shoremine pioneer settlement. A farmer at the settlement ask you to transport a backhoe to his land. He offers you 18 credits. Do you help the farmer.
+How much fuel do we have
+There are 151 gallons of fuel in the tanks. Do you help the farmer.
+I do not know
+I did not understand your answer. Was that a yes or a no.
+How much fuel do we have
+There are 151 gallons of fuel in the tanks. Do you help the farmer.
+money
+I did not understand your answer. Was that a yes or a no.
+crew morale
+I did not understand your answer. Was that a yes or a no.
+money
+I did not understand your answer. Was that a yes or a no.
+Resume
+I did not understand your answer. Was that a yes or a no.
+Reboot
+I did not understand your answer. Was that a yes or a no.
+How much fuel do we have
+There are 151 gallons of fuel in the tanks. Do you help the farmer.
+are
+I did not understand your answer. Was that a yes or a no.
+you a series of questions
+There is not any questions on board the ship. Perhaps we can buy some from a trader. Do you help the farmer.
+How are the crew
+The gang are pretty happy. Do you help the farmer.
+money
+I did not understand your answer. Was that a yes or a no.
+money
+I did not understand your answer. Was that a yes or a no.
+which you can respond by
+I did not understand your answer. Was that a yes or a no.
+which you can respond by
+I did not understand your answer. Was that a yes or a no.
+you a series of questions
+There is not any questions on board the ship. Perhaps we can buy some from a trader. Do you help the farmer.
+ship integrity
+The ship has some minor damage, but nothing serious. Do you help the farmer.
+Stop
+See ya later Captain.
+What's the time
+<--skill exit-->It's 247 PM.
+
+round 2:
+alexa open space adventure
+You already have a game in progress. Would you like to continue the existing game.
+ship integrity
+The ship has some minor damage, but nothing serious. Do you want to continue your existing game.
+Exit
+
+What's the time
+<--skill exit-->The time is 248 PM.
+

@@ -1,0 +1,28 @@
+round 1:
+Alexa open my speaker
+I found a few matches for that.I see you've used Speaker Groups before, would you like to use that one again.
+Yes
+Speaker Groups is here to help you group your Sonos speakers. You must have Sonos speakers and a Sonos account. You can tell me to play what's on in the living room in the master bedroom, and I'll group the living room and master bedroom speakers. Or, you can say stop the music in the master bedroom, and I'll stop the music in the master bedroom but leave it playing everywhere elsewhere. You can also create named groups of speakers or scenes instead of adding speakers individually. To create a group of speakers, just say create a group named master or whatever you prefer to call it. Then, add speakers to the group by saying add the master bedroom to the master group. Next, you can use the group by either asking speaker groups to group the master which will group all of the speakers in the master group together. Or, you can say play living room in the master.
+Help
+Speaker Groups is here to help you group your Sonos speakers. You can tell me to play what's on in the living room in the master bedroom, and I'll group the living room and master bedroom speakers. Or, you can say stop the music in just the master bedroom, and I'll remove the master bedroom from the group while leaving the music on elsewhere. You can also create named groups of speakers or scenes instead of adding speakers individually. To create a group of speakers, just say create a group named master or whatever you prefer to call it. Then, add speakers to the group by saying add the master bedroom to the master group. Next, you can use the group by either play on master which will group all of the speakers in the master group together and keep anything playing going. Or, you can say play what's on in the living room in the master.
+play what 's on in the living room in the master
+You must link to a Speaker Scenes account to use speaker groups. Please use the Alexa app to link your Amazon account.
+group
+<--skill exit-->Okay, what would you like to call the group.
+
+round 2:
+Alexa open my speaker
+Hmm, I found a few skills that might help.You have Speaker Groups enabled. Do you want to launch it now.
+Yes
+Speaker Groups is here to help you group your Sonos speakers. You must have Sonos speakers and a Sonos account. You can tell me to play what's on in the living room in the master bedroom, and I'll group the living room and master bedroom speakers. Or, you can say stop the music in the master bedroom, and I'll stop the music in the master bedroom but leave it playing everywhere elsewhere. You can also create named groups of speakers or scenes instead of adding speakers individually. To create a group of speakers, just say create a group named master or whatever you prefer to call it. Then, add speakers to the group by saying add the master bedroom to the master group. Next, you can use the group by either asking speaker groups to group the master which will group all of the speakers in the master group together. Or, you can say play living room in the master.
+play living room in the master
+You must link to a Speaker Scenes account to use speaker groups. Please use the Alexa app to link your Amazon account.
+stop the music in the master bedroom
+
+What's the time
+<--skill exit-->It's 801 PM.
+
+round 3:
+Alexa open my speaker
+<--skill exit-->Hmm, I found a few skills that might help.Looks like you've used Speaker Groups before. Want to open that one.
+

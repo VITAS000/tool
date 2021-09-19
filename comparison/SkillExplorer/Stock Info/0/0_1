@@ -1,8 +1,0 @@
-I:
-open stock info
-E:
-Welcome to the Stock Info. Please tell me stock price you would like to look up by saying the stock ticker symbol or name..
-I:
-name
-E:
-<---same content as before--->NameSilo Technologies Corp, Ticker Symbol: URLOF \n at 0.16 dollars is up by 0.01 dollars.   \n  Days low is 0.15 dollars   \n  Days high is 0.16 dollars .What is you next Stock ticker symbol or name? Or you can say Cancel or Stop to exit..

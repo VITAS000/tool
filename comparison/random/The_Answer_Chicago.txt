@@ -50,25 +50,3 @@ Welcome to The Answer Chicago.<Play audio>.
 Pause
 <--skill exit-->Hmm, I don't know that one.
 
-round 9:
-alexa open the answer chicago
-Welcome to The Answer Chicago.<Play audio>.
-Stop
-
-What's the time
-<--skill exit-->The time is 958 PM.
-
-round 10:
-alexa open the answer chicago
-Welcome to The Answer Chicago.<Play audio>.
-What's the time
-<--skill exit-->The time is 959 PM.
-
-round 11:
-alexa open the answer chicago
-Welcome to The Answer Chicago.<Play audio>.
-Stop
-
-What's the time
-<--skill exit-->The time is 1000 PM.
-

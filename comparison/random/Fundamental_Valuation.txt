@@ -1,0 +1,56 @@
+round 1:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Exit
+
+What's the time
+<--skill exit-->It's 633 PM.
+
+round 2:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Exit
+
+What's the time
+<--skill exit-->The time is 635 PM.
+
+round 3:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Stop
+
+What's the time
+<--skill exit-->The time is 636 PM.
+
+round 4:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Restart
+<--skill exit-->Starting over.
+
+round 5:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 6:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Cancel
+
+What's the time
+<--skill exit-->The time is 639 PM.
+
+round 7:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 8:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+What's the time
+<--skill exit-->The time is 640 PM.
+

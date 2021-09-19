@@ -1,0 +1,4 @@
+round 1:
+Alexa open musical facts
+Here's your musical key fact. G Minor has 2 flats and the relative major is B Flat.
+

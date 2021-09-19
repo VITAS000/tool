@@ -1,0 +1,26 @@
+round 1:
+alexa open i spilt lipstick n your valentino bag
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Help
+Do you need to place an emergency call.
+Restart
+
+What's the time
+<--skill exit-->The time is 546 PM.
+
+round 2:
+alexa open i spilt lipstick n your valentino bag
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 3:
+alexa open i spilt lipstick n your valentino bag
+Sorry, I'm not sure about that.
+What's the time
+The time is 547 PM.
+Stop
+
+What's the time
+<--skill exit-->The time is 549 PM.
+

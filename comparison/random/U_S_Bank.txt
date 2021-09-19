@@ -1,0 +1,62 @@
+round 1:
+alexa open u. s. bank
+Handing off to U.S. Bank by U.S. Bank.Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Resume
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Resume
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Cancel
+I have cancelled the current operation. You can say start over or quit. What would you like to do.
+What's the time
+<--skill exit-->Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+
+round 2:
+alexa open u. s. bank
+Handing off to U.S. Bank by U.S. Bank.Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Reboot
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Restart
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Resume
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Resume
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Cancel
+I have cancelled the current operation. You can say start over or quit. What would you like to do.
+What's the time
+<--skill exit-->Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+
+round 3:
+alexa open u. s. bank
+Handing off to U.S. Bank by U.S. Bank.Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+What's the time
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Stop
+Thank you for using the U.S. Bank skill.
+What's the time
+<--skill exit-->It's 1100 AM.
+
+round 4:
+alexa open u. s. bank
+Handing off to U.S. Bank by U.S. Bank.Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Stop
+Thank you for using the U.S. Bank skill.
+What's the time
+<--skill exit-->It's 1101 AM.
+

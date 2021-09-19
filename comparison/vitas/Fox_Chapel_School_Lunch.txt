@@ -1,0 +1,48 @@
+round 1:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I'm not sure.
+
+round 2:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 3:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I don't know that one.
+
+round 4:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I don't know that one.
+
+round 5:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I don't know that one.
+
+round 6:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I'm not sure.
+
+round 7:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Sorry, I don't know that one.
+
+round 8:
+Alexa open fox chapel school lunch
+Thank's for using Fox Chapel School Lunch.  It has become so popular we upgraded it to support all the schools in the district. It's now called Lunch Line.  Just tell Alexa to 'Ask Lunch Line'.
+Lunch Line
+<--skill exit-->Hmm, I'm not sure.
+

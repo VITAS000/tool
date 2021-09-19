@@ -1,0 +1,78 @@
+round 1:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+Help
+You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+pause
+Pausing rain storm sounds.
+play
+Playing rain storm sounds.<Play audio>.
+play
+Playing rain storm sounds.<Play audio>.
+pause
+Pausing rain storm sounds.
+you can play again by
+You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+pause
+Pausing rain storm sounds.
+quit by
+You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+you can play again by
+You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+play
+Playing rain storm sounds.<Play audio>.
+cancel
+Thank you for listening.  See you again soon.
+What's the time
+<--skill exit-->You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+
+round 2:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+play
+Playing rain storm sounds.<Play audio>.
+quit
+
+What's the time
+<--skill exit-->It's 624 PM.
+
+round 3:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+quit
+
+What's the time
+<--skill exit-->The time is 625 PM.
+
+round 4:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+cancel
+Thank you for listening.  See you again soon.
+What's the time
+<--skill exit-->You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+
+round 5:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+cancel
+Thank you for listening.  See you again soon.
+What's the time
+<--skill exit-->You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+
+round 6:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+cancel
+Thank you for listening.  See you again soon.
+What's the time
+<--skill exit-->You can pause the rain storm sounds by saying pause, you                       can play again by saying play, and quit by saying                       cancel.
+
+round 7:
+Alexa open rain storm
+Welcome to rain storm sounds. Say play to start.
+quit
+
+What's the time
+<--skill exit-->It's 629 PM.
+

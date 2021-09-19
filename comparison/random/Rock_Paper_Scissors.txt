@@ -1,0 +1,66 @@
+round 1:
+alexa open rock paper scissors
+Let's play. At the count of 3 say   Rock, Paper, or Scissors.  Ready. one, two, three Go.
+Help
+Welcome to Rock Paper Scissors where Rock beats Scissors, Scissors cut Paper, and Paper wraps Rock.  Say either Rock, Paper, or Scissors.  You can also say score to hear who is winning, or start over to reset the score.  Say stop or cancel to end the game.
+Pause
+Interesting. Rock paper or scissors.
+Rock
+Ditto, for me.  Ready. Rock paper or.
+Pause
+Hmm, I did not understand what you said.  Scissors Rock paper.
+Reboot
+Interesting. Paper, rock, or scissors.
+Scissors
+Tie. I dare you to play paper.  Let's play again, Scissors Rock paper.
+Scissors
+WooHoo. I won.  Rock breaks scissors. Again.
+cancel
+Thanks for playing Rock Paper Scissors, Goodbye.
+What's the time
+<--skill exit-->It's 101 PM.
+
+round 2:
+alexa open rock paper scissors
+Let's play. At the count of 3 say   Rock, Paper, or Scissors.  Ready. one, two, three Go.
+start
+If you are having trouble, you can ask me for help. Rock paper or.
+start over
+Should I start the game over.
+either Rock
+Hmmm, that didn't turn out the way I wanted.  Rock crushes scissors. Rock paper or.
+Scissors
+Scissors shreds paper. You won.  You know the drill.
+Exit
+
+What's the time
+<--skill exit-->The time is 104 PM.
+
+round 3:
+alexa open rock paper scissors
+Let's play. At the count of 3 say   Rock, Paper, or Scissors.  Ready. one, two, three Go.
+Reboot
+I didn't catch that, say Scissors Rock paper.
+Exit
+
+What's the time
+<--skill exit-->The time is 105 PM.
+
+round 4:
+alexa open rock paper scissors
+Let's play. At the count of 3 say   Rock, Paper, or Scissors.  Ready. one, two, three Go.
+stop
+All good things must come to an end.
+What's the time
+<--skill exit-->The time is 106 PM.
+
+round 5:
+alexa open rock paper scissors
+Let's play. At the count of 3 say   Rock, Paper, or Scissors.  Ready. one, two, three Go.
+start over
+Should I reset the score.
+Exit
+
+What's the time
+<--skill exit-->It's 108 PM.
+

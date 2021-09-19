@@ -1,0 +1,34 @@
+round 1:
+alexa open bender the great
+Bender says I'm Bender, baby. Oh god, please insert liquor.
+Cancel
+
+What's the time
+<--skill exit-->The time is 307 PM.
+
+round 2:
+alexa open bender the great
+Bender says Blackmail is such an ugly word. I prefer extortion. The 'x' makes it sound cool.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 3:
+alexa open bender the great
+Bender says Oh, your God.
+Restart
+<--skill exit-->starting over.
+
+round 4:
+alexa open bender the great
+Bender says Have you tried turning off the TV, sitting down with your children, and hitting them.
+hitting them
+
+What's the time
+<--skill exit-->The time is 309 PM.
+
+round 5:
+alexa open bender the great
+Bender says Shut up baby, I know it.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+

@@ -1,0 +1,8 @@
+round 1:
+Alexa open halloween jokes
+What kind of dessert does a ghost like.    I scream.
+Stop
+
+What's the time
+<--skill exit-->It's 557 PM.
+

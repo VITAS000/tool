@@ -1,0 +1,56 @@
+round 1:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+Help
+You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint. What would you like me to do.
+check the temperature
+You must have a FireBoard account to use this skill.  Please see the account linking card in the Alexa app to login or register for a FireBoard account.
+register
+<--skill exit-->I couldn't find any songs that match your request.
+
+round 2:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+check the temperature
+You must have a FireBoard account to use this skill.  Please see the account linking card in the Alexa app to login or register for a FireBoard account.
+check the temperature
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 3:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+get
+Remember, you can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+check the temperature
+You must have a FireBoard account to use this skill.  Please see the account linking card in the Alexa app to login or register for a FireBoard account.
+get
+<--skill exit-->.
+
+round 4:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+get
+Remember, you can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+get
+
+What's the time
+<--skill exit-->
+
+round 5:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+set your alerts
+Remember, you can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+set your alerts
+
+What's the time
+<--skill exit-->
+
+round 6:
+Alexa open fireboard
+Welcome to FireBoard for Alexa.  You can ask me to check the temperature, get and set your alerts, set your fan speed, or adjust your cooking setpoint.
+Stop
+Thank you for using FireBoard for Alexa.
+What's the time
+<--skill exit-->It's 954 PM.
+

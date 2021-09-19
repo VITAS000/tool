@@ -1,0 +1,52 @@
+round 1:
+alexa open fortune teller
+Here's your fortune Fame, riches and romance are yours for the asking.
+riches
+
+What's the time
+<--skill exit-->It's 400 PM.
+
+round 2:
+alexa open fortune teller
+Here's your fortune Nature, time and patience are the three best physicians.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 3:
+alexa open fortune teller
+Here's your fortune You find beauty in ordinary things, do not lose this ability.
+Exit
+
+What's the time
+<--skill exit-->It's 402 PM.
+
+round 4:
+alexa open fortune teller
+Here's your fortune A conclusion is simply the place where you got tired of thinking.
+What's the time
+<--skill exit-->It's 402 PM.
+
+round 5:
+alexa open fortune teller
+Here's your fortune The world may be your oyster, but it doesn't mean you'll get its pearl.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 6:
+alexa open fortune teller
+Here's your fortune You will be invited to an exciting event.
+What's the time
+<--skill exit-->It's 403 PM.
+
+round 7:
+alexa open fortune teller
+Here's your fortune If you want the rainbow, you must to put up with the rain. D. Parton.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+alexa open fortune teller
+Here's your fortune Your blessing is no more than being safe and sound for the whole lifetime.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+

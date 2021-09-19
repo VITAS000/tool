@@ -1,8 +1,0 @@
-I:
-open ten pin bowling
-E:
- Welcome back. I noticed a game already in-progress. Do you want to resume it? Just say Yes, or to begin a new game from the beginning, Say No. .
-I:
-player one is james
-E:
-<---same content as before---> Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players. .

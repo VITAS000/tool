@@ -1,0 +1,82 @@
+round 1:
+alexa open sai spirituality
+Ok, Here's SaiSkill.Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+Help
+You can ask for human values or favorite quotes from swami or nine point code of conduct.
+code
+Sairam.. Thank you.
+quotes
+<--skill exit-->Here is a quote from Oprah Winfrey.<Short audio>.
+
+round 2:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+favorite quotes
+Sairam, the are Love All Serve All and Help Ever Hurt Never.. Do you have any other questions.
+how can i help you
+You can ask for human values or favorite quotes from swami or nine point code of conduct.
+quotes
+Sairam.. Thank you.
+favorite quotes from swami
+<--skill exit-->.
+
+round 3:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+code
+Sairam.. Thank you.
+Stop
+
+What's the time
+<--skill exit-->The time is 908 PM.
+
+round 4:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+Swamis quotes
+Sairam, the are Love All Serve All and Help Ever Hurt Never.. Do you have any other questions.
+quotes
+Sairam.. Thank you.
+Human Values
+<--skill exit-->Sorry, I don't know that one.
+
+round 5:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+Cancel
+Sairam.. Thank you.
+What's the time
+<--skill exit-->The time is 909 PM.
+
+round 6:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+how can i help you
+You can ask for human values or favorite quotes from swami or nine point code of conduct.
+how can i help you
+You can ask for human values or favorite quotes from swami or nine point code of conduct.
+Restart
+Sairam.. Thank you.
+Restart
+<--skill exit-->Starting over.
+
+round 7:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+Pause
+
+What's the time
+Sairam.. Thank you.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+alexa open sai spirituality
+Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you .
+code
+Sairam.. Thank you.
+Stop
+
+What's the time
+<--skill exit-->It's 914 PM.
+

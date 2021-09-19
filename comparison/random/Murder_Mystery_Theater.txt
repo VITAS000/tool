@@ -1,0 +1,46 @@
+round 1:
+alexa open murder mystery
+Ok, Here's Murder Mystery Theater.Murder Mystery Theater contains mature content that may not be suitable for all ages.Would you like to continue.
+Yes
+To start a new game, say, start game with blank difficulty, blank being easy, medium, or hard.
+Help
+Your device will listen after each prompt for eight seconds for another guess or question. If you need more time to think, feel free to take your time, and then ask your device, Alexa, ask murder mystery, followed by your new guess. To get the rules, ask, what are the rules. To get the current suspects, ask, who are the suspects. To get the weapon list, ask, what are the weapons. To get the possible rooms, ask, what are the rooms. To guess the murder, say I think blank is the killer with the blank in the blank. Every scenario is random, and can be solved with a truth table. There is no rhyme or reason to how the murderer is selected. You can now make a guess if the game has started, or can ask another question.
+murder mystery
+You can now make a guess if the game has started, or can ask another question.
+what are the rules
+A murder has been committed. One of the suspects killed someone with an weapon of their choice in a room. You have 10 chances to figure out who they are before you yourself are murdered too. You can make a guess next if the game has started, or ask another question. For more help, please say, help me.
+hard
+You can make a guess next if the game has started, or ask another question.
+hard
+
+What's the time
+<--skill exit-->Depending on the game difficulty, the possible weapons are letter opener, knife, sword, revolver, frying pan, tv remote, chair, tire iron, and spoon.
+
+round 2:
+alexa open murder mystery
+To start a new game, say, start game with blank difficulty, blank being easy, medium, or hard.
+what are the rules
+A murder has been committed. One of the suspects killed someone with an weapon of their choice in a room. You have 10 chances to figure out who they are before you yourself are murdered too. You can make a guess next if the game has started, or ask another question. For more help, please say, help me.
+what are the rooms
+Depending on the game difficulty, the possible places are kitchen, bathroom, bedroom, garage, library, dining room, hall, basement, and porch.
+library
+
+What's the time
+<--skill exit-->Depending on the game difficulty, the possible weapons are letter opener, knife, sword, revolver, frying pan, tv remote, chair, tire iron, and spoon.
+
+round 3:
+alexa open murder mystery
+To start a new game, say, start game with blank difficulty, blank being easy, medium, or hard.
+followed
+
+What's the time
+<--skill exit-->Depending on the game difficulty, the possible weapons are letter opener, knife, sword, revolver, frying pan, tv remote, chair, tire iron, and spoon.
+
+round 4:
+alexa open murder mystery
+To start a new game, say, start game with blank difficulty, blank being easy, medium, or hard.
+hard
+
+What's the time
+<--skill exit-->Depending on the game difficulty, the possible weapons are letter opener, knife, sword, revolver, frying pan, tv remote, chair, tire iron, and spoon.
+

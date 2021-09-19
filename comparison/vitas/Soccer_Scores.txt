@@ -1,0 +1,70 @@
+round 1:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+What was the Coventry City score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 61.
+
+round 2:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+for example
+<--skill exit-->.
+
+round 3:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+for example
+I'm sorry, could you repeat that.
+I do not know
+South Korea have no fixtures remaining this season.
+What was the Coventry City score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 61.
+
+round 4:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+for example
+<--skill exit-->.
+
+round 5:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+for example
+I'm sorry, could you repeat that.
+Yes
+Barnsley have not yet played this season.
+What was the Coventry City score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 61.
+
+round 6:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+for example
+<--skill exit-->.
+
+round 7:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+for example
+I'm sorry, could you repeat that.
+No
+I'm sorry, I couldn't find that team.
+What was the Coventry City score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 61.
+
+round 8:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+What was the Coventry City score
+On Saturday, May 8 in the Championship, Coventry City beat Millwall 61.
+

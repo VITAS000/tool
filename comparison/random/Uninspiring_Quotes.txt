@@ -1,0 +1,22 @@
+round 1:
+alexa open uninspiring quotes
+Here's an uninspiring quote Be yourself. No one else wants to be you. Would you like another quote.
+Help
+This skill gives you an uninspiring quote every time it's opened. The fun never starts. Would you like an uninspiring quote.
+What's the time
+<--skill exit-->It's 605 PM.Resuming Uninspiring Quotes.This skill gives you an uninspiring quote every time it's opened. The fun never starts. Would you like an uninspiring quote.
+
+round 2:
+alexa open uninspiring quotes
+.
+Pause
+Sorry, I don't know that one.
+Pause
+Sorry, I don't know that one.
+Restart
+Starting over.
+Exit
+
+What's the time
+<--skill exit-->It's 607 PM.
+

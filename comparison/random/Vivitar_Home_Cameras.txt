@@ -52,19 +52,3 @@ Exit
 What's the time
 <--skill exit-->It's 1030 PM.
 
-round 9:
-alexa open home camera
-Please link your Vivitar account in Alexa App.
-Stop
-
-What's the time
-<--skill exit-->It's 1031 PM.
-
-round 10:
-alexa open home camera
-Please link your Vivitar account in Alexa App.
-Stop
-
-What's the time
-<--skill exit-->It's 1033 PM.
-

@@ -1,0 +1,90 @@
+round 1:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Help
+Ask me to suggest a skin for you.
+suggest a skin for you
+I think you should pick Ludwig. Do you have that skin.
+Yes
+Great.
+pick a skin for you
+<--skill exit-->Here is a skin the skin of male human body.
+
+round 2:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Shade. Do you have that skin.
+No
+I think you should pick Criterion. Do you have that skin.
+I do not know
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+suggest a skin for you
+I think you should pick Maven. Do you have that skin.
+Yes
+Great.
+pick a skin for you
+<--skill exit-->Here is a skin the skin of male human body.
+
+round 3:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Sidewinder. Do you have that skin.
+I do not know
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Hollowhead. Do you have that skin.
+Pause
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+suggest a skin for you
+I think you should pick Sterling. Do you have that skin.
+Resume
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Stalwart Sweeper. Do you have that skin.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Alpine Ace. Do you have that skin.
+Reboot
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+suggest a skin for you
+I think you should pick Hacivat. Do you have that skin.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 230 PM.
+
+round 4:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Pause
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Resume
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Reboot
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 232 PM.
+
+round 5:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Exit
+
+What's the time
+<--skill exit-->The time is 233 PM.
+
+round 6:
+Alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->It's 234 PM.
+

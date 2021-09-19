@@ -1,0 +1,72 @@
+round 1:
+Alexa open halloween jokes
+What do you call a fake noodle. An Impasta.
+I do not know
+<--skill exit-->Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+
+round 2:
+Alexa open halloween jokes
+What is a ghosts favorite dessert.   Booberry pie.
+I do not know
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+try it
+Here's Robocall Buster.<Play audio>.Welcome to Robocall Buster. Answer the robocall,  and hold your phone up to my speaker.
+hold
+<--skill exit-->Hmm, I don't know that.
+
+round 3:
+Alexa open halloween jokes
+What's a ghost's favorite pasta.    Spookgetti.
+I do not know
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+try it
+Great, here's Robocall Buster.<Play audio>.Welcome to Robocall Buster. Answer the robocall,  and hold your phone up to my speaker.
+hold
+<--skill exit-->Hmm, I don't know that.
+
+round 4:
+Alexa open halloween jokes
+What do you call a fat pumpkin.    A plumpkin.
+I do not know
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+try it
+Ok, here's Robocall Buster.<Play audio>.Welcome to Robocall Buster. Answer the robocall,  and hold your phone up to my speaker.
+hold
+<--skill exit-->Hmm, I don't know that one.
+
+round 5:
+Alexa open halloween jokes
+What's a ghost's favorite pasta.    Spookgetti.
+I do not know
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+Pause
+I didn't quite get that. First , There's a skill called Robocall Buster. Say, try it. Or hear next.
+try it
+Great, here's Robocall Buster.<Play audio>.Welcome to Robocall Buster. Answer the robocall,  and hold your phone up to my speaker.
+hold
+<--skill exit-->Sorry, I don't know that one.
+
+round 6:
+Alexa open halloween jokes
+Why didn't the skeleton go to the ball.    Because he had nobody to go with.
+I do not know
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called Robocall Buster. You can say, try it. Or hear next.
+have
+Next , There's a skill called do you know aiden. Say, try it. Or hear next.
+try it
+Great, here's do you know aiden.yes, i do know aidan. Aidan lives in Kailua.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 7:
+Alexa open halloween jokes
+Know why skeletons are so calm.    Because nothing gets under their skin.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+Alexa open halloween jokes
+What do you do when 50 zombies surround your house.  Hope it's Halloween..
+I do not know
+<--skill exit-->Hmm, I don't know that one.
+

@@ -1,0 +1,20 @@
+round 1:
+alexa open birthstone finder
+Please tell me your birth month.
+What's the time
+I didn't get that. Please try again.
+tell me the stone
+I didn't get that. Please try again.
+Stop
+Thank you for trying Birthstone finder.
+What's the time
+<--skill exit-->It's 523 PM.
+
+round 2:
+alexa open birthstone finder
+Please tell me your birth month.
+Cancel
+Thank you for trying Birthstone finder.
+What's the time
+<--skill exit-->The time is 524 PM.
+

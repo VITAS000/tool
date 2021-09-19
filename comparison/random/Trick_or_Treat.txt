@@ -1,0 +1,52 @@
+round 1:
+alexa open trick or treat
+Here is your Halloween fact Anoka, Minnesota is The World's Halloween Capital.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 2:
+alexa open trick or treat
+Here is your Halloween fact Samhainophobia is the fear of Halloween.
+Cancel
+
+What's the time
+<--skill exit-->It's 356 PM.
+
+round 3:
+alexa open trick or treat
+Here is your Halloween fact The first Jackolanterns were made from turnips.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 4:
+alexa open trick or treat
+Here is your Halloween fact The first Jackolanterns were made from turnips.
+What's the time
+<--skill exit-->The time is 357 PM.
+
+round 5:
+alexa open trick or treat
+Here is your Halloween fact Anoka, Minnesota is The World's Halloween Capital.
+Restart
+<--skill exit-->starting over.
+
+round 6:
+alexa open trick or treat
+Here is your Halloween fact Halloween is the secondlargest consumer holiday in the U.S, next to Christmas.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 7:
+alexa open trick or treat
+Here is your Halloween fact People spend approximately six billion dollars on Halloween yearly for costumes and candies alone.
+candies
+<--skill exit-->Ok, for candies , here's a few recipes.and lots more.
+
+round 8:
+alexa open trick or treat
+Here is your Halloween fact Trickortreating was first mentioned in print in North America in 1927 in Blackie, Alberta.
+Exit
+
+What's the time
+<--skill exit-->The time is 400 PM.
+

@@ -1,0 +1,4 @@
+round 1:
+Alexa open the fact checkers
+<--skill exit-->Ok, Here's Stock Checker.Before we can continue, you will need to link your account to the Stock Checker skill using the card that I have sent to the Alexa app.
+

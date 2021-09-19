@@ -1,0 +1,24 @@
+alexa open murder mystery
+To start a new game, say, start game with blank difficulty, blank being easy, medium, or hard.
+start game with easy
+Welcome to murder mystery! Difficulty is set to easy. Starting a game. Preparing a set of weapons and rooms. Killing a character. All done setting it up. You can now make a conjecture at who the killer is, or if its your first murder case you can ask for the rules, or for help.
+help
+Your device will listen after each prompt for eight seconds for another guess or question. If you need more time to think, feel free to take your time, and then ask your device, Alexa, ask murder mystery, followed by your new guess. To get the rules, ask, what are the rules. To get the current suspects, ask, who are the suspects. To get the weapon list, ask, what are the weapons. To get the possible rooms, ask, what are the rooms. To guess the murder, say I think blank is the killer with the blank in the blank. Every scenario is random, and can be solved with a truth table. There is no rhyme or reason to how the murderer is selected. You can now make a guess if the game has started, or can ask another question.
+what are the weapons
+The weapons are letter opener, knife, sword, revolver, and frying pan. Ask another question, or make a guess.
+what are the rooms
+The rooms are kitchen, bathroom, bedroom, garage, and library. Ask another question, or make a guess.
+what are the rules
+A murder has been committed. One of the suspects killed someone with an weapon of their choice in a room. You have 10 chances to figure out who they are before you yourself are murdered too. You can make a guess next if the game has started, or ask another question. For more help, please say, help me.
+who are the suspects
+The suspects are Amanda, Barry, Charles, Daniel, and Elsie. Ask another question, or make a guess.
+i think amanda is the murderer
+You had 0 statements correct. You have 9 guesses left. You can do better than that. I have got stuff to do too you know. Try again.
+i think barry is the murderer
+You had 0 statements correct. You have 8 guesses left. I have a bad feeling about this. I should probably go order a second coffin. Try again.
+i think charles is the murderer
+You had 1 statements correct. You have 7 guesses left. Any day now. I swear if you make me clean up a second murder, I am not going to be happy. Try again.
+i think charles is the murderer with the frying pan in the kitchen
+You had 2 statements correct. You have 6 guesses left. Any day now. I swear if you make me clean up a second murder, I am not going to be happy. Try again.
+stop
+Ending game. I am going to go clean up this mess. Play again soon!

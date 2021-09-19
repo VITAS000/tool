@@ -1,0 +1,4 @@
+alexa open dracula gossip
+Ok, Here's Dracula Gossip.Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+ok
+Sorry, I'm having trouble accessing your Dracula Gossip skill right now

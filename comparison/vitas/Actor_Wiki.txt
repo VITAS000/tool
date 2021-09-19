@@ -1,0 +1,74 @@
+round 1:
+Alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. Try asking me who is Brad Pitt.
+Help
+Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Hugh Jackman.
+tell me about Hugh Jackman
+Sorry, I couldn't find anything about Hugh Jackman. Is this an actor or actress.
+Yes
+It looks like you haven't asked me about anyone.
+anyone
+It looks like you haven't asked me about anyone.
+who is Brad Pitt
+Sorry, I couldn't find anything about brad Pitt. Is this an actor or actress.
+No
+It looks like you haven't asked me about anyone.
+tell me about Hugh Jackman
+Sorry, I couldn't find anything about Hugh Jackman. Is this an actor or actress.
+I do not know
+It looks like you haven't asked me about anyone.
+who is Brad Pitt
+Sorry, I couldn't find anything about brad Pitt. Is this an actor or actress.
+actress
+It looks like you haven't asked me about anyone.
+tell me about Hugh Jackman
+Sorry, I couldn't find anything about Hugh Jackman. Is this an actor or actress.
+Yes
+It looks like you haven't asked me about anyone.
+anyone
+It looks like you haven't asked me about anyone.
+who is Brad Pitt
+Sorry, I couldn't find anything about brad Pitt. Is this an actor or actress.
+Pause
+It looks like you haven't asked me about anyone.
+tell me about Hugh Jackman
+Sorry, I couldn't find anything about Hugh Jackman. Is this an actor or actress.
+Resume
+It looks like you haven't asked me about anyone.
+Pause
+It looks like you haven't asked me about anyone.
+Resume
+It looks like you haven't asked me about anyone.
+Restart
+It looks like you haven't asked me about anyone.
+Reboot
+It looks like you haven't asked me about anyone.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->It's 729 PM.
+
+round 2:
+Alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors. How about asking what do you know about Nicole Kidman.
+what do you know about Nicole Kidman
+Sorry, I couldn't find anything about Nicole Kidman. Is this an actor or actress.
+Reboot
+It looks like you haven't asked me about anyone.
+Exit
+
+What's the time
+<--skill exit-->The time is 732 PM.
+
+round 3:
+Alexa open actor wiki
+Hey there, I can help you search Wikipedia for actors.Try asking me who is Brad Pitt.
+who is Brad Pitt
+Sorry, I couldn't find anything about brad Pitt. Is this an actor or actress.
+Restart
+It looks like you haven't asked me about anyone.
+Stop
+Thank you for trying the Actor Wiki Skill. Goodbye.
+What's the time
+<--skill exit-->The time is 733 PM.
+

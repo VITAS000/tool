@@ -1,0 +1,4 @@
+round 1:
+Alexa open all recipes
+<--skill exit-->Ok, Here's Craft Recipes.hello and welcome to craft recipes. Ask me for recipes.
+

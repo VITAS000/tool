@@ -1,0 +1,66 @@
+round 1:
+alexa open santa's helper
+Voice Arcade. Last time you played you managed to produce 210000000 toys. Think you can do better. One of the machines in the workshop has a big red button and noone knows what it does. Should we press it.
+Help
+You can answer by saying either yes or no. Here's the choice again. One of the machines in the workshop has a big red button and noone knows what it does. Should we press it.
+Pause
+I heard you say pause so I'm pausing your game. To restart just say Alexa, play Santa's Helper or For a chance to win a year's worth of Voice Arcade Unlimited every time you play just link your account using the Alexa app.
+What's the time
+<--skill exit-->The time is 354 PM.
+
+round 2:
+alexa open santa's helper
+Voice Arcade. Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+knows
+Say that again.
+no
+Ok, starting a new game. Last time you played you managed to produce 210000000 toys. Think you can do better. The local snowmen are complaining about the heat being given off by the Workshop. Do you want to slow production down to protect their village.
+What's the time
+Say that again.
+Reboot
+The local snowmen are complaining about the heat being given off by the Workshop. Do you want to slow production down to protect their village.
+What's the time
+You can answer by saying either yes or no. Here's the choice again. The local snowmen are complaining about the heat being given off by the Workshop. Do you want to slow production down to protect their village.
+either yes
+Sorry I'm still having trouble understanding you. You might want to consider activating 'request sounds' in the device settings section of your Alexa app as this can sometimes help improve recognition. If you think you've found something we should fix please let us know at hilabworks.io.
+Restart
+<--skill exit-->Starting over.
+
+round 3:
+alexa open santa's helper
+Voice Arcade. Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+Restart
+Say that again.
+Resume
+Would you like to restart your previous game.
+Stop
+I heard you say stop so I'm pausing your game. To restart just say Alexa, play Santa's Helper or For a chance to win a year's worth of Voice Arcade Unlimited every time you play just link your account using the Alexa app.
+What's the time
+<--skill exit-->The time is 359 PM.
+
+round 4:
+alexa open santa's helper
+Voice Arcade. Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+Restart
+Say that again.
+noone
+Would you like to restart your previous game.
+noone
+You can say 'yes' to start another round or 'no' to start a new game. Would you like to restart your previous game.
+Stop
+I heard you say stop so I'm pausing your game. To restart just say Alexa, play Santa's Helper or For a chance to win a year's worth of Voice Arcade Unlimited every time you play just link your account using the Alexa app.
+What's the time
+<--skill exit-->The time is 400 PM.
+
+round 5:
+alexa open santa's helper
+Voice Arcade. Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+What's the time
+Say that again.
+Pause
+Would you like to restart your previous game.
+Exit
+
+What's the time
+<--skill exit-->It's 402 PM.
+

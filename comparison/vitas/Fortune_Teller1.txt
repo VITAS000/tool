@@ -1,0 +1,18 @@
+round 1:
+Alexa open fortune teller
+Here's your fortune Make two grins grow where there was only a grouch before.
+go
+<--skill exit-->.
+
+round 2:
+Alexa open fortune teller
+Here's your fortune You can always find happiness at work on Friday.
+go
+<--skill exit-->.
+
+round 3:
+Alexa open fortune teller
+Here's your fortune You will be invited to an exciting event.
+go
+<--skill exit-->.
+

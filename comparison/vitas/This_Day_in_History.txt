@@ -1,0 +1,48 @@
+round 1:
+alexa open this day in history
+July 16th 1945. On this day in 1945, at 52945 a.m., the Manhattan Project comes to an explosive end as the first atom bomb is successfully tested in Alamogordo, New Mexico.  Would you like to hear more about this event,  another event from July 16th,  or an event from a different date.
+Help
+The History skill can tell you about events that happened today or any other day in history. You can say things like tomorrow, or June 6th. What month and day would you like to hear about.
+tomorrow
+July 17th 1955. Disneyland, Walt Disney's metropolis of nostalgia, fantasy, and futurism, opens on July 17, 1955. The 17 million theme park was built on 160 acres of former orange groves in Anaheim, California, and soon brought in staggering profits. Today, Disneyland hosts more than 14 million visitors a year, who spend close to 3 billion.  Would you like to hear more about this event,  another event from July 17th,  or an event from a different date.
+brought
+Walt Disney, born in Chicago in 1901, worked as a commercial artist before setting up a small studio in Los Angeles to produce animated cartoons. In 1928, his short film Steamboat Willy, starring the character Mickey Mouse, was a national sensation. It was the first animated film to use sound, and Disney provided the voice for Mickey. From there on, Disney cartoons were in heavy demand, but the company struggled financially because of Disney's insistence on everimproving artistic and technical quality. His first featurelength cartoon, Snow White and the Seven Dwarfs 1938, took three years to complete and was a great commercial success.  Would you like to hear about another event from July 17th,  or an event from a different date.
+Yes
+Sorry, the History skill can't help you with that yet. What day in History would you like to hear about.
+today
+July 16th 1945. On this day in 1945, at 52945 a.m., the Manhattan Project comes to an explosive end as the first atom bomb is successfully tested in Alamogordo, New Mexico.  Would you like to hear more about this event,  another event from July 16th,  or an event from a different date.
+Yes
+Plans for the creation of a uranium bomb by the Allies were established as early as 1939, when Italian emigre physicist Enrico Fermi met with U.S. Navy department officials at Columbia University to discuss the use of fissionable materials for military purposes. That same year, Albert Einstein wrote to President Franklin Roosevelt supporting the theory that an uncontrolled nuclear chain reaction had great potential as a basis for a weapon of mass destruction. In February 1940, the federal government granted a total of 6,000 for research. But in early 1942, with the United States now at war with the Axis powers, and fear mounting that Germany was working on its own uranium bomb, the War Department took a more active interest, and limits on resources for the project were removed.  Would you like to hear about another event from July 16th,  or an event from a different date.
+Yes
+Sorry, the History skill can't help you with that yet. What day in History would you like to hear about.
+today
+July 16th 1945. On this day in 1945, at 52945 a.m., the Manhattan Project comes to an explosive end as the first atom bomb is successfully tested in Alamogordo, New Mexico.  Would you like to hear more about this event,  another event from July 16th,  or an event from a different date.
+Yes
+Plans for the creation of a uranium bomb by the Allies were established as early as 1939, when Italian emigre physicist Enrico Fermi met with U.S. Navy department officials at Columbia University to discuss the use of fissionable materials for military purposes. That same year, Albert Einstein wrote to President Franklin Roosevelt supporting the theory that an uncontrolled nuclear chain reaction had great potential as a basis for a weapon of mass destruction. In February 1940, the federal government granted a total of 6,000 for research. But in early 1942, with the United States now at war with the Axis powers, and fear mounting that Germany was working on its own uranium bomb, the War Department took a more active interest, and limits on resources for the project were removed.  Would you like to hear about another event from July 16th,  or an event from a different date.
+No
+Visit history.com to learn about more events. Thanks for using the History skill.
+event
+<--skill exit-->I don't see a calendar set up. Want me to send a link to your phone to set up your calendar .
+
+round 2:
+alexa open this day in history
+Welcome back to this day in History. From the History Channel. July 16th 1779. On this day in 1779, American Brigadier General Anthony Wayne launches a coup de main against British fortifications at Stony Point, New York, on the orders of General George Washington. He earns the moniker Mad Anthony Wayne for the ensuing maneuver.  Would you like to hear more about this event,  another event from July 16th,  or an event from a different date.
+No
+Visit history.com to learn about more events. Thanks for using the History skill.
+day
+
+What's the time
+<--skill exit-->It's 633 AM.
+
+round 3:
+alexa open this day in history
+Welcome back to this day in History. From the History Channel. July 16th 1945. The United States conducts the first test of the atomic bomb at at the Trinity bomb site in central New Mexico. The terrifying new weapon would quickly become a focal point in the Cold War between the United States and the Soviet Union.  Would you like to hear more about this event,  another event from July 16th,  or an event from a different date.
+I do not know
+The official U.S. development of the atomic bomb began with the establishment of the Manhattan Project in August 1942. The project brought together scientists from the United States, Great Britain, and Canada to study the feasibility of building an atomic bomb capable of unimaginable destructive power. The project proceeded with no small degree of urgency, since the American government had been warned that Nazi Germany had also embarked on a program to develop an atomic weapon. By July 1945, a prototype weapon was ready for testing. Although Germany had surrendered months earlier, the war against Japan was still raging. On July 16, the first atomic bomb was detonated in the desert near the Los Alamos research facility. Dr. J. Robert Oppenheimer, director of the project, watched the mushroom cloud rise into the New Mexico<span classace_invisible ace_invisible_space ace_invalid>.
+Canada
+Sorry, the History skill can't help you with that yet. What day in History would you like to hear about.
+yesterday
+July 15th 1971. During a live television and radio broadcast, President Richard Nixon stuns the nation by announcing that he will visit communist China the following year. The statement marked a dramatic turning point in U.S.China relations, as well as a major shift in American foreign policy.  Would you like to hear more about this event,  another event from July 15th,  or an event from a different date.
+Stop
+Goodbye.
+

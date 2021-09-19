@@ -1,0 +1,56 @@
+round 1:
+alexa open my compliments
+Your complimentYou never cease to amaze me.
+Help
+<--skill exit-->Do you need to place an emergency call.
+
+round 2:
+alexa open my compliments
+Your complimentYour name suits you to a T.
+Stop
+
+What's the time
+<--skill exit-->It's 446 PM.
+
+round 3:
+alexa open my compliments
+Your complimentYour ability to recall random factoids at just the right time is impressive.
+Cancel
+
+What's the time
+<--skill exit-->The time is 448 PM.
+
+round 4:
+alexa open my compliments
+Your complimentYou never cease to amaze me.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+alexa open my compliments
+Your complimentYour ability to recall random factoids at just the right time is impressive.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 6:
+alexa open my compliments
+Your complimentYour name suits you to a T.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 7:
+alexa open my compliments
+Your complimentYour name suits you to a T.
+Exit
+
+What's the time
+<--skill exit-->The time is 451 PM.
+
+round 8:
+alexa open my compliments
+Your complimentYour ability to recall random factoids at just the right time is impressive.
+Cancel
+
+What's the time
+<--skill exit-->It's 452 PM.
+

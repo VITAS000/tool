@@ -1,0 +1,48 @@
+round 1:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say burger without meat.
+Help
+
+What's the time
+<--skill exit-->It's 114 PM.
+
+round 2:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say burger without meat.
+get
+
+What's the time
+<--skill exit-->It's 116 PM.
+
+round 3:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say diabetics main course.
+Exit
+
+What's the time
+<--skill exit-->The time is 117 PM.
+
+round 4:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say diabetics main course.
+Cancel
+So let's go ahead and say what you want to cook. For example you can say diabetics main course.
+What's the time
+<--skill exit-->
+
+round 5:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say chocolate cake without gluten.
+what you want to cook
+
+What's the time
+<--skill exit-->It's 121 PM.
+
+round 6:
+alexa open recipe finder
+Welcome to Recipe Finder .  Simply ask for a recipe and we will get you a list to choose from.  So let's go ahead and say what you want to cook. For example you can say burger without meat.
+Cancel
+So let's go ahead and say what you want to cook. For example you can say burger without meat.
+What's the time
+<--skill exit-->
+

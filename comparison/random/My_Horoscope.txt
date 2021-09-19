@@ -1,0 +1,46 @@
+round 1:
+alexa open my horoscope
+<Short audio>.Welcome back, dear Gemini friend. Here's your horoscope for the day.<Short audio>.Gemini. June 28. We can believe we're sensible and helpful even when we make something unnecessarily complicated. We poke and prod situations best left alone. We invest more effort than is necessary in the belief that excessiveness is better than doing too little. You could feel relief at discovering where you've done too much in some way recently. Try to dial back overthetop effort in a particular area.<Short audio>.There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+Help
+My Horoscope provides your daily horoscope along with insights into love, career, and money. For example, to get the horoscope for Capricorn, say, Alexa, what is the horoscope for Capricorn. To change your default sign, say, Alexa, change my default zodiac sign. Which zodiac sign your need the horoscope for.
+Cancel
+So long, friend. Your future is bright if you believe it to be. Peace and love.<Short audio>.
+What's the time
+<--skill exit-->The time is 441 PM.
+
+round 2:
+alexa open my horoscope
+<Short audio>.Welcome back, dear Gemini friend. Here's your horoscope for the day.<Short audio>.Gemini. June 28. We can believe we're sensible and helpful even when we make something unnecessarily complicated. We poke and prod situations best left alone. We invest more effort than is necessary in the belief that excessiveness is better than doing too little. You could feel relief at discovering where you've done too much in some way recently. Try to dial back overthetop effort in a particular area.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+change my default zodiac sign
+Which zodiac sign do you want to set as default.
+change my default zodiac sign
+Which zodiac sign do you want to set as default.
+change my default zodiac sign
+Which zodiac sign do you want to set as default.
+Resume
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+What's the time
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+Stop
+Goodbye dear friend. Let's chat again tomorrow to see what the day holds. It looks like you are really enjoying My Horoscope. Want us to add more new features. Please show your support by leaving us a review using Alexa app. Don't worry, I will remind you about this only two more times. Thanks.<Short audio>.
+What's the time
+<--skill exit-->It's 445 PM.
+
+round 3:
+alexa open my horoscope
+<Short audio>.Welcome back, dear Gemini friend. Here's your horoscope for the day.<Short audio>.Gemini. June 28. We can believe we're sensible and helpful even when we make something unnecessarily complicated. We poke and prod situations best left alone. We invest more effort than is necessary in the belief that excessiveness is better than doing too little. You could feel relief at discovering where you've done too much in some way recently. Try to dial back overthetop effort in a particular area.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+what is the horoscope for Capricorn
+Okay.<Short audio>.Capricorn. June 28. There's so much evidence to confirm that, without a plan for our goals, we drift rudderlessly toward any destination. We also know people who create many plans, yet they create contingency plans for their contingency plans. It is possible to go overboard in the Planning Department, at times. Trust that the most straightforward strategy your heart creates now will serve you well.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+Resume
+Sorry. I missed that.    There's so much evidence to confirm that, without a plan for our goals, we drift rudderlessly toward any destination. We also know people who create many plans, yet they create contingency plans for their contingency plans. It is possible to go overboard in the Planning Department, at times. Trust that the most straightforward strategy your heart creates now will serve you well. You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+change my default zodiac sign
+Which zodiac sign do you want to set as default.
+money
+There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+left
+Sorry. I missed that.   There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+Exit
+
+What's the time
+<--skill exit-->It's 450 PM.
+

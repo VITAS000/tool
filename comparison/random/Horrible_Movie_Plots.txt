@@ -1,0 +1,36 @@
+round 1:
+alexa open horrible movie plots
+Ok, Here's Horrible Movie Plots.Welcome to Horrible Movie plots. You will get a plot                         described really badly and have to guess which movie it                         is. You will be able to choose from four different                         answers. Simply answer with                          A, B, C or D.                                                       A group of small people go on a hike to get rid of jewelry. Which movie is it.                Is it  A   Lord of the Rings,               or  B   The Wolf of Wallstreet,               or  C   The Hobbit,               or  D   Zootopia.
+Help
+Simply try to guess the correct answer by saying                          A, B, C or D.                         Another one coming up.                                                      A man in a wheelchair betrays his own race to marry a big blue woman. Which movie is it.                Is it  A   Avatar,               or  B   Lilo and Stitch,               or  C   Forrest Gump,               or  D   Star Trek.
+Exit
+
+What's the time
+<--skill exit-->It's 332 PM.
+
+round 2:
+alexa open horrible movie plots
+Welcome to Horrible Movie plots. You will get a plot described really badly and have to guess which movie it is. You will be able to choose from four different answers. Simply answer with  A, B, C or D. Four kids come out of the closet after 20 years. Which movie is it. Is it  A   Ant man,or  B   Inside out,or  C   The Breakfast club,or  D   The Chronicles of Narnia.
+Stitch
+.<Short audio>.That's not correct. The Chronicles of Narnia  would have been the correct choice.Another one coming up.An arrogant kid loses his dad. He is then raised by hippies abroad until he returns home to get rid of the head of goverment. Which movie is it. Is it  A   Harry Potter,or  B   The Lion King,or  C   Christopher Robin,or  D   Shining.
+Restart
+.<Short audio>.Wrong. The Lion King  would have been the correct choice.Another one coming up.Everyone tries to keep a single dad from snapping. Which movie is it. Is it  A   The Matrix,or  B   Back to the Future,or  C   Gone Girl,or  D   Infinity War.
+B
+.<Short audio>.That's not correct. Infinity War  would have been the correct choice.Another one coming up.The CEO of a soap business recruits his employees in the basement of a bar. Which movie is it. Is it  A   The Prestige,or  B   The Departed,or  C   Pulb Fiction,or  D   Fightclub.
+C
+.<Short audio>.That's not correct. Fightclub  would have been the correct choice.Another one coming up.A group of small people go on a hike to get rid of jewelry. Which movie is it. Is it  A   Lord of the Rings,or  B   The Wolf of Wallstreet,or  C   The Hobbit,or  D   Zootopia.
+Another
+.<Short audio>.Exactly. Lord of the Rings  was the correct answer.Another one coming up.The CEO of a soap business recruits his employees in the basement of a bar. Which movie is it. Is it  A   The Prestige,or  B   The Departed,or  C   Pulb Fiction,or  D   Fightclub.
+D. Another one coming up
+The CEO of a soap business recruits his employees in the basement of a bar. Which movie is it. Is it  A   The Prestige,or  B   The Departed,or  C   Pulb Fiction,or  D   Fightclub.
+Wolf
+.<Short audio>.Wrong. Fightclub  would have been the correct choice.Another one coming up.A man in a wheelchair betrays his own race to marry a big blue woman. Which movie is it. Is it  A   Avatar,or  B   Lilo and Stitch,or  C   Forrest Gump,or  D   Star Trek.
+Another
+.<Short audio>.Correct. Avatar  was the correct answer.Another one coming up.The CEO of a soap business recruits his employees in the basement of a bar. Which movie is it. Is it  A   The Prestige,or  B   The Departed,or  C   Pulb Fiction,or  D   Fightclub.
+C
+.<Short audio>.Incorrect. Fightclub  would have been the correct choice.Another one coming up.A man in a wheelchair betrays his own race to marry a big blue woman. Which movie is it. Is it  A   Avatar,or  B   Lilo and Stitch,or  C   Forrest Gump,or  D   Star Trek.
+Stop
+Thank you for playing Horrible Movie Plots. We would very much appreciate a five star review on our skill page in the Alexa skills Store. This would support us so that we can add even more questions.There you can also leave feedback and make suggestions for your own questions. Make sure to come back again by simply saying Alexa, open Horrible Movie Plots.
+What's the time
+<--skill exit-->It's 340 PM.
+

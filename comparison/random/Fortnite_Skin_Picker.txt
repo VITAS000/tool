@@ -1,0 +1,100 @@
+round 1:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Help
+Ask me to suggest a skin for you.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 217 PM.
+
+round 2:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Pause
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Resume
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+suggest a skin for you
+I think you should pick Guild. Do you have that skin.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 218 PM.
+
+round 3:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Hayseed. Do you have that skin.
+What's the time
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 220 PM.
+
+round 4:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Reboot
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Pause
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->It's 221 PM.
+
+round 5:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+suggest a skin for you
+I think you should pick Hyperion. Do you have that skin.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 223 PM.
+
+round 6:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+pick a skin for you
+I think you should pick Laguna. Do you have that skin.
+Exit
+
+What's the time
+<--skill exit-->It's 224 PM.
+
+round 7:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Resume
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Cancel
+Goodbye.
+What's the time
+<--skill exit-->The time is 225 PM.
+
+round 8:
+alexa open fortnite skin picker
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Reboot
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Restart
+Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 227 PM.
+

@@ -1,0 +1,4 @@
+round 1:
+alexa open trivial pursuit tap
+<--skill exit-->Hmm, I have a few skills that can help.I see you've used TapClicks before, would you like to use that one again.
+

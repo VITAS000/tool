@@ -1,0 +1,16 @@
+round 1:
+alexa open otaku generation
+Ok, Here's OtakuGeneration.OtakuGeneration contains mature content that may not be suitable for all ages.Would you like to continue.
+Restart
+starting over.
+Restart
+starting over.
+Resume
+Sorry, there is nothing for me to resume.
+Pause
+Hmm, I'm not sure.
+Stop
+
+What's the time
+<--skill exit-->The time is 432 PM.
+

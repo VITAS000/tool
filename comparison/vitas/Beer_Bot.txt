@@ -1,0 +1,38 @@
+round 1:
+Alexa open beer bot
+Welcome to the Beer Bot, the best source for information related to microbreweries and craft beers.  Please begin by saying something like Find me a beer. This will walk you through available types that I have information on. You can also say, List for me the microbreweries in Richmond, Virginia and I will return all of the places I have on that particular location.
+Help
+The Beer bot provides information about different craft beers and who makes them. If you are trying to figure out a type of beer to try out, start by saying Find me a beer. If you are trying to find a microbrewery in a particular location, say List breweries for Richmond, Virginia.
+List breweries
+The current locations that I have microbrewery information for are Richmond, Seattle, San Diego, Portland, Denver, Alexandria, Charleston, Philadelphia, Baltimore, Cary, Charlotte, Charlottesville, McLean, Myrtle Beach, New York City, Houston, Austin, Dallas, San Antonio, Los Angeles, San Francisco, San Jose, Fort Worth, Jacksonville, Indianapolis, Columbus, El Paso, Detroit, Washington, Boston, Memphis, Nashville, Oklahoma City, Las Vegas, Louisville, Milwaukee, Albuquerque, Tuscon, Fresno, Sacramento, Kansas City, Long Beach, Mesa, Atlanta, Colorado Springs, Virginia Beach, Omaha, Miami, Oakland, Minneapolis, Tulsa, Wichita, New Orleans, Arlington, Chicago, St. Louis, . If you would like the microbreweries for one of these locations please ask for it by city name.  For example say something like List microbreweries for Richmond, Virginia.
+List microbreweries for Richmond
+There are 11 total microbreweries in Richmond Virginia. Here are the names. Ajax Aleworks, Final Gravity Brewing Co., Strangeways Brewing, Triple Crossing Brewing Company, Hardywood Park Craft Brewery, Isley Brewing Company, Blue Bee Cider, The Answer Brewpub, Garden Grove Brewing Company, 7 Hills Brewing Company, Buskey Cider, . If you would like to hear information about one of these, please say something like What's on tap at Ajax Aleworks.
+What 's on tap at Ajax Aleworks
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Find me a beer
+<--skill exit-->One moment.Free grocery delivery hasn't come to your area yet, so I added beer to your shopping list.
+
+round 2:
+Alexa open beer bot
+Welcome to the Beer Bot, the best source for information related to microbreweries and craft beers.  Please begin by saying something like Find me a beer. This will walk you through available types that I have information on. You can also say, List for me the microbreweries in Richmond, Virginia and I will return all of the places I have on that particular location.
+List
+The current locations that I have microbrewery information for are Richmond, Seattle, San Diego, Portland, Denver, Alexandria, Charleston, Philadelphia, Baltimore, Cary, Charlotte, Charlottesville, McLean, Myrtle Beach, New York City, Houston, Austin, Dallas, San Antonio, Los Angeles, San Francisco, San Jose, Fort Worth, Jacksonville, Indianapolis, Columbus, El Paso, Detroit, Washington, Boston, Memphis, Nashville, Oklahoma City, Las Vegas, Louisville, Milwaukee, Albuquerque, Tuscon, Fresno, Sacramento, Kansas City, Long Beach, Mesa, Atlanta, Colorado Springs, Virginia Beach, Omaha, Miami, Oakland, Minneapolis, Tulsa, Wichita, New Orleans, Arlington, Chicago, St. Louis, . If you would like the microbreweries for one of these locations please ask for it by city name.  For example say something like List microbreweries for Richmond, Virginia.
+List microbreweries for Richmond
+There are 11 total microbreweries in Richmond Virginia. Here are the names. Ajax Aleworks, Final Gravity Brewing Co., Strangeways Brewing, Triple Crossing Brewing Company, Hardywood Park Craft Brewery, Isley Brewing Company, Blue Bee Cider, The Answer Brewpub, Garden Grove Brewing Company, 7 Hills Brewing Company, Buskey Cider, . If you would like to hear information about one of these, please say something like What's on tap at Ajax Aleworks.
+What 's on tap at Ajax Aleworks
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+List
+<--skill exit-->.
+
+round 3:
+Alexa open beer bot
+Welcome to the Beer Bot, the best source for information related to microbreweries and craft beers.  Please begin by saying something like Find me a beer. This will walk you through available types that I have information on. You can also say, List for me the microbreweries in Richmond, Virginia and I will return all of the places I have on that particular location.
+Virginia
+The current locations that I have microbrewery information for are Richmond, Seattle, San Diego, Portland, Denver, Alexandria, Charleston, Philadelphia, Baltimore, Cary, Charlotte, Charlottesville, McLean, Myrtle Beach, New York City, Houston, Austin, Dallas, San Antonio, Los Angeles, San Francisco, San Jose, Fort Worth, Jacksonville, Indianapolis, Columbus, El Paso, Detroit, Washington, Boston, Memphis, Nashville, Oklahoma City, Las Vegas, Louisville, Milwaukee, Albuquerque, Tuscon, Fresno, Sacramento, Kansas City, Long Beach, Mesa, Atlanta, Colorado Springs, Virginia Beach, Omaha, Miami, Oakland, Minneapolis, Tulsa, Wichita, New Orleans, Arlington, Chicago, St. Louis, . If you would like the microbreweries for one of these locations please ask for it by city name.  For example say something like List microbreweries for Richmond, Virginia.
+Virginia
+The current locations that I have microbrewery information for are Richmond, Seattle, San Diego, Portland, Denver, Alexandria, Charleston, Philadelphia, Baltimore, Cary, Charlotte, Charlottesville, McLean, Myrtle Beach, New York City, Houston, Austin, Dallas, San Antonio, Los Angeles, San Francisco, San Jose, Fort Worth, Jacksonville, Indianapolis, Columbus, El Paso, Detroit, Washington, Boston, Memphis, Nashville, Oklahoma City, Las Vegas, Louisville, Milwaukee, Albuquerque, Tuscon, Fresno, Sacramento, Kansas City, Long Beach, Mesa, Atlanta, Colorado Springs, Virginia Beach, Omaha, Miami, Oakland, Minneapolis, Tulsa, Wichita, New Orleans, Arlington, Chicago, St. Louis, . If you would like the microbreweries for one of these locations please ask for it by city name.  For example say something like List microbreweries for Richmond, Virginia.
+Stop
+Thank you for checking in with the Beer bot. Have a nice day.
+What's the time
+<--skill exit-->The time is 323 AM.
+

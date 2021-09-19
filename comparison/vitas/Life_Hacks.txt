@@ -1,0 +1,62 @@
+round 1:
+Alexa open life hacks
+Here's your tip If your child has a particularly loud toy, put a piece of clear tape or a think layer of craft glue over the speaker. The sound will still play, but not at earsplitting levels.
+Help
+
+What's the time
+<--skill exit-->It's 1128 AM.
+
+round 2:
+Alexa open life hacks
+Here's your tip Doritos are great for kindling if you can't find any.
+layer
+
+What's the time
+<--skill exit-->It's 1130 AM.
+
+round 3:
+Alexa open life hacks
+Here's your tip Wear socks inside out to avoid seams bunching up on your toes.
+layer
+
+What's the time
+<--skill exit-->The time is 1132 AM.
+
+round 4:
+Alexa open life hacks
+Here's your tip If you have a pet that sheds, fold your clothes inside out to avoid getting hair stuck to the visible side.
+at
+
+What's the time
+<--skill exit-->The time is 1133 AM.
+
+round 5:
+Alexa open life hacks
+Here's your tip If you're wearing a tie on a windy day, put a coin on the inside of your hem to keep it from blowing around.
+at
+
+What's the time
+<--skill exit-->The time is 1135 AM.
+
+round 6:
+Alexa open life hacks
+Here's your tip Put pancake mix in a clean ketchup bottle for a nomess experience.
+at
+
+What's the time
+<--skill exit-->It's 1136 AM.
+
+round 7:
+Alexa open life hacks
+Here's your tip Use a hanging shoe rack to store cleaning supplies and keep them away from children.
+keep
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+Alexa open life hacks
+Here's your tip If you drop your phone, gently kick it with your foot before it hits the ground. The engergy will transfer to lateral momentum and save it from destruction.
+layer
+
+What's the time
+<--skill exit-->It's 1138 AM.
+

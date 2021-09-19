@@ -1,0 +1,50 @@
+round 1:
+Alexa open smart home
+Here's your smart home tip Test your garage door opener monthly to ensure that it reverses when it hits an obstruction or when its sensor beam is interrupted.
+is
+<--skill exit-->.
+
+round 2:
+Alexa open smart home
+Here's your smart home tip Test your garage door opener monthly to ensure that it reverses when it hits an obstruction or when its sensor beam is interrupted.
+is
+<--skill exit-->.
+
+round 3:
+Alexa open smart home
+Here's your smart home tip Test your garage door opener monthly to ensure that it reverses when it hits an obstruction or when its sensor beam is interrupted.
+is
+<--skill exit-->.
+
+round 4:
+Alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+door
+<--skill exit-->.
+
+round 5:
+Alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+caulking
+
+What's the time
+<--skill exit-->It's 646 PM.
+
+round 6:
+Alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+weather
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 7:
+Alexa open smart home
+Here's your smart home tip Clean leaves and debris from the condenser of a central air conditioner seasonally.
+debris
+<--skill exit-->.
+
+round 8:
+Alexa open smart home
+Here's your smart home tip Once a year, vacuum the refrigerator coils underneath your appliances.
+Pause
+<--skill exit-->Hmm, I don't know that.
+

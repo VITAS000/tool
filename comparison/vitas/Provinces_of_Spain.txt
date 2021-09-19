@@ -1,0 +1,48 @@
+round 1:
+Alexa open provincias de españa
+Ok, Here's Provinces of Spain.Hello, welcome to the provinces of Spain. As you may know Spain is divided into 17 autonomous communities and 2 autonomous cities. The autonomous communities are divided into 50 provincies. Antonio will help you with the pronunciation. Hello Antonio. Hola Alexa. Do you want to know one of those provincies.
+Help
+Please, tell me yes or no. Do you want to learn something new about the provinces of Spain.
+Yes
+Antonio, tell me a province of Spain, please. Burgos. Burgos is a province of Castilla y León autonomous community, and the capital is Burgos..  Thank you Antonio. No hay de qué. Do you want another one.
+Yes
+Whats the next province Antonio.. Murcia. Murcia is a province of Región de Murcia autonomous community, and the capital is Murcia..  Thank you Antonio. Can I tell you another one.
+is
+Whats the next province Antonio.. Albacete. Albacete is a province of Castilla La Mancha autonomous community, and the capital is Albacete..  Do you want to know another one of those provincies.
+is
+Tell me anoter province, Antonio. Soria. Soria is a province of Castilla y León autonomous community, and the capital is Soria..  Thank you Antonio. Un placer. Can I tell you another province.
+is
+Well, come on with another province of Spain. Antonio, please. Palencia. Palencia is a province of Castilla y León autonomous community, and the capital is Palencia..  Do you want to know another one of those provincies.
+is
+Tell me anoter province, Antonio. Navarra. Navarra is a province of Navarra autonomous community, and the capital is Pamplona..  Do you like another one.
+is
+Antonio, tell me a province of Spain, please. Toledo. Toledo is a province of Castilla La Mancha autonomous community, and the capital is Toledo..  Thank you Antonio. Can I tell you another one.
+Yes
+And the next province of Spain is... Granada. Granada is a province of Andalucía autonomous community, and the capital is Granada..  Do you want to know another province.
+is
+Tell me anoter province, Antonio. Segovia. Segovia is a province of Castilla y León autonomous community, and the capital is Segovia..  Thank you Antonio. De nada. Do you like another one.
+Yes
+
+What's the time
+<--skill exit-->Antonio, tell me a province of Spain, please. Baleares. Baleares is a province of Islas Baleares autonomous community, and the capital is Palma de Mallorca..  Can I tell you another one.
+
+round 2:
+Alexa open provincias de españa
+Ok, Here's Provinces of Spain.Hello, welcome to the provinces of Spain. As you may know Spain is divided into 17 autonomous communities and 2 autonomous cities. The autonomous communities are divided into 50 provincies. Antonio will help you with the pronunciation. Hello Antonio. Hola Alexa. Do you want to know one of those provincies.
+Yes
+Antonio, tell me a province of Spain, please. Murcia. Murcia is a province of Región de Murcia autonomous community, and the capital is Murcia..  Do you like another one.
+cities
+Whats the next province Antonio.. Cuenca. Cuenca is a province of Castilla La Mancha autonomous community, and the capital is Cuenca..  Thank you Antonio. Can I tell you another province.
+Yes
+Well, come on with another province of Spain. Antonio, please. Guadalajara. Guadalajara is a province of Castilla La Mancha autonomous community, and the capital is Guadalajara..  Do you want to know another one of those provincies.
+is
+Well, come on with another province of Spain. Antonio, please. Gerona. Gerona is a province of Cataluña autonomous community, and the capital is Gerona..  Can I tell you another province.
+is
+And the next province of Spain is... La Coruña. La Coruña is a province of Galicia autonomous community, and the capital is La Coruña..  Do you want to know another one of those provincies.
+is
+And the next province of Spain is... Valencia. Valencia is a province of Comunidad Valenciana autonomous community, and the capital is Valencia..  Do you want another one.
+Stop
+Good bye. Adiós.
+What's the time
+<--skill exit-->Well, come on with another province of Spain. Antonio, please. Almería. Almería is a province of Andalucía autonomous community, and the capital is Almería..  Do you want another one.
+

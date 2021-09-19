@@ -1,0 +1,48 @@
+round 1:
+Alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+Help
+You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+tell me about different sizes
+Small drinks are 12 ounces, Medium drinks are 16 ounces, and large drinks are 20 ounces. For a small drink you need one shot of espresso. For other sizes you need two.
+are
+
+What's the time
+<--skill exit-->It's 303 PM.
+
+round 2:
+Alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+help me make a cappuccino
+Alright. Let's make an awesome cappuccino together.  For a small cappuccino, you need one shot of espresso and enough steamed milk.  Pour a shot of espresso in a mug, and free pour the steamed milk over it and let them combine. Don't hold the foam back, and let it pour in the mug.  That was it. Enjoy your small cappuccino.  For a medium or large cappuccino, use two shots of espresso.
+use
+
+What's the time
+<--skill exit-->The time is 305 PM.
+
+round 3:
+Alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+help me make a cappuccino
+Alright. Let's make an awesome cappuccino together.  For a small cappuccino, you need one shot of espresso and enough steamed milk.  Pour a shot of espresso in a mug, and free pour the steamed milk over it and let them combine. Don't hold the foam back, and let it pour in the mug.  That was it. Enjoy your small cappuccino.  For a medium or large cappuccino, use two shots of espresso.
+a latte
+
+What's the time
+<--skill exit-->It's 307 PM.
+
+round 4:
+Alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+a latte
+Alright. Let's make an awesome latte together. For a small latte, you will need one shot of espresso and enough steamed milk. Pour a shot of espresso in a mug, and pour the steamed milk over it. Use a spoon to hold the foam back while you are pouring the milk in. If you want to add in the foam, make sure you leave a little bit of room on top. Then scoop the foam with a spoon and add it on top of your latte.  That was it. Enjoy your small latte.  For a medium or large latte, use two shots of espresso.
+
+round 5:
+Alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+a mocha
+Alright. Let's make a delicious mocha together. For a small mocha, you need one shot of espresso, three pumps of chocolate mocha sauce, and enough steamed milk. Start by adding three shots of mocha sauce in a mug. Then add one shot of espresso while swirling it. Finally, pour the steamed milk in, and top it off with whipped cream. That was it. Enjoy your small caffe mocha. For medium or large mochas, add four or five pumps of chocolate sauce respectively, and two shots of espresso.
+pour
+
+What's the time
+<--skill exit-->It's 311 PM.
+

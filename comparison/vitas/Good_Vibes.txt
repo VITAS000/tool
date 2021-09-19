@@ -1,0 +1,4 @@
+round 1:
+alexa open good vibes
+<--skill exit-->Handing off to Good Vibe by tgeorgiev.To start using the Good Vibe skill, please link your account with Amazon through the Alexa companion app.
+

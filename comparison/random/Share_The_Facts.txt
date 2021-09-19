@@ -1,0 +1,76 @@
+round 1:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+Help
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+Restart
+
+What's the time
+<--skill exit-->I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+
+round 2:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+check a claim you 're wondering about
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Resume
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Reboot
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Ask
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Stop
+Thank you for trying Share the Facts. Have a nice day.
+What's the time
+<--skill exit-->It's 941 PM.
+
+round 3:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+Pause
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Exit
+
+What's the time
+<--skill exit-->It's 943 PM.
+
+round 4:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+Ask
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Cancel
+Thank you for trying Share the Facts. Have a nice day.
+What's the time
+<--skill exit-->It's 944 PM.
+
+round 5:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+check a claim you 're wondering about
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Pause
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+check a claim you 're wondering about
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Ask
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Stop
+Thank you for trying Share the Facts. Have a nice day.
+What's the time
+<--skill exit-->It's 946 PM.
+
+round 6:
+alexa open the fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+Resume
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+check a claim you 're wondering about
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+What's the time
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+Exit
+
+What's the time
+<--skill exit-->It's 949 PM.
+

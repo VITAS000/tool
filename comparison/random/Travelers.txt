@@ -1,0 +1,58 @@
+round 1:
+alexa open travelers
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Help
+This is Travelers.You can ask things like, Mail me my auto id cards. When is my bill due. What is my agents phone number. When does my policy renew. What is my policy number.
+things like
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Mail me my auto i d cards
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Resume
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Exit
+
+What's the time
+<--skill exit-->It's 1042 AM.
+
+round 2:
+alexa open travelers
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Reboot
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+things like
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Cancel
+Thank you so much for your business, have a great day. Good Bye.
+What's the time
+<--skill exit-->You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+
+round 3:
+alexa open travelers
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Restart
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Reboot
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Pause
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Pause
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+What's the time
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Restart
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Exit
+
+What's the time
+<--skill exit-->The time is 1048 AM.
+
+round 4:
+alexa open travelers
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Pause
+You must have a My Travelers Personal Insurance account to use this skill. Please use the Alexa app to link your Amazon account with your My Travelers Account.
+Exit
+
+What's the time
+<--skill exit-->The time is 1050 AM.
+

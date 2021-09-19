@@ -1,0 +1,42 @@
+round 1:
+Alexa open space adventure
+You already have a game in progress. Would you like to continue the existing game.
+Help
+To avoid disaster, you must carefully manage your fuel, money, crew morale, and ship integrity. You can check the levels of these at any time. For example by saying How much fuel do we have. or How are the crew.. But more importantly, I will ask you a series of questions, to which you can respond by saying yes or no. So... Do you want to continue your existing game.
+you a series of questions
+There is not any questions on board the ship. Perhaps we can buy some from a trader. Do you want to continue your existing game.
+Yes
+You approach Falst, a partially terraformed world with a methane atmosphere. The ship lands at the Portley pioneer settlement. A farmer at the settlement ask you to transport a cultivator to his land. He offers you 18 credits. Do you help the farmer.
+Yes
+You pick up the cultivator and deliver it to the farmer's land. Your crew seem happy to have helped him. You take off from  Falst. You travel through space for a while. You approach Morgus, a partially terraformed world with a methane atmosphere. The ship lands at the Wreckmoor mining outpost. The mining outpost is shortstaffed and are looking for workers. They offer you 30 credits if your crew will assist with the ore processing. Do you take the work.
+Yes
+The work is dangerous and unpleasant. The crew work a shift but insist that you move on afterwards. You take off from  Morgus. You travel through space for a while. You approach Marla, an unterraformed world with a negligible atmosphere. The ship lands at the Marten mining outpost. The ship's fuel pump is corroded and needs to be replaced before we can take off again. A mechanic at the mining outpost has a fuel pump, but he is demanding 100 credits for it. We have 105 credits that we can spend. Shall we buy it.
+insist
+I did not understand your answer. Was that a yes or a no.
+Yes
+The mechanic thanks you for your custom and installs the fuel pump in your ship. You take off from  Marla. You travel through space for a while. We only have 5 credits. We need to find a good contract. You approach Dern, an asteroid. The ship lands at the Brackenford refinery. A hooded stranger tells you that his people are in need of rescue on a nearby asteroid. He begs us to help them. Do you agree.
+installs
+I did not understand your answer. Was that a yes or a no.
+Yes
+You help the stranger by rescuing his people. He is very grateful, and wishes he had some money to give you. The crew seem to respect you for your charity. You take off from  Dern. You travel through space for a while. The toilet has run out of paper and soap. You will need to restock it urgently. You approach Wode, a partially terraformed world with an ammonia cloud atmosphere. The ship lands at the Shiphurst mining outpost. A mining platform requires replacing. The outpost foreman offers you 60 credits if you will transport a new platform to the mining rig. Do you accept.
+Yes
+You pick up the platform from the nearby orbital and deliver it to the rig. The foreman is pleased and hands over the credits. You take off from  Wode. You travel through space for a while. You approach Yarva, a terraformed world with an earthlike atmosphere. The ship lands at the Southden mining outpost. Your mechanic informs you that the hull was damaged when we landed and requires urgent repair. He has found some hardened hull plates that will fix the problem, but they cost 70 credits. We have 65 available. Do you want to buy the hull plates.
+Yes
+You try to buy them, but the payment bounces. The mechanic appreciates that you agree with him, and understands that you do not have enough money to afford the hull plates. You take off from  Yarva. You travel through space for a while. You approach Lamva, an unterraformed world with a carbon dioxide atmosphere. The ship lands at the Nerpen habitat. Your ship's pilot is taken horribly ill. Their eyes have turned completely white and they are speaking in a strange language. There is a trader selling medicine at the habitat, but it costs 20 credits. We have 65 credits available. Do you want to buy the medicine.
+costs
+I did not understand your answer. Was that a yes or a no.
+Yes
+The medicine seems to cure the pilot of his illness. They thank you for your kindness. You take off from  Lamva. You travel through space for a while. We only have 45 credits. We need to find a good contract. You approach Ars, a planetoid with a negligible atmosphere. The ship lands at the Southleigh refinery. A scarred and tattooed woman approaches you asking for help with a heist. She knows of some valuable cargo in a storage facility, but it is protected by a local militia. Do you help her to steal the cargo.
+Yes
+You help her break into the storage facility. She gives you 100 credits for your help, but you were caught on surveillance cameras and the militia chase you back to your ship with guns blazing. You take off from  Ars. You travel through space for a while. You approach Marne, an unterraformed world with a sulphuric acid cloud atmosphere. The ship lands at the Manmarsh refinery. Your criminal activities have attracted the attention of a bounty hunter. He demands a bribe of 200 credits or he will turn you into the authorities. Do you pay the bribe.
+caught
+I did not understand your answer. Was that a yes or a no.
+Yes
+You hand the bounty hunter your payment chip and then try to run while he processes the payment. Your ruse does not work and he opens fire on you. Your ship takes considerable damage and a crew member is badly injured, but you do manage to escape. You take off from  Marne. You travel through space for a while. You approach Wopa, a terraformed world with an earthlike atmosphere. The ship lands at the Wreckheath habitat. Your crew ask if you can spend a little time here. Do you agree.
+if you can spend a little time here
+I did not understand your answer. Was that a yes or a no.
+Stop
+See ya later Captain.
+What's the time
+<--skill exit-->The time is 555 AM.
+

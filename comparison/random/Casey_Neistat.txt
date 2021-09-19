@@ -1,0 +1,58 @@
+round 1:
+alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Help
+You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. What would you like to do next.
+Flights
+found some results that fit flights.   Would you like me to play the most popular result.
+even turning your apple watch gold
+For flights even turning your apple watch gold Still found a bunch of episodes that match flights even turning your apple watch gold.   Would you like me to play the most popular result.
+Snowboarding
+For flights even turning your apple watch gold snowboarding Still found some results that fit flights even turning your apple watch gold snowboarding.   Would you like me to play the most popular result.
+turning
+For flights even turning your apple watch gold snowboarding turning Still found some results that fit flights even turning your apple watch gold snowboarding turning.   Would you like me to play the most popular result.
+Resume
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Stop
+
+What's the time
+<--skill exit-->The time is 820 PM.
+
+round 2:
+alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+even turning your apple watch gold
+found some results that fit even turning your apple watch gold.   Would you like me to play the most popular result.
+I do not know
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 3:
+alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Gopro
+found a bunch of episodes that match GoPro.   Would you like me to play the most popular result.
+I do not know
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Beme
+<--skill exit-->According to Wikipedia Beme Inc., stylized as beme, was a multimedia company founded by Matt Hackett and Casey Neistat, a vlogger and short film maker on YouTube. Beme Inc. was the creator of the mobile app Beme. On November 28, 2016, CNN announced that it would acquire Beme. CNN intended to invest in the company and create a new brand focused on a young audience.
+
+round 4:
+alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Cameras
+found a bunch of episodes that match cameras.   Would you like me to play the most popular result.
+Restart
+You are currently searching Casey Neistat.  You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold..   Briefly Describe what you are looking for. Or. Say latest episode to get the last three episodes.
+What's the time
+found some results that fit what's the time.   Would you like me to play the most popular result.
+even south africa
+For what's the time even south africa Still found some results that fit what's the time even south africa.   Would you like me to play the most popular result.
+even turning your apple watch gold
+For what's the time even south africa even turning your apple watch gold Still found some results that fit what's the time even south africa even turning your apple watch gold.   Would you like me to play the most popular result.
+Stop
+Thanks for stopping by.  For more, check out Casey on YouTube.
+What's the time
+<--skill exit-->The time is 827 PM.
+

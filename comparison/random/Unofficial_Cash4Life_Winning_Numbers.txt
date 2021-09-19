@@ -1,0 +1,66 @@
+round 1:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+Help
+Say the date you want. for example  to get the numbers for  August 2nd.  say.   August Second. ,, To get the numbers for the date nearest today.  say   Today ,, If you say a date that is after today.  It will assume that month day combination is for the previous year. ,, You can ask for a date of a different year,  for example,,  you can say,  March fifthteen Two Thounsand fifthteen. ,, for more help and Terms and Conditions,  say,  more help ,, Thank you for using Unoffical Cash4Life Winning Numbers.  ,, What would you like to do.   New Date,  Next, Previous, Repeat, More Help.
+a date that is after today
+Numbers for ,,20210703,,  Numbers,,,05,,,,14,,,,28,,,,39,,,,40,,Cash Baalll,,02,,,,What would you like to do.  Next. Repeat. Previous.  New date.
+Conditions
+Digital Spring Apps,, Thanks you,  for using ,,,Unoffical Cash4Life Winning Numbers.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 2:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+What's the time
+Sorry, I'm having trouble accessing your Unofficial Cash4Life Winning Numbers skill right now.
+Exit
+
+What's the time
+<--skill exit-->The time is 145 PM.
+
+round 3:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+Restart
+Digital Spring Apps,, Thanks you,  for using ,,,Unoffical Cash4Life Winning Numbers.
+Cash4Life
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Restart
+<--skill exit-->Starting over.
+
+round 4:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+a date of a different year
+Numbers for ,,20210703,,  Numbers,,,05,,,,14,,,,28,,,,39,,,,40,,Cash Baalll,,02,,,,What would you like to do.  Next. Repeat. Previous.  New date.
+a date that is after today
+Numbers for ,,20210703,,  Numbers,,,05,,,,14,,,,28,,,,39,,,,40,,Cash Baalll,,02,,,,What would you like to do.  Next. Repeat. Previous.  New date.
+Resume
+Digital Spring Apps,, Thanks you,  for using ,,,Unoffical Cash4Life Winning Numbers.
+the date you want
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+March fifthteen Two Thounsand fifthteen
+<--skill exit-->Hmm, I don't know that.
+
+round 5:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+What's the time
+Sorry, I'm having trouble accessing your Unofficial Cash4Life Winning Numbers skill right now.
+Exit
+
+What's the time
+<--skill exit-->It's 150 PM.
+
+round 6:
+alexa open unofficial cash four
+Welcome to  Unoffical Cash4Life Winning Numbers,  get the winning numbers, for instructions say,  Help.
+a date of a different year
+Numbers for ,,20210703,,  Numbers,,,05,,,,14,,,,28,,,,39,,,,40,,Cash Baalll,,02,,,,What would you like to do.  Next. Repeat. Previous.  New date.
+Stop
+Digital Spring Apps,, Thanks you,  for using ,,,Unoffical Cash4Life Winning Numbers.
+What's the time
+<--skill exit-->The time is 152 PM.
+

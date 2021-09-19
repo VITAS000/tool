@@ -1,0 +1,4 @@
+round 1:
+Alexa open the shocking truth
+<--skill exit-->Ok, Here's Telling the Truth.Welcome to telling the truth , you can say things like play the latest message, what would you like to do.
+

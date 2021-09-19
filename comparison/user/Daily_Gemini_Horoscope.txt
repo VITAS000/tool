@@ -1,0 +1,6 @@
+Alexa, open daily gemini horoscope
+Here's the skill Daily Gemini Horoscope, by DNAsoft.mobi.Welcome to your daily Gemini horoscope.  Here is your reading for today.   It's important to defend how you feel about things, but is it worth upsetting someone you care about or making an important person mad. If the person you disagree with can't be big enough to accept your position, then you have to be big enough to accept theirs, but you don't have to agree with it. You can't always surround yourself with like-minded people. Not only is it boring, it's a small way of seeing the world. Disagreements can be very educational. Would you like to hear it again.
+Yes
+It's important to defend how you feel about things, but is it worth upsetting someone you care about or making an important person mad. If the person you disagree with can't be big enough to accept your position, then you have to be big enough to accept theirs, but you don't have to agree with it. You can't always surround yourself with like-minded people. Not only is it boring, it's a small way of seeing the world. Disagreements can be very educational. Would you like to hear it again.
+No
+"Come back tomorrow to hear a new daily Gemini horoscope . Just say, "Alexa, open daily Gemini horoscope"  to open the skill again.\.

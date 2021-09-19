@@ -1,0 +1,42 @@
+round 1:
+alexa open magic pet
+Welcome back to Magic Pet. Snowball has been eagerly awaiting your return.<Short audio>.Snowball is not ready to transform yet, but we can still have some fun. What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+have
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Snowball Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+Guess My Number
+Sure. Snowball will definitely enjoy playing Guess My Number. To play this game, Snowball will think of a number from one to ten, and you will have three tries to guess the number.Let's begin. Snowball is thinking of a number from one to ten. What is your guess.
+have
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Snowball Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... You were playing 'Guess My Number'. Snowball is thinking of a number from one to ten. What is your guess.
+Snowball
+Sorry, I didn't understand your response. Snowball is thinking of a number from one to ten. What is your guess.
+Cuddles
+Sorry, I didn't understand your response. Snowball is thinking of a number from one to ten. What is your guess.
+Meatball
+Sorry, I didn't understand your response. Snowball is thinking of a number from one to ten. What is your guess.
+more
+Some other possible names are Wiggles, Zippy, Rocket, or Frisky. Either choose one of those names, or say, 'more', to hear more choices.
+more
+Some other possible names are Spot, Lucky, Shadow, or Spike. Either choose one of those names, or say, 'more', to hear more choices.
+to hear more choices
+Some other possible names are Meatball, Hocus Pocus, Fluffy, or Sparky. Either choose one of those names, or say, 'more', to hear more choices.
+to hear more choices
+Some other possible names are Snowball, Boomer, Rascal, or Puddles. Either choose one of those names, or say, 'more', to hear more choices.
+have
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Snowball Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... You were playing 'Guess My Number'. Please tell me what you would like to name your pet. Some possible names are Snowball, Boomer, Rascal, or Puddles. Either choose one of those names, or say, 'more', to hear more choices.
+play
+Sorry, I didn't understand your response. Please tell me what you would like to name your pet. Some possible names are Snowball, Boomer, Rascal, or Puddles. Either choose one of those names, or say, 'more', to hear more choices.
+Puddles
+Sorry, I didn't understand your response. Please tell me what you would like to name your pet. Some possible names are Snowball, Boomer, Rascal, or Puddles. Either choose one of those names, or say, 'more', to hear more choices.
+Guess My Number
+Sorry, I did not understand what number you said. Snowball is thinking of a number from one to ten. You have one guess left. What is your final guess.
+' Rock Paper Scissors '
+Sorry, I didn't understand your response. Snowball is thinking of a number from one to ten. You have one guess left. What is your final guess.
+Guess
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Snowball Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... You were playing 'Guess My Number'. Snowball is thinking of a number from one to ten. You have one guess left. What is your final guess.
+ Rock Paper Scissors
+Sorry, I didn't understand your response. Snowball is thinking of a number from one to ten. You have one guess left. What is your final guess.
+Stop
+I hope you enjoyed interacting with your magic pet, Snowball. Be sure to come back tomorrow to have your pet transform into a different animal. See you soon.
+What's the time
+<--skill exit-->The time is 117 PM.
+

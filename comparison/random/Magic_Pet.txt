@@ -1,0 +1,48 @@
+round 1:
+alexa open magic pet
+Welcome back to Magic Pet. Since you have been taking great care of Rascal, your pet is ready to transform.<Short audio>.Today, Rascal is a whale.<Short audio>.As you interact with your pet, I will tell you three interesting facts about whales.What do you want to do with your pet today. You can go for a walk, have a snack, or play a game.
+Help
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Rascal Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... What do you want to do with your pet today. You can go for a walk, have a snack, or play a game.
+ Rock Paper Scissors
+Sure thing. Rascal loves to play Rock Paper Scissors. The game will be played in three rounds. For each round, you will choose either rock, paper, or scissors, and at the same time Rascal will also choose either rock, paper, or scissors. I will tell you the results at each round. For the first round, do you choose rock, paper, or scissors.
+Exit
+
+What's the time
+<--skill exit-->The time is 412 PM.
+
+round 2:
+alexa open magic pet
+Welcome back to Magic Pet. Rascal has been eagerly awaiting your return.<Short audio>.Rascal is not ready to transform yet, but we can still have some fun. What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+Restart
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Rascal Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+Cancel
+I hope you enjoyed interacting with your magic pet, Rascal. Be sure to come back tomorrow to have your pet transform into a different animal. See you soon.
+What's the time
+<--skill exit-->The time is 414 PM.
+
+round 3:
+alexa open magic pet
+Welcome back to Magic Pet. Rascal has been eagerly awaiting your return.<Short audio>.Rascal is not ready to transform yet, but we can still have some fun. What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+' Rock Paper Scissors '
+Sure. Rascal loves to play Rock Paper Scissors. The game will be played in three rounds. For each round, you will choose either rock, paper, or scissors, and at the same time Rascal will also choose either rock, paper, or scissors. I will tell you the results at each round. For the first round, do you choose rock, paper, or scissors.
+Guess My Number
+Sorry, I didn't understand your response. Do you choose rock, paper, or scissors.
+have
+The Magic Pet Skill allows you to have your very own magic pet, which transforms into a different animal each day. There are many fun things you can do with your pet. You can go for a walk, have a snack, or play a game. The current games include 'Rascal Says', Guess My Number', and 'Rock Paper Scissors'. As you interact with your pet, I will tell you three animal facts. After you have heard the facts, you can take a quiz to test your knowledge about the animal. When you want to end your session, just say, 'Stop'.Now that you know a little bit more about the skill, let's get back to the fun... You were playing 'Rock Paper Scissors'. Do you choose rock, paper, or scissors.
+Stop
+I hope you enjoyed interacting with your magic pet, Rascal. Be sure to come back tomorrow to have your pet transform into a different animal. See you soon.
+What's the time
+<--skill exit-->The time is 417 PM.
+
+round 4:
+alexa open magic pet
+Welcome back to Magic Pet. Rascal has been eagerly awaiting your return.<Short audio>.Rascal is not ready to transform yet, but we can still have some fun. What do you want to do with your pet. You can go for a walk, have a snack, or play a game.
+' Rock Paper Scissors '
+Sure thing. Rascal loves to play Rock Paper Scissors. The game will be played in three rounds. For each round, you will choose either rock, paper, or scissors, and at the same time Rascal will also choose either rock, paper, or scissors. I will tell you the results at each round. For the first round, do you choose rock, paper, or scissors.
+ Rock Paper Scissors
+Sorry, I didn't understand your response. Do you choose rock, paper, or scissors.
+Stop
+I hope you enjoyed interacting with your magic pet, Rascal. Be sure to come back tomorrow to have your pet transform into a different animal. See you soon.
+What's the time
+<--skill exit-->It's 419 PM.
+

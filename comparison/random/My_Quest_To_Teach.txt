@@ -1,0 +1,50 @@
+round 1:
+alexa open my quest two teach
+Handing off to Quest To Teach by CreateMyVoice.com.Welcome to My Quest to Teach.  There is a new blog available, titled What Are You Doing This Summer   Join WordFest 2021 in July.  Would you like to hear the new blog post.
+Help
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Resume
+I'm not able to continue at this time.
+Restart
+<--skill exit-->Starting over.
+
+round 2:
+alexa open my quest two teach
+Handing off to Quest To Teach by CreateMyVoice.com.Welcome to My Quest to Teach.  There is a new blog post available, titled What Are You Doing This Summer   Join WordFest 2021 in July.  Would you like to hear the new blog post.
+What's the time
+My Quest To Teach is a vision as a teacher of over 30 years, mentoring, guiding and volunteering in my community. My community is not just Jacksonville it is nationally and internationally. Representation matters is a powerful statement that is transformative and generationally representative.  Would you like to hear the latest blog post.
+Reboot
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Restart
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Teach
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+What's the time
+My Quest To Teach is a vision as a teacher of over 30 years, mentoring, guiding and volunteering in my community. My community is not just Jacksonville it is nationally and internationally. Representation matters is a powerful statement that is transformative and generationally representative.  Would you like to hear the latest blog post.
+What's the time
+My Quest To Teach is a vision as a teacher of over 30 years, mentoring, guiding and volunteering in my community. My community is not just Jacksonville it is nationally and internationally. Representation matters is a powerful statement that is transformative and generationally representative.  Would you like to hear the latest blog post.
+mentoring
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Teach
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Teach
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+What's the time
+My Quest To Teach is a vision as a teacher of over 30 years, mentoring, guiding and volunteering in my community. My community is not just Jacksonville it is nationally and internationally. Representation matters is a powerful statement that is transformative and generationally representative.  Would you like to hear the latest blog post.
+representative
+There are several things you can ask Quest to Teach. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Exit
+
+What's the time
+<--skill exit-->The time is 1107 AM.
+
+round 3:
+alexa open my quest two teach
+Handing off to Quest To Teach by CreateMyVoice.com.Welcome to My Quest to Teach.  There is a new blog available, titled What Are You Doing This Summer   Join WordFest 2021 in July.  Would you like to hear the new blog post.
+get
+I'm not sure how to respond to that yet. If you need a list of commands, say, help.
+Stop
+Okay, Talk to you later.
+What's the time
+<--skill exit-->It's 1109 AM.
+

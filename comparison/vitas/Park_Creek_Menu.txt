@@ -1,0 +1,56 @@
+round 1:
+Alexa open park creek menu
+Sorry, I'm having trouble accessing your Park Creek Menu skill right now.
+Help
+
+What's the time
+<--skill exit-->The time is 324 AM.
+
+round 2:
+Alexa open park creek menu
+Sorry, I'm having trouble accessing your Park Creek Menu skill right now.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 3:
+Alexa open park creek menu
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+items
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+dinner
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+cup
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+soup
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+dinner
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+items
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+cup
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Pause
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Resume
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Restart
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Pause
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Reboot
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Resume
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Stop
+Okay, talk to you tomorrow.
+What's the time
+<--skill exit-->It's 333 AM.
+
+round 4:
+Alexa open park creek menu
+Welcome to today's menu. Here is what is for lunch and dinner in the Pecan Room. All entrees are served with your choice of house salad, or cup of today's soup and two side items.  continental breakfast Beef Lasagna Chicken Alfredo Over Penne  Would you like to hear the sides and soup of the day.
+Stop
+Okay, talk to you tomorrow.
+What's the time
+<--skill exit-->It's 334 AM.
+

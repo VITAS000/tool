@@ -1,0 +1,26 @@
+round 1:
+Alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+door
+<--skill exit-->.
+
+round 2:
+Alexa open smart home
+Here's your smart home tip Replace the batteries in smoke detectors yearly. And remember, even recent hardwired smoke detectors have backup batteries that must be replaced. If you have never checked yours, do so.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 3:
+Alexa open smart home
+Here's your smart home tip Replace the batteries in smoke detectors yearly. And remember, even recent hardwired smoke detectors have backup batteries that must be replaced. If you have never checked yours, do so.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 4:
+Alexa open smart home
+Here's your smart home tip Test all ground fault circuit interrupter outlets monthly. Press the test button and use a voltage tester to make sure the power goes off.
+use
+
+What's the time
+<--skill exit-->The time is 650 PM.
+

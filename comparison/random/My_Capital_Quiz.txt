@@ -1,0 +1,64 @@
+round 1:
+alexa open my capital quiz
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Pennsylvania.
+Help
+You can begin a game by saying start a new game, or, you can say exit... What can I help you with.
+start a new game
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Illinois.
+Exit
+
+What's the time
+<--skill exit-->It's 251 PM.
+
+round 2:
+alexa open my capital quiz
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of South Dakota.
+start a new game
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of West Virginia.
+you 5 questions
+That answer is wrong. The correct answer is Charleston. Your score is 0. What is the state capital of Delaware.
+get as many right as you can
+That answer is wrong. The correct answer is Dover. Your score is 0. What is the state capital of Arizona.
+start a new game
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Missouri.
+start a new game
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of New York.
+you can
+That answer is wrong. The correct answer is Albany. Your score is 0. What is the state capital of New Jersey.
+you 5 questions
+That answer is wrong. The correct answer is Trenton. Your score is 0. What is the state capital of Nebraska.
+Cancel
+Thanks for playing.
+What's the time
+<--skill exit-->The time is 255 PM.
+
+round 3:
+alexa open my capital quiz
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Tennessee.
+Restart
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Alaska.
+you 5 questions
+That answer is wrong. The correct answer is Juneau. Your score is 0. What is the state capital of New York.
+get as many right as you can
+That answer is wrong. The correct answer is Albany. Your score is 0. What is the state capital of Michigan.
+get as many right as you can
+That answer is wrong. The correct answer is Lansing. Your score is 0. What is the state capital of Mississippi.
+Canberra
+That answer is wrong. The correct answer is Jackson. Your score is 0. What is the state capital of Nebraska.
+What's the time
+That answer is wrong. The correct answer is Lincoln. You got 0 out of 5 questions correct. Thank you for playing.
+start a new game
+<--skill exit-->Which skill do you want to enable.
+
+round 4:
+alexa open my capital quiz
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Hawaii.
+Resume
+That answer is wrong. The correct answer is Honolulu. Your score is 0. What is the state capital of Florida.
+start a new game
+Let's test your state capital knowledge. I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the state capital of Arkansas.
+Stop
+Thanks for playing.
+What's the time
+<--skill exit-->The time is 259 PM.
+

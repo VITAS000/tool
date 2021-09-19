@@ -1,0 +1,26 @@
+round 1:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 2:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Restart
+<--skill exit-->starting over.
+
+round 3:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 4:
+Alexa open the answer chicago
+Welcome to The Answer Chicago.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 943 PM.
+

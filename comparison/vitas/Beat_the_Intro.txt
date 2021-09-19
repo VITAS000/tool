@@ -1,0 +1,66 @@
+round 1:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Help
+.<Short audio>.<Short audio>..
+Pause
+OK. To pick up where we leftoff, within a few minutes, say, open Beat the Intro.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 2:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Pause
+OK. To pick up where we leftoff, within a few minutes, say, open Beat the Intro.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 3:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Resume
+.<Short audio>..
+Restart
+.<Short audio>..
+Reboot
+.<Short audio>..
+Stop
+.<Short audio>.<Short audio>..
+What's the time
+<--skill exit-->It's 144 PM.
+
+round 4:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Exit
+
+What's the time
+<--skill exit-->The time is 146 PM.
+
+round 5:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Cancel
+.<Short audio>.<Short audio>..
+What's the time
+<--skill exit-->It's 147 PM.
+
+round 6:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+What's the time
+.<Short audio>..
+Stop
+.<Short audio>.<Short audio>..
+What's the time
+<--skill exit-->It's 149 PM.
+
+round 7:
+Alexa open beat the intro
+.<Short audio>.<Short audio>..
+Stop
+.<Short audio>.<Short audio>..
+What's the time
+<--skill exit-->The time is 150 PM.
+

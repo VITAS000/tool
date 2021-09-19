@@ -1,0 +1,65 @@
+round 1:
+alexa open magnificent facts
+Welcome. here is your fact. The Basenji dog is the only dog that is not able to bark. do you want to listen another fact. say yes or no.
+Help
+This skill will help you learn a range of mindblowing facts. Say alexa, open magnificent facts to open the skill. Do you want to start magnificent facts. say yes or no.
+no
+Thanks for using this skill. Please visit soon.
+open magnificent facts
+Welcome. here is your fact. The Basenji dog is the only dog that is not able to bark. do you want to listen another fact. say yes or no.
+Cancel
+
+What's the time
+<--skill exit-->The time is 1046 AM.
+
+round 2:
+alexa open magnificent facts
+Welcome. here is your fact. A rabbit is not able to vomit. do you want to listen another fact. say yes or no.
+What's the time
+do you want to listen another fact. say yes or no.
+I do not know
+do you want to listen another fact. say yes or no.
+Yes
+There is a city called Smackover located in Arkansas. do you want to listen another fact. say yes or no.
+Stop
+do you want to listen another fact. say yes or no.
+What's the time
+<--skill exit-->do you want to listen another fact. say yes or no.
+
+round 3:
+alexa open magnificent facts
+Welcome. here is your fact. A rabbit is not able to vomit. do you want to listen another fact. say yes or no.
+yes
+There is a city called Smackover located in Arkansas. do you want to listen another fact. say yes or no.
+Stop
+do you want to listen another fact. say yes or no.
+What's the time
+<--skill exit-->do you want to listen another fact. say yes or no.
+
+round 4:
+alexa open magnificent facts
+
+alexa open magnificent facts
+Welcome. here is your fact. There are 50 more males that are left handed compared to females. do you want to listen another fact. say yes or no.
+open magnificent facts
+do you want to listen another fact. say yes or no.
+Stop
+do you want to listen another fact. say yes or no.
+What's the time
+<--skill exit-->do you want to listen another fact. say yes or no.
+
+round 5:
+alexa open magnificent facts
+Welcome. here is your fact. A baseball will go farther in hot temperature than in cold temperature. do you want to listen another fact. say yes or no.
+no
+Thanks for using this skill. Please visit soon.
+Exit
+
+What's the time
+<--skill exit-->It's 1054 AM.
+
+round 6:
+alexa open magnificent facts
+
+<--skill exit-->
+

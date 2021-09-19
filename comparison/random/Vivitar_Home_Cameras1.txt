@@ -1,0 +1,16 @@
+round 1:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Stop
+
+What's the time
+<--skill exit-->It's 1031 PM.
+
+round 2:
+alexa open home camera
+Please link your Vivitar account in Alexa App.
+Stop
+
+What's the time
+<--skill exit-->It's 1033 PM.
+

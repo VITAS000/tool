@@ -1,0 +1,12 @@
+round 1:
+alexa open westworld quotes
+Ok, Here's Westworld Quotes.Westworld Quotes contains mature content that may not be suitable for all ages.
+Reboot
+Ok, Here's Westworld Quotes.Westworld Quotes contains mature content that may not be suitable for all ages.Would you like to continue.
+Cancel
+cancelling.
+Exit
+
+What's the time
+<--skill exit-->It's 405 PM.
+

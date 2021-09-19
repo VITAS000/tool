@@ -1,0 +1,80 @@
+round 1:
+alexa open all cats
+Here's the skill All Cats, by Jay Perry.Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Help
+Thanks for opening All About Cats.
+Reboot
+Thanks for opening All About Cats.
+Reboot
+Thanks for opening All About Cats.
+Stop
+Come back tomorrow to play the experience again. Just say, Alexa, open All About Cats  to open the skill again.
+What's the time
+<--skill exit-->The time is 1204 PM.
+
+round 2:
+alexa open all cats
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Resume
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Reboot
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Pause
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+What's the time
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Reboot
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+What's the time
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Restart
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+What's the time
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Stop
+Come back tomorrow to play the experience again. Just say, Alexa, open All About Cats  to open the skill again.
+What's the time
+<--skill exit-->It's 1208 PM.
+
+round 3:
+alexa open all cats
+Sorry, I'm having trouble accessing your All Cats skill right now.
+Exit
+
+What's the time
+<--skill exit-->The time is 1209 PM.
+
+round 4:
+alexa open all cats
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Pause
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Cancel
+Come back tomorrow to play the experience again. Just say, Alexa, open All About Cats  to open the skill again.
+What's the time
+<--skill exit-->It's 1210 PM.
+
+round 5:
+alexa open all cats
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Cancel
+Come back tomorrow to play the experience again. Just say, Alexa, open All About Cats  to open the skill again.
+What's the time
+<--skill exit-->The time is 1211 PM.
+
+round 6:
+alexa open all cats
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+What's the time
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+What's the time
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Reboot
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Pause
+Welcome to All About Cats. You will now learn all about cats. Do you want to start the experience.
+Stop
+Come back tomorrow to play the experience again. Just say, Alexa, open All About Cats  to open the skill again.
+What's the time
+<--skill exit-->It's 1213 PM.
+

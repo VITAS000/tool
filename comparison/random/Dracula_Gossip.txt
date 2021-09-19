@@ -1,0 +1,76 @@
+round 1:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Help
+You can ask for a rumor about Dracula. Go ahead, ask me for some dirt on Dracula.
+Stop
+Goodbye. I had a bloody good time.
+What's the time
+<--skill exit-->It's 109 PM.
+
+round 2:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Dracula's name may have been inspired by Vlad the Impaler, whose real name was Vlad Dracula the third. Both of them had a lot in common. Other than having a thirst for killing thousands of people, they both sported some pretty thick mustaches.
+What's the time
+<--skill exit-->It's 110 PM.
+
+round 3:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+What's the time
+Sorry, I'm having trouble accessing your Dracula Gossip skill right now.
+Restart
+<--skill exit-->starting over.
+
+round 4:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Resume
+Sorry, I'm having trouble accessing your Dracula Gossip skill right now.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Exit
+
+What's the time
+<--skill exit-->It's 114 PM.
+
+round 6:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Stop
+Goodbye. I had a bloody good time.
+What's the time
+<--skill exit-->It's 114 PM.
+
+round 7:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Restart
+Sorry, I'm having trouble accessing your Dracula Gossip skill right now.
+Cancel
+
+What's the time
+<--skill exit-->It's 116 PM.
+
+round 8:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Dracula has an adverse reaction to holy water and crucifixes. Unfortunately, he found that out after creating is profile on Christian Mingle.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 9:
+alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+a rumor about Dracula
+Here's what I heard Dracula's name may have been inspired by Vlad the Impaler, whose real name was Vlad Dracula the third. Both of them had a lot in common. Other than having a thirst for killing thousands of people, they both sported some pretty thick mustaches.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+

@@ -1,0 +1,62 @@
+round 1:
+Alexa open word teacher
+Your new word is zule.  The definition is in heraldry, a chess rook.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 2:
+Alexa open word teacher
+Your new word is emollient.  The definition is softening making supple.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 3:
+Alexa open word teacher
+Your new word is inescatory.  The definition is of, like or pertaining to baiting adapted to bait.
+pertaining
+
+What's the time
+<--skill exit-->The time is 1145 AM.
+
+round 4:
+Alexa open word teacher
+Your new word is bibliophobia.  The definition is fear of books.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 5:
+Alexa open word teacher
+Your new word is vagile.  The definition is having the ability to move about.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 6:
+Alexa open word teacher
+Your new word is illaqueate.  The definition is to ensnare.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 7:
+Alexa open word teacher
+Your new word is laicism.  The definition is doctrine of opposition to clergy and priests.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 8:
+Alexa open word teacher
+Your new word is jack.  The definition is medieval leather coat worn as armour.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 9:
+Alexa open word teacher
+Your new word is lickerish.  The definition is lecherous lusty greedy.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 10:
+Alexa open word teacher
+Your new word is erythrophobia.  The definition is fear of red lights or of blushing.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+

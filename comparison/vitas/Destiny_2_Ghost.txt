@@ -1,0 +1,64 @@
+round 1:
+Alexa open ghost
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+Help
+Hey. Before we pull in Ghost, lets go through what Ghost can do. Ghost can help with three things, your milestones your gear and your clan. Which would you like to learn about first.
+Pause
+I'm not sure about that one. Ghost can help with three things, your progress your gear and your clan. What should we do.
+I do not know
+Ghost can help with three things, your progress your gear and your clan. What should we do.
+I do not know
+
+What's the time
+<--skill exit-->Ghost tells me he doesn't know anything about that., What else would you like to ask ghost.
+
+round 2:
+Alexa open ghost
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+I do not know
+Ghost can help with three things, your progress your gear and your clan. What should we do.
+Pause
+I'm not sure about that one. Ghost can help with three things, your progress your gear and your clan. What should we do.
+Resume
+I'm not sure about that one. Ghost can help with three things, your progress your gear and your clan. What should we do.
+Restart
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+Reboot
+Ghost can help with three things, your progress your gear and your clan. What should we do.
+Stop
+That's it, Guardian. Good luck. You'll need it.
+What's the time
+<--skill exit-->It's 207 PM.
+
+round 3:
+Alexa open ghost
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+Exit
+
+What's the time
+<--skill exit-->The time is 209 PM.
+
+round 4:
+Alexa open ghost
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+Cancel
+That's it for now. Call me if you need me Guardian.
+What's the time
+<--skill exit-->The time is 210 PM.
+
+round 5:
+Alexa open ghost
+<Short audio>.Ghost can help with three things, your progress your gear and your clan. What should we do.
+What's the time
+Ghost tells me he doesn't know anything about that., What else would you like to ask ghost.
+ghost
+.<Short audio>.What else would you like to ask ghost.
+ghost
+.<Short audio>.What else would you like to ask ghost.
+ghost
+.<Short audio>.What else would you like to ask ghost.
+Stop
+And that's it. For now, at least.
+What's the time
+<--skill exit-->It's 212 PM.
+

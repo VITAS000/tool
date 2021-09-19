@@ -1,0 +1,1386 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Comparison - Vitas</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="..">Vitas</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../experiment/" class="nav-link">Experiment</a>
+                            </li>
+                            <li class="navitem active">
+                                <a href="./" class="nav-link">Comparison</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../case/" class="nav-link">Case Study</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../experiment/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../case/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#coverage-comparison" class="nav-link">Coverage comparison</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="coverage-comparison">Coverage comparison</h1>
+<p>We compare Vitas with random testing and SkillExplorer about the state space coverage, and the time limit is set as 10 minites for three techniques. The table below shows the state space coverage of each technique. Here, the users' test results are for reference because they have no time limit. The last column is the union of state space coverage of three techniques and users. We carry out this experiment on the benchmark. The skills selected here satisfy three conditions: 1. They can be opened by four methods. 2. Their behavior is consistent for four methods. 3. No network exception happens during the test.</p>
+<p>To get the table below, run <code>python experiment.py 7</code> in the <a href="../tool/experiment.zip">experiment</a> directory. The table is saved in fig7_coverge_rate_four.xlsx.</p>
+<table>
+<thead>
+<tr>
+<th>skill's name</th>
+<th>user</th>
+<th>vitas</th>
+<th>random</th>
+<th>skillExplorer</th>
+<th>union</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Build a PC Sales</td>
+<td><a href="../comparison/user/Build_a_PC_Sales.txt">15</a></td>
+<td><a href="../comparison/vitas/Build_a_PC_Sales.txt">10</a></td>
+<td><a href="../comparison/random/Build_a_PC_Sales.txt">14</a></td>
+<td><a href="../comparison/skillExplorer/Build%20a%20PC%20Sales.zip">7</a></td>
+<td>25</td>
+</tr>
+<tr>
+<td>Asthma Device Helper</td>
+<td><a href="../comparison/user/Asthma_Device_Helper.txt">8</a></td>
+<td><a href="../comparison/vitas/Asthma_Device_Helper.txt">32</a></td>
+<td><a href="../comparison/random/Asthma_Device_Helper.txt">32</a></td>
+<td><a href="../comparison/skillExplorer/Asthma%20Device%20Helper.zip">59</a></td>
+<td>61</td>
+</tr>
+<tr>
+<td>Animal Sounds</td>
+<td><a href="../comparison/user/Animal_Sounds.txt">45</a></td>
+<td><a href="../comparison/vitas/Animal_Sounds.txt">37</a></td>
+<td><a href="../comparison/random/Animal_Sounds.txt">27</a></td>
+<td><a href="../comparison/skillExplorer/Animal%20Sounds.zip">25</a></td>
+<td>108</td>
+</tr>
+<tr>
+<td>Dr Speech</td>
+<td><a href="../comparison/user/Dr_Speech.txt">14</a></td>
+<td><a href="../comparison/vitas/Dr_Speech.txt">21</a></td>
+<td><a href="../comparison/random/Dr_Speech.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/Dr%20Speech.zip">18</a></td>
+<td>28</td>
+</tr>
+<tr>
+<td>Song Quiz</td>
+<td><a href="../comparison/user/Song_Quiz.txt">59</a></td>
+<td><a href="../comparison/vitas/Song_Quiz.txt">33</a></td>
+<td><a href="../comparison/random/Song_Quiz.txt">17</a></td>
+<td><a href="../comparison/skillExplorer/Song%20Quiz.zip">15</a></td>
+<td>89</td>
+</tr>
+<tr>
+<td>Choose Your Adventure Game</td>
+<td><a href="../comparison/user/Choose_Your_Adventure_Game.txt">25</a></td>
+<td><a href="../comparison/vitas/Choose_Your_Adventure_Game.txt">12</a></td>
+<td><a href="../comparison/random/Choose_Your_Adventure_Game.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/Choose%20Your%20Adventure%20Game.zip">10</a></td>
+<td>26</td>
+</tr>
+<tr>
+<td>Toe Tac Tic</td>
+<td><a href="../comparison/user/Toe_Tac_Tic.txt">13</a></td>
+<td><a href="../comparison/vitas/Toe_Tac_Tic.txt">13</a></td>
+<td><a href="../comparison/random/Toe_Tac_Tic.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/Toe%20Tac%20Tic.zip">23</a></td>
+<td>25</td>
+</tr>
+<tr>
+<td>Butterball</td>
+<td><a href="../comparison/user/Butterball.txt">33</a></td>
+<td><a href="../comparison/vitas/Butterball.txt">22</a></td>
+<td><a href="../comparison/random/Butterball.txt">16</a></td>
+<td><a href="../comparison/skillExplorer/Butterball.zip">38</a></td>
+<td>77</td>
+</tr>
+<tr>
+<td>My Horoscope</td>
+<td><a href="../comparison/user/My_Horoscope.txt">26</a></td>
+<td><a href="../comparison/vitas/My_Horoscope.txt">39</a></td>
+<td><a href="../comparison/random/My_Horoscope.txt">40</a></td>
+<td><a href="../comparison/skillExplorer/My%20Horoscope.zip">18</a></td>
+<td>82</td>
+</tr>
+<tr>
+<td>Birthstone</td>
+<td><a href="../comparison/user/Birthstone.txt">14</a></td>
+<td><a href="../comparison/vitas/Birthstone.txt">16</a></td>
+<td><a href="../comparison/random/Birthstone.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/Birthstone.zip">9</a></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Cooking Temperature Buddy</td>
+<td><a href="../comparison/user/Cooking_Temperature_Buddy.txt">8</a></td>
+<td><a href="../comparison/vitas/Cooking_Temperature_Buddy.txt">13</a></td>
+<td><a href="../comparison/random/Cooking_Temperature_Buddy.txt">15</a></td>
+<td><a href="../comparison/skillExplorer/Cooking%20Temperature%20Buddy.zip">11</a></td>
+<td>17</td>
+</tr>
+<tr>
+<td>Yoga Teacher</td>
+<td><a href="../comparison/user/Yoga_Teacher.txt">39</a></td>
+<td><a href="../comparison/vitas/Yoga_Teacher.txt">30</a></td>
+<td><a href="../comparison/random/Yoga_Teacher.txt">14</a></td>
+<td><a href="../comparison/skillExplorer/Yoga%20Teacher.zip">10</a></td>
+<td>48</td>
+</tr>
+<tr>
+<td>NewsChest: Unofficial FC Barcelona news</td>
+<td><a href="../comparison/user/NewsChest_Unofficial_FC_Barcelona_news.txt">16</a></td>
+<td><a href="../comparison/vitas/NewsChest_Unofficial_FC_Barcelona_news.txt">11</a></td>
+<td><a href="../comparison/random/NewsChest_Unofficial_FC_Barcelona_news.txt">13</a></td>
+<td><a href="../comparison/skillExplorer/NewsChest%20%20Unofficial%20FC%20Barcelona%20news.zip">8</a></td>
+<td>29</td>
+</tr>
+<tr>
+<td>Super Tech Support</td>
+<td><a href="../comparison/user/Super_Tech_Support.txt">10</a></td>
+<td><a href="../comparison/vitas/Super_Tech_Support.txt">19</a></td>
+<td><a href="../comparison/random/Super_Tech_Support.txt">16</a></td>
+<td><a href="../comparison/skillExplorer/Super%20Tech%20Support.zip">19</a></td>
+<td>19</td>
+</tr>
+<tr>
+<td>Unofficial Simpson's Quote Finder</td>
+<td><a href="../comparison/user/Unofficial_Simpson_s_Quote_Finder.txt">8</a></td>
+<td><a href="../comparison/vitas/Unofficial_Simpson_s_Quote_Finder.txt">9</a></td>
+<td><a href="../comparison/random/Unofficial_Simpson_s_Quote_Finder.txt">9</a></td>
+<td><a href="../comparison/skillExplorer/Unofficial%20Simpson%20s%20Quote%20Finder.zip">8</a></td>
+<td>9</td>
+</tr>
+<tr>
+<td>Funny Noises</td>
+<td><a href="../comparison/user/Funny_Noises.txt">9</a></td>
+<td><a href="../comparison/vitas/Funny_Noises.txt">11</a></td>
+<td><a href="../comparison/random/Funny_Noises.txt">11</a></td>
+<td><a href="../comparison/skillExplorer/Funny%20Noises.zip">11</a></td>
+<td>11</td>
+</tr>
+<tr>
+<td>Actor Wiki</td>
+<td><a href="../comparison/user/Actor_Wiki.txt">10</a></td>
+<td><a href="../comparison/vitas/Actor_Wiki.txt">11</a></td>
+<td><a href="../comparison/random/Actor_Wiki.txt">10</a></td>
+<td><a href="../comparison/skillExplorer/Actor%20Wiki.zip">14</a></td>
+<td>29</td>
+</tr>
+<tr>
+<td>LOST Geek Quiz</td>
+<td><a href="../comparison/user/LOST_Geek_Quiz.txt">70</a></td>
+<td><a href="../comparison/vitas/LOST_Geek_Quiz.txt">98</a></td>
+<td><a href="../comparison/random/LOST_Geek_Quiz.txt">85</a></td>
+<td><a href="../comparison/skillExplorer/LOST%20Geek%20Quiz.zip">17</a></td>
+<td>180</td>
+</tr>
+<tr>
+<td>Grace Chapel</td>
+<td><a href="../comparison/user/Grace_Chapel.txt">16</a></td>
+<td><a href="../comparison/vitas/Grace_Chapel.txt">17</a></td>
+<td><a href="../comparison/random/Grace_Chapel.txt">15</a></td>
+<td><a href="../comparison/skillExplorer/Grace%20Chapel.zip">17</a></td>
+<td>28</td>
+</tr>
+<tr>
+<td>Scare off Burglars</td>
+<td><a href="../comparison/user/Scare_off_Burglars.txt">6</a></td>
+<td><a href="../comparison/vitas/Scare_off_Burglars.txt">10</a></td>
+<td><a href="../comparison/random/Scare_off_Burglars.txt">10</a></td>
+<td><a href="../comparison/skillExplorer/Scare%20off%20Burglars.zip">9</a></td>
+<td>15</td>
+</tr>
+<tr>
+<td>NPR</td>
+<td><a href="../comparison/user/NPR.txt">9</a></td>
+<td><a href="../comparison/vitas/NPR.txt">14</a></td>
+<td><a href="../comparison/random/NPR.txt">13</a></td>
+<td><a href="../comparison/skillExplorer/NPR.zip">8</a></td>
+<td>19</td>
+</tr>
+<tr>
+<td>Soccer Scores</td>
+<td><a href="../comparison/user/Soccer_Scores.txt">6</a></td>
+<td><a href="../comparison/vitas/Soccer_Scores.txt">10</a></td>
+<td><a href="../comparison/random/Soccer_Scores.txt">6</a></td>
+<td><a href="../comparison/skillExplorer/Soccer%20Scores.zip">3</a></td>
+<td>12</td>
+</tr>
+<tr>
+<td>The Answer Chicago</td>
+<td><a href="../comparison/user/The_Answer_Chicago.txt">2</a></td>
+<td><a href="../comparison/vitas/The_Answer_Chicago.txt">2</a></td>
+<td><a href="../comparison/random/The_Answer_Chicago.txt">2</a></td>
+<td><a href="../comparison/skillExplorer/The%20Answer%20Chicago.zip">1</a></td>
+<td>2</td>
+</tr>
+<tr>
+<td>FireBoard - Cloud Connected Smart Thermometer</td>
+<td><a href="../comparison/user/FireBoard_Cloud_Connected_Smart_Thermometer.txt">5</a></td>
+<td><a href="../comparison/vitas/FireBoard_Cloud_Connected_Smart_Thermometer.txt">7</a></td>
+<td><a href="../comparison/random/FireBoard_Cloud_Connected_Smart_Thermometer.txt">7</a></td>
+<td><a href="../comparison/skillExplorer/FireBoard%20-%20Cloud%20Connected%20Smart%20Thermometer.zip">7</a></td>
+<td>7</td>
+</tr>
+<tr>
+<td>Travel Dates</td>
+<td><a href="../comparison/user/Travel_Dates.txt">3</a></td>
+<td><a href="../comparison/vitas/Travel_Dates.txt">4</a></td>
+<td><a href="../comparison/random/Travel_Dates.txt">5</a></td>
+<td><a href="../comparison/skillExplorer/Travel%20Dates.zip">5</a></td>
+<td>8</td>
+</tr>
+<tr>
+<td>Pico y Placa</td>
+<td><a href="../comparison/user/Pico_y_Placa.txt">23</a></td>
+<td><a href="../comparison/vitas/Pico_y_Placa.txt">7</a></td>
+<td><a href="../comparison/random/Pico_y_Placa.txt">8</a></td>
+<td><a href="../comparison/skillExplorer/Pico%20y%20Placa.zip">11</a></td>
+<td>24</td>
+</tr>
+<tr>
+<td>I am Affirmations</td>
+<td><a href="../comparison/user/I_am_Affirmations.txt">36</a></td>
+<td><a href="../comparison/vitas/I_am_Affirmations.txt">21</a></td>
+<td><a href="../comparison/random/I_am_Affirmations.txt">18</a></td>
+<td><a href="../comparison/skillExplorer/I%20am%20Affirmations.zip">13</a></td>
+<td>52</td>
+</tr>
+<tr>
+<td>The Rock of Northeast Arkansas</td>
+<td><a href="../comparison/user/The_Rock_of_Northeast_Arkansas.txt">15</a></td>
+<td><a href="../comparison/vitas/The_Rock_of_Northeast_Arkansas.txt">19</a></td>
+<td><a href="../comparison/random/The_Rock_of_Northeast_Arkansas.txt">22</a></td>
+<td><a href="../comparison/skillExplorer/The%20Rock%20of%20Northeast%20Arkansas.zip">18</a></td>
+<td>25</td>
+</tr>
+<tr>
+<td>Lighthouse Apostolic Ministries, Saint Louis, MO</td>
+<td><a href="../comparison/user/Lighthouse_Apostolic_Ministries_Saint_Louis_MO.txt">15</a></td>
+<td><a href="../comparison/vitas/Lighthouse_Apostolic_Ministries_Saint_Louis_MO.txt">15</a></td>
+<td><a href="../comparison/random/Lighthouse_Apostolic_Ministries_Saint_Louis_MO.txt">22</a></td>
+<td><a href="../comparison/skillExplorer/Lighthouse%20Apostolic%20Ministries%2C%20Saint%20Louis%2C%20MO.zip">17</a></td>
+<td>23</td>
+</tr>
+<tr>
+<td>Fitness Encouragement</td>
+<td><a href="../comparison/user/Fitness_Encouragement.txt">69</a></td>
+<td><a href="../comparison/vitas/Fitness_Encouragement.txt">28</a></td>
+<td><a href="../comparison/random/Fitness_Encouragement.txt">21</a></td>
+<td><a href="../comparison/skillExplorer/Fitness%20Encouragement.zip">16</a></td>
+<td>80</td>
+</tr>
+<tr>
+<td>A path to forgiveness</td>
+<td><a href="../comparison/user/A_path_to_forgiveness.txt">48</a></td>
+<td><a href="../comparison/vitas/A_path_to_forgiveness.txt">52</a></td>
+<td><a href="../comparison/random/A_path_to_forgiveness.txt">44</a></td>
+<td><a href="../comparison/skillExplorer/A%20path%20to%20forgiveness.zip">51</a></td>
+<td>54</td>
+</tr>
+<tr>
+<td>Driving Etiquette</td>
+<td><a href="../comparison/user/Driving_Etiquette.txt">62</a></td>
+<td><a href="../comparison/vitas/Driving_Etiquette.txt">11</a></td>
+<td><a href="../comparison/random/Driving_Etiquette.txt">8</a></td>
+<td><a href="../comparison/skillExplorer/Driving%20Etiquette.zip">5</a></td>
+<td>69</td>
+</tr>
+<tr>
+<td>cook perfect eggs</td>
+<td><a href="../comparison/user/cook_perfect_eggs.txt">63</a></td>
+<td><a href="../comparison/vitas/cook_perfect_eggs.txt">39</a></td>
+<td><a href="../comparison/random/cook_perfect_eggs.txt">31</a></td>
+<td><a href="../comparison/skillExplorer/cook%20perfect%20eggs.zip">61</a></td>
+<td>88</td>
+</tr>
+<tr>
+<td>Dracula Gossip</td>
+<td><a href="../comparison/user/Dracula_Gossip.txt">3</a></td>
+<td><a href="../comparison/vitas/Dracula_Gossip.txt">20</a></td>
+<td><a href="../comparison/random/Dracula_Gossip.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/Dracula%20Gossip.zip">17</a></td>
+<td>33</td>
+</tr>
+<tr>
+<td>Never Have I Ever</td>
+<td><a href="../comparison/user/Never_Have_I_Ever.txt">35</a></td>
+<td><a href="../comparison/vitas/Never_Have_I_Ever.txt">25</a></td>
+<td><a href="../comparison/random/Never_Have_I_Ever.txt">22</a></td>
+<td><a href="../comparison/skillExplorer/Never%20Have%20I%20Ever.zip">28</a></td>
+<td>68</td>
+</tr>
+<tr>
+<td>Unofficial Cash4Life Winning Numbers</td>
+<td><a href="../comparison/user/Unofficial_Cash4Life_Winning_Numbers.txt">22</a></td>
+<td><a href="../comparison/vitas/Unofficial_Cash4Life_Winning_Numbers.txt">28</a></td>
+<td><a href="../comparison/random/Unofficial_Cash4Life_Winning_Numbers.txt">17</a></td>
+<td><a href="../comparison/skillExplorer/Unofficial%20Cash4Life%20Winning%20Numbers.zip">19</a></td>
+<td>44</td>
+</tr>
+<tr>
+<td>Backgammon Helper</td>
+<td><a href="../comparison/user/Backgammon_Helper.txt">21</a></td>
+<td><a href="../comparison/vitas/Backgammon_Helper.txt">29</a></td>
+<td><a href="../comparison/random/Backgammon_Helper.txt">27</a></td>
+<td><a href="../comparison/skillExplorer/Backgammon%20Helper.zip">29</a></td>
+<td>38</td>
+</tr>
+<tr>
+<td>India trivia game</td>
+<td><a href="../comparison/user/India_trivia_game.txt">53</a></td>
+<td><a href="../comparison/vitas/India_trivia_game.txt">65</a></td>
+<td><a href="../comparison/random/India_trivia_game.txt">44</a></td>
+<td><a href="../comparison/skillExplorer/India%20trivia%20game.zip">22</a></td>
+<td>119</td>
+</tr>
+<tr>
+<td>Santa's Helper</td>
+<td><a href="../comparison/user/Santa_s_Helper.txt">85</a></td>
+<td><a href="../comparison/vitas/Santa_s_Helper.txt">47</a></td>
+<td><a href="../comparison/random/Santa_s_Helper.txt">21</a></td>
+<td><a href="../comparison/skillExplorer/Santa%20s%20Helper.zip">74</a></td>
+<td>188</td>
+</tr>
+<tr>
+<td>Magic Pet</td>
+<td><a href="../comparison/user/Magic_Pet.txt">95</a></td>
+<td><a href="../comparison/vitas/Magic_Pet.txt">35</a></td>
+<td><a href="../comparison/random/Magic_Pet.txt">32</a></td>
+<td><a href="../comparison/skillExplorer/Magic%20Pet.zip">29</a></td>
+<td>157</td>
+</tr>
+<tr>
+<td>World Languages</td>
+<td><a href="../comparison/user/World_Languages.txt">61</a></td>
+<td><a href="../comparison/vitas/World_Languages.txt">73</a></td>
+<td><a href="../comparison/random/World_Languages.txt">49</a></td>
+<td><a href="../comparison/skillExplorer/World%20Languages.zip">17</a></td>
+<td>133</td>
+</tr>
+<tr>
+<td>Seventh Inning Stretch Baseball - Buttons Optional</td>
+<td><a href="../comparison/user/Seventh_Inning_Stretch_Baseball_Buttons_Optional.txt">53</a></td>
+<td><a href="../comparison/vitas/Seventh_Inning_Stretch_Baseball_Buttons_Optional.txt">40</a></td>
+<td><a href="../comparison/random/Seventh_Inning_Stretch_Baseball_Buttons_Optional.txt">41</a></td>
+<td><a href="../comparison/skillExplorer/Seventh%20Inning%20Stretch%20Baseball%20-%20Buttons%20Optional.zip">15</a></td>
+<td>80</td>
+</tr>
+<tr>
+<td>Hurricane Center</td>
+<td><a href="../comparison/user/Hurricane_Center.txt">65</a></td>
+<td><a href="../comparison/vitas/Hurricane_Center.txt">49</a></td>
+<td><a href="../comparison/random/Hurricane_Center.txt">31</a></td>
+<td><a href="../comparison/skillExplorer/Hurricane%20Center.zip">48</a></td>
+<td>93</td>
+</tr>
+<tr>
+<td>Stanley's journey</td>
+<td><a href="../comparison/user/Stanley_s_journey.txt">57</a></td>
+<td><a href="../comparison/vitas/Stanley_s_journey.txt">40</a></td>
+<td><a href="../comparison/random/Stanley_s_journey.txt">32</a></td>
+<td><a href="../comparison/skillExplorer/Stanley%20s%20journey.zip">53</a></td>
+<td>65</td>
+</tr>
+<tr>
+<td>Uninspiring Quotes</td>
+<td><a href="../comparison/user/Uninspiring_Quotes.txt">20</a></td>
+<td><a href="../comparison/vitas/Uninspiring_Quotes.txt">20</a></td>
+<td><a href="../comparison/random/Uninspiring_Quotes.txt">8</a></td>
+<td><a href="../comparison/skillExplorer/Uninspiring%20Quotes.zip">16</a></td>
+<td>33</td>
+</tr>
+<tr>
+<td>Travelers</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Travelers.txt">4</a></td>
+<td><a href="../comparison/random/Travelers.txt">10</a></td>
+<td><a href="../comparison/skillExplorer/Travelers.zip">10</a></td>
+<td>14</td>
+</tr>
+<tr>
+<td>U.S. Bank</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/U_S_Bank.txt">14</a></td>
+<td><a href="../comparison/random/U_S_Bank.txt">11</a></td>
+<td>unavailable</td>
+<td>16</td>
+</tr>
+<tr>
+<td>IBKR IBot</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/IBKR_IBot.txt">37</a></td>
+<td><a href="../comparison/random/IBKR_IBot.txt">37</a></td>
+<td>unavailable</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Stock Info</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Stock_Info.txt">19</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/Stock%20Info.zip">13</a></td>
+<td>26</td>
+</tr>
+<tr>
+<td>electraFi.com</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>JW.ORG®</td>
+<td><a href="../comparison/user/JW_ORG_.txt">26</a></td>
+<td><a href="../comparison/vitas/JW_ORG_.txt">12</a></td>
+<td><a href="../comparison/random/JW_ORG_.txt">12</a></td>
+<td>unavailable</td>
+<td>28</td>
+</tr>
+<tr>
+<td>The Bible</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/The_Bible.txt">16</a></td>
+<td><a href="../comparison/random/The_Bible.txt">55</a></td>
+<td>unavailable</td>
+<td>71</td>
+</tr>
+<tr>
+<td>Life Hacks</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Life_Hacks.txt">10</a></td>
+<td><a href="../comparison/random/Life_Hacks.txt">6</a></td>
+<td><a href="../comparison/skillExplorer/Life%20Hacks.zip">11</a></td>
+<td>19</td>
+</tr>
+<tr>
+<td>New vocabulary word</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/New_vocabulary_word.txt">42</a></td>
+<td><a href="../comparison/random/New_vocabulary_word.txt">22</a></td>
+<td><a href="../comparison/skillExplorer/New%20vocabulary%20word.zip">4</a></td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ehrlich Pest Control</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Ehrlich_Pest_Control.txt">14</a></td>
+<td><a href="../comparison/skillExplorer/Ehrlich%20Pest%20Control.zip">33</a></td>
+<td>39</td>
+</tr>
+<tr>
+<td>Today's special</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Fox Chapel School Lunch</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Fox_Chapel_School_Lunch.txt">4</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Recipe Finder By Ingredients</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Recipe_Finder_By_Ingredients.txt">8</a></td>
+<td><a href="../comparison/random/Recipe_Finder_By_Ingredients.txt">6</a></td>
+<td><a href="../comparison/skillExplorer/Recipe%20Finder%20By%20Ingredients.zip">10</a></td>
+<td>16</td>
+</tr>
+<tr>
+<td>Go Irish</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Go_Irish.txt">2</a></td>
+<td><a href="../comparison/random/Go_Irish.txt">2</a></td>
+<td><a href="../comparison/skillExplorer/Go%20Irish.zip">2</a></td>
+<td>2</td>
+</tr>
+<tr>
+<td>Freedom Festival</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Freedom_Festival.txt">23</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Skyrim Very Special Edition</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Skyrim_Very_Special_Edition.txt">14</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Beat the Intro</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Beat_the_Intro.txt">3</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>3</td>
+</tr>
+<tr>
+<td>The Floor is Lava</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/The_Floor_is_Lava.txt">55</a></td>
+<td><a href="../comparison/skillExplorer/The%20Floor%20is%20Lava.zip">37</a></td>
+<td>84</td>
+</tr>
+<tr>
+<td>Destiny 2 Ghost</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Destiny_2_Ghost.txt">18</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Trivial Pursuit Tap</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Trivial_Pursuit_Tap.txt">51</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Fortnite Skin Picker</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Fortnite_Skin_Picker.txt">16</a></td>
+<td><a href="../comparison/random/Fortnite_Skin_Picker.txt">9</a></td>
+<td><a href="../comparison/skillExplorer/Fortnite%20Skin%20Picker.zip">12</a></td>
+<td>26</td>
+</tr>
+<tr>
+<td>Simon Says</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Simon_Says.txt">30</a></td>
+<td><a href="../comparison/random/Simon_Says.txt">29</a></td>
+<td><a href="../comparison/skillExplorer/Simon%20Says.zip">36</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td>My Capital Quiz</td>
+<td><a href="../comparison/user/My_Capital_Quiz.txt">10</a></td>
+<td><a href="../comparison/vitas/My_Capital_Quiz.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/random/My_Capital_Quiz.txt">inconsistent behavior</a></td>
+<td>unavailable</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Bender the Great</td>
+<td><a href="../comparison/user/Bender_the_Great.txt">13</a></td>
+<td><a href="../comparison/vitas/Bender_the_Great.txt">22</a></td>
+<td><a href="../comparison/random/Bender_the_Great.txt">21</a></td>
+<td>unavailable</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Murder Mystery Theater</td>
+<td><a href="../comparison/user/Murder_Mystery_Theater.txt">44</a></td>
+<td><a href="../comparison/vitas/Murder_Mystery_Theater.txt">27</a></td>
+<td><a href="../comparison/random/Murder_Mystery_Theater.txt">19</a></td>
+<td>unavailable</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Country Flag Quiz</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Head Games</td>
+<td><a href="../comparison/user/Head_Games.txt">50</a></td>
+<td><a href="../comparison/vitas/Head_Games.txt">22</a></td>
+<td><a href="../comparison/random/Head_Games.txt">12</a></td>
+<td>unavailable</td>
+<td>58</td>
+</tr>
+<tr>
+<td>The Bingo Caller</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/The_Bingo_Caller.txt">21</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/The%20Bingo%20Caller.zip">85</a></td>
+<td>106</td>
+</tr>
+<tr>
+<td>Naughty Or Nice Quiz</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/Naughty%20Or%20Nice%20Quiz.zip">5</a></td>
+<td>5</td>
+</tr>
+<tr>
+<td>Amazon Math</td>
+<td><a href="../comparison/user/Amazon_Math.txt">2</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Amazon_Math.txt">2</a></td>
+<td>unavailable</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Escape mystery room</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Trick or Treat</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Trick_or_Treat.txt">34</a></td>
+<td><a href="../comparison/random/Trick_or_Treat.txt">13</a></td>
+<td><a href="../comparison/skillExplorer/Trick%20or%20Treat.zip">23</a></td>
+<td>60</td>
+</tr>
+<tr>
+<td>Westworld Quotes</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Westworld_Quotes.txt">3</a></td>
+<td>unavailable</td>
+<td>3</td>
+</tr>
+<tr>
+<td>AYRIAL: Feng Shui Tips</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/AYRIAL_Feng_Shui_Tips.txt">11</a></td>
+<td><a href="../comparison/random/AYRIAL_Feng_Shui_Tips.txt">10</a></td>
+<td><a href="../comparison/skillExplorer/AYRIAL%20%20Feng%20Shui%20Tips.zip">17</a></td>
+<td>32</td>
+</tr>
+<tr>
+<td>Daily Horoscope</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Daily_Horoscope.txt">13</a></td>
+<td><a href="../comparison/random/Daily_Horoscope.txt">5</a></td>
+<td>unavailable</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Cooking Temperatures</td>
+<td><a href="../comparison/user/Cooking_Temperatures.txt">24</a></td>
+<td><a href="../comparison/vitas/Cooking_Temperatures.txt">22</a></td>
+<td><a href="../comparison/random/Cooking_Temperatures.txt">22</a></td>
+<td>unavailable</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Coffee Maker</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Coffee_Maker.txt">30</a></td>
+<td><a href="../comparison/random/Coffee_Maker.txt">20</a></td>
+<td><a href="../comparison/skillExplorer/Coffee%20Maker.zip">13</a></td>
+<td>38</td>
+</tr>
+<tr>
+<td>Daily Gemini Horoscope</td>
+<td><a href="../comparison/user/Daily_Gemini_Horoscope.txt">11</a></td>
+<td><a href="../comparison/vitas/Daily_Gemini_Horoscope.txt">13</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Fortune Teller</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Fortune_Teller.txt">13</a></td>
+<td><a href="../comparison/random/Fortune_Teller.txt">14</a></td>
+<td><a href="../comparison/skillExplorer/Fortune%20Teller.zip">11</a></td>
+<td>33</td>
+</tr>
+<tr>
+<td>Daily Pisces Horoscope</td>
+<td><a href="../comparison/user/Daily_Pisces_Horoscope.txt">11</a></td>
+<td><a href="../comparison/vitas/Daily_Pisces_Horoscope.txt">16</a></td>
+<td><a href="../comparison/random/Daily_Pisces_Horoscope.txt">12</a></td>
+<td>unavailable</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Allrecipes</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/Allrecipes.zip">23</a></td>
+<td>23</td>
+</tr>
+<tr>
+<td>The Audio Chef</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/The_Audio_Chef.txt">21</a></td>
+<td><a href="../comparison/random/The_Audio_Chef.txt">13</a></td>
+<td>unavailable</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Baby Gender Reveal Themes</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Baby_Gender_Reveal_Themes.txt">13</a></td>
+<td><a href="../comparison/skillExplorer/Baby%20Gender%20Reveal%20Themes.zip">59</a></td>
+<td>72</td>
+</tr>
+<tr>
+<td>Grandmother Names</td>
+<td><a href="../comparison/user/Grandmother_Names.txt">1</a></td>
+<td><a href="../comparison/vitas/Grandmother_Names.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/random/Grandmother_Names.txt">inconsistent behavior</a></td>
+<td>unavailable</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Guest Reception</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Guest_Reception.txt">43</a></td>
+<td><a href="../comparison/random/Guest_Reception.txt">31</a></td>
+<td>unavailable</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Utah Jazz</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Utah_Jazz.txt">31</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>31</td>
+</tr>
+<tr>
+<td>48 Laws of Power</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/48_Laws_of_Power.txt">21</a></td>
+<td><a href="../comparison/random/48_Laws_of_Power.txt">51</a></td>
+<td><a href="../comparison/skillExplorer/48%20Laws%20of%20Power.zip">22</a></td>
+<td>84</td>
+</tr>
+<tr>
+<td>I spilt lipstick in your Valentino bag</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/I_spilt_lipstick_in_your_Valentino_bag.txt">26</a></td>
+<td><a href="../comparison/random/I_spilt_lipstick_in_your_Valentino_bag.txt">4</a></td>
+<td>unavailable</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Halloween Jokes</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Halloween_Jokes.txt">32</a></td>
+<td><a href="../comparison/random/Halloween_Jokes.txt">16</a></td>
+<td><a href="../comparison/skillExplorer/Halloween%20Jokes.zip">18</a></td>
+<td>61</td>
+</tr>
+<tr>
+<td>Rain Storm for Healing</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Rain_Storm_for_Healing.txt">8</a></td>
+<td><a href="../comparison/random/Rain_Storm_for_Healing.txt">3</a></td>
+<td><a href="../comparison/skillExplorer/Rain%20Storm%20for%20Healing.zip">6</a></td>
+<td>15</td>
+</tr>
+<tr>
+<td>U.S. Postal Service® Informed Delivery®</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/U_S_Postal_Service_Informed_Delivery_.txt">1</a></td>
+<td><a href="../comparison/random/U_S_Postal_Service_Informed_Delivery_.txt">1</a></td>
+<td>unavailable</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Smart Home</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Smart_Home.txt">9</a></td>
+<td><a href="../comparison/random/Smart_Home.txt">5</a></td>
+<td><a href="../comparison/skillExplorer/Smart%20Home.zip">8</a></td>
+<td>12</td>
+</tr>
+<tr>
+<td>Good Vibes</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Good_Vibes.txt">7</a></td>
+<td><a href="../comparison/skillExplorer/Good%20Vibes.zip">2</a></td>
+<td>9</td>
+</tr>
+<tr>
+<td>Chat Bot</td>
+<td><a href="../comparison/user/Chat_Bot.txt">1</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Chat_Bot.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/skillExplorer/Chat%20Bot.zip">inconsistent behavior</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td>ha ha burns</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>My Speaker</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/My_Speaker.txt">19</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>19</td>
+</tr>
+<tr>
+<td>My Metronome</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/My_Metronome.txt">13</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Casey Neistat</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Casey_Neistat.txt">37</a></td>
+<td><a href="../comparison/random/Casey_Neistat.txt">26</a></td>
+<td>unavailable</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Circle of Fifths Facts</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Circle_of_Fifths_Facts.txt">12</a></td>
+<td><a href="../comparison/random/Circle_of_Fifths_Facts.txt">6</a></td>
+<td><a href="../comparison/skillExplorer/Circle%20of%20Fifths%20Facts.zip">6</a></td>
+<td>20</td>
+</tr>
+<tr>
+<td>The Weather Channel</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/The_Weather_Channel.txt">6</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/The%20Weather%20Channel.zip">4</a></td>
+<td>9</td>
+</tr>
+<tr>
+<td>Parkview Christian Church Homer Glen Campus</td>
+<td><a href="../comparison/user/Parkview_Christian_Church_Homer_Glen_Campus.txt">16</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Parkview_Christian_Church_Homer_Glen_Campus.txt">22</a></td>
+<td>unavailable</td>
+<td>24</td>
+</tr>
+<tr>
+<td>SaiSkill</td>
+<td><a href="../comparison/user/SaiSkill.txt">8</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/SaiSkill.txt">6</a></td>
+<td>unavailable</td>
+<td>13</td>
+</tr>
+<tr>
+<td>The Rookie's Guide to the NFL</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/The%20Rookie%20s%20Guide%20to%20the%20NFL.zip">2</a></td>
+<td>2</td>
+</tr>
+<tr>
+<td>Share The Facts</td>
+<td><a href="../comparison/user/Share_The_Facts.txt">7</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Share_The_Facts.txt">6</a></td>
+<td>unavailable</td>
+<td>7</td>
+</tr>
+<tr>
+<td>LaMetric TIME – connected clock for smart home</td>
+<td><a href="../comparison/user/LaMetric_TIME_connected_clock_for_smart_home.txt">14</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/LaMetric_TIME_connected_clock_for_smart_home.txt">16</a></td>
+<td><a href="../comparison/skillExplorer/LaMetric%20TIME%20%E2%80%93%20connected%20clock%20for%20smart%20home.zip">15</a></td>
+<td>17</td>
+</tr>
+<tr>
+<td>Vivitar Home Cameras</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Vivitar_Home_Cameras.txt">1</a></td>
+<td><a href="../comparison/random/Vivitar_Home_Cameras.txt">1</a></td>
+<td><a href="../comparison/skillExplorer/Vivitar%20Home%20Cameras.zip">1</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td>Adventure Game</td>
+<td><a href="../comparison/user/Adventure_Game.txt">70</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Adventure_Game.txt">inconsistent behavior</a></td>
+<td>unavailable</td>
+<td>70</td>
+</tr>
+<tr>
+<td>3 Cards</td>
+<td><a href="../comparison/user/3_Cards.txt">17</a></td>
+<td><a href="../comparison/vitas/3_Cards.txt">17</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/3%20Cards.zip">14</a></td>
+<td>21</td>
+</tr>
+<tr>
+<td>Ten Pin Bowling</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Ten_Pin_Bowling.txt">49</a></td>
+<td><a href="../comparison/random/Ten_Pin_Bowling.txt">53</a></td>
+<td><a href="../comparison/skillExplorer/Ten%20Pin%20Bowling.zip">43</a></td>
+<td>72</td>
+</tr>
+<tr>
+<td>The Shocking Truth</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>66 Tolls</td>
+<td><a href="../comparison/user/66_Tolls.txt">14</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/66_Tolls.txt">14</a></td>
+<td>unavailable</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Magnificent Facts</td>
+<td><a href="../comparison/user/Magnificent_Facts.txt">16</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Magnificent_Facts.txt">11</a></td>
+<td><a href="../comparison/skillExplorer/Magnificent%20Facts.zip">19</a></td>
+<td>23</td>
+</tr>
+<tr>
+<td>Explain like I'm five</td>
+<td><a href="../comparison/user/Explain_like_I_m_five.txt">6</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>6</td>
+</tr>
+<tr>
+<td>My Quest To Teach</td>
+<td><a href="../comparison/user/My_Quest_To_Teach.txt">78</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/My_Quest_To_Teach.txt">17</a></td>
+<td>unavailable</td>
+<td>92</td>
+</tr>
+<tr>
+<td>Beer Bot</td>
+<td><a href="../comparison/user/Beer_Bot.txt">3</a></td>
+<td><a href="../comparison/vitas/Beer_Bot.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/random/Beer_Bot.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/skillExplorer/Beer%20Bot.zip">inconsistent behavior</a></td>
+<td>3</td>
+</tr>
+<tr>
+<td>Park Creek Menu</td>
+<td><a href="../comparison/user/Park_Creek_Menu.txt">3</a></td>
+<td><a href="../comparison/vitas/Park_Creek_Menu.txt">inconsistent behavior</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/Park%20Creek%20Menu.zip">3</a></td>
+<td>4</td>
+</tr>
+<tr>
+<td>Wine Down</td>
+<td><a href="../comparison/user/Wine_Down.txt">69</a></td>
+<td><a href="../comparison/vitas/Wine_Down.txt">49</a></td>
+<td><a href="../comparison/random/Wine_Down.txt">28</a></td>
+<td>unavailable</td>
+<td>74</td>
+</tr>
+<tr>
+<td>All Cats</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/All_Cats.txt">7</a></td>
+<td>unavailable</td>
+<td>7</td>
+</tr>
+<tr>
+<td>This Day in History</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/This_Day_in_History.txt">45</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/skillExplorer/This%20Day%20in%20History.zip">47</a></td>
+<td>89</td>
+</tr>
+<tr>
+<td>Crisis Response</td>
+<td><a href="../comparison/user/Crisis_Response.txt">162</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Crisis_Response.txt">85</a></td>
+<td>unavailable</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Mayor Karen Best</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Mayor_Karen_Best.txt">39</a></td>
+<td><a href="../comparison/random/Mayor_Karen_Best.txt">33</a></td>
+<td><a href="../comparison/skillExplorer/Mayor%20Karen%20Best.zip">50</a></td>
+<td>68</td>
+</tr>
+<tr>
+<td>Recommend a Romance Author</td>
+<td><a href="../comparison/user/Recommend_a_Romance_Author.txt">20</a></td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Recommend_a_Romance_Author.txt">13</a></td>
+<td><a href="../comparison/skillExplorer/Recommend%20a%20Romance%20Author.zip">14</a></td>
+<td>28</td>
+</tr>
+<tr>
+<td>Rock Paper Scissors</td>
+<td><a href="../comparison/user/Rock_Paper_Scissors.txt">62</a></td>
+<td><a href="../comparison/vitas/Rock_Paper_Scissors.txt">20</a></td>
+<td><a href="../comparison/random/Rock_Paper_Scissors.txt">33</a></td>
+<td><a href="../comparison/skillExplorer/Rock%20Paper%20Scissors.zip">inconsistent behavior</a></td>
+<td>102</td>
+</tr>
+<tr>
+<td>Treasure Words</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Treasure_Words.txt">19</a></td>
+<td><a href="../comparison/random/Treasure_Words.txt">10</a></td>
+<td><a href="../comparison/skillExplorer/Treasure%20Words.zip">17</a></td>
+<td>33</td>
+</tr>
+<tr>
+<td>Creepy Quest</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Creepy_Quest.txt">33</a></td>
+<td>unavailable</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Skylanders Imaginators Game Helper</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Skylanders_Imaginators_Game_Helper.txt">80</a></td>
+<td><a href="../comparison/random/Skylanders_Imaginators_Game_Helper.txt">78</a></td>
+<td><a href="../comparison/skillExplorer/Skylanders%20Imaginators%20Game%20Helper.zip">68</a></td>
+<td>174</td>
+</tr>
+<tr>
+<td>RPG Dungeon Room Generator</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/RPG_Dungeon_Room_Generator.txt">12</a></td>
+<td><a href="../comparison/skillExplorer/RPG%20Dungeon%20Room%20Generator.zip">8</a></td>
+<td>15</td>
+</tr>
+<tr>
+<td>Space Adventure</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Space_Adventure.txt">100</a></td>
+<td><a href="../comparison/random/Space_Adventure.txt">44</a></td>
+<td><a href="../comparison/skillExplorer/Space%20Adventure.zip">112</a></td>
+<td>218</td>
+</tr>
+<tr>
+<td>Russian Escape</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Russian_Escape.txt">28</a></td>
+<td>unavailable</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Horrible Movie Plots</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Horrible_Movie_Plots.txt">37</a></td>
+<td>unavailable</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Provinces of Spain</td>
+<td><a href="../comparison/user/Provinces_of_Spain.txt">71</a></td>
+<td><a href="../comparison/vitas/Provinces_of_Spain.txt">59</a></td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>96</td>
+</tr>
+<tr>
+<td>Listening Quiz</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Listening_Quiz.txt">7</a></td>
+<td>unavailable</td>
+<td>7</td>
+</tr>
+<tr>
+<td>OtakuGeneration</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/OtakuGeneration.txt">5</a></td>
+<td>unavailable</td>
+<td>5</td>
+</tr>
+<tr>
+<td>A Musical Christmas</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>I Am A Triangle</td>
+<td><a href="../comparison/user/I_Am_A_Triangle.txt">100</a></td>
+<td><a href="../comparison/vitas/I_Am_A_Triangle.txt">96</a></td>
+<td><a href="../comparison/random/I_Am_A_Triangle.txt">inconsistent behavior</a></td>
+<td>unavailable</td>
+<td>130</td>
+</tr>
+<tr>
+<td>My Compliments</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/My_Compliments.txt">6</a></td>
+<td><a href="../comparison/random/My_Compliments.txt">3</a></td>
+<td><a href="../comparison/skillExplorer/My%20Compliments.zip">5</a></td>
+<td>12</td>
+</tr>
+<tr>
+<td>Teams Quiz</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Creative New Mexico Blog Reader</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/Creative_New_Mexico_Blog_Reader.txt">29</a></td>
+<td><a href="../comparison/random/Creative_New_Mexico_Blog_Reader.txt">30</a></td>
+<td><a href="../comparison/skillExplorer/Creative%20New%20Mexico%20Blog%20Reader.zip">23</a></td>
+<td>54</td>
+</tr>
+<tr>
+<td>PrimeResi</td>
+<td><a href="../comparison/user/PrimeResi.txt">19</a></td>
+<td><a href="../comparison/vitas/PrimeResi.txt">28</a></td>
+<td><a href="../comparison/random/PrimeResi.txt">25</a></td>
+<td>unavailable</td>
+<td>56</td>
+</tr>
+<tr>
+<td>Parrot History</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td><a href="../comparison/random/Parrot_History.txt">23</a></td>
+<td>unavailable</td>
+<td>23</td>
+</tr>
+<tr>
+<td>The Crying Baby</td>
+<td>unavailable</td>
+<td><a href="../comparison/vitas/The_Crying_Baby.txt">34</a></td>
+<td><a href="../comparison/random/The_Crying_Baby.txt">40</a></td>
+<td><a href="../comparison/skillExplorer/The%20Crying%20Baby.zip">38</a></td>
+<td>82</td>
+</tr>
+<tr>
+<td>Virtual Trump</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Fairy Milk</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>unavailable</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Quote Me</td>
+<td><a href="../comparison/user/Quote_Me.txt">55</a></td>
+<td><a href="../comparison/vitas/Quote_Me.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/random/Quote_Me.txt">18</a></td>
+<td><a href="../comparison/skillExplorer/Quote%20Me.zip">38</a></td>
+<td>107</td>
+</tr>
+<tr>
+<td>Fundamental Valuation</td>
+<td><a href="../comparison/user/Fundamental_Valuation.txt">12</a></td>
+<td><a href="../comparison/vitas/Fundamental_Valuation.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/random/Fundamental_Valuation.txt">inconsistent behavior</a></td>
+<td><a href="../comparison/skillExplorer/Fundamental%20Valuation.zip">inconsistent behavior</a></td>
+<td>12</td>
+</tr>
+</tbody>
+</table></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js" defer></script>
+        <script src="../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

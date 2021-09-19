@@ -1,0 +1,54 @@
+round 1:
+alexa open i. b. k. r.
+Welcome to Interactive Brokers. You can ask me for market updates, stock quotes and more. Link your IBKR account in the skills section of the Alexa app for live account information. How can I help.
+Help
+I can provide stock quotes and data, for example ask for price of amazon or volume of amazon or google quote. Get today's market movers with top gainers in US. You can also ask general questions related to Interactive Brokers services, for example ask Why should I open an account with IB. For live information about your IBKR account, link it in Skills section of your Alexa app. What would you like to do.
+Why should I open an account with IB
+You asked why should i open an account with i. b.. Did you mean. One FAQ How do I enter the symbol for Berkshire Hathaway Class B shares. .Two FAQ Why is my Impact Dashboard portfolio grade a B. . You can say topic number to select it.
+Why should I open an account with IB
+You asked why should i open an account with i. b.. Did you mean. One FAQ How do I enter the symbol for Berkshire Hathaway Class B shares. .Two FAQ Why is my Impact Dashboard portfolio grade a B. . You can say topic number to select it.
+Company Fundamentals
+For AMAZON.COM, symbol AMZN, Market Cap is 1,731.328B. PE is 65.3. Revenueshare is 819.01. Revenueshare  MRY is 756.99. PriceBook is 16.7. Would you like to continue.
+google
+ALPHABET, symbol GOOG, closed at 2539.9 USD. What quote would you like next.
+What's the time
+Command not supported. What would you like to do next. Say Help for a list of commands.
+Resume
+Sorry, I'm having trouble accessing your IBKR IBot skill right now.
+google
+
+What's the time
+<--skill exit-->The time is 1116 AM.
+
+round 2:
+alexa open i. b. k. r.
+Welcome to Interactive Brokers. You can ask me for market updates, stock quotes and more. Link your IBKR account in the skills section of the Alexa app for live account information. How can I help.
+price of amazon
+As of 701 AM, AMAZON.COM, symbol AMZN, is trading at 3416.99 USD. Up 0.46 for the day. For more information try to say Company Fundamentals or Quote Details or Business Summary or Financial Summary or Analyst Rating or Dividends. Market data is delayed. What quote would you like next.
+Why should I open an account with IB
+You asked why should i open an account with i. b.. Did you mean. One FAQ How do I enter the symbol for Berkshire Hathaway Class B shares. .Two FAQ Why is my Impact Dashboard portfolio grade a B. . You can say topic number to select it.
+Why should I open an account with IB
+You asked why should i open an account with i. b.. Did you mean. One FAQ How do I enter the symbol for Berkshire Hathaway Class B shares. .Two FAQ Why is my Impact Dashboard portfolio grade a B. . You can say topic number to select it.
+Interactive Brokers services
+PROVIDE FEEDBACK    Use the button above or follow the below procedure to access the New Features Poll only for customers to add, review, comment or vote suggestions for future technology enhancements  1. Log in to Client Portal . 2. Click the Help menu question mark icon in the top right corner followed by Provide a feedback.    Please Note    To add New Features Poll suggestions or vote, you must login to the New Features Poll first with a separate login for online features. Would you like to continue.
+suggestions
+See How do I set up an online features screen name. What would you like to do next. Say Help for a list of commands.
+price of amazon
+As of 701 AM, AMAZON.COM, symbol AMZN, is trading at 3416.99 USD. Up 0.46 for the day. For more information try to say Company Fundamentals or Quote Details or Business Summary or Financial Summary or Analyst Rating or Dividends. Market data is delayed. What quote would you like next.
+Why should I open an account with IB
+You asked why should i open an account with i. b.. Did you mean. One FAQ How do I enter the symbol for Berkshire Hathaway Class B shares. .Two FAQ Why is my Impact Dashboard portfolio grade a B. . You can say topic number to select it.
+Reboot
+Command not supported. What would you like to do next. Say Help for a list of commands.
+Stop
+Thanks, come back soon.
+What's the time
+<--skill exit-->It's 1121 AM.
+
+round 3:
+alexa open i. b. k. r.
+Welcome to Interactive Brokers. You can ask me for market updates, stock quotes and more. Link your IBKR account in the skills section of the Alexa app for live account information. How can I help.
+Exit
+
+What's the time
+<--skill exit-->It's 1123 AM.
+

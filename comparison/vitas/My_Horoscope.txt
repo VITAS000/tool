@@ -1,0 +1,48 @@
+round 1:
+Alexa open my horoscope
+<Short audio>.Welcome back, dear Gemini friend. Here's your horoscope for the day.<Short audio>.Gemini. July 5. Sometimes, worries can be similar to a spider's web. A worry lurking secretly needs only to spot a small concern to trap and transform it. Of course, all of this occurs in our minds, but it reinforces how a tiny concern can avoid getting trapped. By choosing to see a particular matter realistically and practically now, you can prevent it from growing into something unnecessarily bigger.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+Help
+My Horoscope provides your daily horoscope along with insights into love, career, and money. For example, to get the horoscope for Capricorn, say, Alexa, what is the horoscope for Capricorn. To change your default sign, say, Alexa, change my default zodiac sign. Which zodiac sign your need the horoscope for.
+change my default zodiac sign
+Which zodiac sign do you want to set as default.
+transform
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+confidence
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+transform
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+reinforces
+Sorry. I missed that.   Welcome to My Horoscope, where you'll get insight from the stars about how to go through your day with ease and confidence. What sign do you want the horoscope for.
+the horoscope for another sign
+Sure. Which zodiac sign your need the horoscope for.
+the horoscope for another sign
+Sure. Which zodiac sign your need the horoscope for.
+your love life prediction
+<Short audio>.Over two months after returning to Gemini for what should have been a two week visit, the planet of communication finally moves into his final week today. With Venus and Mars not only in your communication sector but even more focused on your relationships, Mercury's mission to get the communication lines open is in safe hands.<Short audio>.There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+Yes
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.You can ask for horoscope for another zodiac sign or give your love life predictions. What would you like to do.
+
+round 2:
+Alexa open my horoscope
+Okay.<Short audio>.Gemini. July 5. Sometimes, worries can be similar to a spider's web. A worry lurking secretly needs only to spot a small concern to trap and transform it. Of course, all of this occurs in our minds, but it reinforces how a tiny concern can avoid getting trapped. By choosing to see a particular matter realistically and practically now, you can prevent it from growing into something unnecessarily bigger.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+the horoscope for another sign
+Sure. Which zodiac sign your need the horoscope for.
+money
+There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+No
+No Problem. You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+your love life prediction
+<Short audio>.Over two months after returning to Gemini for what should have been a two week visit, the planet of communication finally moves into his final week today. With Venus and Mars not only in your communication sector but even more focused on your relationships, Mercury's mission to get the communication lines open is in safe hands.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+career
+There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+money
+There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+I do not know
+Sorry. I missed that.   There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your career and money. Would you like to learn more.
+what is the horoscope for Capricorn
+<Short audio>.Capricorn. July 5. We know what's meant by 'biting off more than we can chew.' Sometimes, all it takes is a nifty boost to our confidence to feel able to add to an already lengthy list of responsibilities or commitments. Nobody likes admitting that they've overcommitted themselves, either. But if you detect even the tiniest hint that you're spreading yourself too thinly in some way, that can't be ignored.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do.
+Stop
+Thank you for checking in, there's so much good in store for you  enjoy.  It looks like you are really enjoying My Horoscope. Want us to add more new features. Please show your support by leaving us a review using Alexa app. Don't worry, I will remind you about this only one more time. Thanks.<Short audio>.
+What's the time
+<--skill exit-->It's 249 PM.
+

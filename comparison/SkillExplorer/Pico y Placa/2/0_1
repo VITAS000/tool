@@ -1,8 +1,0 @@
-I:
-ask pico e. placa about monday
-E:
-Monday's pico e placa is:  6   7   8   and   9. What other day or number would you like to know about??
-I:
-number
-E:
-<---same content as before--->You haven't used a proper day or number, you can say Help..

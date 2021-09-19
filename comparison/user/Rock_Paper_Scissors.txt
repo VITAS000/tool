@@ -1,0 +1,50 @@
+alexa open rock paper scissors
+Ok, Here's Rock Paper Scissors.Let's play! At the count of 3 say Rock, Paper, or Scissors. Ready? one, two, three Go!
+rock
+Paper smothers rock. I won. Everybody now! hip hip hooray. 1 to 0. Ready?
+paper
+Scissors slices paper. cheer up. You might beat me next time. Let's play again, Rock, paper, or scissors.
+scissors
+There must be a bug in my programming, you won. Scissors beats paper. Again!
+rock
+Rock pummels scissors. Congratulations, excellent play. One more time, Rock paper scissors.
+paper
+Ditto, for me. I think I am figuring you out. Rock paper or scissors.
+scissors
+hash tag, alexa beat me. Rock pummels scissors. Paper, rock, or scissors.
+rock
+Oh boy! great move, you won. Rock blunts scissors. 3 to 3. Rock, paper, or scissors?
+paper
+Paper beats rock. Congratulations, excellent play. 3 to 4. Ready?
+scissors
+Copycat. I can do this all day, ready set go!
+rock
+Paper surrounds rock. gotcha. I am having fun! Rock paper or scissors?
+paper
+Tie. Again, one two three go!
+rock
+Tie. Hey, how about we play rock paper or scissors to break the tie? More please, ready set go!
+scissors
+Scissors shreds paper. ruh roh. That didn't go well. Ready? Rock, paper, or scissors?
+rock
+Rock pummels scissors. I took an L. I think I will play Scissors. Ooops, Did I say that out loud? Rock paper or scissors?
+rock
+Paper smothers rock. cheer up. You might beat me next time. You know what to do.
+paper
+Paper surrounds rock. Arghh, you beat me. 5 to 7. Scissors, paper, or rock.
+scissors
+Yes! Got you. Rock smashes scissors. You know the drill.
+rock
+Tie. Here we go, Rock paper or scissors.
+paper
+There must be a bug in my programming, you won. Paper covers rock. Here we go, Scissors Rock paper.
+scissors
+Hooray, I got you. Rock crushes scissors. I think you like this game. Paper, rock, or scissors.
+rock
+bummer. I lost. Rock pummels scissors. 7 to 9. Again!
+paper
+Scissors turns paper into confetti. Yes! Got you. Rock paper or scissors.
+scissors
+hash tag, alexa beat me. Rock blunts scissors. 9 to 9. Again!
+stop
+Let's play again sometime.

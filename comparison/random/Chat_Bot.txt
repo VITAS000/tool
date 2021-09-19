@@ -1,0 +1,72 @@
+round 1:
+alexa open chat bot
+hello how are you.
+Help
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+Resume
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+to continue
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+when alexa
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+good
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+Pause
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+good
+this chat bot has a range of features to describe your feelings. just say good, bad, ok, when alexa asks you the question. would you like to continue. say yes or no.
+Exit
+
+What's the time
+<--skill exit-->It's 710 PM.
+
+round 2:
+alexa open chat bot
+hello how are you.
+bad
+that sucks, cheer up it will be ok why are you felling bad.
+cheer
+hope it all get better want to hear a joke to cheer you up.
+Stop
+ok bye. come back tomorrow if you are willing to talk.
+What's the time
+<--skill exit-->The time is 712 PM.
+
+round 3:
+alexa open chat bot
+hello how are you.
+Cancel
+ok bye. come back tomorrow if you are willing to talk.
+What's the time
+<--skill exit-->It's 712 PM.
+
+round 4:
+alexa open chat bot
+hello how are you.
+Cancel
+ok bye. come back tomorrow if you are willing to talk.
+What's the time
+<--skill exit-->It's 713 PM.
+
+round 5:
+alexa open chat bot
+hello how are you.
+Reboot
+i didn't understand could you repeat that hello how are you.
+Restart
+i didn't understand could you repeat that hello how are you.
+Exit
+
+What's the time
+<--skill exit-->It's 715 PM.
+
+round 6:
+alexa open chat bot
+hello how are you.
+bad
+that sucks, cheer up it will be ok why are you felling bad.
+Exit
+
+What's the time
+<--skill exit-->It's 717 PM.
+

@@ -1,0 +1,46 @@
+round 1:
+alexa open life hacks
+Here's your tip Wear socks inside out to avoid seams bunching up on your toes.
+Resume
+
+What's the time
+<--skill exit-->It's 1203 PM.
+
+round 2:
+alexa open life hacks
+<--skill exit-->Here's your tip Put pancake mix in a clean ketchup bottle for a nomess experience.
+
+round 3:
+alexa open life hacks
+<--skill exit-->Here's your tip If your child has a particularly loud toy, put a piece of clear tape or a think layer of craft glue over the speaker. The sound will still play, but not at earsplitting levels.
+
+round 4:
+alexa open life hacks
+<--skill exit-->Here's your tip Put pancake mix in a clean ketchup bottle for a nomess experience.
+
+round 5:
+alexa open life hacks
+Here's your tip Bounce batteries to see if they are good or bad. Drop them on a table from about 6 inches. If they give one small bounce and fall right over, they are good. If they bounce around any more than that, they are close to being dead.
+What's the time
+<--skill exit-->The time is 1206 PM.
+
+round 6:
+alexa open life hacks
+Here's your tip If you have a pet that sheds, fold your clothes inside out to avoid getting hair stuck to the visible side.
+Exit
+
+What's the time
+<--skill exit-->It's 1207 PM.
+
+round 7:
+alexa open life hacks
+<--skill exit-->Here's your tip Use a prepaid credit card to sign up for free trials online. You won't be charged for the next month if there is no money on the card.
+
+round 8:
+alexa open life hacks
+<--skill exit-->Here's your tip Wrap a wet paper towel around your beverage and put it in the freezer. In about 15 minutes it will be almost completely ice cold.
+
+round 9:
+alexa open life hacks
+<--skill exit-->Here's your tip Wrap a wet paper towel around your beverage and put it in the freezer. In about 15 minutes it will be almost completely ice cold.
+

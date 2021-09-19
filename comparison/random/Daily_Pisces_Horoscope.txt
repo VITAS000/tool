@@ -1,0 +1,28 @@
+round 1:
+alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   If anyone enjoys the concept and the company of kindred spirits, it's you. So now, when you're invited to join up with a whole new group who share your ideals, there's really no reason to hesitate  unless you're afraid of alienating your present group of friends. Oh, go ahead. Meet the new people. You can always convene a gathering of both crews at your place at some point in the immediate future. Would you like to hear it again.
+Help
+With this skill,  you can get your new daily Pisces horoscope every day. Your daily Pisces horoscope updates every night at midnight.  Would you like to hear your today's horoscope.
+I do not know
+<--skill exit-->.
+
+round 2:
+alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   If anyone enjoys the concept and the company of kindred spirits, it's you. So now, when you're invited to join up with a whole new group who share your ideals, there's really no reason to hesitate  unless you're afraid of alienating your present group of friends. Oh, go ahead. Meet the new people. You can always convene a gathering of both crews at your place at some point in the immediate future. Would you like to hear it again.
+At 2pm
+<--skill exit-->.
+
+round 3:
+alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   If anyone enjoys the concept and the company of kindred spirits, it's you. So now, when you're invited to join up with a whole new group who share your ideals, there's really no reason to hesitate  unless you're afraid of alienating your present group of friends. Oh, go ahead. Meet the new people. You can always convene a gathering of both crews at your place at some point in the immediate future. Would you like to hear it again.
+What's the time
+<--skill exit-->It's 422 PM.Resuming Daily Pisces Horoscope.Welcome to your daily Pisces horoscope.  Here is your reading for today.   If anyone enjoys the concept and the company of kindred spirits, it's you. So now, when you're invited to join up with a whole new group who share your ideals, there's really no reason to hesitate  unless you're afraid of alienating your present group of friends. Oh, go ahead. Meet the new people. You can always convene a gathering of both crews at your place at some point in the immediate future. Would you like to hear it again.
+
+round 4:
+alexa open daily pisces horoscope
+.
+Resume
+Sorry, there is nothing for me to resume.
+Restart
+<--skill exit-->
+

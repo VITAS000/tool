@@ -1,0 +1,60 @@
+round 1:
+alexa open audio chef
+Welcome to the Audio Chef. It appears you are currently at step 2 of the recipe Macaroni and Cheese. To move on, say next.
+Help
+It appears you are in the middle of a recipe. Here are some useful commands. to move on to the next step in the recipe, say, next.  to repeat the step that you are currently performing, say, current step.  to step through the ingredients involved in the current step of the recipe, say, ingredients. to move to a particular step of the recipe, you can say a step number like step five.  Additional information can be found at the audio chef dot com slash about, What would you like to do next.
+Stop
+
+What's the time
+<--skill exit-->It's 429 PM.
+
+round 2:
+alexa open audio chef
+Welcome to the Audio Chef. It appears you are currently at step 2 of the recipe Macaroni and Cheese. To move on, say next.
+Resume
+No listed ingredients were found in the current step.
+step five
+Step 5, When the water boils, cook the pasta to the point where it is becoming tender but is still quite underdone and firm in the center. It will finish cooking in the ovenFor the ingredients in this step, say ingredients. Otherwise, say next step.
+next
+Step 6, When the pasta is done, drain and rinse in cold water to stop the cookingAnything else.
+Stop
+
+What's the time
+<--skill exit-->It's 431 PM.
+
+round 3:
+alexa open audio chef
+Welcome to the Audio Chef. It appears you are currently at step 6 of the recipe Macaroni and Cheese. To move on, say next.
+ingredients
+No listed ingredients were found in the current step.
+ingredients
+No listed ingredients were found in the current step.
+Resume
+No listed ingredients were found in the current step.
+Cancel
+
+What's the time
+<--skill exit-->The time is 434 PM.
+
+round 4:
+alexa open audio chef
+Welcome to the Audio Chef. It appears you are currently at step 6 of the recipe Macaroni and Cheese. To move on, say next.
+ingredients
+No listed ingredients were found in the current step.
+ingredients
+No listed ingredients were found in the current step.
+Restart
+No listed ingredients were found in the current step.
+current step
+Step 6, When the pasta is done, drain and rinse in cold water to stop the cookingAnything else.
+Resume
+No listed ingredients were found in the current step.
+ingredients
+No listed ingredients were found in the current step.
+next
+Step 7, Remove the bay leaves from the milkAnything else.
+Pause
+
+What's the time
+<--skill exit-->It's 438 PM.
+

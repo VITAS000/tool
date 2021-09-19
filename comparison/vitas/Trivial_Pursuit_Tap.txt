@@ -1,0 +1,42 @@
+round 1:
+Alexa open trivial pursuit tap
+<Short audio>.Who's ready to play Trivial Pursuit Tap. It's a new twist on the belovéd board game.  Which question pack would you like to play. Currently, you have the free 2000's question pack. You can also say, 'classic', or 'master', to purchase these new question packs.
+Help
+Please say a question pack's name to decide which one to play. A question pack contains a set of unique questions. Which question pack would you like to play. Currently, you have the free 2000's question pack. You can also say, 'classic', or 'master', to purchase these new question packs.
+' master classic
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Which question pack would you like to play. Currently, you have the free 2000's question pack. You can also say, 'classic', or 'master', to purchase these new question packs.
+
+round 2:
+Alexa open trivial pursuit tap
+Sorry, I didn't understand that. Please select a question pack to play. You can say, '2000s,' 'classic,' or 'master.'.
+2000s
+You have selected the 2000's question pack. Great choice. Next, how many of you will be playing today.
+' master classic
+I didn't catch that. This game supports two to four players. How many players do we have.
+1
+I'm sorry, this game only supports two to four players. How many players do we have.
+' master classic
+I didn't catch that. This game supports two to four players. How many players do we have.
+2
+Great. Next, take a quick moment to work out who will be player 1, and who will be player 2. Great. Do you need to hear the rules for how to play.
+Yes
+I will ask the first player a question. If you are correct, you get the chance to answer a bonus question. If not, we'll move on to the next player. The first player to answer one question in each of 6 different categories, plus one final challenge question, wins the game. And don't worry, I'll help remind you of these rules along the way. I've sent a card to your Alexa app with these rules, if you want to look at them too. Do you need me to repeat that.
+one final challenge question
+I didn't catch that. Do you need to hear the rules again.
+Yes
+I will ask the first player a question. If you are correct, you get the chance to answer a bonus question. If not, we'll move on to the next player. The first player to answer one question in each of 6 different categories, plus one final challenge question, wins the game. And don't worry, I'll help remind you of these rules along the way. I've sent a card to your Alexa app with these rules, if you want to look at them too. Do you need me to repeat that.
+Yes
+I will ask the first player a question. If you are correct, you get the chance to answer a bonus question. If not, we'll move on to the next player. The first player to answer one question in each of 6 different categories, plus one final challenge question, wins the game. And don't worry, I'll help remind you of these rules along the way. I've sent a card to your Alexa app with these rules, if you want to look at them too. Do you need me to repeat that.
+master
+I didn't catch that. Do you need to hear the rules again.
+No
+<Short audio>.Alright, let's get started. Remember, you can say, 'Alexa, help,' at any time, to clarify what's happening in the game. Today's lucky first player is.<Short audio>..<Short audio>.Player 1. Our first category is, MAD ABOUT ADS, from History.<Short audio>.Which energy drink, sponsored the highest skydive ever made, a free fall 24 miles above the earth, in 2012.  I'll set a timer, but feel free to say Alexa and try to answer at any time.<Short audio>.Giddy up, time for your answer.
+help
+Player 1, I'll ask a question, then play some waiting music. Once it's over, be sure to wait for the blue light on your Echo device to appear, before answering, or I might not hear you correctly. Feel free to say, Alexa, to interrupt me and answer at any time instead.<Short audio>.Which energy drink, sponsored the highest skydive ever made, a free fall 24 miles above the earth, in 2012.Which energy drink, sponsored the highest skydive ever made, a free fall 24 miles above the earth, in 2012.Time's up, what's your guess.
+hear
+<Short audio>.Whoops a daisy. The answer is Red Bull.  Friendly reminder, if you ever want me to repeat a question, just say, alexa, repeat.<Short audio>.Next up, it's player 2.  This category is, COMEBACKS, from Entertainment.<Short audio>.What awardwinning TV series, about the Bluth family, was canceled in 2006, but revived by Netflix with new episodes in 2013.  You can do it.<Short audio>.Knock knock, what's your guess.
+Stop
+Okay, launch me when you're ready to resume. ta ta.
+What's the time
+<--skill exit-->The time is 223 PM.
+

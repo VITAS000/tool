@@ -1,0 +1,4 @@
+round 1:
+Alexa open today's special
+<--skill exit-->Ok, Here's Today Sales from QuickBooks with voice.A QuickBooks account is required to use this Skill. Please open your Alexa app on your phone Android or Iphone and go to the home. You should see a card to link your QuickBooks account.
+

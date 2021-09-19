@@ -1,0 +1,58 @@
+round 1:
+alexa open pest control
+Thanks for using Ehrlich Pest Control. You can ask a question like, how do I get rid of ants.  Or how do I prevent mice. ... Now, what can I help you with.
+Help
+You can ask questions about pest treatments such as, how do I get rid of ants, or, you can say exit... Now, what can I help you with.
+pest treatments such as
+I'm sorry, I currently do not have that in my database. What else can I help with.
+pest treatments such as
+I'm sorry, I currently do not have that in my database. What else can I help with.
+you can
+Please tell me your phone number... area code first.
+Exit
+
+What's the time
+<--skill exit-->It's 1250 PM.
+
+round 2:
+alexa open pest control
+Thanks for using Ehrlich Pest Control. You can ask a question like, how do I get rid of ants.  Or how do I prevent mice. ... Now, what can I help you with.
+pest treatments such as
+I'm sorry, I currently do not have that in my database. What else can I help with.
+exit
+
+What's the time
+<--skill exit-->The time is 1251 PM.
+
+round 3:
+alexa open pest control
+Thanks for using Ehrlich Pest Control. You can ask a question like, how do I get rid of ants.  Or how do I prevent mice. ... Now, what can I help you with.
+you can
+Please tell me your phone number... area code first.
+pest treatments such as
+I'm sorry, I currently do not have that in my database. What else can I help with.
+Reboot
+Please tell me your phone number... area code first.
+exit
+
+What's the time
+<--skill exit-->The time is 1254 PM.
+
+round 4:
+alexa open pest control
+Thanks for using Ehrlich Pest Control. You can ask a question like, how do I get rid of ants.  Or how do I prevent mice. ... Now, what can I help you with.
+you can
+Please tell me your phone number... area code first.
+50
+I'm sorry. I wasn't able to get your phone number. Can you give it to me again.
+What's the time
+I'm sorry, I currently do not have that in my database. What else can I help with.
+a question like
+I'm sorry, I currently do not have like in my database. What else can I help with.
+What's the time
+I'm sorry, I currently do not have that in my database. What else can I help with.
+exit
+
+What's the time
+<--skill exit-->It's 1257 PM.
+

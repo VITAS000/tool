@@ -1,0 +1,48 @@
+round 1:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 2:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 3:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 4:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 5:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 6:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 7:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+
+round 8:
+Alexa open weather channel
+<Short audio>.Right now in undefined, Kazakhstan, its 17 and Rain. Later, expect a low temperature of 15. Chance of rain is 100. 14 to 15 centimeters of rain possible. Tonight will be 5 cooler than Last Night.
+Rain
+<--skill exit-->I'm not sure where you are. For future reference, you can enter your address in the device settings in your Alexa App. For now, weather for what city.
+

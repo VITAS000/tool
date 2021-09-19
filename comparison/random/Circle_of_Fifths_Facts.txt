@@ -1,0 +1,56 @@
+round 1:
+alexa open musical facts
+Ok, Here's Circle of Fifths Facts.Here's your musical key fact. B Flat Minor has 5 flats and the relative major is D Flat.
+Help
+<--skill exit-->Do you need to place an emergency call.
+
+round 2:
+alexa open musical facts
+Here's your musical key fact. E Flat Major has 3 flats and the relative minor is C.
+Restart
+<--skill exit-->starting over.
+
+round 3:
+alexa open musical facts
+Here's your musical key fact. B Flat Minor has 5 flats and the relative major is D Flat.
+What's the time
+<--skill exit-->The time is 830 PM.
+
+round 4:
+alexa open musical facts
+Here's your musical key fact. G Sharp Minor has 5 sharps and the relative major is B.
+the relative major
+<--skill exit-->Sorry, I don't know that.
+
+round 5:
+alexa open musical facts
+Here's your musical key fact. B Flat Minor has 5 flats and the relative major is D Flat.
+What's the time
+<--skill exit-->The time is 831 PM.
+
+round 6:
+alexa open musical facts
+Here's your musical key fact. E Major has 4 sharps and the relative minor is C Sharp.
+the relative major
+<--skill exit-->Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+
+round 7:
+alexa open musical facts
+Here's your musical key fact. G Sharp Minor has 5 sharps and the relative major is B.
+is
+<--skill exit-->.
+
+round 8:
+alexa open musical facts
+Here's your musical key fact. E Major has 4 sharps and the relative minor is C Sharp.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 9:
+alexa open musical facts
+Here's your musical key fact. A Major has 3 sharps and the relative minor is F Sharp.
+Stop
+
+What's the time
+<--skill exit-->The time is 834 PM.
+

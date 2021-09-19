@@ -1,0 +1,8 @@
+round 1:
+alexa open fundamental valuation
+Sorry, I'm having trouble accessing your Fundamental Valuation skill right now.
+Stop
+
+What's the time
+<--skill exit-->It's 642 PM.
+

@@ -1,0 +1,46 @@
+round 1:
+Alexa open audio chef
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+Help
+The Audio Chef is your virtual cooking assistant. Some of the most useful commands for the Audio Chef are as follows Next this moves to the next step in the recipe. Ingredients this identifies each ingredient that needs measuring in the current step. Current Step this repeats the instructions of the current step or ingredient in the recipe. Repeat this repeats whatever you heard last. Load Recipe, followed by the recipe name this loads the given sample recipe. Additional information can be found at the audio chef dot com slash about, What would you like to do next.
+ingredient
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+perform
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+load Macaroni
+The requested recipe is not available as a sample recipe. To find a sample recipe, say list sample recipes.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+load recipe
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+followed by the recipe name
+The requested recipe is not available as a sample recipe. To find a sample recipe, say list sample recipes.
+perform
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+ingredient
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+Cheese
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+load Macaroni
+The requested recipe is not available as a sample recipe. To find a sample recipe, say list sample recipes.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+Cheese
+Welcome to the Audio Chef. This skill will help guide you through a recipe of your choice. To get started, you can say list sample recipes. If you would like To link your account to view the recipe you currently have loaded, open the alexa app and perform the linking steps.
+list sample recipes
+Here are a few sample recipes that are available. Macaroni and Cheese. Banana Bread. Molten Chocolate Cake. Pork StirFry. To try a sample recipe, say load recipe, followed by the recipe name.  For example you could say load Macaroni and Cheese. Anything else.
+load Macaroni
+The requested recipe is not available as a sample recipe. To find a sample recipe, say list sample recipes.
+Stop
+
+What's the time
+<--skill exit-->The time is 428 PM.
+

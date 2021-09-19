@@ -1,0 +1,52 @@
+round 1:
+alexa open word teacher
+Your new word is visceration.  The definition is distribution of raw flesh among dogs or men.
+What's the time
+<--skill exit-->It's 1216 PM.
+
+round 2:
+alexa open word teacher
+Your new word is hamose.  The definition is hooked.
+What's the time
+<--skill exit-->It's 1216 PM.
+
+round 3:
+alexa open word teacher
+Your new word is chlamydate.  The definition is having a mantle or hood.
+Exit
+
+What's the time
+<--skill exit-->It's 1218 PM.
+
+round 4:
+alexa open word teacher
+Your new word is visceral.  The definition is of the organs of the body.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 5:
+alexa open word teacher
+Your new word is jack.  The definition is medieval leather coat worn as armour.
+Exit
+
+What's the time
+<--skill exit-->The time is 1220 PM.
+
+round 6:
+alexa open word teacher
+Your new word is hamose.  The definition is hooked.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 7:
+alexa open word teacher
+Your new word is laveer.  The definition is to sail against the wind.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 8:
+alexa open word teacher
+Your new word is quale.  The definition is quality or property of something abstract virtue or quality.
+What's the time
+<--skill exit-->It's 1221 PM.
+

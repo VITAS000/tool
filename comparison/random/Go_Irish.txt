@@ -12,19 +12,19 @@ Go Irish.<Short audio>.
 Exit
 
 What's the time
-The time is 127 PM.
+<--skill exit-->The time is 127 PM.
 
 round 3:
 alexa open go irish
-Go Irish.<Short audio>.
+<--skill exit-->Go Irish.<Short audio>.
 
 round 4:
 alexa open go irish
-Go Irish.<Short audio>.
+<--skill exit-->Go Irish.<Short audio>.
 
 round 5:
 alexa open go irish
-Go Irish.<Short audio>.
+<--skill exit-->Go Irish.<Short audio>.
 
 round 6:
 alexa open go irish

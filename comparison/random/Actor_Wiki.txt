@@ -11,22 +11,30 @@ Reboot
 It looks like you haven't asked me about anyone.
 anyone
 It looks like you haven't asked me about anyone.
-what do you know about Chris Hemsworth
-Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
+Resume
+It looks like you haven't asked me about anyone.
+Pause
+It looks like you haven't asked me about anyone.
 who is Angelina Jolie
 Sorry, I couldn't find anything about Angelina Jolie. Is this an actor or actress.
+Yes
+It looks like you haven't asked me about anyone.
+Pause
+It looks like you haven't asked me about anyone.
+What's the time
+It looks like you haven't asked me about anyone.
+Restart
+It looks like you haven't asked me about anyone.
 Stop
 Thank you for trying the Actor Wiki Skill. Goodbye.
 What's the time
-<--skill exit-->It's 733 PM.
+<--skill exit-->It's 734 PM.
 
 round 2:
 alexa open actor wiki
 Hey there, I can help you search Wikipedia for actors. Try asking me to tell me about Mila Kunis.
 Reboot
 It looks like you haven't asked me about anyone.
-what do you know about Chris Hemsworth
-Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actress.
 Restart
 It looks like you haven't asked me about anyone.
 Restart
@@ -40,7 +48,7 @@ It looks like you haven't asked me about anyone.
 Stop
 Thank you for trying the Actor Wiki Skill. Goodbye.
 What's the time
-<--skill exit-->The time is 736 PM.
+<--skill exit-->The time is 735 PM.
 
 round 3:
 alexa open actor wiki
@@ -54,7 +62,7 @@ It looks like you haven't asked me about anyone.
 Stop
 Thank you for trying the Actor Wiki Skill. Goodbye.
 What's the time
-<--skill exit-->It's 737 PM.
+<--skill exit-->It's 736 PM.
 
 round 4:
 alexa open actor wiki
@@ -72,7 +80,7 @@ Sorry, I couldn't find anything about chris hemsworth. Is this an actor or actre
 Stop
 Thank you for trying the Actor Wiki Skill. Goodbye.
 What's the time
-<--skill exit-->The time is 740 PM.
+<--skill exit-->The time is 738 PM.
 
 round 5:
 alexa open actor wiki
@@ -82,5 +90,5 @@ It looks like you haven't asked me about anyone.
 Stop
 Thank you for trying the Actor Wiki Skill. Goodbye.
 What's the time
-<--skill exit-->It's 741 PM.
+<--skill exit-->It's 740 PM.
 

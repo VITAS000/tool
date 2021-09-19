@@ -1,0 +1,32 @@
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+what can you play
+Sorry, I didn't understand that.
+help
+Welcome to jw.org. I can do things like read the Bible, today's daily text, or this week's Watchtower study. I can also play original songs, kingdom songs, dramas, and morning worship. You can ask me for help at any time, and learn more in the help section of the jw.org website. What would you like me to play for you?
+read the bible
+Playing this week's Bible reading.<Play audio>.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+today's daily text
+Reading the daily textSunday, May 30He will be filled with holy spirit even from before birth.Luke 1:15Throughout the Bible, there are many examples of men of faith who received holy spirit; yet, they did not have the hope of living in heaven. David was guided by holy spirit. Holy spirit helped him to understand the deep things about Jehovah and also directed him to write parts of the Bible. Even so, the apostle Peter said that David “did not ascend to the heavens.” John the Baptist was “filled with holy spirit.” Jesus said that there was no man greater than John, but then he said that John would not be included in the heavenly Kingdom. Jehovah used his holy spirit to give these men the power to do amazing things, but he did not use that spirit to choose them to live in heaven. Does this mean that they were less faithful? No. It simply means that Jehovah will bring them back to life in Paradise on earth.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+this week's watchtower study
+Playing this week's Watchtower study article.<Play audio>.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+play original songs
+Playing Original Songs.<Play audio>.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+play kingdom songs
+Playing 78. "Teaching the Word of God".<Play audio>.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+play dramas
+Playing Dramas.<Play audio>.
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you?
+play morning worship
+Playing Morning Worship.<Play audio>.

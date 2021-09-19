@@ -1,0 +1,6 @@
+open lametric time
+Welcome to the lametric time skill. It will help you to manage your lametric time device. It can set an alarm, control timers, radio, switch between apps and more. Say "help" for details. What would you like to do?
+help
+The lametric time skill will help you to manage your lametric time device. It can control timers, set alarms or switch between apps. Say "show weather forecast" to see weather forecast. Say "Wake me up at 7 AM" to set an alarm. Say "set timer for 15 minutes" to start a timer. Say "play radio" to start music. Say "set volume to 100 percent" to change volume. So, what would you like to do?
+wake me up at seven a. m.
+This skill requires account linking, please link your lametric account in the Alexa app.

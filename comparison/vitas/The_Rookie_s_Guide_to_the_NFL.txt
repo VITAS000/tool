@@ -1,0 +1,4 @@
+round 1:
+Alexa open nfl
+<--skill exit-->Sorry, the The Rookie's Guide to the NFL skill is no longer available. You can find more skills in the Alexa app.
+

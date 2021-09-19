@@ -1,0 +1,60 @@
+round 1:
+Alexa open bingo caller
+The next ball is 44.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 2:
+Alexa open bingo caller
+The next ball is 28.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 3:
+Alexa open bingo caller
+The next ball is 51.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 4:
+Alexa open bingo caller
+The next ball is 34.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+Alexa open bingo caller
+The next ball is 1.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 6:
+Alexa open bingo caller
+The next ball is 17.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 7:
+Alexa open bingo caller
+The next ball is 21.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 8:
+Alexa open bingo caller
+The next ball is 7.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 9:
+Alexa open bingo caller
+The next ball is 37.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 10:
+Alexa open bingo caller
+The next ball is 63.
+Pause
+<--skill exit-->Hmm, I don't know that.
+

@@ -1,0 +1,4 @@
+round 1:
+alexa open country flag quiz
+<--skill exit-->Ok, Here's Country Letters.<Short audio>.Welcome, to Country Letters. In this game, we'll take turns, guessing the names of countries, and capital cities, beginning with a selected letter of the alphabet. If you can't think of an answer , just say, don't know. Now, Let's play Country Letters. The letter of the alphabet is, C. I'll start. My guess is, caracas. It's your turn, name a country, or capital city, starting with the letter C.
+

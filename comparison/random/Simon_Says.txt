@@ -1,0 +1,92 @@
+round 1:
+alexa open simon says
+open your mouth wide.
+Help
+Play a game of Simon Says with Alexa. I'll tell you to do something. If the instruction starts with Simon Says, you have to do it. If I don't say Simon Says and you do it, you're out.
+Says
+Simon says fold your arms.
+Resume
+roll over.
+Exit
+
+What's the time
+<--skill exit-->The time is 229 PM.
+
+round 2:
+alexa open simon says
+Simon says act like a monkey.
+you do it
+Simon says sit on the floor.
+do
+Simon says stand on one foot.
+Pause
+Simon says open your mouth wide.
+Resume
+Simon says play air guitar.
+you have
+Simon says touch your toes.
+What's the time
+pat your head.
+you do it
+Simon says clap your hands.
+Cancel
+Thanks for playing. Goodbye.
+What's the time
+<--skill exit-->The time is 231 PM.
+
+round 3:
+alexa open simon says
+Simon says act like a monkey.
+Simon
+pat your head.
+Restart
+Simon says run on the spot.
+Exit
+
+What's the time
+<--skill exit-->The time is 233 PM.
+
+round 4:
+alexa open simon says
+Simon says put one arm in the air.
+you have
+Simon says sit on the floor.
+Pause
+Simon says touch your ears.
+Stop
+Thanks for playing. Goodbye.
+What's the time
+<--skill exit-->The time is 234 PM.
+
+round 5:
+alexa open simon says
+look at the ceiling.
+Stop
+Thanks for playing. Goodbye.
+What's the time
+<--skill exit-->The time is 235 PM.
+
+round 6:
+alexa open simon says
+Simon says pat your head.
+Says
+rub your tummy and pat your head.
+Simon
+Simon says touch your knees.
+Simon
+Simon says walk on your knees.
+with Alexa
+Simon says touch your knees.
+Simon
+close one eye.
+you do it
+Simon says jump up and down.
+Resume
+Simon says pretend to climb a ladder.
+you 're out
+crawl like a baby.
+Stop
+Thanks for playing. Goodbye.
+What's the time
+<--skill exit-->It's 237 PM.
+

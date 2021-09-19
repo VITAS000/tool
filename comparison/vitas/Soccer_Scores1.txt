@@ -1,0 +1,16 @@
+round 1:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+What was the Coventry City score
+Coventry City have not yet played this season.
+for example
+<--skill exit-->.
+
+round 2:
+Alexa open soccer scores
+Hello. Which team would you like to know the score for.
+Stop
+
+What's the time
+<--skill exit-->I'm sorry, I couldn't find that team.
+

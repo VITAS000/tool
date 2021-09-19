@@ -1,0 +1,64 @@
+round 1:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+Help
+No problem. I can tell you the next games, the scores, team leaders, the standings, or the latest headlines. Try saying things like When are the next games., What are today's scores., Who are the leaders., What's the latest news., or Tell me the Jazz standings. So, how can I help.
+When are the next games
+There are no more games for the Utah Jazz this season. Check back in September to hear about the 202021 NBA season.
+schedules
+<--skill exit-->I don't see a calendar set up. Want me to send a link to your phone to set up your calendar .
+
+round 2:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+schedules
+Here are the current season stat leaders for the Utah Jazz. Donovan Mitchell leads with 24 points. Rudy Gobert leads with 13.5 rebounds. Joe Ingles leads with 5.2 assists.
+the latest headlines
+<--skill exit--><Play audio>.<Play audio>.
+
+round 3:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+Yes
+There are 3 news articles. The first one is. Roundball Roundup Bobby Marks on the Jazz's offseason. Do you want to hear more about this article.
+Yes
+An offseason of transition. After an unsatisfying end in LA, the Jazz are moving into 20212022 with new leadership. Dennis Lindsey shifts to an advisory role. ESPN's front office expert Bobby Marks discusses the move and what general manager Justin Zanik can do with the roster. The offseason in Utah httpst.coIP8HK48VGw pic.twitter.comHeQQwSU0o5 Okay. Here's the next article Utah Jazz to Host Salt Lake City Summer League. Do you want to hear more about this article.
+No
+Okay. Here's the next article EXIT INTERVIEWS 2021 Utah Jazz roster, front office will take time to process end of season. Do you want to hear more about this article.
+I do not know
+That's out of my range. I can tell you about the NBA 2019 regular season, preseason, and postseason, which runs from October 1th 2020 to June 28th 2020. What date did you want.
+preseason
+Here are the current season stat leaders for the Utah Jazz. Donovan Mitchell leads with 24 points. Rudy Gobert leads with 13.5 rebounds. Joe Ingles leads with 5.2 assists.
+standings
+<--skill exit-->This might answer your question According to Wikipedia In the United States Congress, standing committees are permanent legislative panels established by the United States House of Representatives and United States Senate rules. Because they have legislative jurisdiction, standing committees consider bills and issues and recommend measures for consideration by their respective chambers.
+
+round 4:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+Yes
+There are 3 news articles. The first one is. Roundball Roundup Bobby Marks on the Jazz's offseason. Do you want to hear more about this article.
+scores
+That's out of my range. I can tell you about the NBA 2019 regular season, preseason, and postseason, which runs from October 1th 2020 to June 28th 2020. What date did you want.
+regular season
+Here are the current season stat leaders for the Utah Jazz. Donovan Mitchell leads with 24 points. Rudy Gobert leads with 13.5 rebounds. Joe Ingles leads with 5.2 assists.
+leaders
+
+What's the time
+<--skill exit-->The time is 511 PM.
+
+round 5:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+No
+Thank you for using the Utah Jazz skill.
+When are the next games
+<--skill exit--><Play audio>.
+
+round 6:
+Alexa open utah jazz
+Check back this Fall for 202021 scores and schedules. While you're here, would you like to hear latest Jazz news.
+Stop
+Thank you for using the Utah Jazz skill.
+What's the time
+<--skill exit-->It's 512 PM.
+

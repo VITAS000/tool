@@ -1,0 +1,20 @@
+round 1:
+alexa open trick or treat
+Here is your Halloween fact It is believed that Halloween has been around for more than 5000 years.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 2:
+alexa open trick or treat
+Here is your Halloween fact According to a 2018 report from the National Retail Federation, 30 million Americans will spend an estimated 480 million on Halloween costumes for their pets in 2018.
+What's the time
+<--skill exit-->The time is 401 PM.
+
+round 3:
+alexa open trick or treat
+Here is your Halloween fact Halloween is celebrated across the globe on October 31st every year.
+Stop
+
+What's the time
+<--skill exit-->It's 403 PM.
+

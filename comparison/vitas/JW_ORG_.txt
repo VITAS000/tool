@@ -1,0 +1,78 @@
+round 1:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+Help
+Welcome to jw.org. I can do things like read the Bible, today's daily text, or this week's Watchtower study. I can also play original songs, kingdom songs, dramas, and morning worship. You can ask me for help at any time, and learn more in the help section of the jw.org website. What would you like me to play for you.
+help at any time
+Sorry, I didn't understand that.
+week
+Playing next week's Bible reading.<Play audio>.
+week
+
+What's the time
+<--skill exit-->The time is 1108 AM.
+
+round 2:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+week
+Playing next week's Bible reading.<Play audio>.
+morning worship
+<--skill exit-->I couldn't find any morning worship songs.
+
+round 3:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+morning worship
+Playing Morning Worship.<Play audio>.
+songs
+<--skill exit-->What do you want to hear.
+
+round 4:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+songs
+Playing Original Songs.<Play audio>.
+original songs
+<--skill exit-->What do you want to hear.
+
+round 5:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+dramas
+Playing Dramas.<Play audio>.
+dramas
+<--skill exit-->.
+
+round 6:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+help at any time
+Sorry, I didn't understand that.
+learn more in the help section of the jw.org website
+Sorry, I didn't understand that.
+learn
+Sorry, I didn't understand that.
+morning worship
+Playing Morning Worship.<Play audio>.
+songs
+<--skill exit-->What do you want to hear.
+
+round 7:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+songs
+Playing Original Songs.<Play audio>.
+dramas
+<--skill exit-->.
+
+round 8:
+Alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+dramas
+Playing Dramas.<Play audio>.
+week
+
+What's the time
+<--skill exit-->It's 1117 AM.
+

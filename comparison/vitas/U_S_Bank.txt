@@ -1,0 +1,54 @@
+round 1:
+Alexa open u. s. bank
+Handing off to U.S. Bank by U.S. Bank.Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+Help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+help
+I'm sorry. I didn't catch that. Can you please say that agai
+Yes
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+help
+I'm sorry. I didn't catch that. Can you please say that agai
+No
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+follow
+Welcome to the US Bank skill. To access your US Bank account information you will need to link your account using the Alexa app on your phone. For more information, say help.
+help
+To link your account, open the Alexa app on your phone. Find the U.S. Bank skill. Tap the Link Account button and follow the prompts to log in to your US Bank account.
+help
+I'm sorry. I didn't catch that. Can you please say that agai
+I do not know
+I'm sorry, this skill doesn't allow you to pay your utility bills. You can get an account balance or review transactions. What would you like to do.
+I do not know
+I'm sorry, this skill doesn't allow you to pay your utility bills. You can get an account balance or review transactions. What would you like to do.
+Stop
+Thank you for using the U.S. Bank skill.
+What's the time
+<--skill exit-->It's 1032 AM.
+

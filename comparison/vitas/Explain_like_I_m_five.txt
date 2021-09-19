@@ -1,0 +1,4 @@
+round 1:
+Alexa open explain me like i'm five
+<--skill exit-->Hmm, I found a few skills that might help.Looks like you have Explain Heart Diseases enabled. Would you like to launch it.
+

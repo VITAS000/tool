@@ -1,0 +1,48 @@
+round 1:
+Alexa open trick or treat
+Welcome back to Trick or Treat.  Your are in Lower Woodland where there are lots of basic animals.  Your next journey starts with your next door neighbor.  You approach the house.   You ring the door bell.<Short audio>..<Short audio>.Something in front of you makes a sound.<Short audio>.Lots of  Bats. What do you say to Lots of  Bats.
+Help
+You are currently at a house.  You have 6 turns left before the night ends.  You have 0 treats and 1 tricks this turn.  Since playing you have earned 0 treats. In total you have been tricked 19 times.  Your are in Lower Woodland where there are lots of basic animals.  Say, trick or treat.
+tricks
+trick.  You received a  ice scream.<Short audio>.You have 0 treats and 2 tricks this turn. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+across
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+right
+You picked the house on the right.  You approach the house.   You ring the door bell.<Short audio>..<Short audio>.Something in front of you makes a sound.<Short audio>.a Polar Bear. What do you say to a Polar Bear.
+to a Polar Bear
+Trick. Your fear gets the best of you after too many tricks. You should head home.  say Open Trick or Treat to go out again.
+Open Trick
+Here's your fact Keep in mind that Poison cannot remove your last half a hearth kill you, but what the danger is about it that it takes you down to so health that any mob that hits you or fall damage will kill you.
+is
+<--skill exit-->.
+
+round 2:
+Alexa open trick or treat
+Welcome back to Trick or Treat.  Your are in Lower Woodland where there are lots of basic animals.  Your next journey starts with your next door neighbor.  You approach the house.   You ring the door bell.<Short audio>..<Short audio>.Something in front of you makes a sound.
+Treat
+trick.  You received a  ice scream.<Short audio>.You have 0 treats and 1 tricks this turn. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+tricks
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+Treat
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+to Lots of Bats
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+tricks
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+trick
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+treat
+There is no one in front of you. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+right
+You picked the house on the right.  You approach the house.   You ring the door bell.<Short audio>..<Short audio>.Something in front of you makes a sound.<Short audio>.a Dog. What do you say to a Dog.
+to a Dog
+trick.  You received a Skeleton.<Short audio>.You have 0 treats and 2 tricks this turn. You can go to the house on the left, the right, or across the street.  Where would you like to go.
+right
+You picked the house on the right.  You approach the house.   You ring the door bell.<Short audio>..<Short audio>.Something in front of you makes a sound.<Short audio>.the Lion. What do you say to the Lion.
+to the Lion
+You are trying to buy lion, but I do not know what that is yet.
+know
+
+What's the time
+<--skill exit-->It's 202 PM.
+

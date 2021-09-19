@@ -1,0 +1,4 @@
+round 1:
+alexa open bingo caller
+<--skill exit-->Ok, Here's Bingo Caller.Hey there. Let's play some Bingo. All players should have their own card and something to mark it with. When you get a complete row on your card, call out, Alexa. Bingo.Is everyone ready to begin.
+

@@ -1,0 +1,66 @@
+round 1:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+Help
+With this skill, Recommend a Romance Author  you can learn about a new romance author whenever you're ready to try a new book. Would you like a recommendation. You can say yes, no or stop.
+What's the time
+I'm sorry. I didn't understand that. To hear a recommendation please say yes, no or stop.
+stop
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+What's the time
+<--skill exit-->It's 1249 PM.
+
+round 2:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+stop
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+What's the time
+<--skill exit-->It's 1250 PM.
+
+round 3:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+Pause
+I'm sorry. I didn't understand that. To hear a recommendation please say yes, no or stop.
+Stop
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+What's the time
+<--skill exit-->The time is 1251 PM.
+
+round 4:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+stop
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+What's the time
+<--skill exit-->The time is 1252 PM.
+
+round 5:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+stop
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+What's the time
+<--skill exit-->The time is 1253 PM.
+
+round 6:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+no
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+Exit
+
+What's the time
+<--skill exit-->The time is 1255 PM.
+
+round 7:
+alexa open recommend a romance author
+Welcome to Recommend a Romance Author. Are you ready to hear about a new author. You can say yes, no, help or stop.
+no
+Come back anytime to hear about a new author. Just say, Alexa, open Recommend a Romance Author  to open the skill again. This skill was created for you by romance author Rachel Kenley. You can find her books on amazon and learn more about her on her website www dot rachel kenley dot net.
+stop
+
+What's the time
+<--skill exit-->It's 1258 PM.
+

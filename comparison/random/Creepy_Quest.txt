@@ -1,0 +1,40 @@
+round 1:
+alexa open creepy quest
+Ok, Here's Creepy Quest.<Short audio>.Welcome to Creepy Quest. A gang of vicious monsters has stolen all the Halloween candy. You are the only one brave enough to get it back from those nightmares that haunt your dreams. Do you accept your quest oh brave one or are you too chicken. You can say yes to start your quest or no to chicken out.
+Help
+The Halloween candy has been stolen and it's up to you to get it back. You'll have to face vicious beasts and magical demons to get those sweet, sweet treats back. Each time you face one of the creatures, you'll get to pick a tool to try to beat them. Each tool has a special strength that makes it extra powerful against certain enemies, so listen closely to the descriptions of the baddies you'll be given hints as to what tool may work best. Do you want to hear more about the tools or return to the game.
+Restart
+The Garlic Grenade is a stinky tool that scares off the undead but burns easily. The Holy Hose sprays streams of holy water to dowse out magic and scare off beasts but doesn't do much to metal. The Silver sword slices and dices magical creatures but doesn't work so well against vegetables. Finally, the toasting torch will light the night but don't get it wet. If you want to know more you can say repeat or you can say return to game.
+return
+The Garlic Grenade is a stinky tool that scares off the undead but burns easily. The Holy Hose sprays streams of holy water to dowse out magic and scare off beasts but doesn't do much to metal. The Silver sword slices and dices magical creatures but doesn't work so well against vegetables. Finally, the toasting torch will light the night but don't get it wet. If you want to know more you can say repeat or you can say return to game.
+yes
+<Short audio>.The town cheers as you head off to get their candy back. Fortunately, the monsters are messy, and they've left a trail of fruit chews and candy corn that lead right into the Wicked Woods. The forest would be scary any night of the year, but on Halloween, all the craziest and creepiest creatures come out to play.  But you're brave, so you gather your trusty tools the garlic grenade, the holy hose, the silver sword, and the toasting torch and head into the woods. You enter the forest, the scraggly arms of the bare trees reach into the cloudy sky and loom over your path. As soon as you step under the skeletal canopy, a fine mist surrounds you preventing you from seeing more than a few feet in front of you. You take two more steps, the dead leaves crunching beneath your feet. Something red catches the corner of your eye. You whip your head around. Staring at you from a hole in a dead tree are two beetred eyes. You step back as the eyes emerge from their lair. They belong to a short gnome, clad in a black cape with white hair slicked back under a pointy black hat. The gnome smiles revealing two long fangs. It's no ordinary gnome. It's a vampire gnome. To face her You can choose from the Garlic Grenade, Holy Hose, Silver sword or Toasting Torch.
+yes
+<Short audio>.The town cheers as you head off to get their candy back. Fortunately, the monsters are messy, and they've left a trail of fruit chews and candy corn that lead right into the Wicked Woods. The forest would be scary any night of the year, but on Halloween, all the craziest and creepiest creatures come out to play.  But you're brave, so you gather your trusty tools the garlic grenade, the holy hose, the silver sword, and the toasting torch and head into the woods. You enter the forest, the scraggly arms of the bare trees reach into the cloudy sky and loom over your path. As soon as you step under the skeletal canopy, a fine mist surrounds you preventing you from seeing more than a few feet in front of you. You take two more steps, the dead leaves crunching beneath your feet. Something red catches the corner of your eye. You whip your head around. Staring at you from a hole in a dead tree are two beetred eyes. You step back as the eyes emerge from their lair. They belong to a short gnome, clad in a black cape with white hair slicked back under a pointy black hat. The gnome smiles revealing two long fangs. It's no ordinary gnome. It's a vampire gnome. To face her You can choose from the Garlic Grenade, Holy Hose, Silver sword or Toasting Torch.
+Resume
+The Garlic Grenade is a stinky tool that scares off the undead but burns easily. The Holy Hose sprays streams of holy water to dowse out magic and scare off beasts but doesn't do much to metal. The Silver sword slices and dices magical creatures but doesn't work so well against vegetables. Finally, the toasting torch will light the night but don't get it wet. If you want to know more you can say repeat or you can say return to game.
+Stop
+Thanks for playing Creepy Quest.
+What's the time
+<--skill exit-->The time is 159 PM.
+
+round 2:
+alexa open creepy quest
+<Short audio>.Welcome to Creepy Quest. A gang of vicious monsters has stolen all the Halloween candy. You are the only one brave enough to get it back from those nightmares that haunt your dreams. Do you accept your quest oh brave one or are you too chicken. You can say yes to start your quest or no to chicken out.
+demons
+The Garlic Grenade is a stinky tool that scares off the undead but burns easily. The Holy Hose sprays streams of holy water to dowse out magic and scare off beasts but doesn't do much to metal. The Silver sword slices and dices magical creatures but doesn't work so well against vegetables. Finally, the toasting torch will light the night but don't get it wet. If you want to know more you can say repeat or you can say return to game.
+Stop
+Thanks for playing Creepy Quest.
+What's the time
+<--skill exit-->It's 201 PM.
+
+round 3:
+alexa open creepy quest
+<Short audio>.Welcome to Creepy Quest. A gang of vicious monsters has stolen all the Halloween candy. You are the only one brave enough to get it back from those nightmares that haunt your dreams. Do you accept your quest oh brave one or are you too chicken. You can say yes to start your quest or no to chicken out.
+yes
+<Short audio>.The town cheers as you head off to get their candy back. Fortunately, the monsters are messy, and they've left a trail of fruit chews and candy corn that lead right into the Wicked Woods. The forest would be scary any night of the year, but on Halloween, all the craziest and creepiest creatures come out to play.  But you're brave, so you gather your trusty tools the garlic grenade, the holy hose, the silver sword, and the toasting torch and head into the woods. You enter the forest, the scraggly arms of the bare trees reach into the cloudy sky and loom over your path. As soon as you step under the skeletal canopy, a fine mist surrounds you preventing you from seeing more than a few feet in front of you. You take two more steps, the dead leaves crunching beneath your feet. Something red catches the corner of your eye. You whip your head around. Staring at you from a hole in a dead tree are two beetred eyes. You step back as the eyes emerge from their lair. They belong to a short gnome, clad in a black cape with white hair slicked back under a pointy black hat. The gnome smiles revealing two long fangs. It's no ordinary gnome. It's a vampire gnome. To face her You can choose from the Garlic Grenade, Holy Hose, Silver sword or Toasting Torch.
+Stop
+Thanks for playing Creepy Quest.
+What's the time
+<--skill exit-->It's 203 PM.
+

@@ -1,0 +1,4 @@
+round 1:
+Alexa open chat bot
+<--skill exit-->Hi , this is an Alexa Prize Socialbot .  I have a feeling that we have talked before. Do you remember me.
+

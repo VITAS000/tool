@@ -1,0 +1,4 @@
+round 1:
+Alexa open virtual trump
+<--skill exit-->I found a few matches for that.Did you mean Virtual Vacation.
+

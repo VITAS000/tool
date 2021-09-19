@@ -1,0 +1,66 @@
+round 1:
+Alexa open my compliments
+Your complimentBeing around you makes everything better.
+Help
+
+What's the time
+<--skill exit-->The time is 718 AM.
+
+round 2:
+Alexa open my compliments
+Your complimentYour name suits you to a T.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 3:
+Alexa open my compliments
+Your complimentYou never cease to amaze me.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 4:
+Alexa open my compliments
+Your complimentIf you were a box of crayons, you'd be the giant namebrand one with the builtin sharpener.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 5:
+Alexa open my compliments
+Your complimentYour name suits you to a T.
+Resume
+<--skill exit-->Sorry, I don't know that.
+
+round 6:
+Alexa open my compliments
+Your complimentYou never cease to amaze me.
+Resume
+<--skill exit-->Hmm, I don't know that one.
+
+round 7:
+Alexa open my compliments
+Your complimentIf you were a box of crayons, you'd be the giant namebrand one with the builtin sharpener.
+Resume
+<--skill exit-->Sorry, I don't know that.
+
+round 8:
+Alexa open my compliments
+Your complimentYou're always learning new things and trying to better yourself, which is awesome.
+trying
+
+What's the time
+<--skill exit-->It's 721 AM.
+
+round 9:
+Alexa open my compliments
+Your complimentYou're always learning new things and trying to better yourself, which is awesome.
+trying
+
+What's the time
+<--skill exit-->It's 722 AM.
+
+round 10:
+Alexa open my compliments
+Your complimentYou're strong.
+Resume
+<--skill exit-->Sorry, I'm not sure about that.
+

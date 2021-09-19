@@ -1,0 +1,58 @@
+round 1:
+Alexa open freedom festival
+Handing off to Freedom Festival by Rain Labs.Welcome back.nThere are 1 events today, would you like to hear more about them.
+Help
+To use this skill, just say a date you would like to know about, and I can tell you if there are any Freedom Festival events going on that day or not.I also have a few surprises waiting to be discovered if you know the right words to say. When you go to the stadium of fire, be on the lookout for easter eggs you can ask me.or you can visit rain dot agency, forward slash, freedom festival.Now, let's get you back to the Freedom Festival calendar. nWelcome back.nThere are 1 events today, would you like to hear more about them.
+to know about
+yippee. You just triggered the hidden Fan quizLet's see if you are a Little Big Town super fan or not.I will ask you three questions, let's see how many you can get right.Are you ready to begin.
+Yes
+Question one.True or False, Karen Fairchild is married to Kix Brooks.
+False
+
+What's the time
+<--skill exit-->There is one event on Jul 4thPatriotic Service at 800 PMnWould you like to hear any other day's event schedule.
+
+round 2:
+Alexa open freedom festival
+Handing off to Freedom Festival by Rain Labs.Welcome back.nThere are 1 events today, would you like to hear more about them.
+Yes
+There is one event on Jul 4thPatriotic Service at 800 PMnWould you like to hear any other day's event schedule.
+to know about
+yippee. You just triggered the hidden Fan quizLet's see if you are a Little Big Town super fan or not.I will ask you three questions, let's see how many you can get right.Are you ready to begin.
+No
+Okay. Be sure to come back when you are ready. In order to get back here, just use the secret password. I'm a superfan.nWelcome back.nThere are 1 events today, would you like to hear more about them.
+Yes
+There is one event on Jul 4thPatriotic Service at 800 PMnWould you like to hear any other day's event schedule.
+I can tell you if there are any Freedom Festival events going on that day
+There is one event on Jul 4thPatriotic Service at 800 PMnWould you like to hear any other day's event schedule.
+not
+
+What's the time
+<--skill exit-->It's 113 PM.
+
+round 3:
+Alexa open freedom festival
+Handing off to Freedom Festival by Rain Labs.Welcome back.nThere are 1 events today, would you like to hear more about them.
+Yes
+There is one event on Jul 4thPatriotic Service at 800 PMnWould you like to hear any other day's event schedule.
+me.or you can visit rain dot agency
+yippee. You just triggered the hidden Fan quizLet's see if you are a Little Big Town super fan or not.I will ask you three questions, let's see how many you can get right.Are you ready to begin.
+I do not know
+yippee. You just triggered the hidden Fan quizLet's see if you are a Little Big Town super fan or not.I will ask you three questions, let's see how many you can get right.Are you ready to begin.
+forward slash
+Welcome back.nThere are 1 events today, would you like to hear more about them.
+No
+Would you like to hear any other day's event schedule.
+Yes
+Okay, what day would you like to hear about.
+freedom festival
+woo hoo. freedom is my favorite smell.Treat yourself, your family, and friends. Go enjoy a good ole american bar b qnWelcome back.nThere are 1 events today, would you like to hear more about them.
+No
+Would you like to hear any other day's event schedule.
+No
+Goodbye.
+not
+
+What's the time
+<--skill exit-->The time is 117 PM.
+

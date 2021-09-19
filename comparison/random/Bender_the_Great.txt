@@ -1,0 +1,50 @@
+round 1:
+alexa open bender the great
+Bender says I guess if you want children beaten, you have to do it yourself.
+Exit
+
+What's the time
+<--skill exit-->The time is 303 PM.
+
+round 2:
+alexa open bender the great
+Bender says Have you tried turning off the TV, sitting down with your children, and hitting them.
+What's the time
+<--skill exit-->The time is 303 PM.
+
+round 3:
+alexa open bender the great
+Bender says The game's over. I have all the money. Compare your lives to mine and then kill yourselves.
+Restart
+<--skill exit-->starting over.
+
+round 4:
+alexa open bender the great
+Bender says I'll build by own theme park. With black jack, and hookers. In fact, forget the park.
+What's the time
+<--skill exit-->It's 304 PM.
+
+round 5:
+alexa open bender the great
+Bender says Oh, your God.
+your God
+<--skill exit-->Sorry, I don't know that one.
+
+round 6:
+alexa open bender the great
+Bender says You're a pimple on society's ass and you'll never amount to anything.
+Restart
+<--skill exit-->Starting over.
+
+round 7:
+alexa open bender the great
+Bender says There. Now no one can say I don't own John Larroquette's spine.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 8:
+alexa open bender the great
+Bender says You're a pimple on society's ass and you'll never amount to anything.
+Restart
+<--skill exit-->Starting over.
+

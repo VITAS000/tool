@@ -1,0 +1,4 @@
+round 1:
+Alexa open magnificent facts
+<--skill exit-->I'm sorry, I didn't get that. Please try again.
+

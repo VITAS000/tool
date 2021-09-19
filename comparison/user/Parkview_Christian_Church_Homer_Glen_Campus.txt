@@ -1,0 +1,14 @@
+alexa open parkview christian church homer glen
+Ok, Here's Parkview Christian Church Homer Glen Campus.Welcome to Parkview Christian Church Homer Glen Campus, Homer Glen, IL. We are a non de nominational church and welcome everyone and anyone to attend services with us. What can we help you with? You can say, Service Times, Location, Phone Number Help for more options or stop.
+service times
+Come visit us. We have two Sunday Morning Worship Services the first service starts at 10 and then at 11 30 We hope you visit us soon. Would you like more information? Say YES for more options or no thanks.
+location
+The Parkview Christian Church Homer Glen Campus, Homer Glen, IL. is located at 1 4 3 6 7 W. 159th Street, Homer Glen, IL. Would you like more information? Say YES for more options or no thanks.
+phone number
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information? Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+repeat
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information? Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+yes
+What other information would you like? Say, Service Times, Location, Phone Number, or Goodbye
+goodbye
+Come back anytime by saying Alexa, open Parkview Christian Church Homer Glen. Thanks for stopping by, We hope to see you soon and have a blessed day!

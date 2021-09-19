@@ -1,0 +1,88 @@
+round 1:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+Help
+Good Vibes is here to inspire you with quotes from some of our favourite authors. Just ask to talk to Good Vibes to hear today's inspiration. You can ask to hear another quote or say I'm Done.
+talk to Good Vibes to hear today 's inspiration
+Sorry, I can't understand the command. Please say again.
+What's the time
+Sorry, I can't understand the command. Please say again.
+hear another quote
+Sorry, I can't understand the command. Please say again.
+What's the time
+Sorry, I can't understand the command. Please say again.
+Cancel
+Come back tomorrow for more good vibes.<Short audio>.
+What's the time
+<--skill exit-->It's 657 PM.
+
+round 2:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+Restart
+Sorry, I can't understand the command. Please say again.
+Cancel
+Come back tomorrow for more good vibes.<Short audio>.
+What's the time
+<--skill exit-->The time is 658 PM.
+
+round 3:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+Resume
+Sorry, I can't understand the command. Please say again.
+What's the time
+Sorry, I can't understand the command. Please say again.
+Exit
+
+What's the time
+<--skill exit-->The time is 700 PM.
+
+round 4:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+What's the time
+Sorry, I can't understand the command. Please say again.
+Resume
+Sorry, I can't understand the command. Please say again.
+Stop
+Come back tomorrow for more good vibes.<Short audio>.
+What's the time
+<--skill exit-->It's 702 PM.
+
+round 5:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+talk to Good Vibes to hear today 's inspiration
+Sorry, I can't understand the command. Please say again.
+What's the time
+Sorry, I can't understand the command. Please say again.
+again
+Sorry, I can't understand the command. Please say again.
+Reboot
+Sorry, I can't understand the command. Please say again.
+Resume
+Sorry, I can't understand the command. Please say again.
+Reboot
+Sorry, I can't understand the command. Please say again.
+again
+Sorry, I can't understand the command. Please say again.
+again
+Sorry, I can't understand the command. Please say again.
+again
+Sorry, I can't understand the command. Please say again.
+Stop
+Come back tomorrow for more good vibes.<Short audio>.
+What's the time
+<--skill exit-->The time is 705 PM.
+
+round 6:
+alexa open good vibes
+Sorry, I can't understand the command. Please say again.
+Reboot
+Sorry, I can't understand the command. Please say again.
+Stop
+Come back tomorrow for more good vibes.<Short audio>.
+What's the time
+<--skill exit-->The time is 706 PM.
+

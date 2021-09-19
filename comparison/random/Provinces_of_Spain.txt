@@ -1,0 +1,4 @@
+round 1:
+alexa open provincias de españa
+<--skill exit-->Hmm, I have a few skills that can help.You have Provinces of Spain enabled. Do you want to launch it now.
+

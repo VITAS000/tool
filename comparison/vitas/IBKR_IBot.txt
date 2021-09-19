@@ -1,0 +1,38 @@
+round 1:
+Alexa open i. b. k. r.
+Welcome to Interactive Brokers. You can ask me for market updates, stock quotes and more. Link your IBKR account in the skills section of the Alexa app for live account information. How can I help.
+Help
+I can provide stock quotes and data, for example ask for price of amazon or volume of amazon or google quote. Get today's market movers with top gainers in US. You can also ask general questions related to Interactive Brokers services, for example ask Why should I open an account with IB. For live information about your IBKR account, link it in Skills section of your Alexa app. What would you like to do.
+price of amazon
+As of 759 PM, AMAZON.COM, symbol AMZN, is trading at 3511.05 USD. Up 2.27 for the day. For more information try to say Company Fundamentals or Quote Details or Business Summary or Financial Summary or Analyst Rating or Dividends. Market data is delayed. What quote would you like next.
+Company Fundamentals
+For AMAZON.COM, symbol AMZN, Market Cap is 1,731.328B. PE is 65.3. Revenueshare is 819.01. Revenueshare  MRY is 756.99. PriceBook is 16.7. Would you like to continue.
+Yes
+PriceTang.Book Ratio is 19.7. EPS Growth  is 101.8. Return on Equity  is 31.9. Quick ratio is 0.8. What would you like to do next. Say Help for a list of commands.
+Interactive Brokers services
+PROVIDE FEEDBACK    Use the button above or follow the below procedure to access the New Features Poll only for customers to add, review, comment or vote suggestions for future technology enhancements  1. Log in to Client Portal . 2. Click the Help menu question mark icon in the top right corner followed by Provide a feedback.    Please Note    To add New Features Poll suggestions or vote, you must login to the New Features Poll first with a separate login for online features. Would you like to continue.
+market updates
+BRIEFING.COM The SP 500 0.8, Nasdaq Composite 0.8, and Dow Jones Industrial Average 0.4 closed at record highs on Friday, powered by the megacaps  following a June employment report that was deemed okay. The SP 500 and Nasdaq also set alltime intraday highs, while the Russell 2000 fell 1.0 amid weakness in energy and financial stocks. From a headline perspective, the employment report was greatnonfarm payrolls increased by 850,000 Briefing.com consensus of 680,000. Would you like to continue.
+stock quotes
+Command not supported. What would you like to do next. Say Help for a list of commands.
+commands.
+As of 759 PM, for AMAZON.COM, symbol AMZN, the Volume is 3,177,000. Market data is delayed. What quote would you like next.
+quotes
+As of 759 PM, AMAZON.COM, symbol AMZN, is trading at 3511.05 USD. Up 2.27 for the day. For more information try to say Company Fundamentals or Quote Details or Business Summary or Financial Summary or Analyst Rating or Dividends. Market data is delayed. What quote would you like next.
+price of amazon
+As of 759 PM, AMAZON.COM, symbol AMZN, is trading at 3511.05 USD. Up 2.27 for the day. For more information try to say Company Fundamentals or Quote Details or Business Summary or Financial Summary or Analyst Rating or Dividends. Market data is delayed. What quote would you like next.
+Company Fundamentals
+For AMAZON.COM, symbol AMZN, Market Cap is 1,731.328B. PE is 65.3. Revenueshare is 819.01. Revenueshare  MRY is 756.99. PriceBook is 16.7. Would you like to continue.
+volume of amazon
+
+What's the time
+<--skill exit-->Command not supported. What would you like to do next. Say Help for a list of commands.
+
+round 2:
+Alexa open i. b. k. r.
+Welcome to Interactive Brokers. You can ask me for market updates, stock quotes and more. Link your IBKR account in the skills section of the Alexa app for live account information. How can I help.
+Stop
+Thanks, come back soon.
+What's the time
+<--skill exit-->The time is 1054 AM.
+

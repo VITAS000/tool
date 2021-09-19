@@ -1,0 +1,66 @@
+round 1:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+Help
+Please say Yes, or No.
+judgment
+Please say Yes, or No.
+Pause
+Please say Yes, or No.
+No
+Thanks for using. Goodbye.
+superstition
+<--skill exit-->Here's something I found on the web. According to slideplayer.com  A superstition is the belief or practice that is not based on reason or actual knowledge.
+
+round 2:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+No
+Thanks for using. Goodbye.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 3:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+Exit
+Sorry, I'm having trouble accessing your AYRIAL Feng Shui Tips skill right now.
+What's the time
+<--skill exit-->It's 422 PM.
+
+round 4:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+Cancel
+Thanks for using. Goodbye.
+What's the time
+<--skill exit-->The time is 423 PM.
+
+round 5:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+business
+Please say Yes, or No.
+Stop
+Thanks for using Feng Shui Tip , Goodbye.
+What's the time
+<--skill exit-->It's 424 PM.
+
+round 6:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+No
+Thanks for using. Goodbye.
+Exit
+
+What's the time
+<--skill exit-->It's 427 PM.
+
+round 7:
+alexa open feng shui
+Welcome to the world of AYRIAL with the daily AYRIAL Feng Shui skill.             Feng shui is an ancient practice developed over 3000 years ago in China. Feng shui is not             religion or superstition it is a science because its formulas and fundamentals are based on             empirical research and it is an art because experience and judgment are critical in the analysis.              Feng Shui focuses on the study of Chi and how it can be harnessed to create harmonious living             better health, successful career or business, and fulfilling relationships for the people inhabiting the space.  Do you want to check the feng shui tip today.
+Stop
+Thanks for using Feng Shui Tip , Goodbye.
+What's the time
+<--skill exit-->It's 428 PM.
+

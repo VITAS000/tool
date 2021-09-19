@@ -1,0 +1,63 @@
+round 1:
+alexa open smart home
+Here's your smart home tip Test all ground fault circuit interrupter outlets monthly. Press the test button and use a voltage tester to make sure the power goes off.
+Help
+<--skill exit-->Do you need to place an emergency call.
+
+round 2:
+alexa open smart home
+Here's your smart home tip Once a year, vacuum the refrigerator coils underneath your appliances.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 3:
+alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+Restart
+<--skill exit-->starting over.
+
+round 4:
+alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 5:
+alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 6:
+alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+Restart
+<--skill exit-->Starting over.
+
+round 7:
+alexa open smart home
+Here's your smart home tip Clean leaves and debris from the condenser of a central air conditioner seasonally.
+Stop
+
+What's the time
+<--skill exit-->It's 652 PM.
+
+round 8:
+alexa open smart home
+Here's your smart home tip Test all ground fault circuit interrupter outlets monthly. Press the test button and use a voltage tester to make sure the power goes off.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 9:
+alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 10:
+Alexa open smart home
+Here's your smart home tip Inspect window and door caulking and weather stripping yearly.
+caulking
+
+What's the time
+<--skill exit-->It's 653 PM.

@@ -1,0 +1,56 @@
+round 1:
+Alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+Help
+With this skill,  you can get your new daily Pisces horoscope every day. Your daily Pisces horoscope updates every night at midnight.  Would you like to hear your today's horoscope.
+Yes
+You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+return
+<--skill exit-->.
+
+round 2:
+Alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+Yes
+You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+No
+Come back tomorrow to hear a new daily Pisces horoscope . Just say, Alexa, open daily Pisces horoscope  to open the skill again.
+open daily Pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+be
+<--skill exit-->.
+
+round 3:
+Alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+No
+Come back tomorrow to hear a new daily Pisces horoscope . Just say, Alexa, open daily Pisces horoscope  to open the skill again.
+smile
+Sure. I smile all the time.
+return
+<--skill exit-->What would you like to play next.
+
+round 4:
+Alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+I do not know
+<--skill exit-->.
+
+round 5:
+Alexa open daily pisces horoscope
+Sorry, I'm having trouble accessing your Daily Pisces Horoscope skill right now.
+smile
+Sure. I smile all the time.
+be
+
+What's the time
+<--skill exit-->It's 404 PM.
+
+round 6:
+Alexa open daily pisces horoscope
+Welcome to your daily Pisces horoscope.  Here is your reading for today.   You never, ever miss a chance to spoil someone you love on a daily basis. So when a certain someone remembers to return the favor, don't you dare argue about it. It's now officially your turn to receive the benefits. Sit down, be quiet and smile. Oh, and when they're done, go ahead and return the favor. Would you like to hear it again.
+Stop
+Come back tomorrow to hear a new daily Pisces horoscope . Just say, Alexa, open daily Pisces horoscope  to open the skill again.
+What's the time
+<--skill exit-->It's 405 PM.
+

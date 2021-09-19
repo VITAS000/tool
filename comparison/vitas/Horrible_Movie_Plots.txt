@@ -1,0 +1,4 @@
+round 1:
+Alexa open horrible movie plots
+<--skill exit-->Hmm, I have a few skills that can help.Did you mean Short Plot  Movie.
+

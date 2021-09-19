@@ -1,0 +1,54 @@
+round 1:
+Alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+Help
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game.
+
+round 2:
+alexa open head games
+no response.<Short audio>.
+Restart
+no response.<Short audio>.
+Pause
+no response.<Short audio>.
+lost
+no response.<Short audio>.
+What's the time
+no response.<Short audio>.
+Reboot
+no response.<Short audio>.
+Restart
+no response.<Short audio>.
+Stop
+I hope you enjoyed playing lost pig, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 3:
+alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+No
+Navigate through our list of available games by saying first, next, previous or last. Say describe to learn more about the game. Once you find the game you want to play, say select to play the game. Go ahead, the choice is yours.
+Cancel
+I hope you enjoyed playing lost pig, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.
+Reboot
+<--skill exit-->Sorry, I don't know that one.
+
+round 4:
+alexa open head games
+no response.<Short audio>.
+Reboot
+no response.<Short audio>.
+Restart
+no response.<Short audio>.
+Resume
+no response.<Short audio>.
+Restart
+no response.<Short audio>.
+Pause
+no response.<Short audio>.
+Exit
+
+What's the time
+<--skill exit-->The time is 345 PM.
+

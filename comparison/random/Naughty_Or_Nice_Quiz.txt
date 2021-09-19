@@ -1,0 +1,4 @@
+round 1:
+alexa open naughty or nice quiz
+<--skill exit-->Ok, Here's Naughty or Nice.Ho, Ho, Ho. You've been Nice. You deserve a treat.
+

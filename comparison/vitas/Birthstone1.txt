@@ -1,0 +1,24 @@
+round 1:
+Alexa open birthstone finder
+Please tell me your birth month.
+October
+The birthstone for October is Opal, Tourmaline.
+November
+<--skill exit-->.
+
+round 2:
+Alexa open birthstone finder
+Please tell me your birth month.
+November
+The birthstone for November is Topaz, Citrine.
+December
+<--skill exit-->.
+
+round 3:
+Alexa open birthstone finder
+Please tell me your birth month.
+December
+The birthstone for December is Turquoise, Zircon, Tanzanite.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+

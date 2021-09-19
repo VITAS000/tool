@@ -1,0 +1,60 @@
+alexa open provincias de espana
+Ok, Here's Provinces of Spain.Hello, welcome to the provinces of Spain. As you may know Spain is divided into 17 autonomous communities and 2 autonomous cities. The autonomous communities are divided into 50 provincies. Antonio will help you with the pronunciation. Hello Antonio. Hola Alexa. Do you want to know one of those provincies?
+yes
+Antonio, can you tell me a new province of Spain, please?. Cuenca. Cuenca is a province of Castilla La Mancha autonomous community, and the capital is: Cuenca.. Do you want to know another one of those provincies?
+yes
+What`s the next province Antonio?. Lérida. Lérida is a province of Cataluña autonomous community, and the capital is: Lleida.. Thank you Antonio. Do you like another one?
+yes
+Antonio, tell me a province of Spain, please. Huelva. Huelva is a province of Andalucía autonomous community, and the capital is: Huelva.. Thank you Antonio. Can I tell you another province?
+yes
+And the next province of Spain is... Guadalajara. Guadalajara is a province of Castilla La Mancha autonomous community, and the capital is: Guadalajara.. Thank you Antonio. Can I tell you another one?
+yes
+Tell me anoter province, Antonio. Ciudad Real. Ciudad Real is a province of Castilla La Mancha autonomous community, and the capital is: Ciudad Real.. Thank you Antonio. Un placer. Can I tell you another province?
+yes
+Tell me anoter province, Antonio. Málaga. Málaga is a province of Andalucía autonomous community, and the capital is: Málaga.. Can I tell you another province?
+yes
+Antonio, tell me a province of Spain, please. Jaén. Jaén is a province of Andalucía autonomous community, and the capital is: Jaén.. Tell me if you want another one.
+yes
+Well, come on with another province of Spain. Antonio, please. Cantabria. Cantabria is a province of Cantabria autonomous community, and the capital is: Santander.. Do you like another one?
+yes
+Antonio, tell me a province of Spain, please. Lérida. Lérida is a province of Cataluña autonomous community, and the capital is: Lleida.. Do you like another one?
+yes
+Antonio, can you tell me a new province of Spain, please?. Salamanca. Salamanca is a province of Castilla y León autonomous community, and the capital is: Salamanca.. Do you like another one?
+yes
+Antonio, tell me a province of Spain, please. Teruel. Teruel is a province of Aragón autonomous community, and the capital is: Teruel.. Do you like another one?
+yes
+Antonio, tell me a province of Spain, please. Valladolid. Valladolid is a province of Castilla y León autonomous community, and the capital is: Valladolid.. Do you want to know another one of those provincies?
+yes
+Well, come on with another province of Spain. Antonio, please. Valladolid. Valladolid is a province of Castilla y León autonomous community, and the capital is: Valladolid.. Do you want to know another province?
+yes
+Antonio, tell me a province of Spain, please. Almería. Almería is a province of Andalucía autonomous community, and the capital is: Almería.. Thank you Antonio. Can I tell you another province?
+yes
+Well, come on with another province of Spain. Antonio, please. Soria. Soria is a province of Castilla y León autonomous community, and the capital is: Soria.. Can I tell you another province?
+yes
+What`s the next province Antonio?. Teruel. Teruel is a province of Aragón autonomous community, and the capital is: Teruel.. Do you want to know another one of those provincies?
+yes
+Antonio, can you tell me a new province of Spain, please?. Barcelona. Barcelona is a province of Cataluña autonomous community, and the capital is: Barcelona... Thank you Antonio. Do you like another one?
+yes
+What`s the next province Antonio?. Jaén. Jaén is a province of Andalucía autonomous community, and the capital is: Jaén.. Do you want another one?
+yes
+What`s the next province Antonio?. Guadalajara. Guadalajara is a province of Castilla La Mancha autonomous community, and the capital is: Guadalajara.. Do you like another one?
+yes
+What`s the next province Antonio?. Palencia. Palencia is a province of Castilla y León autonomous community, and the capital is: Palencia.. Thank you Antonio. De nada. Do you like another one?
+yes
+Antonio, tell me a province of Spain, please. Granada. Granada is a province of Andalucía autonomous community, and the capital is: Granada.. Can I tell you another province?
+yes
+Well, come on with another province of Spain. Antonio, please. Pontevedra. Pontevedra is a province of Galicia autonomous community, and the capital is: Pontevedra.. Do you want to know another one of those provincies?
+yes
+Antonio, tell me a province of Spain, please. Ciudad Real. Ciudad Real is a province of Castilla La Mancha autonomous community, and the capital is: Ciudad Real.. Thank you Antonio. Un placer. Can I tell you another province?
+yes
+Antonio, tell me a province of Spain, please. Vizcaya. Vizcaya is a province of País Vasco autonomous community, and the capital is: Bilbao.. Tell me if you want another one.
+yes
+Tell me anoter province, Antonio. Valencia. Valencia is a province of Comunidad Valenciana autonomous community, and the capital is: Valencia.. Do you like another one?
+yes
+Antonio, can you tell me a new province of Spain, please?. Ávila. Ávila is a province of Castilla y León autonomous community, and the capital is: Ávila.. Do you like another one?
+yes
+Well, come on with another province of Spain. Antonio, please. Murcia. Murcia is a province of Región de Murcia autonomous community, and the capital is: Murcia.. Do you want to know another province?
+yes
+Antonio, tell me a province of Spain, please. Palencia. Palencia is a province of Castilla y León autonomous community, and the capital is: Palencia.. Do you want another one?
+no
+See you soon.

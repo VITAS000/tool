@@ -1,0 +1,70 @@
+round 1:
+alexa open n. p. r.
+Ok, Here's NPR..Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Help
+This is NPR. To see everything you can do on your device, visit npr dot org slash Alexa. For example, you can ask NPR to change your station. For now, which would you like to hear live radio, or news.
+Bob
+This is NPR. To see everything you can do on your device, visit npr dot org slash Alexa. For example, you can ask NPR to change your station. For now, which would you like to hear live radio, or news.
+change your station
+Which would you like to hear live radio, or news.
+Exit
+
+What's the time
+<--skill exit-->It's 842 PM.
+
+round 2:
+alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Lisa
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+What's the time
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Reboot
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+change your station
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Bob
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Resume
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Stop
+
+What's the time
+<--skill exit-->It's 845 PM.
+
+round 3:
+alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+code
+I'm sorry, I didn't recognize that zip code. To try again, you can give me a different five digit zip code, or ask me for help.
+Lisa
+I'm sorry, I didn't recognize that zip code. To try again, you can give me a different five digit zip code, or ask me for help.
+Bob
+I'm sorry, I didn't recognize that zip code. To try again, you can give me a different five digit zip code, or ask me for help.
+What's the time
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Pause
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Resume
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Stop
+
+What's the time
+<--skill exit-->The time is 847 PM.
+
+round 4:
+alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+change your station
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Pause
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Pause
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Lily
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Stop
+
+What's the time
+<--skill exit-->It's 849 PM.
+

@@ -1,0 +1,54 @@
+round 1:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Restart
+<--skill exit-->Starting over.
+
+round 2:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 3:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 4:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Stop
+
+What's the time
+<--skill exit-->It's 1135 AM.
+
+round 5:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 6:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Stop
+
+What's the time
+<--skill exit-->It's 1137 AM.
+
+round 7:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+What's the time
+<--skill exit-->The time is 1138 AM.
+
+round 8:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Cancel
+
+What's the time
+<--skill exit-->It's 1139 AM.
+

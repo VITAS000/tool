@@ -1,0 +1,12 @@
+alexa open three cards
+Welcome to Three Cards game skill. This is how the game works. Every player gets three cards at the beginning. Then, you may ask next card or knock the game. Let's get started with roll call. Press the first button and wait for confirmation before pressing the second button.<Short audio>.
+press the first button
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+help
+You will need two Echo buttons to to use this skill. Each of the two buttons you plan to use must be pressed for the skill to register them. Would you like to continue and register two Echo buttons?
+yes
+Ok. Press the first button, wait for confirmation, then press the second button.<Short audio>
+next card
+An error was encountered while handling your request. Try again later
+knock the game
+Sorry, I'm having trouble accessing your 3 Cards skill right now

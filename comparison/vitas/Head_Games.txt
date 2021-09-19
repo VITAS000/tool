@@ -1,0 +1,80 @@
+round 1:
+Alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+Help
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game.
+
+round 2:
+Alexa open head games
+no response.<Short audio>.
+lost
+no response.<Short audio>.
+lost
+no response.<Short audio>.
+lost
+no response.<Short audio>.
+lost
+no response.<Short audio>.
+Pause
+no response.<Short audio>.
+Resume
+no response.<Short audio>.
+Restart
+no response.<Short audio>.
+Reboot
+no response.<Short audio>.
+Stop
+I hope you enjoyed playing lost pig, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.
+What's the time
+<--skill exit-->It's 357 PM.
+
+round 3:
+Alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+Yes
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game.
+
+round 4:
+Alexa open head games
+no response.<Short audio>.
+Exit
+
+What's the time
+<--skill exit-->The time is 359 PM.
+
+round 5:
+Alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+lost
+Do you want to play a game. Please respond with yes or no.
+Yes
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game.
+
+round 6:
+Alexa open head games
+no response.<Short audio>.
+Cancel
+I hope you enjoyed playing lost pig, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.
+What's the time
+<--skill exit-->The time is 401 PM.
+
+round 7:
+Alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off.
+No
+Navigate through our list of available games by saying first, next, previous or last. Say describe to learn more about the game. Once you find the game you want to play, say select to play the game. Go ahead, the choice is yours.
+describe
+This is a story about Grunk's quest to find a lost pig. Written by Admiral Jota. What do you want to do next.
+I do not know
+That command is not available at this time. Would you like to play adventure. This was the first adventure game the whole genre is named after it.  Say SELECT to play this game or NEXT to choose a different game. What do you want to do next.
+Yes
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game.
+
+round 8:
+Alexa open head games
+no response.<Short audio>.
+Stop
+I hope you enjoyed playing adventure, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.
+What's the time
+<--skill exit-->The time is 404 PM.
+

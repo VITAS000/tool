@@ -1,0 +1,18 @@
+round 1:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 2:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Stop
+
+What's the time
+<--skill exit-->The time is 226 PM.
+

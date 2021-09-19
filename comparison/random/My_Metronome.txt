@@ -1,0 +1,4 @@
+round 1:
+alexa open my metronome
+<--skill exit-->Ok, Here's Acoustic Metronome.Welcome to  za za zoo  Acoustic Metronome. Say the beats per minute you would like me to play. For details, say help.
+

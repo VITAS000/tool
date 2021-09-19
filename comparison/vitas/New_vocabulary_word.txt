@@ -1,0 +1,42 @@
+round 1:
+Alexa open word teacher
+Your new word is guaniferous.  The definition is bearing dung.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 2:
+Alexa open word teacher
+Your new word is xystus.  The definition is covered walkway for exercises.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 3:
+Alexa open word teacher
+Your new word is zucchetto.  The definition is round skullcap worn by Catholic clergy to indicate rank.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 4:
+Alexa open word teacher
+Your new word is washball.  The definition is ball of toilet soap.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 5:
+Alexa open word teacher
+Your new word is chiliomb.  The definition is sacrifice of one thousand animals.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 6:
+Alexa open word teacher
+Your new word is ramulus.  The definition is small branch.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 7:
+Alexa open word teacher
+Your new word is vicenary.  The definition is based on the number twenty.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+

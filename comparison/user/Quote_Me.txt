@@ -1,0 +1,70 @@
+alexa open quote me
+Ok, Here's Quote Me.Welcome, just say get quote.
+get quote
+on the topic of technology Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it. by Karen Armstrong Would you like another?
+yes
+on the topic of society Man is the animal that intends to shoot himself out into interplanetary space, after having given up on the problem of an efficient way to get himself five miles to work and back each day. by Bill Vaughan Would you like another?
+yes
+on the topic of car You talk about German technocracy and you get automobiles. by Gordon Sinclair Would you like another?
+yes
+on the topic of poetry Rap is poetry to music, like beatniks without beards and bongos. by David Lee Roth Would you like another?
+yes
+on the topic of power There are two kinds of power you have to fight. The first is the money, and that's just our system. The other is the people close around you, knowing when to accept their criticism, knowing when to say no. by Martin Scorsese Would you like another?
+yes
+on the topic of alone For a while I felt very alone sort of out there in the world of comics, especially here in the States. by Bill Sienkiewicz Would you like another?
+yes
+on the topic of future Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. by Earl Nightingale Would you like another?
+yes
+on the topic of time You must become an old man in good time if you wish to be an old man long. by Marcus Aurelius Would you like another?
+yes
+on the topic of imagination Let me just say that to imagine racism does not exist is imagination. And to imagine that it does not create its own set of problems is true imagination. So let's not imagine that racism is gone, extinguished, because it's not. We are seeing this in the top levels of the political arena, and we are seeing it very, very plainly. by Phylicia Rashad Would you like another?
+yes
+on the topic of history We are not makers of history. We are made by history. by Martin Luther King, Jr. Would you like another?
+yes
+on the topic of science There are so many stories to tell in the worlds of science fiction, the worlds of fantasy and horror that to confine yourself to even doing historical revisionist fiction, whatever you want to call it - mash-ups, gimmick lit, absurdist fiction - I don't know if I want to do that anymore. by Seth Grahame-Smith Would you like another?
+yes
+on the topic of patience As anyone who has ever been around a cat for any length of time well knows, cats have enormous patience with the limitations of the human kind. by Cleveland Amory Would you like another?
+yes
+on the topic of work Do not hire a man who does your work for money, but him who does it for love of it. by Henry David Thoreau Would you like another?
+yes
+on the topic of smile If you want to meet a woman, it's best just to smile and say hi. by Karen McDougal Would you like another?
+yes
+on the topic of courage If one suffers we all suffer. Togetherness is strength. Courage. by Jean-Bertrand Aristide Would you like another?
+yes
+on the topic of home I've spent lots of time in London, I studied in London, I like London. It's just not my home. by Johnny Vegas Would you like another?
+yes
+on the topic of car A man sits in his car at the traffic lights, waiting for them to go green. by Michael Frayn Would you like another?
+yes
+on the topic of sad I get mad. I get sad. I have all those emotions. But I just like to keep them to myself. I don't think my fans need to be bothered with if I'm mad or sad about something. I should just be concerned that they are keeping up with my music or I'm making them happy with my show. by Demi Lovato Would you like another?
+yes
+on the topic of future The future is no more uncertain than the present. by Walt Whitman Would you like another?
+yes
+on the topic of fear I hasten to laugh at everything, for fear of being obliged to weep. by Pierre Beaumarchais Would you like another?
+yes
+on the topic of religion It is the sincerest thing I have written, caught by the drama of a soul struggling in the contrary toils of love and religion - death brought them into harmony. by Laurence Housman Would you like another?
+yes
+on the topic of movies In all honesty I think that I've had a very normal life, even though I've been making movies since I was 9. by Josh Hutcherson Would you like another?
+yes
+on the topic of future Let him who would enjoy a good future waste none of his present. by Roger Babson Would you like another?
+yes
+on the topic of age Whoever, fleeing marriage and the sorrows that women cause, does not wish to wed comes to a deadly old age. by Hesiod Would you like another?
+yes
+on the topic of education Education technology is very important because we have a massive challenge in public schools. by Major Owens Would you like another?
+yes
+on the topic of love Love, like a chicken salad or restaurant hash, must be taken with blind faith or it loses its flavor. by Helen Rowland Would you like another?
+yes
+on the topic of imagination People can die of mere imagination. by Geoffrey Chaucer Would you like another?
+yes
+on the topic of strength A nation' s strength ultimately consists in what it can do on its own, and not in what it can borrow from others. by Indira Gandhi Would you like another?
+yes
+on the topic of money I don't come from money. by Christina Ricci Would you like another?
+yes
+on the topic of age So Harry Potter came in and it is nice that I have kids of the right age. I took them to London and they walked around the set and met Harry Potter and that is thrilling. by Gary Oldman Would you like another?
+yes
+on the topic of family I'm just glad I was able to return to some of that innocence and beauty I had as a child when I started my own family, and my children brought me back some of that spirit. by Angelina Jolie Would you like another?
+yes
+on the topic of success Success should always be just beyond your grasp. by William Shatner Would you like another?
+yes
+on the topic of intelligence Instinct is intelligence incapable of self-consciousness. by John Sterling Would you like another?
+no
+goodbye.

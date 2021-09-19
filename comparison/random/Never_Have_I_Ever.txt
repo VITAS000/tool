@@ -1,0 +1,62 @@
+round 1:
+alexa open never have i ever
+Never have i ever,   used a fake I D  do you want another question.
+Help
+To play, just say, Ask never have i ever, i'll give you a question. Everyone who is playing has to admit whether or not they have done it in the past.
+Exit
+
+What's the time
+<--skill exit-->It's 132 PM.
+
+round 2:
+alexa open never have i ever
+Never have i ever,  Lied in this game.  do you want another question.
+i 'll give you a question
+
+What's the time
+<--skill exit-->Never have i ever,  pretended to wash my hands by turning the water on, just in case someone is listening.  do you want another question.
+
+round 3:
+alexa open never have i ever
+Never have i ever,  played strip poker  do you want another question.
+Pause
+Never have i ever, Danced in an elevator.  do you want another question.
+never have i ever
+Never have i ever, cheated on a test.  do you want another question.
+Reboot
+Never have i ever, Done something I regret.  do you want another question.
+Pause
+Never have i ever, made a fake social media account.   do you want another question.
+i 'll give you a question
+Never have i ever,  gone skinny dipping  do you want another question.
+Resume
+Never have i ever,  been trapped in an elevator.  do you want another question.
+i 'll give you a question
+Never have i ever, woken up and couldn't move.  do you want another question.
+What's the time
+Never have i ever,  taken food out of a trash can and eaten it.  do you want another question.
+Resume
+Never have i ever,  Been hit in the face by a ball  do you want another question.
+never have i ever
+Never have i ever,  been trapped in an elevator.  do you want another question.
+Restart
+Never have i ever, pressed send, and then immediately regretted it.  do you want another question.
+Stop
+Thanks for playing. Please leave a review for, never have i ever, by R P Apps, in the alexa app store. it helps us improve and bring you better content. See you soon.
+What's the time
+<--skill exit-->The time is 138 PM.
+
+round 4:
+alexa open never have i ever
+Never have i ever,  eaten a bug   do you want another question.
+Pause
+Never have i ever,  Accidentally sent someone to the hospital.  do you want another question.
+i 'll give you a question
+Never have i ever,   stolen something from a restaurant.  do you want another question.
+i 'll give you a question
+Never have i ever,   Stuck gum under a desk.  do you want another question.
+Exit
+
+What's the time
+<--skill exit-->It's 141 PM.
+

@@ -1,0 +1,56 @@
+round 1:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+Help
+With this skill,  Cooking Temperatures, you can quickly find out of the right temperature to cook for perfect doneness. To find the temperature you need just say beef, chicken, pork or fish.
+Cancel
+Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+What's the time
+<--skill exit-->It's 451 PM.
+
+round 2:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+chicken
+For chicken or turkey whether you are cooking the whole bird or parts, you want to cook it until it is 165 degrees. This is the same temperature if the bird is stuffed. For ground chicken or turkey, cook it until it is 170 to 175 degrees.   Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+chicken
+<--skill exit-->Ok, for chicken , here's a few recipes.and lots more.
+
+round 3:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+pork
+When cooking pork, it is not recommended that you serve it rare. For Medium rare cook until it is at least 145 degrees then give it a 3 minute rest before serving. For Medium, cook until it is 150 degrees. For well done pork, cook it until it is 160 degrees. For Ground pork, 160 degrees is also the correct temperature.  Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+Stop
+
+What's the time
+<--skill exit-->It's 455 PM.
+
+round 4:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+What's the time
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+Stop
+Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+What's the time
+<--skill exit-->The time is 457 PM.
+
+round 5:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+beef
+For beef or lamb, if you want to cook it Rare, then cook to 125 degrees and give it a 3 minute rest.  For Medium rare cook to 130135 degrees. For Medium cook the meat to 135140 degrees.  For Medium well cook it to 140150 degrees. For beef that is Well done cook it to at least 155. If you are making ground beef, cook it to 160 degrees.  Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+beef
+<--skill exit-->Ok, for beef , here's a few recipes.and lots more.
+
+round 6:
+alexa open cooking temperatures
+Welcome to Cooking temperatures.  Cooking meat and poultry to that perfect state is important for health and taste. The best way to get reliable results all the time is to use an instantread thermometer.  What food do you need the temperature for. You can say beef, chicken, pork or fish.
+Resume
+For beef or lamb, if you want to cook it Rare, then cook to 125 degrees and give it a 3 minute rest.  For Medium rare cook to 130135 degrees. For Medium cook the meat to 135140 degrees.  For Medium well cook it to 140150 degrees. For beef that is Well done cook it to at least 155. If you are making ground beef, cook it to 160 degrees.  Thank you for checking your cooking time with this skill  To open the skill again Just say Alexa open Cooking temperatures.
+Stop
+
+What's the time
+<--skill exit-->The time is 501 PM.
+

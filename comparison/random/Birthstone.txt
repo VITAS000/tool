@@ -21,8 +21,8 @@ September
 round 3:
 alexa open birthstone finder
 Please tell me your birth month.
-November
-The birthstone for November is Topaz, Citrine.
+October
+The birthstone for October is Opal, Tourmaline.
 September
 <--skill exit-->.
 
@@ -67,28 +67,8 @@ September
 round 8:
 alexa open birthstone finder
 Please tell me your birth month.
-November
-The birthstone for November is Topaz, Citrine.
+October
+The birthstone for October is Opal, Tourmaline.
 May
 <--skill exit-->.
-
-round 9:
-alexa open birthstone finder
-Please tell me your birth month.
-What's the time
-I didn't get that. Please try again.
-tell me the stone
-I didn't get that. Please try again.
-Stop
-Thank you for trying Birthstone finder.
-What's the time
-<--skill exit-->It's 523 PM.
-
-round 10:
-alexa open birthstone finder
-Please tell me your birth month.
-Cancel
-Thank you for trying Birthstone finder.
-What's the time
-<--skill exit-->The time is 524 PM.
 

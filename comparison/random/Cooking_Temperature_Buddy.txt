@@ -45,8 +45,8 @@ what 's the cooking temperature for steak
 round 4:
 alexa open cooking temperature buddy
 Welcome to Cooking Temperature Buddy. You can ask a question like, what's the cooking temperature for steak or chicken. ... Now, what can I help you with.
-what 's the cooking temperature for steak
-The minimum internal temperature for steak is at 145 degree fahrenheit.  Three minutes rest time is needed.
+Pause
+I'm sorry, I currently do not know the temperature for pause. What else can I help with.
 you can
 <--skill exit-->Sorry, I'm not sure.
 

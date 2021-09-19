@@ -1,0 +1,52 @@
+alexa open magic pet
+Ok, Here's Magic Pet.Welcome to Magic Pet! You have just adopted your very own magic pet that can transform into a different animal each day! First things first, let's choose a name for your pet! Some possible names are: Frisky, Hunter, Boomer, or Biscuit. Either choose one of those names, or say, 'more', to hear more choices.
+frisky
+I heard that you want your pet's name to be Frisky. Is that correct?
+no
+Sorry about that. Some possible names are: Puddles, Wiggles, Lucky, and Hocus Pocus. Either choose one of those names, or say, 'more', to hear more choices.
+more
+Some other possible names are: Meatball, Shadow, Rocket, or Sparky. Either choose one of those names, or say, 'more', to hear more choices.
+more
+Some other possible names are: Rascal, Spot, Cuddles, or Hero. Either choose one of those names, or say, 'more', to hear more choices.
+rascal
+I heard that you want your pet's name to be Rascal. Is that correct?
+yes
+OK Great! Rascal is a beautiful name! Your magic pet is transforming into the first animal!<Short audio>.Today, Rascal is a duck!<Short audio>.As you interact with your pet, I will tell you three interesting facts about ducks. What do you want to do with your pet today? You can go for a walk, have a snack, or play a game.
+go for a walk
+Sounds great! Exercise is important. While you are walking with Rascal, think about this animal fact. Ducks live on every continent in the world, except for Antarctica. OK, let's walk!<Short audio>.Rascal enjoyed the walk. What would you like to do next?
+hava a snack
+Sounds great! I'll get the food! While Rascal is eating, think about this animal fact. Ducks are omnivores that eat both plants and animals. They eat acquatic plants, small fish, insects, worms, and grubs. OK, let's eat!<Short audio>.<Short audio>.Rascal enjoyed the food. What would you like to do next?
+play a game
+Super! Games are always so much fun! Before we play a game with Rascal, think about this animal fact. Ducks have webbed feet that help them paddle and swim in water. OK, let's play! Rascal knows how to play a few different games. Do you want to play 'Rascal Says', 'Guess My Number', or 'Rock Paper Scissors'?
+rascal says
+Sure. Rascal Says is a lot of fun. In this game, I will give you a command, but you should only follow the command if it begins with the words, 'Rascal Says.' The game will be played in five rounds. If you can get through all five rounds without making a mistake, you win the game. Before we start, please stand up and make sure you have plenty of space to move. OK, ready? Let's begin. Put your hands on your head.<Short audio>.Did you put your hands on your head?
+no
+OK good job! Now for round 2. Clap your hands.<Short audio>.Did you clap your hands?
+no
+OK good job! Now for round 3. Hop on one foot.<Short audio>.Did you hop on one foot?
+no
+OK good job! Now for round 4. Rascal Says, hop on one foot.<Short audio>.Did you hop on one foot?
+yes
+OK good job! Now for round 5. Rascal Says, march in place.<Short audio>.Did you march in place?
+yes
+Yipeee! You made it through all five rounds without making a mistake, so you win the game!<Short audio>.What would you like to do with your pet next?
+play a game
+OK, let's play another game! Do you want to play 'Rascal Says', 'Guess My Number', or 'Rock Paper Scissors'?
+guess my number
+Awesome. Rascal will definitely enjoy playing Guess My Number. To play this game, Rascal will think of a number from one to ten, and you will have three tries to guess the number. Let's begin. Rascal is thinking of a number from one to ten. What is your guess?
+five
+No, that wasn't it. Your guess was too high! You have two guesses left. What is your next guess?
+three
+Woo hoo! You guessed correctly on the second try! Rascal was thinking of the number 3!<Short audio>.What would you like to do with your pet next?
+play a game
+OK, let's play another game! Do you want to play 'Rascal Says', 'Guess My Number', or 'Rock Paper Scissors'?
+rock paper scissors
+Alrighty then! Rascal loves to play Rock Paper Scissors. The game will be played in three rounds. For each round, you will choose either rock, paper, or scissors, and at the same time Rascal will also choose either rock, paper, or scissors. I will tell you the results at each round. For the first round, do you choose rock, paper, or scissors?
+rock
+You chose rock and Rascal chose rock, so this round is a tie! For the second round, do you choose rock, paper, or scissors?
+rock
+You chose rock and Rascal chose paper. Paper covers rock, so you lose this round! For the third and final round, do you choose rock, paper, or scissors?
+rock
+You chose rock and Rascal chose scissors. Rock breaks scissors, so you win this round! During the game, you won 1 round, lost 1 round, and tied 1 round, so the game is a tie!<Short audio>.What would you like to do next?
+stop
+I hope you enjoyed interacting with your magic pet, Rascal! Be sure to come back tomorrow to have your pet transform into a different animal! See you soon!

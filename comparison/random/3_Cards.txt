@@ -1,0 +1,4 @@
+round 1:
+alexa open three cards
+<--skill exit-->Ok, Here's The 3 Challenge.Uploading new candidate profile... Upload complete. Welcome to the simulator. Out of the 6 challenges, our profile analysis recommends that you try the following simulation Detail Recall. Easy. Ready to start.
+

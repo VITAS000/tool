@@ -1,0 +1,40 @@
+round 1:
+Alexa open three cards
+Welcome to Three Cards game skill. This is how the game works. Every player gets three cards at the beginning. Then, you may ask next card or knock the game. Let's get started with roll call.  Press the first button and wait for confirmation before pressing the second button.<Short audio>.
+Help
+You will need two Echo buttons to to use this skill.  Each of the two buttons you plan to use  must be pressed for the skill to register them.  Would you like to continue and register two Echo buttons.
+Yes
+Ok. Press the first button, wait for confirmation, then press the second button.<Short audio>.
+wait
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+again
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+help if you 're not sure what
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+next card
+An error was encountered while handling your request. Try again later.
+knock the game
+Sorry, I'm having trouble accessing your 3 Cards skill right now.
+knock the game
+<--skill exit-->In physics, a collision is any event in which two or more bodies exert forces on each other in a relatively short time.
+
+round 2:
+Alexa open three cards
+Welcome to Three Cards game skill. This is how the game works. Every player gets three cards at the beginning. Then, you may ask next card or knock the game. Let's get started with roll call.  Press the first button and wait for confirmation before pressing the second button.<Short audio>.
+next card
+An error was encountered while handling your request. Try again later.
+knock
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+wait
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+register
+Sorry, I didn't get that. Please say again, or say help if you're not sure what to do.
+next card
+An error was encountered while handling your request. Try again later.
+knock the game
+Sorry, I'm having trouble accessing your 3 Cards skill right now.
+knock
+
+What's the time
+<--skill exit-->It's 1052 PM.
+

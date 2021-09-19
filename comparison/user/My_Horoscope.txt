@@ -1,0 +1,12 @@
+alexa open my horoscope
+<Short audio><User Touch Event>.Welcome back, dear Gemini friend. Here’s your horoscope for the day:<Short audio>.Gemini. May 13. Even if we face a daunting or challenging task, if we tackle it confidently, it's often not long before we rise above any fear, especially when we see reassuring results. Once we see something as it really is, we wonder why we felt so concerned. The Moons' influence in your sign could create or enhance confusion regarding how to resolve a matter. But it's unlikely to be as complex as it appears.<Short audio>.There are so many beautiful things in store for you. Our Gold membership includes daily predictions for your Weekly, Monthly, Career and Money. Would you like to learn more?
+stop
+Goodbye dear friend. Let’s chat again tomorrow to see what the day holds.<Short audio>
+alexa open my horoscope
+<Short audio><User Touch Event>.Welcome back, dear Gemini friend. Here’s your horoscope for the day:<Short audio>.Gemini. May 13. Even if we face a daunting or challenging task, if we tackle it confidently, it's often not long before we rise above any fear, especially when we see reassuring results. Once we see something as it really is, we wonder why we felt so concerned. The Moons' influence in your sign could create or enhance confusion regarding how to resolve a matter. But it's unlikely to be as complex as it appears.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do?
+another horoscope
+Sure. Which zodiac sign your need the horoscope for?
+aries
+<Short audio>.Aries. May 13. Are horses fussy about what they drink? An old saying relates to leading one to water, trying to make the animal guzzle. But if it has a particular preference or isn't thirsty, then problems will arise. Your understanding of what someone needs and their understanding of this might be at odds. You appear to have their best interests at heart. But right now, what they might need most from you is space.<Short audio>.You can ask for the horoscope for another sign or your love life prediction. What would you like to do?
+stop
+Thank you for checking in, there’s so much good in store for you – enjoy!<Short audio>

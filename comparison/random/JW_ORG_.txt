@@ -1,0 +1,82 @@
+round 1:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+Help
+Welcome to jw.org. I can do things like read the Bible, today's daily text, or this week's Watchtower study. I can also play original songs, kingdom songs, dramas, and morning worship. You can ask me for help at any time, and learn more in the help section of the jw.org website. What would you like me to play for you.
+learn more in the help section of the jw.org website
+Sorry, I didn't understand that.
+Pause
+
+What's the time
+Sorry, I didn't understand that.
+Resume
+<--skill exit-->Welcome back. What would you like me to play for you.
+
+round 2:
+alexa open j. w. dot org
+Sorry, I didn't understand that.
+week
+Playing next week's Bible reading.<Play audio>.
+dramas
+<--skill exit-->.
+
+round 3:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+morning worship
+Playing Morning Worship.<Play audio>.
+dramas
+<--skill exit-->.
+
+round 4:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+I do not know
+Sorry, I didn't understand that.
+help at any time
+Sorry, I didn't understand that.
+Restart
+Sorry, I didn't understand that.
+Cancel
+
+What's the time
+<--skill exit-->It's 1141 AM.
+
+round 5:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+Reboot
+Sorry, I didn't understand that.
+songs
+Playing Original Songs.<Play audio>.
+Exit
+
+What's the time
+<--skill exit-->It's 1143 AM.
+
+round 6:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+original songs
+Playing Original Songs.<Play audio>.
+Cancel
+
+What's the time
+<--skill exit-->The time is 1145 AM.
+
+round 7:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+Resume
+<Play audio>.
+help at any time
+<--skill exit-->Hmm, I don't know that.
+
+round 8:
+alexa open j. w. dot org
+Welcome back. What would you like me to play for you.
+Cancel
+
+What's the time
+<--skill exit-->The time is 1147 AM.
+

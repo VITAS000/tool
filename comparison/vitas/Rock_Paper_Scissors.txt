@@ -1,0 +1,26 @@
+round 1:
+Alexa open rock paper scissors
+Welcome to adult rock paper scissors, a game for grownups. Say play to begin a new game, or say help to get help.
+Help
+I am not sure if you listened to the description, but this is a game for grownups. Not children.
+is
+Do you understand the words that are coming out of my mouth. We didnt start yet. Say play.
+play
+Are you ready for this pounding. Rock paper or scissors.
+Yes
+I choose scissor. It is a tie. Stop copying me, you uncreative turd waffle. Rock, paper, scissors, shoot.
+scissors
+I choose scissor. It is a tie. Imitation is the greatest form of flattery so thank you. Rock, paper, scissors, shoot.
+play
+Allow me to tear you a new one. Rock paper or scissors.
+scissors
+I choose paper. You win. Unbelievable, you watercress salad fk. Rock, paper, scissors, shoot.
+help
+I have neither the time, nor the crayons to explain this to you.
+crayons
+I choose paper. You win. Fk you. Rock, paper, scissors, shoot.
+is
+
+What's the time
+<--skill exit-->Prepare your ae. Rock paper or scissors.
+

@@ -1,0 +1,4 @@
+round 1:
+Alexa open crisis response
+<--skill exit-->Ok, Here's Crisis Facts.Here's your fact The United States housing bubble was a real estate bubble affecting over half of the U.S. states. Housing prices peaked in early 2006, started to decline in 2006 and 2007, and reached new lows in 2012. On December 30, 2008, the CaseShiller home price index reported its largest price drop in its history.
+

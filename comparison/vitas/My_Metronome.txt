@@ -1,0 +1,76 @@
+round 1:
+Alexa open my metronome
+Welcome to Metronome Pro. I play metronome beats for a set period of time or until you say stop. Just say how many beats per minute, or BPM, you'd like. You can say, play a beat at 80bpm for 30 seconds, or, play a beat at Andante. You can play a custom sequence of beats to practice specific passages. To do that, say play a custom sequence.
+Help
+You can say, play a beat at 80bpm for 30 seconds, or, play a beat at Andante or, play a custom sequence.
+play a beat at 80bpm
+.<Play audio>.
+stop
+
+What's the time
+<--skill exit-->It's 815 PM.
+
+round 2:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+want
+You can say, play a beat at 80bpm for 30 seconds, or, play a beat at Andante or, play a custom sequence.
+play a beat at Andante
+.<Play audio>.
+how many beats per minute
+<--skill exit-->1 Beats per minute.
+
+round 3:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+I do not know
+You can say, play a beat at 80bpm for 30 seconds, or, play a beat at Andante or, play a custom sequence.
+play a custom sequence
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.
+
+round 4:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+BPM
+I didn't understand that, please try again.
+you 'd like
+I didn't understand that, please try again.
+play a beat at 80bpm
+.<Play audio>.
+play a beat at Andante
+<--skill exit-->I can't find the song a beat at andante.
+
+round 5:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+play a beat at Andante
+.<Play audio>.
+play
+<--skill exit-->What do you want to hear.
+
+round 6:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+play
+Resuming beat at 85 BPM.<Play audio>.
+play a custom sequence
+<--skill exit-->I can't find the song a custom sequence.
+
+round 7:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+play a custom sequence
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.
+
+round 8:
+Alexa open my metronome
+Welcome back. What BPM beat should I play at, or do you want to play a custom sequence.
+BPM
+I didn't understand that, please try again.
+play
+Resuming beat at 85 BPM.<Play audio>.
+stop
+
+What's the time
+<--skill exit-->It's 822 PM.
+

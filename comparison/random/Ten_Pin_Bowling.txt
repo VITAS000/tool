@@ -11,14 +11,14 @@ Resume
 Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
 knock
 Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
-Resume
-Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
-Resume
-Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
 Bowl
 James starting off the first frame. Here goes the roll.<Short audio>.Sweeping hook from the right.<Short audio>.<Short audio>.That knocks down 6 pins. Still standing are the 1, 2, 4 and 7,.<Short audio>.Say bowl to roll the next ball.
 Bowl
-James trying to pick up the spare in frame 1.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 6 after 1 frames.<Short audio>.Say bowl to roll the next frame.
+James trying to pick up the spare in frame 1.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 6 after 2 frames.<Short audio>.Say bowl to roll the next frame.
+Resume
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Bowl
+James bowling frame 2 with a score of 6. Here goes the roll.<Short audio>.Right down the middle.<Short audio>.<Short audio>.That knocks down 9 pins. Still standing is the 5 pin.<Short audio>.Say bowl to roll the next ball.
 Cancel
 Goodbye.
 What's the time
@@ -32,7 +32,7 @@ Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
 What can I buy
 If you would like some competition, please purchase the premium version of this skill. It allows you to join a bowling league where you can compete with a series of players that you bowl against, and then see who can score more. Just say, Purchase Bowling League, to add it to your account.
 Bowl
-James bowling frame 2 with a score of 6. Here goes the roll.<Short audio>.Right down the middle.<Short audio>.<Short audio>.That knocks down 9 pins. Still standing is the 5 pin.<Short audio>.Say bowl to roll the next ball.
+James trying to pick up the spare in frame 3.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 15 after 3 frames.<Short audio>.Say bowl to roll the next frame.
 player one is James
 Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
 Stop
@@ -44,11 +44,15 @@ round 3:
 alexa open ten pin bowling
 Welcome back. I noticed a game already inprogress. Do you want to resume it. Just say Yes, or to begin a new game from the beginning, Say No.
 Yes
-Resuming game with James currently in frame 2.<Short audio>.Please say bowl to roll the next ball.
+Resuming game with James currently in frame 3.<Short audio>.Please say bowl to roll the next ball.
 player one is James
 Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
+Begin Game
+Okay, who is ready for a little pin action.<Short audio>.Say Bowl to roll your first ball.
 Resume
 Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Bowl
+James bowling frame 4 with a score of 15. Here goes the roll.<Short audio>.Slight shift to the right.<Short audio>.<Short audio>.That knocks down 8 pins. Still standing are the 9 and 10 pins.<Short audio>.Say bowl to roll the next ball.
 What can I buy
 If you would like some competition, please purchase the premium version of this skill. It allows you to join a bowling league where you can compete with a series of players that you bowl against, and then see who can score more. Just say, Purchase Bowling League, to add it to your account.
 What can I buy

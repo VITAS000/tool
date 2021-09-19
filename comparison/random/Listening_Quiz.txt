@@ -1,0 +1,20 @@
+round 1:
+alexa open listening quiz
+Hmm, I have a few skills that can help.Do you mean Listen Japan.
+Resume
+Sorry, there is nothing for me to resume.
+Reboot
+I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+What's the time
+It's 406 PM.
+Pause
+Hmm, I don't know that.
+Resume
+Sorry, there is nothing for me to resume.
+Resume
+Sorry, there is nothing for me to resume.
+Cancel
+
+What's the time
+<--skill exit-->It's 408 PM.
+

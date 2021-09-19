@@ -1,0 +1,42 @@
+alexa open head games
+Welcome to Head Games. Are you ready to play a game?
+yes
+Navigate through our list of available games by saying first, next, previous or last. Say describe to learn more about the game. Once you find the game you want to play, say select to play the game. Go ahead, the choice is yours.
+describe
+This is a story about Grunk's quest to find a lost pig. Written by Admiral Jota. What do you want to do next?
+select
+So you want to play lost pig? Please say yes or no.
+yes
+Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Purchase cancelled. Are you ready to play a game?
+yes
+<Audio only response>.<Audio only response>.Welcome to lost pig. Outside. It night time, and Grunk see moon up in sky. There forest to east and north. It even darker there, and Grunk hear lots of strange animal. West of Grunk, there big field with little stone wall. Farm back to south. After each response you will hear this tone.<Short audio>.after which you have eight seconds or so to say a command or action or ask for help. Like right now.<Short audio>
+a command
+Commands include but are not limited to, CHOOSE GAME, RESTART, RESTORE, INVENTORY, EXAMINE, LOOK, LISTEN, WAIT, OPEN, CLOSE, AGAIN, JUMP and HINTS. What do you want to do next?
+restore
+Sorry, I'm having trouble accessing your Head Games skill right now
+alexa open head games
+Welcome to Head Games. You were playing, lost pig. Do you want to pick up where you left off?
+yes
+<Audio only response>.<Audio only response>.Welcome to lost pig. Outside. It night time, and Grunk see moon up in sky. There forest to east and north. It even darker there, and Grunk hear lots of strange animal. West of Grunk, there big field with little stone wall. Farm back to south. After each response you will hear this tone.<Short audio>.after which you have eight seconds or so to say a command or action or ask for help. Like right now.<Short audio>
+help
+Please specify. Do you need help with commands, actions, navigation, objects or complex actions?
+actions
+Actions include an action verb followed by an object, for example, take torch. Complex actions may have one or two objects and require the addition of a preposition, example one, take coat off. Example two, put torch in holder. Actions include, but are not limited to, ASK, TELL, TAKE, DROP, PULL, FILL, CLIMB, etc. Prepositions may include, IN, ON, OFF, ABOUT, TO, and WITH. What do you want to do next?
+help
+Please specify. Do you need help with commands, actions, navigation, objects or complex actions?
+navigation
+Directions you may be able to go include north, south, east, west, northeast, southeast, southwest, northwest, up, down, in, or out. What do you want to do next?
+help
+Please specify. Do you need help with commands, actions, navigation, objects or complex actions?
+objects
+Objects are found throughout the game. They are used in combination with actions. For example, examine rock or take key. What do you want to do next?
+go south
+Grunk get in big trouble if Grunk go back with no pig.<Short audio>
+go west
+Grunk not allowed in field. That probably OK, because Grunk not think pig tall enough to climb over wall.<Short audio>
+go east
+Forest look dark. Pig probably some place in there, but Grunk not know which way to go. Not want end up lost in forest with no pig.<Short audio>
+no what can i do
+There are no products available to purchase at this time. What do you want to do next?
+stop
+I hope you enjoyed playing lost pig, hosted by Head Games. I bookmarked your game so you can start right back where you left off. Goodbye.

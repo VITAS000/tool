@@ -1,0 +1,50 @@
+round 1:
+alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+Help
+You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+help me make a cappuccino
+Alright. Let's make an awesome cappuccino together.  For a small cappuccino, you need one shot of espresso and enough steamed milk.  Pour a shot of espresso in a mug, and free pour the steamed milk over it and let them combine. Don't hold the foam back, and let it pour in the mug.  That was it. Enjoy your small cappuccino.  For a medium or large cappuccino, use two shots of espresso.
+help me make a cappuccino
+<--skill exit-->Ok, for cappuccino , here's a few recipes.and lots more.
+
+round 2:
+alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+help me make a cappuccino
+Alright. Let's make an awesome cappuccino together.  For a small cappuccino, you need one shot of espresso and enough steamed milk.  Pour a shot of espresso in a mug, and free pour the steamed milk over it and let them combine. Don't hold the foam back, and let it pour in the mug.  That was it. Enjoy your small cappuccino.  For a medium or large cappuccino, use two shots of espresso.
+latte
+<--skill exit-->Ok, for latte , here's a few recipes.and lots more.
+
+round 3:
+alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+latte
+Let me know what you'd like to make today.
+mocha
+
+What's the time
+<--skill exit-->
+
+round 4:
+alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+What's the time
+Let me know what you'd like to make today.
+Restart
+
+What's the time
+<--skill exit-->
+
+round 5:
+alexa open coffee maker
+Tell me what you'd like to make. You can say help me make a cappuccino, a latte, or a mocha. ... or you can say tell me about different sizes.
+latte
+Let me know what you'd like to make today.
+a mocha
+Alright. Let's make a delicious mocha together. For a small mocha, you need one shot of espresso, three pumps of chocolate mocha sauce, and enough steamed milk. Start by adding three shots of mocha sauce in a mug. Then add one shot of espresso while swirling it. Finally, pour the steamed milk in, and top it off with whipped cream. That was it. Enjoy your small caffe mocha. For medium or large mochas, add four or five pumps of chocolate sauce respectively, and two shots of espresso.
+Stop
+
+What's the time
+<--skill exit-->The time is 513 PM.
+

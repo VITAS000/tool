@@ -1,0 +1,6 @@
+round 1:
+Alexa open word teacher
+Your new word is arrendator.  The definition is one who rents or farms at a yearly rent.
+farms
+<--skill exit-->This might answer your question According to Wikipedia A farm is an area of land that is devoted primarily to agricultural processes with the primary objective of producing food and other crops it is the basic facility in food production. The name is used for specialized units such as arable farms, vegetable farms, fruit farms, dairy, pig and poultry farms, and land used for the production of natural fiber, biofuel and other commodities.
+

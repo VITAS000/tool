@@ -1,0 +1,64 @@
+round 1:
+Alexa open birthstone finder
+Please tell me your birth month.
+February
+The birthstone for February is Amethyst.
+March
+<--skill exit-->.
+
+round 2:
+Alexa open birthstone finder
+Please tell me your birth month.
+March
+The birthstone for march is Aquamarine, Bloodstone.
+April
+<--skill exit-->.
+
+round 3:
+Alexa open birthstone finder
+Please tell me your birth month.
+April
+The birthstone for April is Diamond.
+May
+<--skill exit-->.
+
+round 4:
+Alexa open birthstone finder
+Please tell me your birth month.
+May
+The birthstone for may is Emerald.
+June
+<--skill exit-->.
+
+round 5:
+Alexa open birthstone finder
+Please tell me your birth month.
+June
+The birthstone for June is Pearl, Moonstone, Alexandrite.
+July
+<--skill exit-->.
+
+round 6:
+Alexa open birthstone finder
+Please tell me your birth month.
+July
+The birthstone for July is Ruby.
+August
+<--skill exit-->.
+
+round 7:
+Alexa open birthstone finder
+Please tell me your birth month.
+August
+The birthstone for august is Peridot, Spinel.
+September
+<--skill exit-->.
+
+round 8:
+Alexa open birthstone finder
+Please tell me your birth month.
+September
+The birthstone for September is Sapphire.
+October
+<--skill exit-->.
+

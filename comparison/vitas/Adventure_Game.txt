@@ -1,0 +1,4 @@
+round 1:
+Alexa open adventure game
+<--skill exit-->Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Programor say Help.
+

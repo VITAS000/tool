@@ -1,0 +1,82 @@
+round 1:
+alexa open room generator
+Ok, Here's RPG Dungeon Room Generator.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+Help
+Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+Resume
+I'm sorry, I didn't quite catch that. Ask me to generate a new room or door by saying 'Generate a new room' or 'Generate a new door'. You can also ask me to repeat anything that has already been generated.
+Generate a new door
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+Restart
+<--skill exit-->starting over.
+
+round 2:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+Pause
+I'm sorry, I didn't quite catch that. Ask me to generate a new room or door by saying 'Generate a new room' or 'Generate a new door'. You can also ask me to repeat anything that has already been generated.
+repeat
+I can't repeat until I've generated something. Ask me to generate a room or a door.
+Cancel
+Thank you for trying the Dungeon Room Generator. Have a nice day.
+What's the time
+<--skill exit-->The time is 230 PM.
+
+round 3:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+build a new room
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+a new door
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+build a new room
+<--skill exit-->I'll create a new group called room, ok.
+
+round 4:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+what was last generated
+I can't repeat until I've generated something. Ask me to generate a room or a door.
+build a new room
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+repeat
+<--skill exit-->Sorry, there is nothing to repeat.
+
+round 5:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+Stop
+Thank you for trying the Dungeon Room Generator. Have a nice day.
+What's the time
+<--skill exit-->It's 233 PM.
+
+round 6:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+build a new room
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 7:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+build a new room
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+repeat
+<--skill exit-->Sorry, there is nothing to repeat.
+
+round 8:
+alexa open room generator
+Handing off to RPG Dungeon Room Generator by ProfDeCube.Welcome to the Dungeon Room Generator. You can ask me to build a new room, a new door or repeat what was last generated.
+Restart
+I'm sorry, I didn't quite catch that. Ask me to generate a new room or door by saying 'Generate a new room' or 'Generate a new door'. You can also ask me to repeat anything that has already been generated.
+Generate a new door
+Sorry, I'm having trouble accessing your RPG Dungeon Room Generator skill right now.
+a new door
+Okay, before I can continue, please set a location for your amazon account on amazon.com, under the Preferences tab of Your Content and Devices.
+Stop
+
+What's the time
+<--skill exit-->It's 238 PM.
+

@@ -1,0 +1,4 @@
+round 1:
+alexa open explain me like i'm five
+<--skill exit-->Hmm, I found a few skills that might help.Did you mean Explain Like I'm Five.
+

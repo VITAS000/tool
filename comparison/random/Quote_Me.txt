@@ -1,0 +1,74 @@
+round 1:
+alexa open quote me
+Welcome, just say get quote.
+Help
+We have over 75,000 quotes covering over 100 topicsYou can say any of the followingget list of topics.get topics.get random quote.get quote.or you can ask for a quote on a particular topic.  For exampleget quote about love.
+any of the followingget list of topics.get topics.get random quote.get quote.or you can
+The list of topics has been sent to your Alexa app.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+
+round 2:
+alexa open quote me
+Welcome, just say get quote.
+get quote
+on the topic of power Never underestimate the power of jealousy and the power of envy to destroy. Never underestimate that. by Oliver Stone Would you like another.
+What's the time
+We have over 75,000 quotes covering over 100 topicsYou can say any of the followingget list of topics.get topics.get random quote.get quote.or you can ask for a quote on a particular topic.  For exampleget quote about love.
+Reboot
+Sorry, I didn't understand. Could you repeat the command.
+Pause
+Sorry, I didn't understand. Could you repeat the command.
+a quote on a particular topic
+on the topic of failure I grew up playing sports. There is a clear line between success and failure. by Tiki Barber Would you like another.
+any of the followingget list of topics.get topics.get random quote.get quote.or you can
+The list of topics has been sent to your Alexa app.
+What's the time
+<--skill exit-->It's 623 PM.
+
+round 3:
+alexa open quote me
+Welcome, just say get quote.
+Resume
+Sorry, I didn't understand. Could you repeat the command.
+any of the followingget list of topics.get topics.get random quote.get quote.or you can
+The list of topics has been sent to your Alexa app.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 4:
+alexa open quote me
+Welcome, just say get quote.
+get quote
+on the topic of mom The rule with my mom was that the only way that I could be an actress when I was young was that I continued to go to public school and get straight A's in all my classes. by Sara Paxton Would you like another.
+Reboot
+Sorry, I didn't understand. Could you repeat the command.
+Exit
+
+What's the time
+<--skill exit-->It's 627 PM.
+
+round 5:
+alexa open quote me
+Welcome, just say get quote.
+get quote
+on the topic of saintpatricksday Every St. Patrick's Day every Irishman goes out to find another Irishman to make a speech to. by Shane Leslie Would you like another.
+get quote
+on the topic of pet Vinyl is the real deal. I've always felt like, until you buy the vinyl record, you don't really own the album. And it's not just me or a little pet thing or some kind of retro romantic thing from the past. It is still alive. by Jack White Would you like another.
+Resume
+Sorry, I didn't understand. Could you repeat the command.
+any of the followingget list of topics.get topics.get random quote.get quote.or you can
+The list of topics has been sent to your Alexa app.
+any of the followingget list of topics.get topics.get random quote.get quote.or you can
+<--skill exit-->.
+
+round 6:
+alexa open quote me
+Welcome, just say get quote.
+get quote
+on the topic of truth How dreadful knowledge of the truth can be when there's no help in the truth. by Sophocles Would you like another.
+Stop
+goodbye.
+What's the time
+<--skill exit-->The time is 630 PM.
+

@@ -1,0 +1,4 @@
+round 1:
+Alexa open naughty or nice quiz
+<--skill exit-->Ok, Here's Naughty or Nice.Ho, Ho, Ho. You've been Naughty. Your punishment is to Go Outside and Scream Merry Christmas.
+

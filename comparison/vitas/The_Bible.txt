@@ -1,0 +1,74 @@
+round 1:
+Alexa open the bible
+Welcome to YouVersion Bible. What would you like me to read.
+Help
+YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to the daily devotional,  your YouVersion reading plans and your prayer list. Other features include being able to change versions, and ask for the verse of the day. What can I read for you.
+the verse of the day
+Today's verse is Galatians 513.<Play audio>.
+verse
+
+What's the time
+<--skill exit-->It's 1119 AM.
+
+round 2:
+Alexa open the bible
+Welcome to YouVersion Bible. What would you like me to read.
+verse
+Today's verse is Galatians 513.<Play audio>.
+chapter
+<--skill exit-->.
+
+round 3:
+Alexa open the bible
+Welcome to YouVersion Bible. What can I read for you.
+chapter
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What would you like to hear.
+verse
+Today's verse is Galatians 513.<Play audio>.
+lets
+
+What's the time
+<--skill exit-->It's 1122 AM.
+
+round 4:
+Alexa open the bible
+Welcome to YouVersion Bible. What would you like to hear.
+lets
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What can I read for you.
+chapter
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What can I read for you.
+list
+Accessing your YouVersion Prayers requires access to your YouVersion account. I've sent some information to your Alexa app to help you.
+the verse of the day
+<--skill exit-->Sorry, I don't have an answer for that.
+
+round 5:
+Alexa open the bible
+Welcome to YouVersion Bible. What would you like me to read.
+the verse of the day
+Today's verse is Galatians 513.<Play audio>.
+list
+<--skill exit-->.
+
+round 6:
+Alexa open the bible
+Welcome to YouVersion Bible. What would you like me to read.
+list
+Accessing your YouVersion Prayers requires access to your YouVersion account. I've sent some information to your Alexa app to help you.
+chapter
+<--skill exit-->.
+
+round 7:
+Alexa open the bible
+Welcome to YouVersion Bible. What can I read for you.
+chapter
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What would you like me to read.
+lets
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What would you like to hear.
+chapter
+Hmm I'm not sure what you want me to do. I can read a book, chapter, or verse from the Bible. Read the daily devotional.  Verse of the Day. Your reading plans. Or Your prayer list. What would you like to hear.
+Stop
+
+What's the time
+<--skill exit-->The time is 1127 AM.
+

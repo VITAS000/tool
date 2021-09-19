@@ -1,0 +1,4 @@
+round 1:
+alexa open fox chapel school lunch
+<--skill exit-->Do you mean Newark Central School's Lunch Menu.
+

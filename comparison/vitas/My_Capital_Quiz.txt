@@ -1,0 +1,60 @@
+round 1:
+Alexa open my capital quiz
+.<Short audio>.Welcome to USA Capital QuizOne to four players can play. How many are playing.
+Help
+You can say the following commands while playing America's Capital Quiz To start the game from the beginning, say 'start the game over'. To stop playing, say 'stop', or 'quit'. To revise the answer to a question or to revise your name, say 'undo'. To hear a question again, say 'repeat', or 'repeat the question'. To hear the current scores, say 'what is my score', or 'what are the scores'. To skip or pass on a question, say, 'skip', or say, 'next'.  One to four players can play. How many are playing.
+the following commands while playing America 's Capital Quiz
+Say a number from one through four.
+a number from one through four
+Say a number from one through four.
+the following commands while playing America 's Capital Quiz
+Say a number from one through four.
+start the game over
+Are you sure you want to start over.
+Yes
+.<Short audio>.Welcome to USA Capital QuizOne to four players can play. How many are playing.
+1
+Player 1, give me a nickname to call you, like Rocking Robin or Crazy Cat.
+Cat
+Hi Cat. Welcome aboard, Good luck.<Short audio>.<Short audio>.
+stop
+Thank you for playing.
+What's the time
+<--skill exit-->The time is 312 PM.
+
+round 2:
+Alexa open my capital quiz
+Resuming where you left off. To start over, say 'Start the game over', at any time. What is the capital of Alaska.
+Start the game over
+Are you sure you want to start over.
+No
+What is the capital of Alaska.
+quit
+
+What's the time
+<--skill exit-->The time is 314 PM.
+
+round 3:
+Alexa open my capital quiz
+Resuming where you left off. To start over, say 'Start the game over', at any time. What is the capital of Alaska.
+at any time
+.<Short audio>.You said at anytime. Not quite.  The correct answer was Juneau.      Only 2 wrong 2 answers left and you're out.    Next Question What is the capital of Texas.
+re
+.<Short audio>.You said re. Very close.  The correct answer was Austin.      Only 1 wrong 1 answer left and you're out.    Next Question What is the capital of North Dakota.
+re
+.<Short audio>.You said re. Not quite.  The correct answer was Bismarck.<Short audio>.You finished with a score of 0 points. Don't give up, I know you can do it.<Short audio>.Want to play again.
+re
+Thank you for playing.
+undo
+
+What's the time
+<--skill exit-->It's 318 PM.
+
+round 4:
+Alexa open my capital quiz
+.<Short audio>.Welcome to USA Capital QuizOne to four players can play. How many are playing.
+Stop
+Thank you for playing.
+What's the time
+<--skill exit-->The time is 319 PM.
+

@@ -1,0 +1,46 @@
+round 1:
+alexa open santa's helper
+Voice Arcade. Last time you played you managed to produce 750000000 toys. Think you can do better. Vixen the reindeer keeps posting pictures of the workshop on Instagram. Do you want her to stop doing this.
+Help
+You can answer by saying either yes or no. Here's the choice again. Vixen the reindeer keeps posting pictures of the workshop on Instagram. Do you want her to stop doing this.
+either yes
+Say that again.
+either yes
+Vixen the reindeer keeps posting pictures of the workshop on Instagram. Do you want her to stop doing this.
+Yes
+Vixen recorded the conversation and uploaded it to her story. All of her friends are commenting saying what an awful boss you are. Morale has fallen to 40 percent. You have 1240000000 toys left to produce and you're doing it with time to spare. One of the plant gifts has been affected by some strange magic. It has grown 100 times bigger and is sprouting branches all throughout the workshop. Should the elves try and burn it down.
+Yes
+The elves built a makeshift flamethrower to try and stem the growth of the rogue plant, but as they started burning, the plant started fighting back and many of the elves were injured in the process. Our toy production rate has decreased to 5000000 per turn and Morale has dropped to 30 percent. You have 1235000000 toys left to produce and you're making great progress. One of the elves is complaining about crunch in the leadup to Christmas. He wants more flexible working hours. Do you want to allow it.
+making
+Say that again.
+no
+The elf storms out of the office and says he may leak this story to the local lapland newspaper. Toy production has decreased to zero. But you've still got time to make it up. A small group of elves have been ordering a lot of pizza recently and taking long lunch breaks. Do you want to give them a warning.
+taking
+Say that again.
+no
+The group continues to take longer and longer for their lunch breaks and leave halfeaten pizza everywhere, to the annoyance of everyone else. But we're still on schedule. Some of the elves are spreading rumours that Krampus, Santa's nemesis, has been spotted in the forest nearby. Do you want to encourage these rumours.
+Yes
+You give a gruesome description of what Krampus has done to lazy elves in the past which terrifies the workers. Our production rate has increased to 5000000 per turn, and Morale has decreased to zero You managed to keep the Workshop running for 4 turns and you produced 770000000 toys. You've played your free daily game. To keep playing you need Voice Arcade Unlimited which also gives you access to the full versions of True or False, Would You Rather, Trivia Hero, The Daily Quiz, The Fake News Game, Star Commander, and all our new games as they launch. Would you like to find out more.
+Yes
+<--skill exit-->Got it. Santa's Helper would like to use Voice Arcade to do that. May I send the request to Voice Arcade.
+
+round 2:
+alexa open santa's helper
+Voice Arcade. Welcome back to Santa's Helper It looks like your previous game ended part way through. Would you like to pick up where you left off.
+Yes
+Ok, resuming your previous game. You've played your free daily game. To keep playing you need Voice Arcade Unlimited which also gives you access to the full versions of True or False, Would You Rather, Trivia Hero, The Daily Quiz, The Fake News Game, Star Commander, and all our new games as they launch. Would you like to find out more.
+no
+Unfortunately, without connecting to Voice Arcade I can't tell if you have Unlimited, so you can only play 1 game a day. For a chance to win a year's worth of Voice Arcade Unlimited every time you play just link your account using the Alexa app. Thanks for playing. Goodbye. Out of 5, how many stars do you think 'Santa's Helper' deserves.
+no
+Ok, I'll make sure to pass that on. In the meantime, Would you like to play something else.
+Yes
+<--skill exit-->Got it. Santa's Helper would like to use Voice Arcade to do that. May I send the request to Voice Arcade.
+
+round 3:
+alexa open santa's helper
+Voice Arcade. Last time you played you managed to produce 770000000 toys. Think you can do better. You've played your free daily game. To keep playing you need Voice Arcade Unlimited which also gives you access to the full versions of True or False, Would You Rather, Trivia Hero, The Daily Quiz, The Fake News Game, Star Commander, and all our new games as they launch. Would you like to find out more.
+no
+Unfortunately, without connecting to Voice Arcade I can't tell if you have Unlimited, so you can only play 1 game a day. For a chance to win a year's worth of Voice Arcade Unlimited every time you play just link your account using the Alexa app. Thanks for playing. Goodbye. Would you like to play something else.
+Yes
+<--skill exit-->Got it. Santa's Helper would like to use Voice Arcade to do that. May I send the request to Voice Arcade.
+

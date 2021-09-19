@@ -1,0 +1,4 @@
+round 1:
+alexa open this day in history
+<--skill exit-->Hmm, I have a few skills that can help.Did you mean Today in History.
+

@@ -1,0 +1,12 @@
+open fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+help
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+black lives matter
+FactCheck.org rated it False when Various websites said that "Black Lives Matter Leader Kept ‘Virtually All’ Donations."
+open fact checkers
+Welcome to Share the Facts. We consolidate fact checks from some of the most respected journalists in the US, Ask me to check a claim you're wondering about.
+are you a pig
+I'm sorry, I couldn't find anything about that subject. Please ask the question again.
+stop
+Thank you for trying Share the Facts. Have a nice day!

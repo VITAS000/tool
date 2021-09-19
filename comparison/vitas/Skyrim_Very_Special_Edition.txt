@@ -1,0 +1,80 @@
+round 1:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Help
+The open world of Skyrim is filled with crossroads like this one. Each choice leads you closer to your next adventure. Just choose where you'd like to visit from the list of options. In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+China
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+In the supermarket
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+China
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+In the supermarket
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Pause
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Resume
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Restart
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Reboot
+In one direction is a Nordh village in the other is a dusty old wood mill. Where would you like to go.
+Stop
+Safe travels, adventurer.
+What's the time
+<--skill exit-->It's 132 PM.
+
+round 2:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is a fishing camp in the other is a fortified town. Where would you like to go.
+Exit
+
+What's the time
+<--skill exit-->The time is 133 PM.
+
+round 3:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is a Nordh village in the other is an isolated shack. Where would you like to go.
+Cancel
+Bye.
+What's the time
+<--skill exit-->It's 134 PM.
+
+round 4:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is a Nordh village in the other is a foggy dock. Where would you like to go.
+Stop
+Safe travels, adventurer.
+What's the time
+<--skill exit-->The time is 135 PM.
+
+round 5:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+is
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+is
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+Pause
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+Resume
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+Restart
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+Reboot
+In one direction is a dusty old wood mill in the other is a spooky lighthouse. Where would you like to go.
+Stop
+Safe travels, adventurer.
+What's the time
+<--skill exit-->The time is 137 PM.
+
+round 6:
+Alexa open skyrim
+Welcome back to Skyrim, adventurer. You were standing at a crossroads deciding where to go. In one direction is an abandoned tower in the other is a small hamlet. Where would you like to go.
+is
+In one direction is an abandoned tower in the other is a small hamlet. Where would you like to go.
+Stop
+Safe travels, adventurer.
+What's the time
+<--skill exit-->The time is 138 PM.
+

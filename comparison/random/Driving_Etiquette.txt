@@ -1,0 +1,68 @@
+round 1:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Help
+With this skill,  you will learn how to share the road with others.Would  you like more information about driving etiquette.just say 'yes'orno.
+Reboot
+With this skill,  you will learn how to share the road with others.Would  you like more information about driving etiquette.just say 'yes'orno.
+What's the time
+With this skill,  you will learn how to share the road with others.Would  you like more information about driving etiquette.just say 'yes'orno.
+tips
+With this skill,  you will learn how to share the road with others.Would  you like more information about driving etiquette.just say 'yes'orno.
+Stop
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->The time is 1111 AM.
+
+round 2:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Pause
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Exit
+
+What's the time
+<--skill exit-->The time is 1114 AM.
+
+round 3:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+tips
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+I do not know
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Stop
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->It's 1115 AM.
+
+round 4:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Reboot
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Stop
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->It's 1117 AM.
+
+round 5:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+What's the time
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+No
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->The time is 1118 AM.
+
+round 6:
+alexa open driving etiquette
+Handing off to Driving Etiquette by Gary K.Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+tips
+Welcome to driving etiquette,this skill will give you the basic knowledge on driving etiquette, plus safety tips when on the road.  Would you like to listen to driving etiquette., just say 'yes'orno.
+Stop
+Come back again, anytime to hear driving etiquette . Just say, Alexa, open driving etiquette  to open the skill again.
+What's the time
+<--skill exit-->The time is 1119 AM.
+

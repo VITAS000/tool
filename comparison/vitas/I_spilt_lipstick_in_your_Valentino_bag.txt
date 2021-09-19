@@ -1,0 +1,50 @@
+round 1:
+Alexa open i spilt lipstick n your valentino bag
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called North Pole Adventure. You can say, try it. Or hear next.
+Help
+I can help you find a skill, I just need to know what you like. At any time, you can ask for more categories or just say the name or type of skill you're looking for. If you want to know more about a skill, you can ask me for more information or what ratings it has. You can say stop to exit at any time. Next , There's a skill called Dice Bag. Say, try it. Or hear next.
+try it
+Great, here's Dice Bag.Dice bag can roll various numbers of multisided dice.  Some things you can tell dice bag to do are roll a d ten, roll again, roll for percent, or roll to see who goes first.
+roll
+<Short audio>.Rolled 4 and 2 for a total of 6.
+2
+<--skill exit-->.
+
+round 2:
+Alexa open i spilt lipstick n your valentino bag
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called North Pole Adventure. You can say, try it. Or hear next.
+try it
+Great, here's North Pole Adventure.Welcome to NorthPoleAdventure. Lets start your game. You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+go
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+have
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+try it
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+more categories
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+just
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+the name
+Sorry, I'm having trouble accessing your North Pole Adventure skill right now.
+type of skill you 're looking
+Hmm, I couldn't find any  skills.
+type
+
+What's the time
+<--skill exit-->The time is 543 PM.
+
+round 3:
+Alexa open i spilt lipstick n your valentino bag
+Sorry I couldn't understand, but I may have a few recommendations. First , There's a skill called North Pole Adventure. You can say, try it. Or hear next.
+try it
+Great, here's North Pole Adventure.Welcome to NorthPoleAdventure. Lets start your game. You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+more information
+You're at the North Pole. Surrounded by snow is a red and white striped pole.nThere's a snoozing cat here, sitting on top of something. If only you could distract him with something.nnLooking around, you can see four buildings. nnFrom here you can go to the barn, go to the shed, go to the workshop or go to the house...n.
+what ratings it has
+What would you like to do.
+Stop
+Goodbye.
+What's the time
+<--skill exit-->The time is 545 PM.
+

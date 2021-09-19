@@ -1,0 +1,34 @@
+round 1:
+Alexa open quote me
+Remember that not getting what you want is sometimes a wonderful stroke of luck. Dalai Lama.
+Help
+
+What's the time
+<--skill exit-->It's 854 AM.
+
+round 2:
+Alexa open quote me
+The most difficult thing is the decision to act, the rest is merely tenacity. Amelia Earhart.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 3:
+Alexa open quote me
+We must balance conspicuous consumption with conscious capitalism. Kevin Kruse.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 4:
+Alexa open quote me
+A person who never made a mistake never tried anything new.  Albert Einstein.
+Pause
+<--skill exit-->Sorry, I don't know that.
+
+round 5:
+Alexa open quote me
+It is never too late to be what you might have been. George Eliot.
+Pause
+
+What's the time
+<--skill exit-->It's 905 AM.
+

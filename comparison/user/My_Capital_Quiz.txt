@@ -1,0 +1,23 @@
+alexa open my capital quiz
+Ok, Here's Capital Quiz
+Welcome to Capital Quiz!, Please Say Easy, medium, Hard
+easy
+What is the Capital of the England?
+london
+Excellent and now, What is the Capital of Thailand?
+bangkok
+Cool, What is the Capital of Egypt?
+cairo
+SPECTACULAR, What is the Capital of France?
+paris
+keep going, What is the Capital of Japan?
+tokyo
+SPECTACULAR, What is the Capital of Spain?
+madrid
+OH WOW, What is the Capital of Russia?
+moscow
+INCREDIBLE, What is the Capital of Cuba?
+i don't know
+INCREDIBLE, What is the Capital of Netherlands?
+whiskey tango foxtrot
+Great Job now, What is the Capital of Italy?

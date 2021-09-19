@@ -1,0 +1,46 @@
+round 1:
+Alexa open ten pin bowling
+Welcome back. I noticed a game already inprogress. Do you want to resume it. Just say Yes, or to begin a new game from the beginning, Say No.
+Help
+The object of the game is to play a game of ten pin bowling and try and knock down as many pins as you can in ten frames. Play with one player or up to four. If you have Echo Buttons, watch them light up and press them to roll the ball. The premium version of the skill allows you to compete in a bowling league. Say, What can I buy, for more details. Say Bowl to get started.
+press
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Bowl
+James bowling frame 2. The last frame was a spare, so additional points coming.Here goes the roll.<Short audio>.Slight shift to the left.<Short audio>.<Short audio>.That knocks down 8 pins. Still standing are the 9 and 10 pins.<Short audio>.Say bowl to roll the next ball.
+bowl
+James trying to pick up the spare in frame 2.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 26 after 2 frames.<Short audio>.Say bowl to roll the next frame.
+bowl
+James bowling frame 3 with a score of 26. Here goes the roll.<Short audio>.Slight shift to the left.<Short audio>.<Short audio>.That knocks down 8 pins. Still standing are the 9 and 10 pins.<Short audio>.Say bowl to roll the next ball.
+bowl
+James trying to pick up the spare in frame 3.<Short audio>.<Short audio>.James misses knocking down any more pins. Score is 34 after 3 frames.<Short audio>.Say bowl to roll the next frame.
+Yes
+Resuming game with James currently in frame 4.<Short audio>.Please say bowl to roll the next ball.
+bowl
+James bowling frame 4 with a score of 34. Here goes the roll.<Short audio>.Slight shift to the right.<Short audio>.<Short audio>.That knocks down 9 pins. Still standing is the 7 pin.<Short audio>.Say bowl to roll the next ball.
+press
+Sorry, I didn't understand that request. Please say Bowl to roll the next ball.
+Bowl
+James trying to pick up the spare in frame 4.<Short audio>.<Short audio>.James picks up the spare.<Short audio>.<Short audio>.Say bowl to roll the next frame.
+press
+Sorry, I didn't understand that request. Say bowl to roll the next frame.
+No
+Welcome to ten pin bowling.<Short audio>.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy.
+player one is James
+Player Number One is James. Please add another player, say 'Begin Game' to play a solo match, or say 'Play league game' to compete with other virtual players.
+Begin Game
+Okay, who is ready for a little pin action.<Short audio>.Say Bowl to roll your first ball.
+Stop
+Thanks for playing ten pin bowling. Your game will be saved for later.
+Purchase Bowling League
+<--skill exit-->Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.Hmmm. Something didn't work. Please try again later.
+
+round 2:
+Alexa open ten pin bowling
+Welcome to ten pin bowling.<Short audio>.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy.
+What can I buy
+If you would like some competition, please purchase the premium version of this skill. It allows you to join a bowling league where you can compete with a series of players that you bowl against, and then see who can score more. Just say, Purchase Bowling League, to add it to your account.
+Stop
+Thanks for playing ten pin bowling. Your game will be saved for later.
+What's the time
+<--skill exit-->It's 1102 PM.
+

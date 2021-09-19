@@ -1,0 +1,50 @@
+round 1:
+Alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Help
+This is NPR. To see everything you can do on your device, visit npr dot org slash Alexa. For example, you can ask NPR to change your station. For now, which would you like to hear live radio, or news.
+change your station
+Which would you like to hear live radio, or news.
+news
+<Short audio>.
+What's the time
+<--skill exit-->Sorry, I can't do that right now. Try telling me to exit and then trying your request again.
+
+round 2:
+Alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Lisa
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+find
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Lisa
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Lily
+You can also say Alexa, ask NPR for help.
+help
+This is NPR. To see everything you can do on your device, visit npr dot org slash Alexa. For example, you can ask NPR to change your station. For now, which would you like to hear live radio, or news.
+change your station
+Which would you like to hear live radio, or news.
+Lily
+Which would you like to hear live radio, or news.
+Bob
+
+What's the time
+<--skill exit-->Which would you like to hear live radio, or news.
+
+round 3:
+Alexa open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+Lisa
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+Harry
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+code
+I'm sorry, I didn't recognize that zip code. To try again, you can give me a different five digit zip code, or ask me for help.
+help
+This is NPR. To see everything you can do on your device, visit npr dot org slash Alexa. For example, you can ask NPR to change your station. For now, which would you like to hear live radio, or news.
+news
+<Short audio>.
+What's the time
+<--skill exit-->Sorry, I can't do that right now. Try telling me to exit and then trying your request again.
+

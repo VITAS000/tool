@@ -1,8 +1,0 @@
-I:
-open ten pin bowling
-E:
- Welcome to ten pin bowling. .&lt;Short audio&gt;.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy? .
-I:
-what can i buy
-E:
-<---different content as before---> Welcome back. I noticed a game already in-progress. Do you want to resume it? Just say Yes, or to begin a new game from the beginning, Say No. .

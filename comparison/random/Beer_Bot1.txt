@@ -1,0 +1,8 @@
+round 1:
+alexa open beer bot
+Sorry, I'm having trouble accessing your Beer Bot skill right now.
+Exit
+
+What's the time
+<--skill exit-->The time is 1141 AM.
+

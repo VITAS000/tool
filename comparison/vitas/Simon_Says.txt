@@ -1,0 +1,44 @@
+round 1:
+Alexa open simon says
+<Short audio>.Hello, welcome to Simon Says Game. Which mode do you want to play today. Singleplayer or multiplayer.
+Help
+Ok, it's clear you need help. I'll explain now. To play Simon Says you just have to choose a game mode singleplayer or multiplayer. and the game will start. In singleplayer mode, you need to tell me your name and then answer in every turn I did it right or I did it wrong. In multiplayer mode, I will ask you how many players are still playing because of having followed the instructions issued by Simon. You will have to answer, for example We are four players. When there is only one player left or none, the game will be over. The better you do it, the more points you will earn. Are you ready to continue the game.
+Yes
+OK. Do you want to play a single player or multiplayer game.
+Yes
+OK. Which mode do you want to play, single player, or multiplayer.
+multiplayer
+Ok. Which category do you want to play with. Animals, Body Awareness, Move Your Bones, Chill Out, Listening Skills, Memory, Learning To Spell or Random.
+Random
+Ok, let's go.<Short audio>.Simon says pretend you juice an orange with your hands.<Short audio>.awesome, those who have obeyed Simon can continue playing.How many people are still alive.
+pretend you juice an orange with your hands
+Can you tell me how many people are still alive.
+Yes
+Sorry, I didn't understand what you said. How many people are still alive.
+1
+Sorry, I didn't understand what you said. How many people are still alive.
+2
+Place one hand on the chest and the other on the stomach and breathe. well done , those who have not obeyed Simon can continue playing.How many people are still alive.
+other
+Can you tell me how many people are still alive.
+No
+
+What's the time
+<--skill exit-->Are you ready yet.
+
+round 2:
+Alexa open simon says
+<Short audio>.Hello, welcome to Simon Says Game. Which mode do you want to play today. Singleplayer or multiplayer.
+multiplayer
+Ok. Which category do you want to play with. Animals, Body Awareness, Move Your Bones, Chill Out, Listening Skills, Memory, Learning To Spell or Random.
+Random
+Ok, let's go.<Short audio>.Wave your hands in the air.<Short audio>.touche, I see you're paying attention, so... those who have not obeyed Simon can continue playing.How many people are still alive.
+3
+Simon says smile with no teeth. okey dokey , those who have obeyed Simon are in luck and can continue playing.How many people are still alive.
+smile with no teeth okey dokey
+Can you tell me how many people are still alive.
+I do not know
+
+What's the time
+<--skill exit-->
+

@@ -1,0 +1,60 @@
+round 1:
+Alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Help
+You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. What would you like to do next.
+Boosted Boards
+found some results that fit boosted boards.   Would you like me to play the most popular result.
+Yes
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Beme
+<--skill exit-->According to Wikipedia Beme Inc., stylized as beme, was a multimedia company founded by Matt Hackett and Casey Neistat, a vlogger and short film maker on YouTube. Beme Inc. was the creator of the mobile app Beme. On November 28, 2016, CNN announced that it would acquire Beme. CNN intended to invest in the company and create a new brand focused on a young audience.
+
+round 2:
+Alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Resume
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Snowboarding
+<--skill exit-->.
+
+round 3:
+Alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Snowboarding
+found a bunch of episodes that match snowboarding.   Would you like me to play the most popular result.
+No
+OK.  you can say list top three.  OR.  Describe more.   Soooooo.  What do you want to do.
+list top three
+Here are the top three results.  First we have Making Of  Snowboarding With The Nypd.  Second we have Snowboarding New York City.  Third we have Snowboarding With The Nypd.   Which would you like to play.   At Any time you can say start over.
+start over
+You are currently searching Casey Neistat.  You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold..   Briefly Describe what you are looking for. Or. Say latest episode to get the last three episodes.
+Boosted Boards
+found a bunch of episodes that match boosted boards.   Would you like me to play the most popular result.
+I do not know
+Sorry, I'm having trouble accessing your Casey Neistat skill right now.
+Gopro
+<--skill exit-->According to Wikipedia GoPro, Inc. is an American technology company founded in 2002 by Nick Woodman. It manufactures action cameras and develops its own mobile apps and videoediting software. Founded as Woodman Labs, Inc, the company eventually focused on the connected sports genre, developing its line of action cameras and, later, video editing software.
+
+round 4:
+Alexa open the casey neistat experience
+Handing off to Casey Neistat by Alpha Voice.Welcome to the Casey Neistat skill.  Ask Casey about Beme, Snowboarding, Gopro, or even south africa. You can ask about Boosted Boards, Cameras, Flights, or even turning your apple watch gold. You can say Resume to continue listening to your last requested episode. What would you like to talk about.
+Gopro
+found a bunch of episodes that match GoPro.   Would you like me to play the most popular result.
+even south africa
+For GoPro even south africa Still found a bunch of episodes that match GoPro even south africa.   Would you like me to play the most popular result.
+Boosted Boards
+For GoPro even south africa boosted boards Still found some results that fit GoPro even south africa boosted boards.   Would you like me to play the most popular result.
+Cameras
+For GoPro even south africa boosted boards cameras Still found some results that fit GoPro even south africa boosted boards cameras.   Would you like me to play the most popular result.
+Flights
+For GoPro even south africa boosted boards cameras flights Still found a bunch of episodes that match GoPro even south africa boosted boards cameras flights.   Would you like me to play the most popular result.
+even turning your apple watch gold
+For GoPro even south africa boosted boards cameras flights even turning your apple watch gold Still found some results that fit GoPro even south africa boosted boards cameras flights even turning your apple watch gold.   Would you like me to play the most popular result.
+turning
+For GoPro even south africa boosted boards cameras flights even turning your apple watch gold turning Still found a bunch of episodes that match GoPro even south africa boosted boards cameras flights even turning your apple watch gold turning.   Would you like me to play the most popular result.
+Stop
+Thanks for stopping by.  For more, check out Casey on YouTube.
+What's the time
+<--skill exit-->The time is 833 PM.
+

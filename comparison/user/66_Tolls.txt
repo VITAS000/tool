@@ -1,0 +1,10 @@
+alexa open sixty six tolls
+<Audio only response>.Welcome. To get the current tolls, you need to provide the direction, entrance. and exit. Say what is the current inbound or outbound toll between a and b, where a in your entrance and b is your exit. You can also say what are the inbound speeds or what are the outbound speeds. For a complete explanation of features, say help.
+help
+This skill provides information on the current tolls being charged on I-66 inside the Beltway, between the Capital Beltway and the Teddy Roosevelt Bridge, as well as the travel speeds on I-66 and Route 50. To get the toll, say "Alexa, what is the inbound or outbound toll from a to b, where a is the entrance and b is the exit. To get a list of entrances or exits, say "Alexa, what are the inbound or outbound entrances or exits." Would you like to hear more?
+alexa what is the inbound or outbound toll from a to b. where a is the entrance and b. is the exit
+Sorry, something went wrong. Please try it again or ask for help. Remember to specify the direction, inbound or outbound, when asking for the toll between two points.
+alexa what are the inbound or outbound entrances
+The outbound entrances are: ['washington', 'pentagon', 'lee highway', 'fairfax drive', 'washington boulevard', 'route seven']
+alexa what are the inbound entrances
+The inbound entrances are: ['i sixty six', 'i four ninety five', 'route one twenty three', 'route seven', 'route two sixty seven', 'sycamore streete', 'glebe road']

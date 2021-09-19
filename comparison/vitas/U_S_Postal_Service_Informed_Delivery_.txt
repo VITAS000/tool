@@ -1,0 +1,54 @@
+round 1:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 2:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Restart
+<--skill exit-->Starting over.
+
+round 3:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 4:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Stop
+
+What's the time
+<--skill exit-->The time is 633 PM.
+
+round 5:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Exit
+
+What's the time
+<--skill exit-->The time is 635 PM.
+
+round 6:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Cancel
+
+What's the time
+<--skill exit-->It's 637 PM.
+
+round 7:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+What's the time
+<--skill exit-->It's 637 PM.
+
+round 8:
+Alexa open postal service
+Sorry, I'm having trouble accessing your U.S. Postal Service Informed Delivery skill right now.
+Pause
+<--skill exit-->Sorry, I'm not sure about that.
+

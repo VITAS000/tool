@@ -1,0 +1,4 @@
+round 1:
+alexa open the shocking truth
+<--skill exit-->Hmm, I found a few skills that might help.Did you mean Telling the Truth.
+

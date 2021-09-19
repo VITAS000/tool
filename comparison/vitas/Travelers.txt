@@ -1,0 +1,88 @@
+round 1:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Help
+Welcome to travel dates. Please tell me the date you are traveling.
+Pause
+I was unable to understand your request. Please tell me the date you are traveling.
+Resume
+I was unable to understand your request. Please tell me the date you are traveling.
+Restart
+I was unable to understand your request. Please tell me the date you are traveling.
+Reboot
+I was unable to understand your request. Please tell me the date you are traveling.
+Stop
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->It's 1013 AM.
+
+round 2:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Exit
+
+What's the time
+<--skill exit-->It's 1014 AM.
+
+round 3:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Cancel
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->The time is 1015 AM.
+
+round 4:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+What's the time
+I was unable to understand your request. Please tell me the date you are traveling.
+Stop
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->The time is 1016 AM.
+
+round 5:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Exit
+
+What's the time
+<--skill exit-->The time is 1017 AM.
+
+round 6:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Cancel
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->The time is 1018 AM.
+
+round 7:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Pause
+I was unable to understand your request. Please tell me the date you are traveling.
+Resume
+I was unable to understand your request. Please tell me the date you are traveling.
+Stop
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->The time is 1019 AM.
+
+round 8:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Exit
+
+What's the time
+<--skill exit-->The time is 1021 AM.
+
+round 9:
+Alexa open travelers
+Welcome to travel dates. Please tell me the date you are traveling.
+Stop
+Canceling, thank you and have a magical day.
+What's the time
+<--skill exit-->The time is 1021 AM.
+

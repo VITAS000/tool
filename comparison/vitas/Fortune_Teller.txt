@@ -1,0 +1,52 @@
+round 1:
+Alexa open fortune teller
+Here's your fortune The world may be your oyster, but it doesn't mean you'll get its pearl.
+mean
+
+What's the time
+<--skill exit-->It's 336 PM.
+
+round 2:
+Alexa open fortune teller
+Here's your fortune A friend is a present you give yourself.
+go
+<--skill exit-->.
+
+round 3:
+Alexa open fortune teller
+Here's your fortune A scholars ink lasts longer than a martyrs blood.
+go
+<--skill exit-->.
+
+round 4:
+Alexa open fortune teller
+Here's your fortune If you want the rainbow, you must to put up with the rain. D. Parton.
+go
+<--skill exit-->.
+
+round 5:
+Alexa open fortune teller
+Here's your fortune Make two grins grow where there was only a grouch before.
+go
+<--skill exit-->.
+
+round 6:
+Alexa open fortune teller
+Here's your fortune You have a deep appreciation of the arts and music.
+music
+<--skill exit-->What do you want to hear.
+
+round 7:
+Alexa open fortune teller
+Here's your fortune The time is right to make new friends.
+go
+
+What's the time
+<--skill exit-->It's 339 PM.
+
+round 8:
+Alexa open fortune teller
+Here's your fortune A pleasant surprise is in store for you.
+go
+<--skill exit-->.
+

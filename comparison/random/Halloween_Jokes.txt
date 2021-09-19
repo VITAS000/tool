@@ -1,0 +1,88 @@
+round 1:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+Help
+Looking to hear a Halloween Joke. If so, simply say, Ask Halloween Jokes for a joke. Go ahead and try now.
+Resume
+Who did Frankenstein take to the prom. His ghoul friend.
+What's the time
+<--skill exit-->The time is 550 PM.
+
+round 2:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+try
+Know why skeletons are so calm.    Because nothing gets under their skin.
+Exit
+
+What's the time
+<--skill exit-->The time is 552 PM.
+
+round 3:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+Stop
+Boo to you.
+What's the time
+<--skill exit-->It's 552 PM.
+
+round 4:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+Restart
+What do witches put on their hair. Scare spray.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 5:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+Pause
+What do you call a fake noodle. An Impasta.
+Exit
+
+What's the time
+<--skill exit-->The time is 600 PM.
+
+round 6:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+What's the time
+Sorry, I'm having trouble accessing your Halloween Jokes skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 7:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+try
+Sorry, I'm having trouble accessing your Halloween Jokes skill right now.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 8:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+What's the time
+Sorry, I'm having trouble accessing your Halloween Jokes skill right now.
+Cancel
+Bye.
+What's the time
+<--skill exit-->The time is 557 PM.
+
+round 9:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+try
+Sorry, I'm having trouble accessing your Halloween Jokes skill right now.
+Pause
+<--skill exit-->Hmm, I don't know that.
+
+round 10:
+alexa open halloween jokes
+Welcome to Halloween Jokes. How may we spook you today.
+Resume
+Sorry, I'm having trouble accessing your Halloween Jokes skill right now.
+Reboot
+<--skill exit-->starting over.
+

@@ -1,0 +1,32 @@
+round 1:
+Alexa open musical facts
+Here's your musical key fact. D Sharp Minor has 6 sharps and the relative major is F Sharp.
+
+round 2:
+Alexa open musical facts
+Here's your musical key fact. G Major has 1 sharp and the relative minor is E.
+
+round 3:
+Alexa open musical facts
+Here's your musical key fact. C Minor has 3 flats and the relative major is E Flat.
+
+round 4:
+Alexa open musical facts
+Here's your musical key fact. C Sharp Major has 7 sharps and the relative minor is B Flat.
+
+round 5:
+Alexa open musical facts
+Here's your musical key fact. B Major has 5 sharps and the relative minor is G Sharp.
+
+round 6:
+Alexa open musical facts
+Here's your musical key fact. B Minor has 2 sharps and the relative major is D.
+
+round 7:
+Alexa open musical facts
+Here's your musical key fact. B Flat Major has 2 flats and the relative minor is G.
+
+round 8:
+Alexa open musical facts
+Here's your musical key fact. D Major has 2 sharps and the relative minor is B.
+

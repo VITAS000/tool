@@ -1,0 +1,4 @@
+round 1:
+alexa open virtual trump
+<--skill exit-->Ok, Here's Virtual Butler.Your Virtual butler account is not linked.Please use the Alexa App to link the account.
+

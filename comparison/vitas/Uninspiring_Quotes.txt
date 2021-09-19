@@ -1,0 +1,54 @@
+round 1:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you can't handle me at my worst, unfortunately, that's also my best. Would you like another quote.
+No
+Ok. Goodbye.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 2:
+Alexa open uninspiring quotes
+Here's an uninspiring quote Don't be afraid to fail. Be afraid that someone will try to talk to you. Would you like another quote.
+I do not know
+<--skill exit-->.
+
+round 3:
+Alexa open uninspiring quotes
+Here's an uninspiring quote People who say they'll give 110 don't understand how percentages work. Would you like another quote.
+No
+Ok. Goodbye.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 4:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If at first you don't succeed, it's probably because someone screwed it up for you. Would you like another quote.
+Yes
+The best things in life are actually really expensive. Would you like another quote.
+I do not know
+<--skill exit-->.
+
+round 5:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you hate yourself, remember that you're not alone. Other people hate you too. Would you like another quote.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 6:
+Alexa open uninspiring quotes
+Here's an uninspiring quote If you hate yourself, remember that you're not alone. Other people hate you too. Would you like another quote.
+Resume
+<--skill exit-->.
+
+round 7:
+Alexa open uninspiring quotes
+Here's an uninspiring quote Be yourself. No one else wants to be you. Would you like another quote.
+Restart
+<--skill exit-->.
+
+round 8:
+Alexa open uninspiring quotes
+Here's an uninspiring quote The first step toward failure is trying. Would you like another quote.
+Reboot
+<--skill exit-->.
+

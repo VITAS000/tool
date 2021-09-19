@@ -1,0 +1,16 @@
+round 1:
+alexa open fortune teller
+Here's your fortune Smiling often can make you look and feel younger.
+Cancel
+
+What's the time
+<--skill exit-->It's 406 PM.
+
+round 2:
+alexa open fortune teller
+Here's your fortune Something you lost will soon turn up.
+Cancel
+
+What's the time
+<--skill exit-->The time is 408 PM.
+

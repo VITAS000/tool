@@ -1,0 +1,41 @@
+round 1:
+Alexa open grace chapel
+Handing off to Grace Chapel by InfoByVoice.Welcome back to Grace Chapel, Minerva, OH.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Help
+Need help, say, Service Times, Location, Phone Number, the word Repeat at anytime to hear the last thing I said or Goodbye.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 10  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+Yes
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 10  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+YES
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Location
+The Grace Chapel, Minerva, OH. is located at 22 7 9 7 Ellsworth Ave, Minerva, OH. Would you like more information. Say YES for more options or no thanks.
+no thanks
+Come back anytime by saying Alexa, open Grace Chapel. Thanks for stopping by, We hope to see you soon and have a blessed day.
+What's the time
+<--skill exit-->It's 749 PM.
+
+round 2:
+Alexa open grace chapel
+Handing off to Grace Chapel by InfoByVoice.Welcome back to Grace Chapel, Minerva, OH.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Yes
+You can say, Service Times, Location, phone number Help for more options or stop.
+phone number Help for more options
+Call us anytime at 8 5 5 3 3 2 2 5 7 2. Would you like to get more information. Say YES for more options, repeat and I'll repeat what I just said or no thanks.
+no thanks
+Come back anytime by saying Alexa, open Grace Chapel. Thanks for stopping by, We hope to see you soon and have a blessed day.
+
+round 3:
+Alexa open grace chapel
+Handing off to Grace Chapel by InfoByVoice.Welcome back to Grace Chapel, Minerva, OH.  Would you like to hear, Service Times, Location, Phone Number or ask for Help to hear more options.
+Yes
+You can say, Service Times, Location, phone number Help for more options or stop.
+Service Times
+Come visit us. Worship Services are Sunday Morning at 10  We hope you visit us soon. Would you like more information. Say YES for more options or no thanks.
+YES
+What other information would you like. Say, Service Times, Location, Phone Number, or Goodbye.
+Goodbye
+Come back anytime by saying Alexa, open Grace Chapel. Thanks for stopping by, We hope to see you soon and have a blessed day.

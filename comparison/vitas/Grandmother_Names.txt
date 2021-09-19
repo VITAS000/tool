@@ -1,0 +1,38 @@
+round 1:
+Alexa open grandmother names
+Welcome to Grandmother Names. Are you a new grandmother and don't want to be called grandma or grandmom.  Then you may find a name to your liking on my list.  It's important to have your own unique name that your grand children will call you and especially important with todays blended and extended family.  I'm partial to granny hot mama myself. OK, that was a joke.  Ha ha.   Would you like to hear grandmother names now.  Say yes or no.  Or say help or stop for more options.
+Help
+With this skill,  you can find unique, trendy, or traditional grandmother names for those that do not like to be called grand mom or grandma.  Would you like to hear possible grandmother names.  Please say yes or no.
+yes
+Congratulations on being a grandmother.  There are many names to choose from.  Some are traditional and others are a bit more trendy. Maybe you will like one of these.  Now let's see if we can find a grandmother name for you.   Ready.  Here we go.Gammy, Gams, Grams, Gramma, Grammy, Grandmaw, Grandmama, Grandmom, Grandmother, Granny, GranGran,Marmi, Mammy, Mema,  MeMa,  Big Momma, Honey, Lovey, Lolly, Ma, Maw, MawMaw, Memaw, MomMom,GMom,Queenie,Sassy,Sugar, Sweetie,TwoMama Hope I didn't go too fast.  Did you hear one you liked or do I need to repeat it.  If so, say yes or repeat.
+yes
+Let's try it again.Gammy, Gams, Grams, Gramma, Grammy, Grandmaw, Grandmama, Grandmom, Grandmother, Granny, GranGran,Marmi, Mammy, Mema,  MeMa,  Big Momma, Honey, Lovey, Lolly, Ma, Maw, MawMaw, Memaw, MomMom,GMom,Queenie,Sassy,Sugar, Sweetie,TwoMama Hope you heard one you liked that time.   Thanks for visiting and Come back often to hear new grandmother names as I will be adding to the list as I discover new grandmother names. Just say, Alexa, open grandmother names  to open the skill again.
+Come
+
+What's the time
+<--skill exit-->The time is 445 PM.
+
+round 2:
+Alexa open grandmother names
+Welcome to Grandmother Names. Are you a new grandmother and don't want to be called grandma or grandmom.  Then you may find a name to your liking on my list.  It's important to have your own unique name that your grand children will call you and especially important with todays blended and extended family.  I'm partial to granny hot mama myself. OK, that was a joke.  Ha ha.   Would you like to hear grandmother names now.  Say yes or no.  Or say help or stop for more options.
+help
+With this skill,  you can find unique, trendy, or traditional grandmother names for those that do not like to be called grand mom or grandma.  Would you like to hear possible grandmother names.  Please say yes or no.
+yes
+Congratulations on being a grandmother.  There are many names to choose from.  Some are traditional and others are a bit more trendy. Maybe you will like one of these.  Now let's see if we can find a grandmother name for you.   Ready.  Here we go.Gammy, Gams, Grams, Gramma, Grammy, Grandmaw, Grandmama, Grandmom, Grandmother, Granny, GranGran,Marmi, Mammy, Mema,  MeMa,  Big Momma, Honey, Lovey, Lolly, Ma, Maw, MawMaw, Memaw, MomMom,GMom,Queenie,Sassy,Sugar, Sweetie,TwoMama Hope I didn't go too fast.  Did you hear one you liked or do I need to repeat it.  If so, say yes or repeat.
+are
+Thanks for visiting and Come back often to hear new grandmother names as I will be adding to the list as I discover new grandmother names. Just say, Alexa, open grandmother names  to open the skill again.
+Alexa, open grandmother names
+Welcome to Grandmother Names. Are you a new grandmother and don't want to be called grandma or grandmom.  Then you may find a name to your liking on my list.  It's important to have your own unique name that your grand children will call you and especially important with todays blended and extended family.  I'm partial to granny hot mama myself. OK, that was a joke.  Ha ha.   Would you like to hear grandmother names now.  Say yes or no.  Or say help or stop for more options.
+stop
+Thanks for visiting and Come back often to hear new grandmother names as I will be adding to the list as I discover new grandmother names. Just say, Alexa, open grandmother names  to open the skill again.
+What's the time
+<--skill exit-->It's 449 PM.
+
+round 3:
+Alexa open grandmother names
+Welcome to Grandmother Names. Are you a new grandmother and don't want to be called grandma or grandmom.  Then you may find a name to your liking on my list.  It's important to have your own unique name that your grand children will call you and especially important with todays blended and extended family.  I'm partial to granny hot mama myself. OK, that was a joke.  Ha ha.   Would you like to hear grandmother names now.  Say yes or no.  Or say help or stop for more options.
+Stop
+Thanks for visiting and Come back often to hear new grandmother names as I will be adding to the list as I discover new grandmother names. Just say, Alexa, open grandmother names  to open the skill again.
+What's the time
+<--skill exit-->It's 451 PM.
+

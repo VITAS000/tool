@@ -1,8 +1,0 @@
-I:
-ask super tech support for help
-E:
- Help? You want help? Well you've come to the right place! At Super Tech Support we are always happy to help. Simply state your problem and we'll find the solution. What appears to be the problem? .
-I:
-simply state my problem
-E:
-<---same content as before---> Have you turned it off and on again? .

@@ -1,0 +1,84 @@
+round 1:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Help
+Here's some help. I can help you find you a recipe based on the ingredients in your fridge. All you need to do is list some ingredients and I will offer up some tasty recipes for you that use those ingredients. What ingredients would you like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+offer
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.It's 249.99, after 50.00 savings.
+
+round 2:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+offer
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.
+
+round 3:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+offer
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.It's 249.99, after 50.00 savings.
+
+round 4:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+offer
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.It's 249.99, after 50.00 savings.
+
+round 5:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+
+What's the time
+<--skill exit-->It's 1250 PM.
+
+round 6:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+offer
+<--skill exit-->Here are the top Amazon deals,.The first one is Bissell ProHeat 2X Revolution Max Clean Pet Pro FullSize Carpet Cleaner.It's 249.99, after 50.00 savings.
+
+round 7:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+offer
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+Pause
+<--skill exit-->Hmm, I'm not sure.
+
+round 8:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Pause
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 9:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Resume
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+Restart
+<--skill exit-->starting over.
+
+round 10:
+Alexa open recipe finder
+Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Restart
+Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now.
+Stop
+
+What's the time
+<--skill exit-->The time is 1256 PM.
+

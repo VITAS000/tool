@@ -1,0 +1,54 @@
+round 1:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+What's the time
+<--skill exit-->It's 626 PM.
+
+round 2:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Pause
+<--skill exit-->Sorry, I don't know that one.
+
+round 3:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+What's the time
+<--skill exit-->It's 627 PM.
+
+round 4:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Pause
+<--skill exit-->Sorry, I'm not sure.
+
+round 5:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Pause
+
+What's the time
+<--skill exit-->The time is 628 PM.
+
+round 6:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Resume
+Playing rain storm sounds.<Play audio>.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 7:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Pause
+<--skill exit-->Hmm, I don't know that one.
+
+round 8:
+alexa open rain storm
+Playing rain storm sounds.<Play audio>.
+Cancel
+
+What's the time
+<--skill exit-->It's 630 PM.
+

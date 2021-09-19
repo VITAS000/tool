@@ -1,0 +1,4 @@
+round 1:
+Alexa open teams quiz
+<--skill exit-->Ok, Here's TeamLocus.Before you can continue. You need to connect your TeamLocus account with the Alexa. Please go to your alexa app and link your TeamLocus account.
+

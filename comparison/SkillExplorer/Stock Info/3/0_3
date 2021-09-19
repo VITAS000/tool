@@ -1,6 +1,0 @@
-I:
-ask stock info give me price of fb
-E:
-Ticker Lookup failed for ticker: FFLAT. Please say a valid stock ticker symbol or name . Or you can say Cancel or Stop to exit..
-I:
-stop

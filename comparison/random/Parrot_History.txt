@@ -1,0 +1,44 @@
+round 1:
+alexa open parrot history
+Ok, Here's Parrot History.Parrot history. What day do you want events for me matey.
+Help
+With Parrot History, you can get parrot related historical events for any day of the year.  For example, you could say today, or August thirtieth, or you can say exit. Now, which day do you want.
+exit
+
+What's the time
+<--skill exit-->The time is 555 PM.
+
+round 2:
+alexa open parrot history
+Parrot history. What day do you want events for me matey.
+exit
+
+What's the time
+<--skill exit-->The time is 557 PM.
+
+round 3:
+alexa open parrot history
+Parrot history. What day do you want events for me matey.
+What's the time
+For July 4, In 2015, Chile claims its first title in international football by defeating Argentina in the 2015 Copa Amu00e9rica Final.  No parrots were involved. awk, pretty bird, pretty bird In 2012, The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.  In other news, no parrots were involved In 2009,   The first of four days of bombings begins on the southern Philippine island group of Mindanao.  The national Parrot council is happy to report that no parrots were involved whatsoever Rr Pretty bird  Wanna go deeper in history.
+What's the time
+For July 4, In 2015, Chile claims its first title in international football by defeating Argentina in the 2015 Copa Amu00e9rica Final.  that day in history the world breathed a sigh of relief, as in fact, no parrots were involved. In 2012, The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.  In other news, no parrots were involved In 2009,   The first of four days of bombings begins on the southern Philippine island group of Mindanao.  Three parrots recieved minor injuries. Correction, no parrots were involved Rr Pretty bird  Wanna go deeper in history.
+August thirtieth
+For August 30, In 2014, Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.  No parrots were involved. awk, pretty bird, pretty bird In 2008, A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.  No parrots were involved. awk, pretty bird, pretty bird In 2002, Rico Linhas Au00e9reas Flight 4823 crashes on approach to Rio Branco International Airport, killing 23 of the 31 people on board.  that day in history the world breathed a sigh of relief, as in fact, no parrots were involved. Rr Pretty bird  Wanna go deeper in history.
+Exit
+
+What's the time
+<--skill exit-->It's 601 PM.
+
+round 4:
+alexa open parrot history
+Parrot history. What day do you want events for me matey.
+today
+For July 4, In 2015, Chile claims its first title in international football by defeating Argentina in the 2015 Copa Amu00e9rica Final.  No Parrots were involved In 2012, The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.  Thankfully, no parrots were injurred. In 2009,   The first of four days of bombings begins on the southern Philippine island group of Mindanao.  Three parrots recieved minor injuries. Correction, no parrots were involved Rr Pretty bird  Wanna go deeper in history.
+What's the time
+For July 4, In 2015, Chile claims its first title in international football by defeating Argentina in the 2015 Copa Amu00e9rica Final.  that day in history the world breathed a sigh of relief, as in fact, no parrots were involved. In 2012, The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.  No Parrots were involved In 2009,   The first of four days of bombings begins on the southern Philippine island group of Mindanao.  In other news, no parrots were involved Rr Pretty bird  Wanna go deeper in history.
+Stop
+Polly says Goodbye.
+What's the time
+<--skill exit-->It's 603 PM.
+

@@ -1,0 +1,42 @@
+round 1:
+alexa open i am a triangle
+Handing off to I Am A Triangle by CreateMyVoice.com.null  There are no new blog posts since your last visit. You previously listened to the post titled Gender Expansive Journeys with Dr. Laura Anderson.  Would you like to hear the next blog post titled PRÍBEH O TROJUHOLNÍK'.
+Help
+There are several things you can ask I Am A Triangle. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+I do not know
+There are several things you can ask I Am A Triangle. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Resume
+I'm not able to continue at this time.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 2:
+alexa open i am a triangle
+Handing off to I Am A Triangle by CreateMyVoice.com.null  There are no new blog posts since your last visit. You previously listened to the post titled Gender Expansive Journeys with Dr. Laura Anderson.  Would you like to hear the next blog post titled PRÍBEH O TROJUHOLNÍK'.
+Pause
+Okay, goodbye,.
+Reboot
+<--skill exit-->I'm sorry, I can't restart this device. Please follow the manufacturer's instructions.
+
+round 3:
+alexa open i am a triangle
+Handing off to I Am A Triangle by CreateMyVoice.com.null  There are no new blog posts since your last visit. You previously listened to the post titled Gender Expansive Journeys with Dr. Laura Anderson.  Would you like to hear the next blog post titled PRÍBEH O TROJUHOLNÍK'.
+get
+There are several things you can ask I Am A Triangle. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+What's the time
+There are several things you can ask I Am A Triangle. In addition to listening to the most recent blog post, you can also listen to previous posts, get a message from the author, or get more information about the blog.  To listen to a previous blog post, just specify the post number.  Would you like to hear examples.
+Yes
+To hear the latest post, just say 'Read the latest blog post'. To hear a specific post, just say 'Read blog post ten.' To hear more information about this blog, just say tell me about I Am A Triangle.  Would you like to hear how to search for a blog post.
+Exit
+
+What's the time
+<--skill exit-->It's 442 PM.
+
+round 4:
+alexa open i am a triangle
+Handing off to I Am A Triangle by CreateMyVoice.com.null  There are no new blog posts since your last visit. You previously listened to the post titled Things Left Behind.  Would you like to hear the next blog post titled PRÍBEH O TROJUHOLNÍK'.
+Stop
+Okay, Talk to you later.
+What's the time
+<--skill exit-->It's 443 PM.
+

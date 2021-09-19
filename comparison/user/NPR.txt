@@ -1,0 +1,8 @@
+open n. p. r.
+Before we start, let's connect you with your local NPR member station. Please tell me a station name or zip code.
+three five two three eight
+I've found 2 stations near the zip code 35238. The names of the stations are WBHM 90.3 FM, and Alabama Public Radio. Which station would you like to hear?
+w. b. h. m. ninety point three f. m.
+I'm sorry. I didn't recognize the station name. To try again, give me the name of a station, or tell me your zip code and I can find a station for you.
+alabama public radio
+Live from NPR, here's Alabama Public Radio

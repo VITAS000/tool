@@ -1,0 +1,4 @@
+round 1:
+alexa open escape mystery room
+<--skill exit-->Ok, Here's Escape the Room.<Short audio>.The available rooms are The Spaceship, The Airplane, The Car, The Jail Cell, The Office, and The Garage.  Which room would you like to enter.
+

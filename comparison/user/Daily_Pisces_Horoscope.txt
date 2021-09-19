@@ -1,0 +1,7 @@
+Alexa open daily pisces horoscope
+Here's the skill Daily Pisces Horoscope, by DNAsoft.mobi.Welcome to your daily Pisces horoscope.  Here is your reading for today.   It's more important than ever to keep connections alive with the people you love. They are ultimately your rock and can serve as a grounding force in your life. As you discover that your upcoming social calendar has a lot of holes in it, resist the urge to fill them up. Leave as many blanks as possible, and call up a friend who's been waiting for a date. While you're at it, get back in touch with a family member who needs an update on how you've been. Would you like to hear it again.
+Yes
+It's more important than ever to keep connections alive with the people you love. They are ultimately your rock and can serve as a grounding force in your life. As you discover that your upcoming social calendar has a lot of holes in it, resist the urge to fill them up. Leave as many blanks as possible, and call up a friend who's been waiting for a date. While you're at it, get back in touch with a family member who needs an update on how you've been. Would you like to hear it again.
+No
+"Come back tomorrow to hear a new daily Pisces horoscope . Just say, "Alexa, open daily Pisces horoscope"  to open the skill again.\.
+

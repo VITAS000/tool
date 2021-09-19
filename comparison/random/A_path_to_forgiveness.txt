@@ -31,8 +31,8 @@ stop at any time
 Step 6. Concentrate on what you can control. Remember that you can only control your own thoughts and actions, not anyone else's. Give up expecting things from other people, or your life, that they do not choose to give you. When you're ready for the next step, say next.
 step followed by a step number between 1
 Step 7. Move on. Instead of mentally replaying your hurt over and over, stop ruminating and seek out new friends and new situations that can lead to further positive influences. When you're ready for the next step, say next.
-stop
-Ok, Goodbye.
+Cancel
+Cancelling. Goodbye.
 What's the time
 <--skill exit-->The time is 1041 AM.
 
@@ -49,8 +49,8 @@ step followed by a step number between 1
 Step 3. Do not expect reconciliation. Forgiveness does not necessarily mean reconciliation with the person who hurt you, or condoning their actions. What you're looking for is a sense of peace and closure. When you're ready for the next step, say next.
 Restart
 Step 4. Recognize how the event is affecting you in the present. Recognize that your primary distress is coming from hurt feelings, thoughts and physical upset you are suffering now, not what offended or deeply hurt you two minutes or 10 years ago. Forgiveness helps to heal those hurt feelings. When you're ready for the next step, say next.
-Stop
-Ok, Goodbye.
+Cancel
+Cancelling. Goodbye.
 What's the time
 <--skill exit-->The time is 1044 AM.
 

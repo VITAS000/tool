@@ -1,0 +1,16 @@
+alexa open fundamental valuation
+Ok, Here's Fundamental Valuation.Ask me for a company to value.
+google
+I could not find google
+microsoft
+According to the website stock calc dot com the fundamental valuation for Microsoft on the Nasdaq as of Friday 21st of May 2021 is 244.30 US dollars. Its close price on that day was 245.17 US dollars, implying Microsoft is fairly valued
+tencent
+According to the website stock calc dot com the fundamental valuation for Tencent Music Enter Gr on the New York Stock Exchange as of Friday 21st of May 2021 is 13.77 US dollars. Its close price on that day was 15.13 US dollars, implying Tencent Music Enter Gr is overvalued by 9%
+intel
+According to the website stock calc dot com the fundamental valuation for Intel on the Nasdaq as of Friday 21st of May 2021 is 58.92 US dollars. Its close price on that day was 56.08 US dollars, implying Intel is fairly valued
+facebook
+According to the website stock calc dot com the fundamental valuation for Facebook on the Nasdaq as of Saturday 22nd of May 2021 is 322.27 US dollars. Its close price on that day was 316.23 US dollars, implying Facebook is fairly valued
+linkin
+I could not find Linkin
+stop
+I did not recieve a company, please repeat your request.

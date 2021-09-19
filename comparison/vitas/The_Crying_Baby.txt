@@ -1,0 +1,34 @@
+round 1:
+Alexa open the crying baby
+<Short audio>.oh dear Why did you wake up the crying baby...Get ready to take care of her.<Short audio>.What type of cries would you fancy today.  Some of her award winning cries include the  grumpy,  angry,  or  wait for it  cry.  For a full list, just say 'More info'.
+Help
+This game is pretty simple, you ask the crying baby for the type of cry you want to hear, and she performs it for you. At the moment, you can ask her for a normal, tired, angry, bored, I want a cuddle, sleepy, starving, wait for it, grumpy,  or mega tantrum cry. Otherwise, you can ask baby for a random cry, and she'll choose any that you haven't listened to yet. Now, just ask baby for a cry and enjoy.
+a normal
+<Short audio>.Wow, what a performance.  For the next one, may I recommend the mega tantrum,  or bored cry. Otherwise, just ask for a random cry.
+a random cry
+
+What's the time
+<--skill exit-->Sorry, the crying baby doesn't know how to do a time cry. Please ask me for another one.
+
+round 2:
+Alexa open the crying baby
+<Short audio>.whoopsie daisy you've just woken up the crying baby again...Get ready to take care of her.<Short audio>.What type of cries would you fancy today.  My personal favorites are the  tired,  starving,  or  angry  cry.  For a full list, just say 'More info'.
+angry
+<Short audio>.The crying baby sure knows how to put on a show.  This time, why don't you ask for a mega tantrum,  or grumpy cry. Otherwise, just ask for a random cry.
+a mega tantrum
+<Short audio>.As usual, this was breathtaking.  For the next one, may I recommend the bored,  or I want a cuddle cry. If you can't decide, just request a random cry. You won't be disappointed.
+Yes
+Go on, don't be shy. The crying baby won't bite, she doesn't have any teeth yet. Why not ask her for a bored,  or I want a cuddle cry.  If baby is struggling to understand you, just say 'do a...', before the type of cry you wish to hear.
+a bored
+<Short audio>.The crying baby sure knows how to put on a show.  Why not go for one of baby's favorites next, like the I want a cuddle,  or grumpy cry. If you can't decide, just request a random cry. You won't be disappointed.
+Yes
+Quick. The Crying baby is growing impatient... Why not ask her for a bored,  or I want a cuddle cry.  If baby is struggling to understand you, just say 'do a...', before the type of cry you wish to hear.
+a bored
+<Short audio>.The crying baby sure knows how to put on a show.  Why not go for one of baby's favorites next, like the I want a cuddle,  or grumpy cry. If you can't decide, just request a random cry. You won't be disappointed.
+grumpy
+<Short audio>.As usual, this was breathtaking.  This time, why don't you ask for a I want a cuddle cry. Otherwise, just ask for a random cry.
+Stop
+The crying baby is very upset that you're leaving her...<Short audio>.Make sure to play with her again soon.
+What's the time
+<--skill exit-->The time is 851 AM.
+

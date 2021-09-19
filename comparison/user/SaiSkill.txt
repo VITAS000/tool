@@ -1,0 +1,10 @@
+alexa open sai spirituality
+Ok, Here's SaiSkill.Sairam, Welcome to this skill about Sathya Sai Baabas teachings, you can ask about Human Values, Swamis quotes or nine point code of conduct. how can i help you ?
+human values
+Sairam, the five human values are love,peace,truth, right conduct and non violence!. Do you have other questions?
+swamis quotes
+Sairam, the are Love All Serve All and Help Ever Hurt Never!. Do you have any other questions?
+nine point code of conduct
+Sairam, they are Daily meditation and prayer, Devotional singing, prayer with family members once per week, Participation in Sai Spiritual Education by children of the family, Participation in community service and other programmes of the Organisation, Regular attendance at devotional meetings conducted by the Organisation, Regular study of Sathya Sai Baba literature, Use of soft, loving speech with everyone, Avoidance of talking ill of others, especially in their absence, And Last but not the Leas, Practice of the principles of ceiling on desires, consciously and continuously striving to eliminate the tendency to waste time, money, food, and energy and utilising any savings thereby generated for the service of mankind. Do you have any other questions
+no
+Sairam!. Thank you

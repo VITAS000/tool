@@ -1,0 +1,90 @@
+round 1:
+Alexa open feng shui
+Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 2:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 3:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 4:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+start over
+Sure, Playing Feng Shui Music.<Play audio>.
+resume
+Resuming Feng Shui Music.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 5:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+start Spa Music
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.<Play audio>.
+Resume
+<--skill exit-->Sorry, there is nothing for me to resume.
+
+round 6:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 7:
+Alexa open feng shui
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+
+round 8:
+Alexa open feng shui
+Sorry, I am unable to fulfill your request on this device. Please try again from your echo device.<Play audio>.
+start over
+Sure, Playing Feng Shui Music.<Play audio>.
+resume
+Resuming Feng Shui Music.<Play audio>.
+Pause
+
+What's the time
+It looks like you're really enjoying 0. Try out our another popular relaxing sound skill. Say, Alexa, start Spa Music. Now back to playing 0.<Play audio>.
+Resume
+<--skill exit-->Resuming Feng Shui Music.<Play audio>.
+

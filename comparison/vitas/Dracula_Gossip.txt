@@ -1,0 +1,74 @@
+round 1:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+Help
+You can ask for a rumor about Dracula. Go ahead, ask me for some dirt on Dracula.
+a rumor about Dracula
+Here's what I heard Dracula is translated in Gaelic as Drac Ullah, meaning 'Bad Blood.' I wonder if he is also a Taylor Swift fan.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+
+round 2:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+a rumor about Dracula
+Here's what I heard Dracula possesses superhuman strength. Unfortunately, he was banned from participating in the olympics due to several cases of blood doping. Apparently, he had a thing for Russian athletes.
+some dirt on Dracula
+<--skill exit-->.
+
+round 3:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Vampires cannot enter a home uninvited. So Dracula had to stay at home last Halloween when he lost his invitation to Frankenstein's MonstersOnly party.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+
+round 4:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+a rumor about Dracula
+Here's what I heard Dracula does not cast a shadow. I guess this is why he never really understood the draw of shadow puppets.
+some dirt on Dracula
+<--skill exit-->.
+
+round 5:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Dracula only needs to drink human blood for sustenance. So a visit to the blood bank would be like a worldclass buffet for him.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+
+round 6:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+a rumor about Dracula
+Here's what I heard Dracula has no reflection. I wonder how he can shave without being able to use a mirror. It must be difficult.
+some dirt on Dracula
+<--skill exit-->.
+
+round 7:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Dracula has also been a character in Marvel comics since 1972. I bet he got pretty angry after seeing Thanos wipe out half of his food supply in Avengers Infinity War.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+
+round 8:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+a rumor about Dracula
+Here's what I heard Dracula possesses superhuman strength. Unfortunately, he was banned from participating in the olympics due to several cases of blood doping. Apparently, he had a thing for Russian athletes.
+some dirt on Dracula
+<--skill exit-->.
+
+round 9:
+Alexa open dracula gossip
+Welcome to Dracula Gossip. I can tell you some fun rumors I heard about Dracula.
+some dirt on Dracula
+Here's what I heard Vampires cannot enter a home uninvited. So Dracula had to stay at home last Halloween when he lost his invitation to Frankenstein's MonstersOnly party.
+a rumor about Dracula
+<--skill exit-->Here's what I found on Dracula's Wikipedia page As the acting manager of the Lyceum Theatre in London, Bram Stoker was a recognisable figure he would greet evening guests, and served as assistant to the stage actor Henry Irving. In a letter to Walt Whitman, Stoker described his own temperament as secretive to the world, but he nonetheless led a relatively public life.
+
