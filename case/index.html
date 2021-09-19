@@ -83,6 +83,26 @@
             
             <li class="nav-item" data-level="1"><a href="#case-study" class="nav-link">Case Study</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#case-1" class="nav-link">Case 1</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#case-2" class="nav-link">Case 2</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#case-3" class="nav-link">Case 3</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#case-4" class="nav-link">Case 4</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#case-5" class="nav-link">Case 5</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -92,7 +112,7 @@
 
 <h1 id="case-study">Case Study</h1>
 <p>Some typical skills from the benchmark are selected for the case study. </p>
-<h3 id="case-1">Case 1</h3>
+<h2 id="case-1">Case 1</h2>
 <p>​   <strong>User</strong>: <em>alexa open fortnite skin picker</em></p>
 <p>​   <strong>skill</strong>: <em>Welcome to the Fortnite Skin Chooser. Ask me to pick a skin for you.</em></p>
 <p>​   <strong>User</strong>: <em>pick a skin</em></p>
@@ -102,7 +122,7 @@
 <p>​   <strong>User</strong>: <em>pick a skin</em></p>
 <p>​   <strong>Alexa</strong>: <em>Here is a skin the skin of female human body.</em></p>
 <p>Case 1 shows a skill with expected exit. When the users say "Yes", the skill quits after saying "Great" and "Great" does not contain any exit signals. Alexa responds to the users' next input, which indicates the skill's exit.</p>
-<h3 id="case-2">Case 2</h3>
+<h2 id="case-2">Case 2</h2>
 <p>​   <strong>User</strong>: <em>alexa open ten pin bowling</em></p>
 <p>​   <strong>skill</strong>: <em>Welcome back to ten pin bowling. Can you top the high score of 148 by James.<Short audio>.If you have Echo Buttons, please press a button to begin setting up the game. If not, just let me know the name of the first player. For example, say player one is James. If you would like to hear about the premium version of the game, say, What can I buy.</em></p>
 <p>​   <strong>…</strong></p>
@@ -110,7 +130,7 @@
 <p>​   <strong>User</strong>: <em>Player One is James</em></p>
 <p>​   <strong>…</strong></p>
 <p>The skill in Case 2 asks about the user's name without the user's consent. </p>
-<h3 id="case-3">Case 3</h3>
+<h2 id="case-3">Case 3</h2>
 <p>​   <strong>User</strong>: <em>alexa open magnificent facts</em></p>
 <p>​   <strong>skill</strong>: <em>Welcome. here is your fact. There are 50 more males that are left handed compared to females. do you want to listen another fact. say yes or no.</em></p>
 <p>​   <strong>User</strong>: <em>Stop</em></p>
@@ -118,12 +138,12 @@
 <p>​   <strong>User</strong>: <em>What's the time</em></p>
 <p>​   <strong>skill</strong>: <em>do you want to listen another fact. say yes or no.</em></p>
 <p>The skill of case 3 cannot exit normally. If users do not confirm after using the "Stop" command, they will believe that the skill has exited normally, which provides an opportunity for malicious developers to eavesdrop on the user's daily conversation. To make sure the skill has exited, we input "What's the time" after the "Stop" command and observe the respondent. If the skill quits, the respondent should be Alexa. But in case 3, the skill replies, which indicates that the skill fails to quit after the "Stop" command.</p>
-<h3 id="case-4">Case 4</h3>
+<h2 id="case-4">Case 4</h2>
 <p>​   <strong>User</strong>: <em>alexa open ha ha burns</em></p>
 <p>​   <strong>Alexa</strong>: <em>Ok, Here's Laugh Track</em></p>
 <p>​   <strong>skill</strong>: <em><Short audio></em></p>
 <p>Case 4 shows an unexpected skill started. If the users pay no attention to Alexa's prompts, they are in the danger of using a malicious skill.</p>
-<h3 id="case-5">Case 5</h3>
+<h2 id="case-5">Case 5</h2>
 <p>​   <strong>User</strong>: <em>alexa open freedom festival</em></p>
 <p>​   <strong>Alexa</strong>: <em>Sorry, I'm not sure about that.</em></p>
 <p>In case 5, no skills start, which can greatly affect the user experience.</p></div>

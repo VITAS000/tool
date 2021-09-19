@@ -83,6 +83,26 @@
             
             <li class="nav-item" data-level="1"><a href="#experiments" class="nav-link">Experiments</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#figure-5" class="nav-link">Figure 5</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#figure-6" class="nav-link">Figure 6</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#figure-7" class="nav-link">Figure 7</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#figure-8" class="nav-link">Figure 8</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#figure-9" class="nav-link">Figure 9</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -92,32 +112,32 @@
 
 <h1 id="experiments">Experiments</h1>
 <ul>
-<li>Download <a href="../tool/experiment.zip">experiment</a> to do experiment.</li>
+<li>Download <a href="../tool/experiment.zip">experiment</a> to do experiments.</li>
 <li>The four directories <code>random</code>, <code>skillExplorer</code>, <code>user</code>, <code>vitas</code> show the communication logs obtained by random testing, SkillExplorer, manually testing and Vitas respectively. </li>
 <li><code>experiment.py</code> contains the scripts to get figure 5 to figure 9 in paper.</li>
 <li>Excel files save the raw data of figure 5 to figure 9 in paper.</li>
 </ul>
-<h3 id="figure-5">Figure 5</h3>
+<h2 id="figure-5">Figure 5</h2>
 <p>Figure 5 shows the comparison of state coverage with random testing. Skills that can be opened normally and have consistent behavior are selected in <code>fig5_coverage_vitas_vs_random.xlsx</code>. To get the state coverage achieved by Vitas and random testing, run: </p>
 <pre><code>python experiment.py 5
 </code></pre>
 <p>The result will be shown in <code>fig5_coverage_vitas_vs_random.xlsx</code>.</p>
-<h3 id="figure-6">Figure 6</h3>
+<h2 id="figure-6">Figure 6</h2>
 <p>Figure 6 shows the comparison of state coverage with SkillExplorer. Skills that can be opened normally and have consistent behavior are selected in <code>fig6_coverage_vitas_vs_skillExplorer.xlsx</code>. To get the state coverage achieved by Vitas and SkillExplorer, run: </p>
 <pre><code>python experiment.py 6
 </code></pre>
 <p>The result will be shown in <code>fig6_coverage_vitas_vs_skillExplorer.xlsx</code>.</p>
-<h3 id="figure-7">Figure 7</h3>
+<h2 id="figure-7">Figure 7</h2>
 <p>Figure 7 shows the average state coverage achieved by manually testing, Vitas, random testing, and SkillExplorer.  Skills that can be opened normally and have consistent behavior are selected in <code>fig7_coverage_rate_four.xlsx</code>. To get the state coverage achieved by these four techniques and the union of them, run:</p>
 <pre><code>python experiment.py 7
 </code></pre>
 <p>The result will be shown in <code>fig7_coverage_rate_four.xlsx</code>.</p>
-<h3 id="figure-8">Figure 8</h3>
+<h2 id="figure-8">Figure 8</h2>
 <p>Figure 8 shows the number of interaction rounds required to achieve a certain percentage of the state-space between Vitas and context-enhanced random testing. We only select those skills whose final sizes of state-space obtained by two techniques are within -10%-10% in the comparison,  can be opened normally and have consistent behavior. They are shown in <code>fig8_coverage_round_vitas_vs_random.xlsx</code>. To get the interaction rounds, run:</p>
 <pre><code>python experiment.py 8
 </code></pre>
 <p>The result will be shown in <code>fig8_coverage_round_vitas_vs_random.xlsx</code>. Sheet 'Vitas' and sheet 'random' shows the interaction rounds required by Vitas and random testing respectively.</p>
-<h3 id="figure-9">Figure 9</h3>
+<h2 id="figure-9">Figure 9</h2>
 <p>Figure 9 shows the number of interaction rounds required to achieve a certain percentage of the state-space between Vitas and SkillExplorer. We only select those skills whose final sizes of state-space obtained by two techniques are within -10%-10% in the comparison,  can be opened normally and have consistent behavior. They are shown in <code>fig9_coverage_round_vitas_vs_skillExplorer.xlsx</code>. To get the interaction rounds, run:</p>
 <pre><code>python experiment.py 9
 </code></pre>
