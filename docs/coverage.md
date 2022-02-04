@@ -1,11 +1,11 @@
 # Coverage comparison
 
-We compare Vitas with random testing and SkillExplorer about the state space coverage, and the time limit is set as 10 minites for three techniques. The table below shows the state space coverage of each technique. Here, the users' test results are for reference because they have no time limit. The last column is the union of state space coverage of three techniques and users. We carry out this experiment on the benchmark. The skills selected here satisfy three conditions: 1. They can be opened by four methods. 2. Their behavior is consistent for four methods. 3. No network exception happens during the test.
+We compare Vitas with random testing and Skillexplorer about the state space coverage, and the time limit is set as 10 minites for three techniques. The table below shows the state space coverage of each technique. Here, the manual test results are for reference because they have no time limit. The last column is the union of state space coverage of three techniques and users. We carry out this experiment on the benchmark. The skills selected here satisfy three conditions: 1. They can be opened by four methods. 2. Their behavior is consistent for four methods. 3. No network exception happens during the test.
 
 To get the table below, run ```python experiment.py 7``` in the [experiment](tool/experiment.zip) directory. The table is saved in fig7_coverge_rate_four.xlsx.
 
 
-|skill's name|user|vitas|random|skillExplorer|union|
+|skill's name|manual|Vitas|random|Skillexplorer|union|
 |------|------|------|------|------|------|
 |Build a PC Sales|[15](comparison/user/Build_a_PC_Sales.txt)|[10](comparison/vitas/Build_a_PC_Sales.txt)|[14](comparison/random/Build_a_PC_Sales.txt)|[7](comparison/skillExplorer/Build a PC Sales.zip)|25|
 |Asthma Device Helper|[8](comparison/user/Asthma_Device_Helper.txt)|[32](comparison/vitas/Asthma_Device_Helper.txt)|[32](comparison/random/Asthma_Device_Helper.txt)|[59](comparison/skillExplorer/Asthma Device Helper.zip)|61|
