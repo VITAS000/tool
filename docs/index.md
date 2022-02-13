@@ -56,6 +56,16 @@ Vitas is a model-based framework to handle VUI testing of VPA apps. Vitas intera
 	```python main.py -e kids_skill_data_set_1.xlsx -l kids/ -o kids_problem/```
 	
 	to test ```kids_skill_data_set_1.xlsx``` in the ```skill_data_set_2021``` directory, save the logs in the ```kids``` directory and problems list in the ```kids_problem``` directory.
+	
+## How to do experiments
+
+See the detailed introduction [here](experiment.md). 
+
+The comparison of coverage between Vitas and its competitors is shown [here](coverage.md).
+
+## Case Study
+
+See the detailed information [here](case.md).
 
 ## Download
 * [Vitas](tool/VITAS.zip) See the Vitas directory for running Vitas. You can get the problems list of skills in the benchmark and large-scaled dataset.

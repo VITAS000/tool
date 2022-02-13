@@ -27,7 +27,7 @@ Figure 7 shows the average state coverage achieved by manually testing, Vitas, r
 
 	python experiment.py 7
 
-The result will be shown in ```fig7_coverage_rate_four.xlsx```.
+The result will be shown in ```fig7_coverage_rate_four.xlsx``` . It is also shown [here](coverage.md).
 
 ## Figure 8
 
