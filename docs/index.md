@@ -4,7 +4,7 @@ Vitas is a model-based framework to handle VUI testing of VPA apps. Vitas intera
 
 ## Files Tree
 
-```
+```text
 ├── README.md
 ├── code
 │   ├── main.py
